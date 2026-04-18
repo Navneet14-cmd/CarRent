@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { loadAllData } from '../csvLoader';
 import BookingSystem from '../components/BookingSystem';
 import { getAiResponse } from '../aiService';
-
+import StaggeredMenu from './components/StaggeredMenu';
 const Dashboard = ({ user, onLogout }) => {
   const [vehicles, setVehicles] = useState([]);
   const [selectedVehicle, setSelectedVehicle] = useState(null);

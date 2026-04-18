@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { getAiResponse } from "./aiService";
 import { loadAllData } from "./csvLoader";
 import ProfileCard from './components/ProfileCard';
+import StaggeredMenu from './components/StaggeredMenu';
 
 // ── Safe initial placeholders; real data loaded from CSV on mount ──────────
 const MOCK_BOOKINGS = [];
