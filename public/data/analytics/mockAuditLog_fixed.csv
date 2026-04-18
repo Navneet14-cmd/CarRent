@@ -1,0 +1,1001 @@
+id,admin,role,action,target,type,time,ip,severity
+AL0886,Karan Finance,Finance Admin,Resolved report,V8076,report,2024-04-09 05:33,192.168.1.7,success
+AL0584,Meera Ops,Booking Manager,Deleted vehicle,BK4147,vehicle,2024-04-09 05:29,192.168.1.6,danger
+AL0254,Arjun Sharma,Super Admin,Marked payout pending,KYC8404,payout,2024-04-09 03:18,192.168.1.8,info
+AL0079,Priya Admin,Verifier,Rejected KYC,TXN9263,kyc,2024-04-09 02:10,192.168.1.7,danger
+AL0085,Arjun Sharma,Super Admin,Rejected KYC,KYC5642,kyc,2024-04-09 01:41,192.168.1.5,danger
+AL0253,Meera Ops,Booking Manager,Unblocked user,U7049,user,2024-04-09 01:31,192.168.1.9,success
+AL0539,Priya Admin,Verifier,Marked payout paid,RPT8611,payout,2024-04-09 00:49,192.168.1.5,success
+AL0188,Priya Admin,Verifier,Created promotion,BK5771,promotion,2024-04-09 00:45,192.168.1.5,info
+AL0223,Priya Admin,Verifier,Blocked user,TXN6312,user,2024-04-08 23:52,192.168.1.4,warning
+AL0626,Arjun Sharma,Super Admin,Logged in,KYC8533,auth,2024-04-08 23:34,192.168.1.3,info
+AL0989,Meera Ops,Booking Manager,Updated role,U4509,settings,2024-04-08 18:59,192.168.1.7,warning
+AL0717,Meera Ops,Booking Manager,Marked payout pending,BK4206,payout,2024-04-08 18:57,192.168.1.10,info
+AL0378,Priya Admin,Verifier,Marked payout paid,BK9492,payout,2024-04-08 18:20,192.168.1.2,success
+AL0357,Karan Finance,Finance Admin,Unblocked user,V5805,user,2024-04-08 16:12,192.168.1.4,success
+AL0306,Priya Admin,Verifier,Rejected KYC,V8244,kyc,2024-04-08 14:59,192.168.1.2,danger
+AL0964,Arjun Sharma,Super Admin,Approved KYC,TXN9473,kyc,2024-04-08 14:44,192.168.1.2,success
+AL0359,Meera Ops,Booking Manager,Logged out,V8954,auth,2024-04-08 03:36,192.168.1.7,info
+AL0036,Karan Finance,Finance Admin,Issued refund,U7503,transaction,2024-04-08 03:28,192.168.1.2,warning
+AL0862,Priya Admin,Verifier,Logged out,KYC4275,auth,2024-04-08 00:09,192.168.1.10,info
+AL0761,Priya Admin,Verifier,Blocked user,U2656,user,2024-04-07 23:35,192.168.1.9,warning
+AL0502,Meera Ops,Booking Manager,Rejected vehicle,V8679,vehicle,2024-04-07 20:29,192.168.1.6,danger
+AL0718,Arjun Sharma,Super Admin,Updated role,U7865,settings,2024-04-07 20:05,192.168.1.5,warning
+AL0179,Karan Finance,Finance Admin,Marked payout paid,RPT8588,payout,2024-04-07 19:11,192.168.1.1,success
+AL0678,Arjun Sharma,Super Admin,Exported CSV,U4090,export,2024-04-07 14:13,192.168.1.5,info
+AL0912,Karan Finance,Finance Admin,Unblocked user,V5403,user,2024-04-07 13:28,192.168.1.4,success
+AL0681,Priya Admin,Verifier,Marked payout pending,KYC7743,payout,2024-04-07 10:25,192.168.1.2,info
+AL0731,Arjun Sharma,Super Admin,Logged out,TXN3156,auth,2024-04-07 09:44,192.168.1.5,info
+AL0302,Meera Ops,Booking Manager,Rejected KYC,RPT9661,kyc,2024-04-07 04:19,192.168.1.7,danger
+AL0893,Arjun Sharma,Super Admin,Logged in,BK5441,auth,2024-04-06 18:21,192.168.1.6,info
+AL0892,Meera Ops,Booking Manager,Cancelled booking,TXN1974,booking,2024-04-06 13:28,192.168.1.1,warning
+AL0829,Arjun Sharma,Super Admin,Approved vehicle,KYC9705,vehicle,2024-04-06 11:55,192.168.1.5,success
+AL0932,Priya Admin,Verifier,Disabled promotion,V5490,promotion,2024-04-06 08:56,192.168.1.9,warning
+AL0664,Arjun Sharma,Super Admin,Marked payout pending,BK9290,payout,2024-04-06 08:28,192.168.1.9,info
+AL0978,Arjun Sharma,Super Admin,Unblocked user,U5478,user,2024-04-06 06:43,192.168.1.9,success
+AL0827,Arjun Sharma,Super Admin,Rejected vehicle,V1058,vehicle,2024-04-06 06:41,192.168.1.5,danger
+AL0998,Meera Ops,Booking Manager,Disabled promotion,BK3813,promotion,2024-04-06 03:39,192.168.1.8,warning
+AL0394,Arjun Sharma,Super Admin,Unblocked user,U2185,user,2024-04-06 03:27,192.168.1.2,success
+AL0637,Meera Ops,Booking Manager,Marked payout paid,V8236,payout,2024-04-06 02:57,192.168.1.8,success
+AL0643,Meera Ops,Booking Manager,Issued refund,KYC2002,transaction,2024-04-05 21:25,192.168.1.2,warning
+AL0496,Karan Finance,Finance Admin,Approved vehicle,KYC3737,vehicle,2024-04-05 20:56,192.168.1.6,success
+AL0177,Arjun Sharma,Super Admin,Rejected KYC,KYC3366,kyc,2024-04-05 20:49,192.168.1.2,danger
+AL0388,Karan Finance,Finance Admin,Marked payout paid,V4098,payout,2024-04-05 15:37,192.168.1.5,success
+AL0994,Arjun Sharma,Super Admin,Resolved report,KYC2028,report,2024-04-05 14:42,192.168.1.3,success
+AL0279,Meera Ops,Booking Manager,Created promotion,U8082,promotion,2024-04-05 14:09,192.168.1.4,info
+AL0186,Meera Ops,Booking Manager,Created promotion,RPT3970,promotion,2024-04-05 10:39,192.168.1.8,info
+AL0937,Arjun Sharma,Super Admin,Marked payout pending,KYC9246,payout,2024-04-05 08:50,192.168.1.5,info
+AL0363,Arjun Sharma,Super Admin,Escalated report,U1448,report,2024-04-05 07:51,192.168.1.7,warning
+AL0652,Karan Finance,Finance Admin,Rejected vehicle,U7476,vehicle,2024-04-05 05:34,192.168.1.8,danger
+AL0274,Meera Ops,Booking Manager,Marked payout pending,BK6765,payout,2024-04-05 04:22,192.168.1.3,info
+AL0673,Arjun Sharma,Super Admin,Rejected vehicle,BK5020,vehicle,2024-04-05 03:03,192.168.1.5,danger
+AL0291,Arjun Sharma,Super Admin,Cancelled booking,RPT6512,booking,2024-04-05 00:42,192.168.1.8,warning
+AL0746,Meera Ops,Booking Manager,Disabled promotion,KYC5708,promotion,2024-04-04 21:05,192.168.1.10,warning
+AL0002,Arjun Sharma,Super Admin,Issued refund,U5783,transaction,2024-04-04 13:29,192.168.1.3,warning
+AL0864,Meera Ops,Booking Manager,Disabled promotion,V3457,promotion,2024-04-04 11:10,192.168.1.7,warning
+AL0544,Meera Ops,Booking Manager,Flagged transaction,V6109,transaction,2024-04-04 10:43,192.168.1.6,danger
+AL0464,Arjun Sharma,Super Admin,Blocked user,V7737,user,2024-04-04 10:14,192.168.1.4,warning
+AL0895,Priya Admin,Verifier,Issued refund,RPT2919,transaction,2024-04-04 01:53,192.168.1.3,warning
+AL0454,Arjun Sharma,Super Admin,Escalated report,V9437,report,2024-04-04 01:46,192.168.1.9,warning
+AL0702,Meera Ops,Booking Manager,Resolved report,U9366,report,2024-04-04 01:43,192.168.1.3,success
+AL0505,Meera Ops,Booking Manager,Rejected vehicle,U7737,vehicle,2024-04-04 01:04,192.168.1.6,danger
+AL0258,Meera Ops,Booking Manager,Resolved report,BK1462,report,2024-04-03 22:53,192.168.1.10,success
+AL0396,Priya Admin,Verifier,Unblocked user,U3304,user,2024-04-03 20:12,192.168.1.10,success
+AL0711,Arjun Sharma,Super Admin,Updated role,U2283,settings,2024-04-03 15:25,192.168.1.4,warning
+AL0165,Arjun Sharma,Super Admin,Flagged transaction,KYC9537,transaction,2024-04-03 14:38,192.168.1.8,danger
+AL0067,Meera Ops,Booking Manager,Unblocked user,RPT3442,user,2024-04-03 11:49,192.168.1.9,success
+AL0115,Priya Admin,Verifier,Created promotion,TXN2909,promotion,2024-04-03 10:09,192.168.1.8,info
+AL0426,Meera Ops,Booking Manager,Rejected KYC,BK7259,kyc,2024-04-03 09:41,192.168.1.5,danger
+AL0501,Karan Finance,Finance Admin,Deleted vehicle,U1108,vehicle,2024-04-03 08:48,192.168.1.2,danger
+AL0634,Meera Ops,Booking Manager,Issued refund,RPT1074,transaction,2024-04-03 08:16,192.168.1.3,warning
+AL0294,Meera Ops,Booking Manager,Created promotion,U8698,promotion,2024-04-03 07:22,192.168.1.3,info
+AL0156,Arjun Sharma,Super Admin,Rejected vehicle,V9959,vehicle,2024-04-03 07:12,192.168.1.10,danger
+AL0056,Karan Finance,Finance Admin,Resolved report,RPT4911,report,2024-04-03 07:06,192.168.1.9,success
+AL0553,Karan Finance,Finance Admin,Blocked user,TXN1448,user,2024-04-03 06:31,192.168.1.1,warning
+AL0949,Meera Ops,Booking Manager,Deleted vehicle,BK4307,vehicle,2024-04-03 06:07,192.168.1.2,danger
+AL0815,Meera Ops,Booking Manager,Exported CSV,TXN6124,export,2024-04-03 02:33,192.168.1.7,info
+AL0263,Meera Ops,Booking Manager,Marked payout pending,TXN7825,payout,2024-04-03 02:01,192.168.1.9,info
+AL0607,Meera Ops,Booking Manager,Approved vehicle,KYC6810,vehicle,2024-04-02 19:30,192.168.1.4,success
+AL0155,Arjun Sharma,Super Admin,Approved KYC,U8283,kyc,2024-04-02 17:59,192.168.1.7,success
+AL0248,Priya Admin,Verifier,Rejected vehicle,TXN4494,vehicle,2024-04-02 16:44,192.168.1.4,danger
+AL0789,Priya Admin,Verifier,Approved vehicle,RPT2371,vehicle,2024-04-02 16:03,192.168.1.9,success
+AL0524,Meera Ops,Booking Manager,Logged out,BK5349,auth,2024-04-02 15:54,192.168.1.2,info
+AL0714,Meera Ops,Booking Manager,Marked payout pending,KYC2405,payout,2024-04-02 15:32,192.168.1.9,info
+AL0202,Arjun Sharma,Super Admin,Deleted vehicle,KYC1191,vehicle,2024-04-02 14:41,192.168.1.8,danger
+AL0551,Karan Finance,Finance Admin,Updated role,TXN5213,settings,2024-04-02 14:25,192.168.1.5,warning
+AL0118,Priya Admin,Verifier,Unblocked user,KYC8685,user,2024-04-02 14:24,192.168.1.7,success
+AL0313,Priya Admin,Verifier,Blocked user,TXN8401,user,2024-04-02 09:36,192.168.1.6,warning
+AL0232,Priya Admin,Verifier,Unblocked user,KYC8272,user,2024-04-02 09:06,192.168.1.10,success
+AL0093,Karan Finance,Finance Admin,Rejected KYC,U8688,kyc,2024-04-02 00:43,192.168.1.1,danger
+AL0633,Arjun Sharma,Super Admin,Unblocked user,RPT3909,user,2024-04-01 22:14,192.168.1.10,success
+AL0833,Karan Finance,Finance Admin,Unblocked user,U4902,user,2024-04-01 21:06,192.168.1.7,success
+AL0743,Arjun Sharma,Super Admin,Unblocked user,U8392,user,2024-04-01 15:57,192.168.1.7,success
+AL0314,Karan Finance,Finance Admin,Resolved report,BK1614,report,2024-04-01 12:53,192.168.1.1,success
+AL0582,Priya Admin,Verifier,Logged in,TXN3146,auth,2024-04-01 10:49,192.168.1.9,info
+AL0321,Priya Admin,Verifier,Approved vehicle,RPT9381,vehicle,2024-04-01 07:58,192.168.1.4,success
+AL0581,Karan Finance,Finance Admin,Deleted vehicle,TXN4755,vehicle,2024-04-01 05:29,192.168.1.1,danger
+AL0768,Meera Ops,Booking Manager,Exported CSV,V8196,export,2024-04-01 00:57,192.168.1.3,info
+AL0338,Priya Admin,Verifier,Resolved report,RPT1581,report,2024-03-31 15:06,192.168.1.4,success
+AL0996,Karan Finance,Finance Admin,Issued refund,KYC5098,transaction,2024-03-31 13:14,192.168.1.5,warning
+AL0490,Priya Admin,Verifier,Created promotion,KYC6671,promotion,2024-03-31 13:08,192.168.1.9,info
+AL0082,Priya Admin,Verifier,Cancelled booking,V6695,booking,2024-03-31 12:44,192.168.1.10,warning
+AL0542,Priya Admin,Verifier,Deleted vehicle,TXN8661,vehicle,2024-03-31 12:16,192.168.1.6,danger
+AL0365,Priya Admin,Verifier,Unblocked user,U8100,user,2024-03-31 09:44,192.168.1.6,success
+AL0609,Arjun Sharma,Super Admin,Issued refund,BK7422,transaction,2024-03-31 06:38,192.168.1.8,warning
+AL0319,Meera Ops,Booking Manager,Rejected vehicle,KYC9504,vehicle,2024-03-31 05:55,192.168.1.10,danger
+AL0961,Priya Admin,Verifier,Disabled promotion,V7750,promotion,2024-03-31 02:23,192.168.1.2,warning
+AL0801,Meera Ops,Booking Manager,Exported CSV,KYC6575,export,2024-03-31 00:07,192.168.1.2,info
+AL0683,Arjun Sharma,Super Admin,Exported CSV,KYC8288,export,2024-03-31 00:03,192.168.1.2,info
+AL0625,Priya Admin,Verifier,Flagged transaction,RPT6776,transaction,2024-03-30 18:03,192.168.1.8,danger
+AL0779,Arjun Sharma,Super Admin,Approved KYC,BK1741,kyc,2024-03-30 14:14,192.168.1.1,success
+AL0723,Priya Admin,Verifier,Marked payout paid,KYC1016,payout,2024-03-30 12:10,192.168.1.4,success
+AL0798,Meera Ops,Booking Manager,Exported CSV,U8018,export,2024-03-30 09:35,192.168.1.9,info
+AL0722,Meera Ops,Booking Manager,Rejected KYC,BK8155,kyc,2024-03-30 06:20,192.168.1.7,danger
+AL0546,Priya Admin,Verifier,Issued refund,U4081,transaction,2024-03-30 05:57,192.168.1.3,warning
+AL0922,Arjun Sharma,Super Admin,Disabled promotion,BK7431,promotion,2024-03-30 04:57,192.168.1.6,warning
+AL0565,Arjun Sharma,Super Admin,Deleted vehicle,BK9272,vehicle,2024-03-30 02:47,192.168.1.2,danger
+AL0472,Arjun Sharma,Super Admin,Marked payout paid,BK3109,payout,2024-03-30 01:30,192.168.1.2,success
+AL0320,Arjun Sharma,Super Admin,Logged in,RPT9741,auth,2024-03-29 23:17,192.168.1.10,info
+AL0931,Karan Finance,Finance Admin,Created promotion,KYC6633,promotion,2024-03-29 22:20,192.168.1.2,info
+AL0058,Karan Finance,Finance Admin,Deleted vehicle,KYC1034,vehicle,2024-03-29 21:28,192.168.1.6,danger
+AL0753,Meera Ops,Booking Manager,Rejected KYC,V7311,kyc,2024-03-29 19:33,192.168.1.10,danger
+AL0884,Meera Ops,Booking Manager,Unblocked user,V3022,user,2024-03-29 17:19,192.168.1.1,success
+AL0800,Priya Admin,Verifier,Issued refund,RPT6783,transaction,2024-03-29 15:48,192.168.1.6,warning
+AL0527,Priya Admin,Verifier,Exported CSV,V1452,export,2024-03-29 14:52,192.168.1.6,info
+AL0336,Priya Admin,Verifier,Approved vehicle,U2406,vehicle,2024-03-29 14:01,192.168.1.6,success
+AL0705,Priya Admin,Verifier,Rejected vehicle,RPT7972,vehicle,2024-03-29 09:35,192.168.1.8,danger
+AL0211,Meera Ops,Booking Manager,Approved KYC,V9408,kyc,2024-03-29 06:46,192.168.1.7,success
+AL0838,Karan Finance,Finance Admin,Logged in,RPT1428,auth,2024-03-29 02:33,192.168.1.5,info
+AL0325,Karan Finance,Finance Admin,Created promotion,BK5132,promotion,2024-03-29 01:00,192.168.1.6,info
+AL0009,Priya Admin,Verifier,Logged out,V9201,auth,2024-03-28 21:54,192.168.1.1,info
+AL0814,Priya Admin,Verifier,Approved vehicle,V7769,vehicle,2024-03-28 19:49,192.168.1.5,success
+AL0051,Arjun Sharma,Super Admin,Approved vehicle,BK9449,vehicle,2024-03-28 15:06,192.168.1.2,success
+AL0235,Priya Admin,Verifier,Rejected vehicle,U6529,vehicle,2024-03-28 11:44,192.168.1.10,danger
+AL0455,Arjun Sharma,Super Admin,Marked payout paid,BK9565,payout,2024-03-28 10:29,192.168.1.8,success
+AL0805,Arjun Sharma,Super Admin,Marked payout pending,V8845,payout,2024-03-28 07:02,192.168.1.2,info
+AL0124,Arjun Sharma,Super Admin,Logged out,V7999,auth,2024-03-28 02:54,192.168.1.5,info
+AL0772,Arjun Sharma,Super Admin,Rejected KYC,BK3793,kyc,2024-03-27 23:51,192.168.1.5,danger
+AL0563,Arjun Sharma,Super Admin,Rejected KYC,RPT2175,kyc,2024-03-27 21:48,192.168.1.9,danger
+AL0848,Meera Ops,Booking Manager,Deleted vehicle,RPT7282,vehicle,2024-03-27 16:46,192.168.1.4,danger
+AL0153,Arjun Sharma,Super Admin,Updated role,V6072,settings,2024-03-27 16:13,192.168.1.7,warning
+AL0268,Arjun Sharma,Super Admin,Approved KYC,BK7189,kyc,2024-03-27 14:43,192.168.1.7,success
+AL0157,Arjun Sharma,Super Admin,Exported CSV,KYC1901,export,2024-03-27 09:35,192.168.1.2,info
+AL0125,Karan Finance,Finance Admin,Rejected vehicle,RPT2176,vehicle,2024-03-27 09:26,192.168.1.3,danger
+AL0826,Meera Ops,Booking Manager,Marked payout pending,KYC3479,payout,2024-03-27 07:57,192.168.1.7,info
+AL0596,Arjun Sharma,Super Admin,Approved vehicle,V8732,vehicle,2024-03-26 20:16,192.168.1.9,success
+AL0183,Arjun Sharma,Super Admin,Unblocked user,U9117,user,2024-03-26 19:29,192.168.1.3,success
+AL0282,Arjun Sharma,Super Admin,Cancelled booking,BK7943,booking,2024-03-26 14:26,192.168.1.8,warning
+AL0725,Arjun Sharma,Super Admin,Approved vehicle,RPT4340,vehicle,2024-03-26 11:21,192.168.1.9,success
+AL0012,Karan Finance,Finance Admin,Logged out,BK7631,auth,2024-03-26 10:52,192.168.1.8,info
+AL0671,Arjun Sharma,Super Admin,Marked payout paid,KYC1346,payout,2024-03-26 07:56,192.168.1.1,success
+AL0708,Arjun Sharma,Super Admin,Disabled promotion,U7943,promotion,2024-03-26 05:02,192.168.1.6,warning
+AL0335,Karan Finance,Finance Admin,Exported CSV,BK2787,export,2024-03-26 01:24,192.168.1.3,info
+AL0070,Karan Finance,Finance Admin,Cancelled booking,V7301,booking,2024-03-25 22:41,192.168.1.5,warning
+AL0368,Karan Finance,Finance Admin,Disabled promotion,KYC2549,promotion,2024-03-25 20:38,192.168.1.7,warning
+AL0957,Arjun Sharma,Super Admin,Logged in,BK1524,auth,2024-03-25 18:07,192.168.1.8,info
+AL0568,Arjun Sharma,Super Admin,Deleted vehicle,V6964,vehicle,2024-03-25 14:33,192.168.1.8,danger
+AL0214,Karan Finance,Finance Admin,Resolved report,V5037,report,2024-03-25 13:08,192.168.1.4,success
+AL0623,Priya Admin,Verifier,Created promotion,V1664,promotion,2024-03-25 09:49,192.168.1.10,info
+AL0684,Meera Ops,Booking Manager,Logged out,RPT9593,auth,2024-03-25 07:04,192.168.1.10,info
+AL0680,Priya Admin,Verifier,Cancelled booking,TXN8436,booking,2024-03-25 06:48,192.168.1.2,warning
+AL0304,Karan Finance,Finance Admin,Marked payout paid,V6099,payout,2024-03-25 05:29,192.168.1.8,success
+AL0691,Meera Ops,Booking Manager,Issued refund,RPT5314,transaction,2024-03-25 02:03,192.168.1.1,warning
+AL0397,Karan Finance,Finance Admin,Deleted vehicle,BK3544,vehicle,2024-03-24 21:36,192.168.1.8,danger
+AL0407,Karan Finance,Finance Admin,Approved vehicle,RPT6982,vehicle,2024-03-24 19:00,192.168.1.6,success
+AL0962,Meera Ops,Booking Manager,Blocked user,TXN6202,user,2024-03-24 14:12,192.168.1.4,warning
+AL0431,Priya Admin,Verifier,Approved KYC,U7719,kyc,2024-03-24 11:41,192.168.1.7,success
+AL0372,Karan Finance,Finance Admin,Logged in,V8506,auth,2024-03-24 02:13,192.168.1.4,info
+AL0138,Karan Finance,Finance Admin,Rejected vehicle,KYC1332,vehicle,2024-03-24 01:01,192.168.1.5,danger
+AL0385,Priya Admin,Verifier,Disabled promotion,KYC9353,promotion,2024-03-23 22:16,192.168.1.4,warning
+AL0474,Priya Admin,Verifier,Deleted vehicle,U9374,vehicle,2024-03-23 09:43,192.168.1.8,danger
+AL0707,Meera Ops,Booking Manager,Logged out,U7019,auth,2024-03-22 23:32,192.168.1.1,info
+AL0697,Meera Ops,Booking Manager,Escalated report,V5233,report,2024-03-22 21:47,192.168.1.9,warning
+AL0171,Arjun Sharma,Super Admin,Exported CSV,TXN8394,export,2024-03-22 19:20,192.168.1.4,info
+AL0924,Meera Ops,Booking Manager,Logged out,RPT7904,auth,2024-03-22 11:32,192.168.1.5,info
+AL0529,Arjun Sharma,Super Admin,Resolved report,RPT5022,report,2024-03-22 11:18,192.168.1.3,success
+AL0084,Karan Finance,Finance Admin,Escalated report,TXN3634,report,2024-03-22 10:04,192.168.1.10,warning
+AL0123,Karan Finance,Finance Admin,Logged in,BK6549,auth,2024-03-22 07:48,192.168.1.1,info
+AL0204,Priya Admin,Verifier,Approved vehicle,TXN3390,vehicle,2024-03-22 06:49,192.168.1.3,success
+AL0097,Arjun Sharma,Super Admin,Exported CSV,KYC6423,export,2024-03-22 06:09,192.168.1.2,info
+AL0819,Priya Admin,Verifier,Blocked user,BK4119,user,2024-03-22 00:40,192.168.1.3,warning
+AL0795,Priya Admin,Verifier,Disabled promotion,TXN9742,promotion,2024-03-21 22:12,192.168.1.6,warning
+AL0620,Meera Ops,Booking Manager,Logged in,BK4476,auth,2024-03-21 16:34,192.168.1.2,info
+AL0014,Meera Ops,Booking Manager,Created promotion,BK2520,promotion,2024-03-21 15:29,192.168.1.4,info
+AL0449,Arjun Sharma,Super Admin,Flagged transaction,BK9649,transaction,2024-03-21 14:16,192.168.1.7,danger
+AL0618,Karan Finance,Finance Admin,Exported CSV,U2574,export,2024-03-21 14:02,192.168.1.8,info
+AL0198,Arjun Sharma,Super Admin,Resolved report,BK3048,report,2024-03-21 13:21,192.168.1.2,success
+AL0627,Priya Admin,Verifier,Rejected vehicle,BK6685,vehicle,2024-03-21 06:39,192.168.1.8,danger
+AL0309,Priya Admin,Verifier,Exported CSV,U8401,export,2024-03-21 05:44,192.168.1.8,info
+AL0296,Arjun Sharma,Super Admin,Escalated report,RPT8206,report,2024-03-21 03:26,192.168.1.5,warning
+AL0921,Priya Admin,Verifier,Resolved report,V6113,report,2024-03-21 01:07,192.168.1.8,success
+AL0460,Arjun Sharma,Super Admin,Marked payout paid,U2018,payout,2024-03-21 00:08,192.168.1.2,success
+AL0839,Priya Admin,Verifier,Rejected vehicle,RPT8501,vehicle,2024-03-20 23:54,192.168.1.7,danger
+AL0791,Arjun Sharma,Super Admin,Unblocked user,U6836,user,2024-03-20 22:41,192.168.1.10,success
+AL0209,Karan Finance,Finance Admin,Approved KYC,TXN3761,kyc,2024-03-20 19:51,192.168.1.2,success
+AL0971,Meera Ops,Booking Manager,Flagged transaction,TXN6269,transaction,2024-03-20 19:49,192.168.1.6,danger
+AL0478,Meera Ops,Booking Manager,Rejected vehicle,TXN6013,vehicle,2024-03-20 17:36,192.168.1.5,danger
+AL0465,Meera Ops,Booking Manager,Logged out,U2462,auth,2024-03-20 14:28,192.168.1.8,info
+AL0608,Meera Ops,Booking Manager,Approved vehicle,RPT5259,vehicle,2024-03-20 13:46,192.168.1.1,success
+AL0463,Meera Ops,Booking Manager,Exported CSV,U1770,export,2024-03-20 10:36,192.168.1.6,info
+AL0400,Karan Finance,Finance Admin,Approved KYC,U9951,kyc,2024-03-20 09:21,192.168.1.9,success
+AL0571,Karan Finance,Finance Admin,Rejected vehicle,RPT6382,vehicle,2024-03-20 09:06,192.168.1.7,danger
+AL0667,Meera Ops,Booking Manager,Disabled promotion,U8567,promotion,2024-03-20 05:35,192.168.1.2,warning
+AL0552,Priya Admin,Verifier,Logged in,V3748,auth,2024-03-20 04:45,192.168.1.1,info
+AL0495,Meera Ops,Booking Manager,Escalated report,BK4804,report,2024-03-20 01:43,192.168.1.9,warning
+AL0212,Meera Ops,Booking Manager,Rejected vehicle,KYC4937,vehicle,2024-03-19 16:02,192.168.1.8,danger
+AL0523,Karan Finance,Finance Admin,Marked payout paid,V6864,payout,2024-03-19 12:30,192.168.1.5,success
+AL0428,Meera Ops,Booking Manager,Escalated report,V4337,report,2024-03-19 10:45,192.168.1.7,warning
+AL0008,Karan Finance,Finance Admin,Marked payout pending,BK7688,payout,2024-03-19 10:00,192.168.1.7,info
+AL0376,Meera Ops,Booking Manager,Approved KYC,TXN9517,kyc,2024-03-19 08:26,192.168.1.5,success
+AL0492,Meera Ops,Booking Manager,Updated role,RPT7540,settings,2024-03-19 08:05,192.168.1.9,warning
+AL0107,Meera Ops,Booking Manager,Approved vehicle,RPT4530,vehicle,2024-03-19 07:57,192.168.1.3,success
+AL0469,Priya Admin,Verifier,Rejected KYC,U3903,kyc,2024-03-19 07:44,192.168.1.4,danger
+AL0631,Arjun Sharma,Super Admin,Disabled promotion,TXN3817,promotion,2024-03-19 06:44,192.168.1.10,warning
+AL0868,Meera Ops,Booking Manager,Escalated report,KYC3582,report,2024-03-19 05:12,192.168.1.7,warning
+AL0243,Arjun Sharma,Super Admin,Marked payout pending,V4723,payout,2024-03-19 04:03,192.168.1.2,info
+AL0199,Priya Admin,Verifier,Rejected vehicle,RPT7466,vehicle,2024-03-18 19:51,192.168.1.1,danger
+AL0641,Karan Finance,Finance Admin,Blocked user,V1667,user,2024-03-18 19:32,192.168.1.2,warning
+AL0373,Arjun Sharma,Super Admin,Created promotion,KYC9348,promotion,2024-03-18 18:17,192.168.1.8,info
+AL0713,Priya Admin,Verifier,Disabled promotion,RPT2809,promotion,2024-03-18 18:07,192.168.1.8,warning
+AL0473,Priya Admin,Verifier,Flagged transaction,V7224,transaction,2024-03-18 16:02,192.168.1.9,danger
+AL0738,Meera Ops,Booking Manager,Issued refund,BK6949,transaction,2024-03-18 13:49,192.168.1.7,warning
+AL0724,Arjun Sharma,Super Admin,Flagged transaction,KYC4307,transaction,2024-03-18 12:56,192.168.1.3,danger
+AL0784,Priya Admin,Verifier,Unblocked user,BK8845,user,2024-03-18 11:37,192.168.1.3,success
+AL0205,Meera Ops,Booking Manager,Logged out,TXN8290,auth,2024-03-18 11:10,192.168.1.4,info
+AL0735,Karan Finance,Finance Admin,Disabled promotion,TXN6854,promotion,2024-03-18 08:49,192.168.1.7,warning
+AL0418,Karan Finance,Finance Admin,Issued refund,KYC3820,transaction,2024-03-18 08:31,192.168.1.9,warning
+AL0250,Arjun Sharma,Super Admin,Logged out,V3649,auth,2024-03-18 07:05,192.168.1.1,info
+AL0663,Priya Admin,Verifier,Marked payout pending,U7179,payout,2024-03-18 02:29,192.168.1.5,info
+AL0859,Meera Ops,Booking Manager,Cancelled booking,V7616,booking,2024-03-18 00:10,192.168.1.2,warning
+AL0597,Meera Ops,Booking Manager,Deleted vehicle,TXN6837,vehicle,2024-03-17 22:05,192.168.1.4,danger
+AL0876,Arjun Sharma,Super Admin,Escalated report,RPT7007,report,2024-03-17 16:58,192.168.1.4,warning
+AL0334,Meera Ops,Booking Manager,Logged out,BK9055,auth,2024-03-17 15:49,192.168.1.4,info
+AL0432,Karan Finance,Finance Admin,Disabled promotion,TXN4795,promotion,2024-03-17 13:39,192.168.1.10,warning
+AL0953,Meera Ops,Booking Manager,Rejected vehicle,RPT9914,vehicle,2024-03-17 11:25,192.168.1.4,danger
+AL0444,Karan Finance,Finance Admin,Created promotion,TXN1155,promotion,2024-03-17 09:05,192.168.1.6,info
+AL0985,Arjun Sharma,Super Admin,Logged out,TXN3834,auth,2024-03-17 07:24,192.168.1.4,info
+AL0573,Arjun Sharma,Super Admin,Flagged transaction,V5957,transaction,2024-03-17 05:43,192.168.1.7,danger
+AL0068,Arjun Sharma,Super Admin,Marked payout pending,BK7257,payout,2024-03-17 04:28,192.168.1.1,info
+AL0604,Karan Finance,Finance Admin,Exported CSV,KYC3657,export,2024-03-17 03:00,192.168.1.1,info
+AL0412,Meera Ops,Booking Manager,Marked payout pending,RPT7443,payout,2024-03-17 02:16,192.168.1.6,info
+AL0837,Arjun Sharma,Super Admin,Approved vehicle,V9030,vehicle,2024-03-16 21:03,192.168.1.9,success
+AL0300,Priya Admin,Verifier,Cancelled booking,RPT4586,booking,2024-03-16 20:57,192.168.1.5,warning
+AL0143,Arjun Sharma,Super Admin,Blocked user,RPT9997,user,2024-03-16 20:19,192.168.1.10,warning
+AL0677,Meera Ops,Booking Manager,Unblocked user,U6633,user,2024-03-16 17:04,192.168.1.2,success
+AL0825,Karan Finance,Finance Admin,Resolved report,BK3412,report,2024-03-16 11:44,192.168.1.4,success
+AL0023,Priya Admin,Verifier,Updated role,BK4350,settings,2024-03-16 11:16,192.168.1.10,warning
+AL0081,Arjun Sharma,Super Admin,Unblocked user,BK6278,user,2024-03-16 09:07,192.168.1.5,success
+AL0927,Karan Finance,Finance Admin,Disabled promotion,U6443,promotion,2024-03-16 06:51,192.168.1.7,warning
+AL0525,Karan Finance,Finance Admin,Approved KYC,KYC4333,kyc,2024-03-16 04:01,192.168.1.3,success
+AL0676,Karan Finance,Finance Admin,Resolved report,RPT3754,report,2024-03-16 02:26,192.168.1.7,success
+AL0870,Meera Ops,Booking Manager,Escalated report,KYC5550,report,2024-03-16 01:53,192.168.1.9,warning
+AL0693,Karan Finance,Finance Admin,Rejected KYC,RPT2706,kyc,2024-03-16 00:40,192.168.1.8,danger
+AL0630,Priya Admin,Verifier,Approved vehicle,BK7583,vehicle,2024-03-15 13:41,192.168.1.3,success
+AL0316,Karan Finance,Finance Admin,Cancelled booking,RPT1074,booking,2024-03-15 11:58,192.168.1.2,warning
+AL0251,Priya Admin,Verifier,Flagged transaction,RPT9297,transaction,2024-03-15 10:16,192.168.1.2,danger
+AL0417,Priya Admin,Verifier,Resolved report,U4712,report,2024-03-15 08:47,192.168.1.5,success
+AL0163,Priya Admin,Verifier,Approved KYC,BK6844,kyc,2024-03-15 08:27,192.168.1.2,success
+AL0117,Arjun Sharma,Super Admin,Flagged transaction,BK9948,transaction,2024-03-15 08:17,192.168.1.6,danger
+AL0181,Meera Ops,Booking Manager,Logged in,TXN5089,auth,2024-03-15 07:54,192.168.1.3,info
+AL0160,Priya Admin,Verifier,Marked payout pending,TXN3193,payout,2024-03-15 05:34,192.168.1.2,info
+AL0147,Karan Finance,Finance Admin,Marked payout paid,KYC5486,payout,2024-03-15 04:21,192.168.1.8,success
+AL0189,Meera Ops,Booking Manager,Approved vehicle,KYC9635,vehicle,2024-03-14 17:41,192.168.1.10,success
+AL0185,Priya Admin,Verifier,Rejected KYC,RPT8141,kyc,2024-03-14 16:57,192.168.1.3,danger
+AL0569,Arjun Sharma,Super Admin,Marked payout pending,U2739,payout,2024-03-14 13:38,192.168.1.1,info
+AL0889,Arjun Sharma,Super Admin,Blocked user,BK5097,user,2024-03-14 09:09,192.168.1.8,warning
+AL0514,Meera Ops,Booking Manager,Deleted vehicle,KYC5210,vehicle,2024-03-14 02:45,192.168.1.7,danger
+AL0770,Meera Ops,Booking Manager,Approved KYC,U6025,kyc,2024-03-14 02:07,192.168.1.1,success
+AL0611,Priya Admin,Verifier,Resolved report,V1102,report,2024-03-13 17:33,192.168.1.6,success
+AL0461,Karan Finance,Finance Admin,Blocked user,V5542,user,2024-03-13 09:19,192.168.1.6,warning
+AL0437,Priya Admin,Verifier,Unblocked user,V3083,user,2024-03-13 05:35,192.168.1.4,success
+AL0277,Karan Finance,Finance Admin,Flagged transaction,RPT2086,transaction,2024-03-13 05:21,192.168.1.9,danger
+AL0536,Meera Ops,Booking Manager,Deleted vehicle,V2530,vehicle,2024-03-13 03:17,192.168.1.9,danger
+AL0813,Meera Ops,Booking Manager,Flagged transaction,RPT7780,transaction,2024-03-13 00:49,192.168.1.7,danger
+AL0897,Meera Ops,Booking Manager,Rejected vehicle,U1093,vehicle,2024-03-12 20:13,192.168.1.4,danger
+AL0182,Karan Finance,Finance Admin,Resolved report,TXN1493,report,2024-03-12 18:09,192.168.1.8,success
+AL0075,Meera Ops,Booking Manager,Approved vehicle,RPT3375,vehicle,2024-03-12 16:46,192.168.1.7,success
+AL0760,Meera Ops,Booking Manager,Cancelled booking,RPT8895,booking,2024-03-12 15:35,192.168.1.6,warning
+AL0521,Meera Ops,Booking Manager,Disabled promotion,TXN4497,promotion,2024-03-12 12:41,192.168.1.7,warning
+AL0532,Karan Finance,Finance Admin,Logged in,RPT8310,auth,2024-03-12 10:20,192.168.1.2,info
+AL0670,Priya Admin,Verifier,Flagged transaction,KYC3358,transaction,2024-03-12 10:13,192.168.1.9,danger
+AL0317,Meera Ops,Booking Manager,Disabled promotion,RPT8245,promotion,2024-03-12 09:41,192.168.1.10,warning
+AL0416,Meera Ops,Booking Manager,Cancelled booking,KYC4694,booking,2024-03-12 08:33,192.168.1.10,warning
+AL0771,Karan Finance,Finance Admin,Escalated report,BK9312,report,2024-03-12 06:49,192.168.1.6,warning
+AL0451,Karan Finance,Finance Admin,Rejected KYC,V7488,kyc,2024-03-12 02:10,192.168.1.7,danger
+AL0340,Arjun Sharma,Super Admin,Rejected vehicle,KYC6059,vehicle,2024-03-12 00:41,192.168.1.1,danger
+AL0508,Meera Ops,Booking Manager,Approved KYC,TXN9237,kyc,2024-03-11 19:56,192.168.1.1,success
+AL0061,Meera Ops,Booking Manager,Exported CSV,TXN7616,export,2024-03-11 17:45,192.168.1.8,info
+AL0196,Arjun Sharma,Super Admin,Disabled promotion,BK2560,promotion,2024-03-11 17:01,192.168.1.8,warning
+AL0913,Priya Admin,Verifier,Unblocked user,BK5544,user,2024-03-11 15:31,192.168.1.5,success
+AL0446,Priya Admin,Verifier,Flagged transaction,V7509,transaction,2024-03-11 12:09,192.168.1.10,danger
+AL0337,Arjun Sharma,Super Admin,Marked payout paid,V3905,payout,2024-03-11 06:40,192.168.1.3,success
+AL0672,Meera Ops,Booking Manager,Flagged transaction,V8026,transaction,2024-03-11 06:18,192.168.1.10,danger
+AL0217,Karan Finance,Finance Admin,Exported CSV,U7094,export,2024-03-11 05:24,192.168.1.7,info
+AL0534,Meera Ops,Booking Manager,Rejected KYC,U2905,kyc,2024-03-11 05:00,192.168.1.6,danger
+AL0842,Priya Admin,Verifier,Issued refund,BK4905,transaction,2024-03-11 04:13,192.168.1.3,warning
+AL0410,Priya Admin,Verifier,Logged out,U7038,auth,2024-03-11 01:46,192.168.1.8,info
+AL0327,Karan Finance,Finance Admin,Escalated report,TXN9558,report,2024-03-10 20:47,192.168.1.9,warning
+AL0045,Priya Admin,Verifier,Resolved report,TXN7360,report,2024-03-10 17:26,192.168.1.3,success
+AL0364,Karan Finance,Finance Admin,Marked payout pending,U1486,payout,2024-03-10 14:09,192.168.1.1,info
+AL0628,Meera Ops,Booking Manager,Rejected KYC,BK5131,kyc,2024-03-10 10:15,192.168.1.2,danger
+AL0742,Arjun Sharma,Super Admin,Exported CSV,KYC4960,export,2024-03-10 05:41,192.168.1.10,info
+AL0700,Arjun Sharma,Super Admin,Marked payout pending,BK1848,payout,2024-03-10 04:59,192.168.1.4,info
+AL0804,Karan Finance,Finance Admin,Created promotion,TXN6767,promotion,2024-03-10 04:19,192.168.1.8,info
+AL0844,Arjun Sharma,Super Admin,Updated role,U4212,settings,2024-03-10 03:35,192.168.1.4,warning
+AL0178,Arjun Sharma,Super Admin,Cancelled booking,RPT1526,booking,2024-03-10 02:33,192.168.1.6,warning
+AL0715,Priya Admin,Verifier,Cancelled booking,V7896,booking,2024-03-10 02:10,192.168.1.2,warning
+AL0603,Priya Admin,Verifier,Unblocked user,KYC6152,user,2024-03-10 02:03,192.168.1.2,success
+AL0046,Arjun Sharma,Super Admin,Issued refund,U2282,transaction,2024-03-09 23:45,192.168.1.6,warning
+AL0112,Karan Finance,Finance Admin,Flagged transaction,U9139,transaction,2024-03-09 20:40,192.168.1.5,danger
+AL0057,Meera Ops,Booking Manager,Flagged transaction,V3308,transaction,2024-03-09 17:29,192.168.1.4,danger
+AL0787,Meera Ops,Booking Manager,Marked payout paid,V9173,payout,2024-03-09 16:27,192.168.1.6,success
+AL0092,Karan Finance,Finance Admin,Cancelled booking,TXN4754,booking,2024-03-09 11:00,192.168.1.7,warning
+AL0110,Priya Admin,Verifier,Blocked user,RPT2956,user,2024-03-09 10:52,192.168.1.7,warning
+AL0845,Priya Admin,Verifier,Cancelled booking,V5476,booking,2024-03-09 03:12,192.168.1.5,warning
+AL0850,Karan Finance,Finance Admin,Updated role,KYC5281,settings,2024-03-09 02:05,192.168.1.9,warning
+AL0969,Arjun Sharma,Super Admin,Flagged transaction,TXN1594,transaction,2024-03-09 01:57,192.168.1.1,danger
+AL0769,Arjun Sharma,Super Admin,Flagged transaction,V3092,transaction,2024-03-09 01:44,192.168.1.3,danger
+AL0665,Arjun Sharma,Super Admin,Rejected KYC,BK8376,kyc,2024-03-08 21:23,192.168.1.8,danger
+AL0144,Priya Admin,Verifier,Created promotion,KYC4590,promotion,2024-03-08 16:11,192.168.1.6,info
+AL0471,Priya Admin,Verifier,Exported CSV,TXN2448,export,2024-03-08 14:57,192.168.1.3,info
+AL0052,Priya Admin,Verifier,Issued refund,U4458,transaction,2024-03-08 14:14,192.168.1.4,warning
+AL0404,Meera Ops,Booking Manager,Created promotion,BK7392,promotion,2024-03-08 13:01,192.168.1.4,info
+AL0180,Karan Finance,Finance Admin,Blocked user,U8176,user,2024-03-08 10:12,192.168.1.8,warning
+AL0312,Priya Admin,Verifier,Exported CSV,KYC1535,export,2024-03-08 07:17,192.168.1.7,info
+AL0055,Karan Finance,Finance Admin,Created promotion,KYC3325,promotion,2024-03-08 05:43,192.168.1.6,info
+AL0342,Karan Finance,Finance Admin,Marked payout paid,V8189,payout,2024-03-08 00:02,192.168.1.10,success
+AL0745,Arjun Sharma,Super Admin,Issued refund,V4727,transaction,2024-03-07 22:50,192.168.1.4,warning
+AL0390,Karan Finance,Finance Admin,Logged out,V8713,auth,2024-03-07 16:57,192.168.1.5,info
+AL0991,Karan Finance,Finance Admin,Marked payout pending,TXN6743,payout,2024-03-07 16:03,192.168.1.4,info
+AL0690,Arjun Sharma,Super Admin,Unblocked user,RPT7056,user,2024-03-07 11:36,192.168.1.3,success
+AL0891,Karan Finance,Finance Admin,Rejected KYC,U4859,kyc,2024-03-07 11:22,192.168.1.9,danger
+AL0858,Priya Admin,Verifier,Approved vehicle,TXN7397,vehicle,2024-03-07 11:11,192.168.1.6,success
+AL0944,Arjun Sharma,Super Admin,Approved KYC,BK8915,kyc,2024-03-07 07:43,192.168.1.10,success
+AL0275,Priya Admin,Verifier,Logged in,V5929,auth,2024-03-07 06:34,192.168.1.5,info
+AL0099,Arjun Sharma,Super Admin,Marked payout pending,KYC8633,payout,2024-03-07 06:22,192.168.1.3,info
+AL0090,Arjun Sharma,Super Admin,Resolved report,BK2499,report,2024-03-07 01:36,192.168.1.3,success
+AL0238,Karan Finance,Finance Admin,Marked payout paid,U3214,payout,2024-03-07 01:18,192.168.1.6,success
+AL0776,Arjun Sharma,Super Admin,Approved KYC,U4171,kyc,2024-03-07 00:04,192.168.1.9,success
+AL0882,Priya Admin,Verifier,Approved KYC,U3957,kyc,2024-03-06 22:31,192.168.1.4,success
+AL0983,Meera Ops,Booking Manager,Logged out,KYC7170,auth,2024-03-06 20:46,192.168.1.4,info
+AL0977,Priya Admin,Verifier,Rejected KYC,V1762,kyc,2024-03-06 20:11,192.168.1.1,danger
+AL0414,Priya Admin,Verifier,Created promotion,BK9335,promotion,2024-03-06 10:13,192.168.1.7,info
+AL0031,Karan Finance,Finance Admin,Logged in,KYC7035,auth,2024-03-06 06:49,192.168.1.10,info
+AL0011,Karan Finance,Finance Admin,Updated role,RPT8819,settings,2024-03-06 06:24,192.168.1.10,warning
+AL0109,Arjun Sharma,Super Admin,Logged out,BK8815,auth,2024-03-05 17:59,192.168.1.7,info
+AL0017,Meera Ops,Booking Manager,Resolved report,U3224,report,2024-03-05 14:54,192.168.1.5,success
+AL0088,Meera Ops,Booking Manager,Blocked user,KYC9946,user,2024-03-05 13:45,192.168.1.3,warning
+AL0131,Karan Finance,Finance Admin,Rejected KYC,U3406,kyc,2024-03-05 11:30,192.168.1.4,danger
+AL0241,Priya Admin,Verifier,Blocked user,BK9649,user,2024-03-05 06:04,192.168.1.7,warning
+AL0558,Meera Ops,Booking Manager,Disabled promotion,BK7014,promotion,2024-03-05 02:36,192.168.1.7,warning
+AL0796,Arjun Sharma,Super Admin,Resolved report,BK5417,report,2024-03-04 23:07,192.168.1.10,success
+AL0453,Karan Finance,Finance Admin,Deleted vehicle,U7870,vehicle,2024-03-04 22:45,192.168.1.2,danger
+AL0585,Arjun Sharma,Super Admin,Issued refund,KYC4058,transaction,2024-03-04 21:26,192.168.1.7,warning
+AL0174,Karan Finance,Finance Admin,Rejected KYC,RPT2114,kyc,2024-03-04 11:51,192.168.1.5,danger
+AL0193,Karan Finance,Finance Admin,Flagged transaction,TXN5124,transaction,2024-03-04 09:04,192.168.1.6,danger
+AL0391,Priya Admin,Verifier,Logged out,V5113,auth,2024-03-04 06:17,192.168.1.5,info
+AL0865,Meera Ops,Booking Manager,Escalated report,V2683,report,2024-03-04 05:44,192.168.1.8,warning
+AL0601,Meera Ops,Booking Manager,Logged in,U8389,auth,2024-03-04 04:34,192.168.1.3,info
+AL0419,Karan Finance,Finance Admin,Approved KYC,TXN4041,kyc,2024-03-04 01:50,192.168.1.9,success
+AL0987,Priya Admin,Verifier,Cancelled booking,TXN1586,booking,2024-03-03 23:14,192.168.1.9,warning
+AL0942,Priya Admin,Verifier,Flagged transaction,U3194,transaction,2024-03-03 16:38,192.168.1.3,danger
+AL0947,Karan Finance,Finance Admin,Exported CSV,BK5005,export,2024-03-03 14:30,192.168.1.3,info
+AL0982,Arjun Sharma,Super Admin,Resolved report,RPT4761,report,2024-03-03 11:47,192.168.1.9,success
+AL0926,Arjun Sharma,Super Admin,Created promotion,TXN2136,promotion,2024-03-03 11:05,192.168.1.3,info
+AL0389,Karan Finance,Finance Admin,Rejected vehicle,KYC6868,vehicle,2024-03-03 08:31,192.168.1.7,danger
+AL0409,Meera Ops,Booking Manager,Issued refund,KYC3384,transaction,2024-03-03 06:22,192.168.1.9,warning
+AL0441,Arjun Sharma,Super Admin,Logged in,RPT8836,auth,2024-03-03 06:20,192.168.1.9,info
+AL0273,Priya Admin,Verifier,Issued refund,KYC7845,transaction,2024-03-03 02:50,192.168.1.1,warning
+AL0883,Karan Finance,Finance Admin,Rejected vehicle,BK6546,vehicle,2024-03-03 00:23,192.168.1.1,danger
+AL0033,Meera Ops,Booking Manager,Created promotion,BK4550,promotion,2024-03-02 21:03,192.168.1.7,info
+AL0941,Priya Admin,Verifier,Logged out,U2777,auth,2024-03-02 19:00,192.168.1.10,info
+AL0972,Meera Ops,Booking Manager,Rejected KYC,BK8905,kyc,2024-03-02 11:51,192.168.1.3,danger
+AL0127,Karan Finance,Finance Admin,Marked payout paid,U5263,payout,2024-03-02 04:56,192.168.1.1,success
+AL0324,Arjun Sharma,Super Admin,Logged out,RPT3455,auth,2024-03-02 04:34,192.168.1.7,info
+AL0467,Priya Admin,Verifier,Created promotion,TXN1649,promotion,2024-03-02 00:45,192.168.1.1,info
+AL0029,Priya Admin,Verifier,Rejected vehicle,KYC6264,vehicle,2024-03-01 21:11,192.168.1.1,danger
+AL0161,Arjun Sharma,Super Admin,Logged in,V2417,auth,2024-03-01 17:43,192.168.1.1,info
+AL0749,Priya Admin,Verifier,Escalated report,TXN2873,report,2024-03-01 17:26,192.168.1.10,warning
+AL0289,Arjun Sharma,Super Admin,Rejected KYC,RPT9531,kyc,2024-03-01 17:09,192.168.1.6,danger
+AL0587,Priya Admin,Verifier,Escalated report,RPT3040,report,2024-03-01 15:21,192.168.1.10,warning
+AL0615,Arjun Sharma,Super Admin,Exported CSV,TXN3640,export,2024-03-01 10:12,192.168.1.8,info
+AL0229,Karan Finance,Finance Admin,Approved KYC,RPT3620,kyc,2024-03-01 00:29,192.168.1.2,success
+AL0613,Karan Finance,Finance Admin,Approved vehicle,V6375,vehicle,2024-02-29 23:17,192.168.1.2,success
+AL0512,Meera Ops,Booking Manager,Resolved report,KYC3832,report,2024-02-29 17:51,192.168.1.2,success
+AL0980,Arjun Sharma,Super Admin,Issued refund,KYC1430,transaction,2024-02-29 17:40,192.168.1.8,warning
+AL0867,Meera Ops,Booking Manager,Flagged transaction,RPT8473,transaction,2024-02-29 16:17,192.168.1.7,danger
+AL0146,Meera Ops,Booking Manager,Deleted vehicle,TXN1440,vehicle,2024-02-29 06:56,192.168.1.7,danger
+AL0701,Meera Ops,Booking Manager,Rejected KYC,RPT1508,kyc,2024-02-29 05:16,192.168.1.1,danger
+AL0593,Karan Finance,Finance Admin,Updated role,BK4148,settings,2024-02-29 03:02,192.168.1.3,warning
+AL0888,Arjun Sharma,Super Admin,Disabled promotion,V7537,promotion,2024-02-29 01:21,192.168.1.6,warning
+AL0648,Meera Ops,Booking Manager,Rejected KYC,KYC1460,kyc,2024-02-28 20:54,192.168.1.9,danger
+AL0104,Priya Admin,Verifier,Rejected vehicle,BK9224,vehicle,2024-02-28 20:13,192.168.1.8,danger
+AL0853,Arjun Sharma,Super Admin,Blocked user,TXN9513,user,2024-02-28 19:45,192.168.1.3,warning
+AL0371,Meera Ops,Booking Manager,Blocked user,U5064,user,2024-02-28 19:14,192.168.1.3,warning
+AL0284,Meera Ops,Booking Manager,Rejected vehicle,BK6525,vehicle,2024-02-28 16:09,192.168.1.1,danger
+AL0393,Karan Finance,Finance Admin,Resolved report,BK5429,report,2024-02-28 14:52,192.168.1.10,success
+AL0103,Karan Finance,Finance Admin,Marked payout pending,BK5667,payout,2024-02-28 12:38,192.168.1.3,info
+AL0686,Meera Ops,Booking Manager,Blocked user,KYC5895,user,2024-02-28 12:08,192.168.1.1,warning
+AL0782,Arjun Sharma,Super Admin,Issued refund,TXN8764,transaction,2024-02-28 11:44,192.168.1.3,warning
+AL0679,Karan Finance,Finance Admin,Approved KYC,BK3953,kyc,2024-02-28 09:04,192.168.1.10,success
+AL0657,Arjun Sharma,Super Admin,Updated role,TXN2052,settings,2024-02-28 05:38,192.168.1.1,warning
+AL0543,Meera Ops,Booking Manager,Cancelled booking,U9531,booking,2024-02-27 19:53,192.168.1.7,warning
+AL0206,Karan Finance,Finance Admin,Logged out,KYC8148,auth,2024-02-27 16:42,192.168.1.1,info
+AL0352,Priya Admin,Verifier,Flagged transaction,KYC2972,transaction,2024-02-27 14:55,192.168.1.5,danger
+AL0674,Meera Ops,Booking Manager,Marked payout paid,V8188,payout,2024-02-27 14:50,192.168.1.5,success
+AL0706,Karan Finance,Finance Admin,Updated role,RPT8576,settings,2024-02-27 07:40,192.168.1.2,warning
+AL0194,Arjun Sharma,Super Admin,Escalated report,TXN3758,report,2024-02-27 03:59,192.168.1.5,warning
+AL0606,Karan Finance,Finance Admin,Exported CSV,RPT1837,export,2024-02-27 03:03,192.168.1.3,info
+AL0925,Meera Ops,Booking Manager,Approved vehicle,RPT7711,vehicle,2024-02-26 19:38,192.168.1.1,success
+AL0754,Karan Finance,Finance Admin,Resolved report,U4082,report,2024-02-26 18:17,192.168.1.10,success
+AL0413,Meera Ops,Booking Manager,Created promotion,V7511,promotion,2024-02-26 18:08,192.168.1.4,info
+AL0763,Karan Finance,Finance Admin,Rejected KYC,KYC4004,kyc,2024-02-26 17:39,192.168.1.5,danger
+AL0425,Meera Ops,Booking Manager,Marked payout pending,KYC9849,payout,2024-02-26 15:32,192.168.1.1,info
+AL0151,Meera Ops,Booking Manager,Flagged transaction,BK8447,transaction,2024-02-26 13:46,192.168.1.9,danger
+AL0447,Meera Ops,Booking Manager,Unblocked user,KYC9970,user,2024-02-26 07:51,192.168.1.10,success
+AL0269,Arjun Sharma,Super Admin,Escalated report,RPT7945,report,2024-02-26 00:31,192.168.1.7,warning
+AL0540,Priya Admin,Verifier,Marked payout pending,V9340,payout,2024-02-25 22:15,192.168.1.6,info
+AL0358,Karan Finance,Finance Admin,Rejected KYC,RPT3001,kyc,2024-02-25 19:06,192.168.1.10,danger
+AL0907,Karan Finance,Finance Admin,Cancelled booking,V5274,booking,2024-02-25 19:00,192.168.1.6,warning
+AL0399,Arjun Sharma,Super Admin,Logged in,TXN9707,auth,2024-02-25 16:59,192.168.1.7,info
+AL0330,Priya Admin,Verifier,Exported CSV,U8418,export,2024-02-25 15:13,192.168.1.2,info
+AL0295,Meera Ops,Booking Manager,Exported CSV,V2303,export,2024-02-25 13:37,192.168.1.9,info
+AL0016,Priya Admin,Verifier,Unblocked user,U3644,user,2024-02-25 06:23,192.168.1.2,success
+AL0917,Meera Ops,Booking Manager,Cancelled booking,RPT1298,booking,2024-02-25 05:58,192.168.1.8,warning
+AL0261,Arjun Sharma,Super Admin,Approved KYC,TXN7338,kyc,2024-02-25 03:50,192.168.1.9,success
+AL0381,Karan Finance,Finance Admin,Disabled promotion,KYC8553,promotion,2024-02-25 03:35,192.168.1.2,warning
+AL0740,Meera Ops,Booking Manager,Disabled promotion,V6267,promotion,2024-02-25 02:19,192.168.1.6,warning
+AL0506,Karan Finance,Finance Admin,Deleted vehicle,RPT4228,vehicle,2024-02-24 21:53,192.168.1.4,danger
+AL0595,Arjun Sharma,Super Admin,Unblocked user,KYC2921,user,2024-02-24 19:58,192.168.1.5,success
+AL0675,Arjun Sharma,Super Admin,Resolved report,BK4882,report,2024-02-24 18:59,192.168.1.10,success
+AL0384,Priya Admin,Verifier,Issued refund,U1342,transaction,2024-02-24 12:54,192.168.1.10,warning
+AL0896,Priya Admin,Verifier,Marked payout paid,RPT4171,payout,2024-02-24 10:02,192.168.1.4,success
+AL0549,Arjun Sharma,Super Admin,Deleted vehicle,U8660,vehicle,2024-02-24 08:03,192.168.1.4,danger
+AL0077,Priya Admin,Verifier,Logged in,TXN9229,auth,2024-02-24 03:48,192.168.1.8,info
+AL0872,Priya Admin,Verifier,Escalated report,TXN3807,report,2024-02-24 00:29,192.168.1.1,warning
+AL0039,Arjun Sharma,Super Admin,Rejected KYC,TXN9169,kyc,2024-02-23 21:36,192.168.1.3,danger
+AL0699,Priya Admin,Verifier,Cancelled booking,RPT5435,booking,2024-02-23 19:25,192.168.1.8,warning
+AL0950,Arjun Sharma,Super Admin,Cancelled booking,KYC2313,booking,2024-02-23 14:25,192.168.1.5,warning
+AL0048,Arjun Sharma,Super Admin,Approved KYC,TXN2848,kyc,2024-02-23 09:19,192.168.1.3,success
+AL0195,Arjun Sharma,Super Admin,Escalated report,V7631,report,2024-02-23 08:13,192.168.1.4,warning
+AL0871,Priya Admin,Verifier,Marked payout paid,BK8664,payout,2024-02-23 07:10,192.168.1.7,success
+AL0621,Arjun Sharma,Super Admin,Marked payout pending,BK2049,payout,2024-02-23 05:00,192.168.1.7,info
+AL0820,Meera Ops,Booking Manager,Logged out,KYC7493,auth,2024-02-23 02:30,192.168.1.4,info
+AL0726,Meera Ops,Booking Manager,Marked payout paid,U8289,payout,2024-02-23 02:26,192.168.1.1,success
+AL0126,Karan Finance,Finance Admin,Exported CSV,TXN2742,export,2024-02-22 17:46,192.168.1.2,info
+AL0349,Priya Admin,Verifier,Unblocked user,V4675,user,2024-02-22 16:00,192.168.1.3,success
+AL0169,Priya Admin,Verifier,Marked payout pending,KYC2177,payout,2024-02-22 15:24,192.168.1.1,info
+AL0548,Karan Finance,Finance Admin,Escalated report,KYC1985,report,2024-02-22 11:57,192.168.1.3,warning
+AL0408,Meera Ops,Booking Manager,Logged in,V5335,auth,2024-02-22 08:18,192.168.1.7,info
+AL0592,Karan Finance,Finance Admin,Marked payout paid,BK1440,payout,2024-02-22 07:51,192.168.1.6,success
+AL0395,Meera Ops,Booking Manager,Logged in,KYC5815,auth,2024-02-22 04:43,192.168.1.5,info
+AL0158,Arjun Sharma,Super Admin,Rejected vehicle,TXN1053,vehicle,2024-02-22 04:41,192.168.1.9,danger
+AL0420,Priya Admin,Verifier,Updated role,TXN8329,settings,2024-02-22 02:42,192.168.1.5,warning
+AL0331,Karan Finance,Finance Admin,Unblocked user,U9246,user,2024-02-22 02:01,192.168.1.9,success
+AL0278,Arjun Sharma,Super Admin,Updated role,BK8202,settings,2024-02-22 01:46,192.168.1.6,warning
+AL0019,Arjun Sharma,Super Admin,Approved vehicle,KYC9416,vehicle,2024-02-22 01:03,192.168.1.4,success
+AL0484,Meera Ops,Booking Manager,Deleted vehicle,TXN4748,vehicle,2024-02-21 21:00,192.168.1.1,danger
+AL0429,Priya Admin,Verifier,Unblocked user,U9804,user,2024-02-21 20:54,192.168.1.7,success
+AL0497,Meera Ops,Booking Manager,Approved vehicle,BK6522,vehicle,2024-02-21 18:09,192.168.1.6,success
+AL0599,Karan Finance,Finance Admin,Updated role,U9130,settings,2024-02-21 15:54,192.168.1.6,warning
+AL0586,Priya Admin,Verifier,Updated role,TXN9601,settings,2024-02-21 15:28,192.168.1.9,warning
+AL0292,Meera Ops,Booking Manager,Deleted vehicle,TXN3310,vehicle,2024-02-21 13:06,192.168.1.1,danger
+AL0951,Meera Ops,Booking Manager,Disabled promotion,U8239,promotion,2024-02-21 12:10,192.168.1.4,warning
+AL0323,Meera Ops,Booking Manager,Blocked user,V9308,user,2024-02-21 09:24,192.168.1.4,warning
+AL0013,Karan Finance,Finance Admin,Disabled promotion,TXN7915,promotion,2024-02-21 08:43,192.168.1.8,warning
+AL0303,Priya Admin,Verifier,Marked payout paid,TXN4782,payout,2024-02-21 07:41,192.168.1.8,success
+AL0515,Arjun Sharma,Super Admin,Flagged transaction,V7294,transaction,2024-02-21 05:34,192.168.1.6,danger
+AL0748,Meera Ops,Booking Manager,Updated role,BK9033,settings,2024-02-21 03:35,192.168.1.4,warning
+AL0903,Priya Admin,Verifier,Approved KYC,KYC4082,kyc,2024-02-21 01:03,192.168.1.5,success
+AL0265,Karan Finance,Finance Admin,Marked payout paid,BK4959,payout,2024-02-20 19:10,192.168.1.7,success
+AL0047,Priya Admin,Verifier,Logged in,BK1237,auth,2024-02-20 13:47,192.168.1.7,info
+AL0137,Priya Admin,Verifier,Flagged transaction,V2593,transaction,2024-02-20 11:39,192.168.1.5,danger
+AL0053,Meera Ops,Booking Manager,Logged out,V8259,auth,2024-02-20 10:53,192.168.1.6,info
+AL0049,Arjun Sharma,Super Admin,Marked payout paid,KYC5610,payout,2024-02-20 10:28,192.168.1.5,success
+AL1000,Priya Admin,Verifier,Blocked user,V3265,user,2024-02-20 06:47,192.168.1.4,warning
+AL0602,Karan Finance,Finance Admin,Escalated report,KYC8803,report,2024-02-20 05:01,192.168.1.2,warning
+AL0257,Meera Ops,Booking Manager,Resolved report,U4270,report,2024-02-20 02:24,192.168.1.6,success
+AL0797,Karan Finance,Finance Admin,Escalated report,RPT6012,report,2024-02-20 02:21,192.168.1.3,warning
+AL0614,Karan Finance,Finance Admin,Logged in,KYC1209,auth,2024-02-20 01:38,192.168.1.7,info
+AL0646,Arjun Sharma,Super Admin,Cancelled booking,BK3924,booking,2024-02-19 23:40,192.168.1.1,warning
+AL0027,Priya Admin,Verifier,Marked payout paid,BK2839,payout,2024-02-19 22:04,192.168.1.4,success
+AL0788,Priya Admin,Verifier,Escalated report,RPT2173,report,2024-02-19 20:49,192.168.1.8,warning
+AL0688,Arjun Sharma,Super Admin,Logged in,TXN7294,auth,2024-02-19 19:53,192.168.1.7,info
+AL0750,Karan Finance,Finance Admin,Marked payout pending,KYC8129,payout,2024-02-19 17:17,192.168.1.9,info
+AL0887,Meera Ops,Booking Manager,Created promotion,RPT8092,promotion,2024-02-19 15:41,192.168.1.3,info
+AL0765,Arjun Sharma,Super Admin,Exported CSV,TXN8402,export,2024-02-19 09:55,192.168.1.1,info
+AL0354,Priya Admin,Verifier,Rejected KYC,KYC2389,kyc,2024-02-19 06:20,192.168.1.7,danger
+AL0459,Karan Finance,Finance Admin,Resolved report,BK9870,report,2024-02-19 06:07,192.168.1.10,success
+AL0270,Karan Finance,Finance Admin,Deleted vehicle,KYC1960,vehicle,2024-02-19 03:26,192.168.1.9,danger
+AL0344,Priya Admin,Verifier,Escalated report,RPT2985,report,2024-02-19 00:08,192.168.1.4,warning
+AL0933,Arjun Sharma,Super Admin,Resolved report,RPT7163,report,2024-02-18 20:41,192.168.1.4,success
+AL0973,Arjun Sharma,Super Admin,Issued refund,V4762,transaction,2024-02-18 15:16,192.168.1.9,warning
+AL0305,Priya Admin,Verifier,Cancelled booking,RPT8459,booking,2024-02-18 09:58,192.168.1.10,warning
+AL0098,Meera Ops,Booking Manager,Unblocked user,BK3454,user,2024-02-18 09:15,192.168.1.5,success
+AL0007,Karan Finance,Finance Admin,Unblocked user,V5359,user,2024-02-18 07:42,192.168.1.4,success
+AL0083,Arjun Sharma,Super Admin,Rejected KYC,V4724,kyc,2024-02-18 06:20,192.168.1.7,danger
+AL0301,Priya Admin,Verifier,Logged out,TXN4817,auth,2024-02-18 05:41,192.168.1.6,info
+AL0692,Meera Ops,Booking Manager,Approved vehicle,V1439,vehicle,2024-02-18 05:27,192.168.1.3,success
+AL0709,Meera Ops,Booking Manager,Logged in,KYC3424,auth,2024-02-17 20:11,192.168.1.4,info
+AL0267,Priya Admin,Verifier,Issued refund,BK8289,transaction,2024-02-17 18:28,192.168.1.1,warning
+AL0142,Arjun Sharma,Super Admin,Exported CSV,V5809,export,2024-02-17 18:11,192.168.1.9,info
+AL0516,Meera Ops,Booking Manager,Approved KYC,V9175,kyc,2024-02-17 16:23,192.168.1.9,success
+AL0240,Karan Finance,Finance Admin,Approved KYC,V4851,kyc,2024-02-17 12:42,192.168.1.7,success
+AL0435,Meera Ops,Booking Manager,Approved KYC,TXN8085,kyc,2024-02-17 10:54,192.168.1.7,success
+AL0843,Meera Ops,Booking Manager,Approved KYC,TXN3926,kyc,2024-02-17 09:35,192.168.1.6,success
+AL0570,Arjun Sharma,Super Admin,Approved vehicle,TXN2146,vehicle,2024-02-17 08:47,192.168.1.10,success
+AL0116,Karan Finance,Finance Admin,Deleted vehicle,V6466,vehicle,2024-02-17 06:32,192.168.1.4,danger
+AL0945,Meera Ops,Booking Manager,Approved vehicle,KYC9739,vehicle,2024-02-17 05:24,192.168.1.9,success
+AL0078,Karan Finance,Finance Admin,Marked payout pending,BK7875,payout,2024-02-17 00:21,192.168.1.1,info
+AL0999,Priya Admin,Verifier,Marked payout pending,BK3772,payout,2024-02-16 23:00,192.168.1.9,info
+AL0086,Arjun Sharma,Super Admin,Rejected KYC,TXN1031,kyc,2024-02-16 21:30,192.168.1.9,danger
+AL0239,Karan Finance,Finance Admin,Escalated report,U3770,report,2024-02-16 20:51,192.168.1.9,warning
+AL0438,Karan Finance,Finance Admin,Logged in,BK8349,auth,2024-02-16 18:52,192.168.1.3,info
+AL0150,Karan Finance,Finance Admin,Resolved report,KYC4566,report,2024-02-16 18:07,192.168.1.1,success
+AL0562,Karan Finance,Finance Admin,Cancelled booking,RPT4372,booking,2024-02-16 17:42,192.168.1.8,warning
+AL0347,Priya Admin,Verifier,Disabled promotion,V7260,promotion,2024-02-16 16:33,192.168.1.5,warning
+AL0456,Karan Finance,Finance Admin,Deleted vehicle,RPT1876,vehicle,2024-02-16 09:45,192.168.1.3,danger
+AL0159,Karan Finance,Finance Admin,Resolved report,BK6176,report,2024-02-16 09:27,192.168.1.4,success
+AL0475,Arjun Sharma,Super Admin,Blocked user,BK7576,user,2024-02-16 06:16,192.168.1.5,warning
+AL0736,Karan Finance,Finance Admin,Flagged transaction,V5644,transaction,2024-02-15 21:04,192.168.1.3,danger
+AL0060,Priya Admin,Verifier,Logged in,RPT9664,auth,2024-02-15 20:49,192.168.1.6,info
+AL0984,Karan Finance,Finance Admin,Marked payout paid,BK5515,payout,2024-02-15 19:40,192.168.1.7,success
+AL0911,Priya Admin,Verifier,Issued refund,TXN4288,transaction,2024-02-15 13:21,192.168.1.5,warning
+AL0074,Karan Finance,Finance Admin,Issued refund,KYC4652,transaction,2024-02-15 10:34,192.168.1.10,warning
+AL0899,Arjun Sharma,Super Admin,Cancelled booking,TXN4888,booking,2024-02-15 04:55,192.168.1.7,warning
+AL0332,Arjun Sharma,Super Admin,Rejected KYC,RPT8557,kyc,2024-02-15 02:25,192.168.1.3,danger
+AL0120,Arjun Sharma,Super Admin,Approved vehicle,BK2472,vehicle,2024-02-15 02:22,192.168.1.1,success
+AL0218,Arjun Sharma,Super Admin,Marked payout paid,RPT4925,payout,2024-02-15 01:42,192.168.1.1,success
+AL0498,Karan Finance,Finance Admin,Unblocked user,BK9386,user,2024-02-15 01:37,192.168.1.9,success
+AL0442,Arjun Sharma,Super Admin,Flagged transaction,U9509,transaction,2024-02-14 19:10,192.168.1.1,danger
+AL0244,Arjun Sharma,Super Admin,Rejected KYC,TXN3288,kyc,2024-02-14 18:36,192.168.1.4,danger
+AL0622,Karan Finance,Finance Admin,Issued refund,RPT9662,transaction,2024-02-14 17:54,192.168.1.3,warning
+AL0383,Arjun Sharma,Super Admin,Marked payout paid,U5433,payout,2024-02-14 17:17,192.168.1.6,success
+AL0457,Karan Finance,Finance Admin,Logged in,KYC8533,auth,2024-02-14 17:17,192.168.1.2,info
+AL0114,Meera Ops,Booking Manager,Created promotion,KYC8003,promotion,2024-02-14 15:10,192.168.1.1,info
+AL0685,Priya Admin,Verifier,Logged in,V1942,auth,2024-02-14 06:59,192.168.1.8,info
+AL0966,Priya Admin,Verifier,Logged in,V1408,auth,2024-02-14 06:57,192.168.1.5,info
+AL0230,Priya Admin,Verifier,Approved KYC,U9950,kyc,2024-02-14 01:09,192.168.1.8,success
+AL0145,Priya Admin,Verifier,Updated role,KYC4353,settings,2024-02-13 23:59,192.168.1.10,warning
+AL0071,Arjun Sharma,Super Admin,Issued refund,BK9184,transaction,2024-02-13 23:27,192.168.1.9,warning
+AL0190,Karan Finance,Finance Admin,Deleted vehicle,U2152,vehicle,2024-02-13 21:09,192.168.1.10,danger
+AL0767,Karan Finance,Finance Admin,Updated role,KYC2195,settings,2024-02-13 18:10,192.168.1.1,warning
+AL0106,Meera Ops,Booking Manager,Cancelled booking,U6997,booking,2024-02-13 17:12,192.168.1.4,warning
+AL0774,Arjun Sharma,Super Admin,Escalated report,BK8371,report,2024-02-13 16:30,192.168.1.9,warning
+AL0339,Priya Admin,Verifier,Approved KYC,RPT4125,kyc,2024-02-13 10:38,192.168.1.8,success
+AL0113,Meera Ops,Booking Manager,Rejected vehicle,RPT1267,vehicle,2024-02-13 10:26,192.168.1.4,danger
+AL0252,Arjun Sharma,Super Admin,Resolved report,U6206,report,2024-02-13 08:03,192.168.1.9,success
+AL0639,Priya Admin,Verifier,Disabled promotion,TXN9703,promotion,2024-02-12 22:48,192.168.1.2,warning
+AL0561,Meera Ops,Booking Manager,Marked payout pending,KYC9658,payout,2024-02-12 20:47,192.168.1.3,info
+AL0353,Priya Admin,Verifier,Updated role,BK1593,settings,2024-02-12 19:58,192.168.1.3,warning
+AL0960,Karan Finance,Finance Admin,Marked payout pending,BK1376,payout,2024-02-12 19:28,192.168.1.1,info
+AL0810,Arjun Sharma,Super Admin,Approved KYC,TXN4154,kyc,2024-02-12 18:03,192.168.1.3,success
+AL0909,Priya Admin,Verifier,Disabled promotion,BK1216,promotion,2024-02-12 17:43,192.168.1.10,warning
+AL0520,Meera Ops,Booking Manager,Marked payout paid,BK8873,payout,2024-02-12 16:44,192.168.1.9,success
+AL0807,Priya Admin,Verifier,Exported CSV,BK7479,export,2024-02-12 14:57,192.168.1.3,info
+AL0580,Arjun Sharma,Super Admin,Rejected KYC,BK3317,kyc,2024-02-12 14:04,192.168.1.2,danger
+AL0854,Priya Admin,Verifier,Issued refund,RPT6516,transaction,2024-02-12 13:56,192.168.1.9,warning
+AL0799,Priya Admin,Verifier,Unblocked user,U5157,user,2024-02-12 09:50,192.168.1.9,success
+AL0503,Priya Admin,Verifier,Logged in,RPT6909,auth,2024-02-12 01:59,192.168.1.7,info
+AL0129,Arjun Sharma,Super Admin,Rejected KYC,V9420,kyc,2024-02-12 00:57,192.168.1.4,danger
+AL0370,Arjun Sharma,Super Admin,Rejected KYC,V6704,kyc,2024-02-11 21:22,192.168.1.10,danger
+AL0483,Priya Admin,Verifier,Approved vehicle,TXN9142,vehicle,2024-02-11 20:10,192.168.1.3,success
+AL0658,Karan Finance,Finance Admin,Flagged transaction,BK9838,transaction,2024-02-11 17:24,192.168.1.4,danger
+AL0066,Priya Admin,Verifier,Logged out,KYC5252,auth,2024-02-11 17:15,192.168.1.3,info
+AL0176,Meera Ops,Booking Manager,Blocked user,KYC8505,user,2024-02-11 17:08,192.168.1.10,warning
+AL0226,Karan Finance,Finance Admin,Rejected vehicle,TXN5928,vehicle,2024-02-11 16:39,192.168.1.4,danger
+AL0233,Karan Finance,Finance Admin,Cancelled booking,TXN8563,booking,2024-02-11 16:34,192.168.1.6,warning
+AL0479,Priya Admin,Verifier,Marked payout paid,BK6963,payout,2024-02-11 10:52,192.168.1.8,success
+AL0043,Meera Ops,Booking Manager,Cancelled booking,V4257,booking,2024-02-11 01:09,192.168.1.2,warning
+AL0780,Meera Ops,Booking Manager,Resolved report,U7335,report,2024-02-11 00:17,192.168.1.3,success
+AL0610,Priya Admin,Verifier,Disabled promotion,TXN7229,promotion,2024-02-10 20:40,192.168.1.10,warning
+AL0846,Karan Finance,Finance Admin,Deleted vehicle,V9119,vehicle,2024-02-10 18:32,192.168.1.5,danger
+AL0939,Priya Admin,Verifier,Approved KYC,RPT5938,kyc,2024-02-10 16:10,192.168.1.10,success
+AL0443,Meera Ops,Booking Manager,Approved vehicle,RPT4915,vehicle,2024-02-10 13:57,192.168.1.2,success
+AL0003,Meera Ops,Booking Manager,Rejected KYC,RPT5341,kyc,2024-02-10 10:05,192.168.1.3,danger
+AL0050,Meera Ops,Booking Manager,Marked payout pending,KYC4278,payout,2024-02-10 08:36,192.168.1.7,info
+AL0785,Priya Admin,Verifier,Exported CSV,BK4867,export,2024-02-10 06:05,192.168.1.3,info
+AL0173,Meera Ops,Booking Manager,Marked payout paid,U6409,payout,2024-02-10 06:04,192.168.1.9,success
+AL0729,Arjun Sharma,Super Admin,Logged out,BK9764,auth,2024-02-10 05:14,192.168.1.8,info
+AL0979,Meera Ops,Booking Manager,Rejected KYC,RPT2365,kyc,2024-02-10 00:29,192.168.1.2,danger
+AL0575,Karan Finance,Finance Admin,Unblocked user,TXN9295,user,2024-02-09 21:06,192.168.1.4,success
+AL0507,Arjun Sharma,Super Admin,Marked payout pending,TXN4789,payout,2024-02-09 20:30,192.168.1.5,info
+AL0133,Meera Ops,Booking Manager,Approved KYC,TXN7281,kyc,2024-02-09 19:27,192.168.1.7,success
+AL0786,Meera Ops,Booking Manager,Rejected vehicle,U3230,vehicle,2024-02-09 19:25,192.168.1.3,danger
+AL0311,Meera Ops,Booking Manager,Approved KYC,TXN5423,kyc,2024-02-09 18:13,192.168.1.4,success
+AL0421,Arjun Sharma,Super Admin,Updated role,U5051,settings,2024-02-09 14:53,192.168.1.7,warning
+AL0148,Arjun Sharma,Super Admin,Logged out,V7140,auth,2024-02-09 12:19,192.168.1.8,info
+AL0737,Arjun Sharma,Super Admin,Rejected vehicle,TXN5374,vehicle,2024-02-09 11:27,192.168.1.10,danger
+AL0600,Priya Admin,Verifier,Cancelled booking,TXN4401,booking,2024-02-09 09:39,192.168.1.3,warning
+AL0855,Meera Ops,Booking Manager,Blocked user,BK3320,user,2024-02-09 08:26,192.168.1.3,warning
+AL0062,Priya Admin,Verifier,Rejected KYC,KYC7625,kyc,2024-02-09 05:43,192.168.1.3,danger
+AL0852,Arjun Sharma,Super Admin,Rejected KYC,KYC9933,kyc,2024-02-08 21:03,192.168.1.2,danger
+AL0242,Arjun Sharma,Super Admin,Exported CSV,RPT4109,export,2024-02-08 18:13,192.168.1.4,info
+AL0963,Karan Finance,Finance Admin,Resolved report,RPT2533,report,2024-02-08 13:41,192.168.1.7,success
+AL0361,Karan Finance,Finance Admin,Resolved report,RPT2867,report,2024-02-08 09:09,192.168.1.7,success
+AL0851,Priya Admin,Verifier,Created promotion,KYC2948,promotion,2024-02-08 07:07,192.168.1.8,info
+AL0493,Priya Admin,Verifier,Logged out,V1431,auth,2024-02-08 03:36,192.168.1.8,info
+AL0290,Priya Admin,Verifier,Created promotion,U4408,promotion,2024-02-08 02:54,192.168.1.2,info
+AL0835,Meera Ops,Booking Manager,Blocked user,RPT9710,user,2024-02-07 23:36,192.168.1.3,warning
+AL0285,Arjun Sharma,Super Admin,Issued refund,U5767,transaction,2024-02-07 22:38,192.168.1.4,warning
+AL0059,Arjun Sharma,Super Admin,Updated role,V2013,settings,2024-02-07 18:51,192.168.1.8,warning
+AL0567,Priya Admin,Verifier,Logged out,TXN9492,auth,2024-02-07 17:20,192.168.1.5,info
+AL0894,Arjun Sharma,Super Admin,Disabled promotion,BK8779,promotion,2024-02-07 16:17,192.168.1.7,warning
+AL0424,Karan Finance,Finance Admin,Rejected vehicle,BK9972,vehicle,2024-02-07 15:15,192.168.1.2,danger
+AL0366,Priya Admin,Verifier,Logged in,KYC8464,auth,2024-02-07 13:48,192.168.1.3,info
+AL0063,Meera Ops,Booking Manager,Exported CSV,KYC8518,export,2024-02-07 12:24,192.168.1.6,info
+AL0591,Karan Finance,Finance Admin,Approved KYC,KYC8737,kyc,2024-02-07 08:47,192.168.1.1,success
+AL0044,Priya Admin,Verifier,Rejected KYC,V4025,kyc,2024-02-07 06:30,192.168.1.5,danger
+AL0822,Karan Finance,Finance Admin,Issued refund,U4885,transaction,2024-02-07 00:38,192.168.1.10,warning
+AL0594,Karan Finance,Finance Admin,Rejected KYC,TXN1664,kyc,2024-02-07 00:10,192.168.1.8,danger
+AL0841,Karan Finance,Finance Admin,Marked payout paid,V5562,payout,2024-02-06 22:47,192.168.1.3,success
+AL0849,Arjun Sharma,Super Admin,Updated role,TXN3664,settings,2024-02-06 18:15,192.168.1.3,warning
+AL0828,Meera Ops,Booking Manager,Approved vehicle,U3625,vehicle,2024-02-06 13:55,192.168.1.7,success
+AL0466,Priya Admin,Verifier,Issued refund,KYC6768,transaction,2024-02-06 11:57,192.168.1.7,warning
+AL0719,Arjun Sharma,Super Admin,Flagged transaction,BK5476,transaction,2024-02-06 05:40,192.168.1.5,danger
+AL0065,Arjun Sharma,Super Admin,Escalated report,RPT6875,report,2024-02-06 04:05,192.168.1.10,warning
+AL0938,Arjun Sharma,Super Admin,Logged in,TXN3759,auth,2024-02-06 00:16,192.168.1.7,info
+AL0802,Priya Admin,Verifier,Logged out,V2754,auth,2024-02-05 23:53,192.168.1.7,info
+AL0434,Meera Ops,Booking Manager,Unblocked user,TXN7118,user,2024-02-05 21:08,192.168.1.8,success
+AL0283,Karan Finance,Finance Admin,Issued refund,BK1106,transaction,2024-02-05 20:43,192.168.1.10,warning
+AL0491,Meera Ops,Booking Manager,Exported CSV,RPT5331,export,2024-02-05 15:53,192.168.1.7,info
+AL0237,Karan Finance,Finance Admin,Approved KYC,U1382,kyc,2024-02-05 12:39,192.168.1.10,success
+AL0236,Karan Finance,Finance Admin,Approved vehicle,TXN7312,vehicle,2024-02-05 11:23,192.168.1.5,success
+AL0021,Arjun Sharma,Super Admin,Logged out,TXN6992,auth,2024-02-05 06:25,192.168.1.2,info
+AL0139,Priya Admin,Verifier,Deleted vehicle,BK4688,vehicle,2024-02-05 06:09,192.168.1.2,danger
+AL0873,Arjun Sharma,Super Admin,Rejected KYC,TXN7330,kyc,2024-02-05 04:59,192.168.1.9,danger
+AL0976,Arjun Sharma,Super Admin,Created promotion,BK4588,promotion,2024-02-05 03:57,192.168.1.2,info
+AL0880,Arjun Sharma,Super Admin,Resolved report,U1798,report,2024-02-05 01:55,192.168.1.8,success
+AL0694,Meera Ops,Booking Manager,Blocked user,TXN8215,user,2024-02-05 01:47,192.168.1.4,warning
+AL0986,Arjun Sharma,Super Admin,Approved vehicle,TXN4818,vehicle,2024-02-05 00:12,192.168.1.7,success
+AL0262,Priya Admin,Verifier,Created promotion,RPT2765,promotion,2024-02-04 23:06,192.168.1.6,info
+AL0307,Priya Admin,Verifier,Exported CSV,TXN8261,export,2024-02-04 22:48,192.168.1.9,info
+AL0818,Priya Admin,Verifier,Deleted vehicle,BK1232,vehicle,2024-02-04 22:17,192.168.1.10,danger
+AL0168,Karan Finance,Finance Admin,Disabled promotion,V5570,promotion,2024-02-04 21:42,192.168.1.10,warning
+AL0191,Arjun Sharma,Super Admin,Exported CSV,RPT1517,export,2024-02-04 16:04,192.168.1.5,info
+AL0266,Meera Ops,Booking Manager,Logged in,RPT3823,auth,2024-02-04 14:36,192.168.1.7,info
+AL0318,Priya Admin,Verifier,Logged in,TXN9806,auth,2024-02-04 10:17,192.168.1.4,info
+AL0660,Priya Admin,Verifier,Disabled promotion,BK8749,promotion,2024-02-03 23:42,192.168.1.10,warning
+AL0638,Priya Admin,Verifier,Logged in,BK8671,auth,2024-02-03 22:13,192.168.1.9,info
+AL0128,Priya Admin,Verifier,Cancelled booking,V2860,booking,2024-02-03 22:06,192.168.1.6,warning
+AL0470,Karan Finance,Finance Admin,Created promotion,V4909,promotion,2024-02-03 20:43,192.168.1.5,info
+AL0661,Arjun Sharma,Super Admin,Marked payout pending,U4160,payout,2024-02-03 16:24,192.168.1.5,info
+AL0590,Priya Admin,Verifier,Exported CSV,RPT8494,export,2024-02-03 15:55,192.168.1.6,info
+AL0080,Karan Finance,Finance Admin,Logged in,TXN6088,auth,2024-02-03 15:25,192.168.1.9,info
+AL0374,Meera Ops,Booking Manager,Rejected KYC,V3235,kyc,2024-02-03 15:14,192.168.1.3,danger
+AL0993,Meera Ops,Booking Manager,Escalated report,TXN6228,report,2024-02-03 14:05,192.168.1.8,warning
+AL0759,Arjun Sharma,Super Admin,Created promotion,BK3310,promotion,2024-02-03 07:58,192.168.1.4,info
+AL0329,Meera Ops,Booking Manager,Escalated report,V1466,report,2024-02-03 06:43,192.168.1.3,warning
+AL0744,Meera Ops,Booking Manager,Unblocked user,V9115,user,2024-02-02 20:47,192.168.1.2,success
+AL0326,Meera Ops,Booking Manager,Issued refund,U6389,transaction,2024-02-02 17:52,192.168.1.1,warning
+AL0227,Meera Ops,Booking Manager,Approved KYC,BK2074,kyc,2024-02-02 12:27,192.168.1.5,success
+AL0246,Priya Admin,Verifier,Marked payout pending,RPT3487,payout,2024-02-02 08:36,192.168.1.2,info
+AL0069,Karan Finance,Finance Admin,Rejected vehicle,KYC8612,vehicle,2024-02-02 07:26,192.168.1.5,danger
+AL0812,Priya Admin,Verifier,Flagged transaction,U8046,transaction,2024-02-02 04:21,192.168.1.1,danger
+AL0752,Karan Finance,Finance Admin,Approved KYC,KYC2519,kyc,2024-02-02 00:27,192.168.1.8,success
+AL0946,Priya Admin,Verifier,Approved KYC,V7205,kyc,2024-02-01 23:57,192.168.1.1,success
+AL0755,Meera Ops,Booking Manager,Issued refund,BK9077,transaction,2024-02-01 22:27,192.168.1.1,warning
+AL0906,Priya Admin,Verifier,Disabled promotion,U6315,promotion,2024-02-01 19:12,192.168.1.6,warning
+AL0955,Arjun Sharma,Super Admin,Created promotion,KYC1334,promotion,2024-02-01 19:01,192.168.1.2,info
+AL0164,Karan Finance,Finance Admin,Disabled promotion,RPT1179,promotion,2024-02-01 18:12,192.168.1.1,warning
+AL0121,Karan Finance,Finance Admin,Flagged transaction,KYC8388,transaction,2024-02-01 18:01,192.168.1.1,danger
+AL0499,Meera Ops,Booking Manager,Resolved report,V1769,report,2024-02-01 15:16,192.168.1.10,success
+AL0510,Karan Finance,Finance Admin,Blocked user,BK9432,user,2024-02-01 13:23,192.168.1.3,warning
+AL0089,Karan Finance,Finance Admin,Resolved report,TXN2921,report,2024-02-01 09:24,192.168.1.9,success
+AL0462,Meera Ops,Booking Manager,Deleted vehicle,BK7025,vehicle,2024-02-01 08:38,192.168.1.7,danger
+AL0299,Karan Finance,Finance Admin,Deleted vehicle,RPT9820,vehicle,2024-02-01 04:42,192.168.1.9,danger
+AL0187,Priya Admin,Verifier,Resolved report,KYC1962,report,2024-02-01 02:50,192.168.1.5,success
+AL0816,Arjun Sharma,Super Admin,Logged in,KYC6439,auth,2024-02-01 02:36,192.168.1.10,info
+AL0756,Arjun Sharma,Super Admin,Escalated report,KYC7086,report,2024-01-31 20:00,192.168.1.6,warning
+AL0781,Karan Finance,Finance Admin,Issued refund,U8968,transaction,2024-01-31 18:24,192.168.1.7,warning
+AL0952,Arjun Sharma,Super Admin,Approved vehicle,V2660,vehicle,2024-01-31 17:01,192.168.1.9,success
+AL0537,Arjun Sharma,Super Admin,Logged in,KYC4776,auth,2024-01-31 07:45,192.168.1.5,info
+AL0528,Meera Ops,Booking Manager,Approved vehicle,U4700,vehicle,2024-01-31 06:17,192.168.1.10,success
+AL0482,Arjun Sharma,Super Admin,Exported CSV,U2139,export,2024-01-31 02:55,192.168.1.3,info
+AL0095,Meera Ops,Booking Manager,Rejected KYC,BK1370,kyc,2024-01-31 00:31,192.168.1.7,danger
+AL0579,Meera Ops,Booking Manager,Logged in,U7352,auth,2024-01-30 21:24,192.168.1.3,info
+AL0091,Karan Finance,Finance Admin,Rejected KYC,V8821,kyc,2024-01-30 16:12,192.168.1.5,danger
+AL0832,Priya Admin,Verifier,Rejected KYC,KYC1133,kyc,2024-01-30 15:19,192.168.1.5,danger
+AL0792,Meera Ops,Booking Manager,Marked payout pending,U9400,payout,2024-01-30 15:11,192.168.1.9,info
+AL0696,Arjun Sharma,Super Admin,Rejected KYC,BK3036,kyc,2024-01-30 11:54,192.168.1.9,danger
+AL0167,Meera Ops,Booking Manager,Unblocked user,U9307,user,2024-01-30 11:29,192.168.1.6,success
+AL0489,Priya Admin,Verifier,Logged in,V2068,auth,2024-01-30 11:02,192.168.1.5,info
+AL0739,Meera Ops,Booking Manager,Approved KYC,V3650,kyc,2024-01-30 09:14,192.168.1.5,success
+AL0403,Karan Finance,Finance Admin,Created promotion,U2725,promotion,2024-01-30 07:42,192.168.1.2,info
+AL0874,Priya Admin,Verifier,Marked payout pending,RPT9556,payout,2024-01-30 07:41,192.168.1.2,info
+AL0351,Priya Admin,Verifier,Issued refund,RPT2983,transaction,2024-01-30 02:38,192.168.1.4,warning
+AL0751,Karan Finance,Finance Admin,Updated role,TXN7584,settings,2024-01-29 23:21,192.168.1.1,warning
+AL0333,Karan Finance,Finance Admin,Logged out,KYC5854,auth,2024-01-29 21:33,192.168.1.1,info
+AL0578,Karan Finance,Finance Admin,Disabled promotion,KYC3110,promotion,2024-01-29 21:30,192.168.1.7,warning
+AL0119,Arjun Sharma,Super Admin,Cancelled booking,TXN5467,booking,2024-01-29 21:27,192.168.1.7,warning
+AL0970,Arjun Sharma,Super Admin,Approved vehicle,V8785,vehicle,2024-01-29 21:23,192.168.1.4,success
+AL0101,Karan Finance,Finance Admin,Marked payout pending,U3553,payout,2024-01-29 20:01,192.168.1.10,info
+AL0141,Karan Finance,Finance Admin,Marked payout pending,U5756,payout,2024-01-29 18:54,192.168.1.2,info
+AL0072,Priya Admin,Verifier,Logged out,BK5652,auth,2024-01-29 14:20,192.168.1.3,info
+AL0635,Meera Ops,Booking Manager,Escalated report,KYC1893,report,2024-01-29 07:23,192.168.1.4,warning
+AL0556,Karan Finance,Finance Admin,Created promotion,BK5758,promotion,2024-01-29 06:59,192.168.1.4,info
+AL0557,Meera Ops,Booking Manager,Disabled promotion,KYC3559,promotion,2024-01-29 05:46,192.168.1.1,warning
+AL0555,Meera Ops,Booking Manager,Marked payout pending,V3065,payout,2024-01-29 00:55,192.168.1.3,info
+AL0930,Karan Finance,Finance Admin,Unblocked user,KYC5790,user,2024-01-29 00:43,192.168.1.8,success
+AL0203,Priya Admin,Verifier,Resolved report,V8821,report,2024-01-28 16:57,192.168.1.6,success
+AL0154,Karan Finance,Finance Admin,Rejected vehicle,KYC7912,vehicle,2024-01-28 13:18,192.168.1.1,danger
+AL0975,Priya Admin,Verifier,Updated role,TXN3790,settings,2024-01-28 09:23,192.168.1.6,warning
+AL0589,Arjun Sharma,Super Admin,Updated role,U3131,settings,2024-01-28 09:09,192.168.1.9,warning
+AL0341,Meera Ops,Booking Manager,Resolved report,KYC4781,report,2024-01-28 08:27,192.168.1.9,success
+AL0954,Priya Admin,Verifier,Logged in,BK1915,auth,2024-01-28 05:36,192.168.1.2,info
+AL0076,Priya Admin,Verifier,Flagged transaction,U2796,transaction,2024-01-28 04:56,192.168.1.10,danger
+AL0140,Meera Ops,Booking Manager,Issued refund,BK8098,transaction,2024-01-27 23:47,192.168.1.2,warning
+AL0783,Karan Finance,Finance Admin,Resolved report,BK8884,report,2024-01-27 19:47,192.168.1.3,success
+AL0522,Arjun Sharma,Super Admin,Exported CSV,V2822,export,2024-01-27 18:25,192.168.1.3,info
+AL0030,Priya Admin,Verifier,Rejected KYC,RPT2585,kyc,2024-01-27 17:06,192.168.1.6,danger
+AL0260,Karan Finance,Finance Admin,Resolved report,U5319,report,2024-01-27 17:05,192.168.1.9,success
+AL0967,Karan Finance,Finance Admin,Logged out,U5366,auth,2024-01-27 16:35,192.168.1.7,info
+AL0703,Meera Ops,Booking Manager,Flagged transaction,V2341,transaction,2024-01-27 16:21,192.168.1.3,danger
+AL0430,Meera Ops,Booking Manager,Unblocked user,TXN2613,user,2024-01-27 11:35,192.168.1.10,success
+AL0790,Arjun Sharma,Super Admin,Logged in,BK3330,auth,2024-01-27 10:20,192.168.1.5,info
+AL0170,Meera Ops,Booking Manager,Issued refund,TXN7818,transaction,2024-01-27 09:19,192.168.1.2,warning
+AL0369,Meera Ops,Booking Manager,Approved KYC,TXN6090,kyc,2024-01-27 05:54,192.168.1.5,success
+AL0458,Priya Admin,Verifier,Flagged transaction,TXN4767,transaction,2024-01-27 05:39,192.168.1.6,danger
+AL0526,Meera Ops,Booking Manager,Disabled promotion,KYC1954,promotion,2024-01-27 00:35,192.168.1.9,warning
+AL0747,Karan Finance,Finance Admin,Logged out,TXN4368,auth,2024-01-26 23:00,192.168.1.7,info
+AL0928,Karan Finance,Finance Admin,Approved KYC,BK2088,kyc,2024-01-26 22:47,192.168.1.7,success
+AL0392,Karan Finance,Finance Admin,Logged in,RPT1286,auth,2024-01-26 20:09,192.168.1.10,info
+AL0733,Arjun Sharma,Super Admin,Flagged transaction,TXN6498,transaction,2024-01-26 16:40,192.168.1.3,danger
+AL0576,Meera Ops,Booking Manager,Disabled promotion,U2813,promotion,2024-01-26 10:21,192.168.1.5,warning
+AL0096,Priya Admin,Verifier,Rejected KYC,V4588,kyc,2024-01-26 07:52,192.168.1.6,danger
+AL0777,Meera Ops,Booking Manager,Logged out,RPT9828,auth,2024-01-25 22:31,192.168.1.4,info
+AL0878,Karan Finance,Finance Admin,Updated role,TXN9109,settings,2024-01-25 19:38,192.168.1.8,warning
+AL0293,Karan Finance,Finance Admin,Escalated report,V2436,report,2024-01-25 19:25,192.168.1.2,warning
+AL0286,Arjun Sharma,Super Admin,Updated role,RPT8976,settings,2024-01-25 17:49,192.168.1.5,warning
+AL0936,Arjun Sharma,Super Admin,Rejected KYC,V3958,kyc,2024-01-25 17:12,192.168.1.10,danger
+AL0728,Meera Ops,Booking Manager,Blocked user,BK8291,user,2024-01-25 14:54,192.168.1.7,warning
+AL0811,Arjun Sharma,Super Admin,Blocked user,V2360,user,2024-01-25 10:01,192.168.1.8,warning
+AL0716,Meera Ops,Booking Manager,Approved KYC,BK6591,kyc,2024-01-25 09:49,192.168.1.1,success
+AL0727,Arjun Sharma,Super Admin,Rejected KYC,TXN3928,kyc,2024-01-25 09:32,192.168.1.9,danger
+AL0001,Karan Finance,Finance Admin,Logged out,KYC1163,auth,2024-01-25 08:10,192.168.1.8,info
+AL0162,Karan Finance,Finance Admin,Marked payout pending,TXN6793,payout,2024-01-25 08:05,192.168.1.9,info
+AL0995,Karan Finance,Finance Admin,Marked payout pending,KYC2600,payout,2024-01-25 06:13,192.168.1.7,info
+AL0856,Priya Admin,Verifier,Escalated report,U7845,report,2024-01-25 04:54,192.168.1.5,warning
+AL0538,Karan Finance,Finance Admin,Rejected vehicle,TXN1744,vehicle,2024-01-25 02:36,192.168.1.9,danger
+AL0545,Priya Admin,Verifier,Logged in,RPT6024,auth,2024-01-25 00:27,192.168.1.2,info
+AL0518,Meera Ops,Booking Manager,Issued refund,TXN3920,transaction,2024-01-24 22:40,192.168.1.5,warning
+AL0875,Priya Admin,Verifier,Updated role,RPT5324,settings,2024-01-24 19:56,192.168.1.3,warning
+AL0530,Meera Ops,Booking Manager,Unblocked user,BK4114,user,2024-01-24 19:09,192.168.1.8,success
+AL0486,Priya Admin,Verifier,Resolved report,V7559,report,2024-01-24 14:57,192.168.1.3,success
+AL0005,Priya Admin,Verifier,Blocked user,BK8292,user,2024-01-24 14:26,192.168.1.2,warning
+AL0645,Meera Ops,Booking Manager,Marked payout pending,V1986,payout,2024-01-24 13:40,192.168.1.2,info
+AL0861,Karan Finance,Finance Admin,Unblocked user,V9871,user,2024-01-24 00:54,192.168.1.5,success
+AL0778,Priya Admin,Verifier,Logged out,U4945,auth,2024-01-23 23:13,192.168.1.9,info
+AL0860,Priya Admin,Verifier,Marked payout pending,TXN5228,payout,2024-01-23 22:55,192.168.1.4,info
+AL0382,Meera Ops,Booking Manager,Blocked user,U7557,user,2024-01-23 21:07,192.168.1.10,warning
+AL0271,Karan Finance,Finance Admin,Updated role,V8919,settings,2024-01-23 16:55,192.168.1.1,warning
+AL0656,Arjun Sharma,Super Admin,Escalated report,BK7249,report,2024-01-23 14:11,192.168.1.9,warning
+AL0041,Arjun Sharma,Super Admin,Unblocked user,BK4423,user,2024-01-23 13:31,192.168.1.9,success
+AL0857,Arjun Sharma,Super Admin,Approved vehicle,BK5500,vehicle,2024-01-23 11:19,192.168.1.3,success
+AL0741,Meera Ops,Booking Manager,Blocked user,RPT5063,user,2024-01-23 09:33,192.168.1.2,warning
+AL0037,Karan Finance,Finance Admin,Resolved report,TXN3556,report,2024-01-23 09:10,192.168.1.2,success
+AL0018,Karan Finance,Finance Admin,Blocked user,BK7538,user,2024-01-23 04:15,192.168.1.2,warning
+AL0566,Karan Finance,Finance Admin,Flagged transaction,KYC8034,transaction,2024-01-23 02:25,192.168.1.3,danger
+AL0476,Karan Finance,Finance Admin,Exported CSV,RPT1820,export,2024-01-23 00:45,192.168.1.8,info
+AL0533,Karan Finance,Finance Admin,Approved KYC,BK8237,kyc,2024-01-22 23:58,192.168.1.8,success
+AL0517,Meera Ops,Booking Manager,Escalated report,V6355,report,2024-01-22 21:11,192.168.1.7,warning
+AL0040,Meera Ops,Booking Manager,Rejected KYC,TXN4842,kyc,2024-01-22 20:29,192.168.1.8,danger
+AL0436,Karan Finance,Finance Admin,Updated role,TXN5180,settings,2024-01-22 20:26,192.168.1.1,warning
+AL0831,Meera Ops,Booking Manager,Exported CSV,V6982,export,2024-01-22 18:13,192.168.1.4,info
+AL0734,Priya Admin,Verifier,Cancelled booking,RPT1152,booking,2024-01-22 14:54,192.168.1.7,warning
+AL0415,Arjun Sharma,Super Admin,Cancelled booking,V1912,booking,2024-01-22 09:55,192.168.1.7,warning
+AL0965,Karan Finance,Finance Admin,Unblocked user,KYC7063,user,2024-01-22 08:44,192.168.1.10,success
+AL0757,Karan Finance,Finance Admin,Updated role,U1813,settings,2024-01-22 08:07,192.168.1.1,warning
+AL0764,Meera Ops,Booking Manager,Escalated report,V9666,report,2024-01-22 07:41,192.168.1.9,warning
+AL0866,Meera Ops,Booking Manager,Disabled promotion,U5592,promotion,2024-01-22 04:23,192.168.1.8,warning
+AL0803,Karan Finance,Finance Admin,Issued refund,U7883,transaction,2024-01-22 01:27,192.168.1.5,warning
+AL0651,Arjun Sharma,Super Admin,Approved KYC,U9252,kyc,2024-01-22 00:01,192.168.1.8,success
+AL0916,Meera Ops,Booking Manager,Flagged transaction,BK2790,transaction,2024-01-21 23:26,192.168.1.6,danger
+AL0480,Arjun Sharma,Super Admin,Disabled promotion,BK7974,promotion,2024-01-21 21:41,192.168.1.4,warning
+AL0588,Meera Ops,Booking Manager,Flagged transaction,RPT4548,transaction,2024-01-21 20:52,192.168.1.4,danger
+AL0224,Meera Ops,Booking Manager,Created promotion,BK6842,promotion,2024-01-21 20:50,192.168.1.1,info
+AL0130,Karan Finance,Finance Admin,Issued refund,V8104,transaction,2024-01-21 14:02,192.168.1.10,warning
+AL0105,Priya Admin,Verifier,Logged in,U9257,auth,2024-01-21 11:22,192.168.1.10,info
+AL0550,Karan Finance,Finance Admin,Logged out,KYC3093,auth,2024-01-21 04:52,192.168.1.2,info
+AL0348,Arjun Sharma,Super Admin,Marked payout pending,V9343,payout,2024-01-21 04:38,192.168.1.3,info
+AL0710,Arjun Sharma,Super Admin,Marked payout pending,V1130,payout,2024-01-21 01:33,192.168.1.9,info
+AL0511,Karan Finance,Finance Admin,Logged in,BK9951,auth,2024-01-20 21:53,192.168.1.1,info
+AL0704,Arjun Sharma,Super Admin,Blocked user,BK3347,user,2024-01-20 21:49,192.168.1.7,warning
+AL0308,Arjun Sharma,Super Admin,Blocked user,BK6809,user,2024-01-20 21:31,192.168.1.5,warning
+AL0636,Arjun Sharma,Super Admin,Marked payout pending,RPT3640,payout,2024-01-20 20:48,192.168.1.3,info
+AL0650,Arjun Sharma,Super Admin,Escalated report,U3647,report,2024-01-20 20:42,192.168.1.6,warning
+AL0766,Arjun Sharma,Super Admin,Disabled promotion,TXN4518,promotion,2024-01-20 19:48,192.168.1.9,warning
+AL0642,Arjun Sharma,Super Admin,Flagged transaction,U5004,transaction,2024-01-20 19:25,192.168.1.1,danger
+AL0564,Karan Finance,Finance Admin,Created promotion,RPT2025,promotion,2024-01-20 19:02,192.168.1.8,info
+AL0166,Meera Ops,Booking Manager,Escalated report,BK4931,report,2024-01-20 18:39,192.168.1.8,warning
+AL0360,Priya Admin,Verifier,Approved vehicle,KYC2680,vehicle,2024-01-20 15:34,192.168.1.2,success
+AL0624,Meera Ops,Booking Manager,Resolved report,KYC9981,report,2024-01-20 10:56,192.168.1.7,success
+AL0247,Arjun Sharma,Super Admin,Approved KYC,KYC1490,kyc,2024-01-20 05:41,192.168.1.10,success
+AL0149,Meera Ops,Booking Manager,Marked payout paid,U4999,payout,2024-01-20 05:16,192.168.1.10,success
+AL0668,Arjun Sharma,Super Admin,Created promotion,V5670,promotion,2024-01-20 03:49,192.168.1.3,info
+AL0298,Arjun Sharma,Super Admin,Marked payout pending,U2802,payout,2024-01-20 03:05,192.168.1.10,info
+AL0015,Karan Finance,Finance Admin,Deleted vehicle,TXN5560,vehicle,2024-01-20 02:50,192.168.1.1,danger
+AL0310,Arjun Sharma,Super Admin,Resolved report,BK6508,report,2024-01-20 01:59,192.168.1.9,success
+AL0234,Meera Ops,Booking Manager,Escalated report,V6046,report,2024-01-20 01:24,192.168.1.6,warning
+AL0840,Meera Ops,Booking Manager,Exported CSV,V1826,export,2024-01-20 00:04,192.168.1.10,info
+AL0402,Priya Admin,Verifier,Marked payout pending,U2715,payout,2024-01-19 22:54,192.168.1.2,info
+AL0968,Meera Ops,Booking Manager,Created promotion,TXN7735,promotion,2024-01-19 21:25,192.168.1.2,info
+AL0411,Meera Ops,Booking Manager,Resolved report,RPT7439,report,2024-01-19 19:17,192.168.1.2,success
+AL0345,Arjun Sharma,Super Admin,Created promotion,V9384,promotion,2024-01-19 17:20,192.168.1.6,info
+AL0377,Karan Finance,Finance Admin,Rejected vehicle,BK8074,vehicle,2024-01-19 14:07,192.168.1.3,danger
+AL0863,Arjun Sharma,Super Admin,Exported CSV,TXN7748,export,2024-01-19 14:06,192.168.1.5,info
+AL0919,Arjun Sharma,Super Admin,Flagged transaction,U6635,transaction,2024-01-19 09:15,192.168.1.8,danger
+AL0617,Arjun Sharma,Super Admin,Logged out,TXN2718,auth,2024-01-19 08:47,192.168.1.10,info
+AL0531,Karan Finance,Finance Admin,Flagged transaction,V7979,transaction,2024-01-19 03:37,192.168.1.3,danger
+AL0228,Priya Admin,Verifier,Created promotion,KYC2303,promotion,2024-01-19 02:00,192.168.1.3,info
+AL0287,Meera Ops,Booking Manager,Exported CSV,KYC9299,export,2024-01-18 22:02,192.168.1.6,info
+AL0605,Arjun Sharma,Super Admin,Logged in,U6667,auth,2024-01-18 21:10,192.168.1.9,info
+AL0440,Priya Admin,Verifier,Disabled promotion,BK9606,promotion,2024-01-18 21:01,192.168.1.2,warning
+AL0915,Karan Finance,Finance Admin,Disabled promotion,BK3590,promotion,2024-01-18 19:08,192.168.1.9,warning
+AL0272,Meera Ops,Booking Manager,Rejected KYC,BK1232,kyc,2024-01-18 19:02,192.168.1.3,danger
+AL0918,Karan Finance,Finance Admin,Logged in,TXN1478,auth,2024-01-18 17:13,192.168.1.7,info
+AL0136,Arjun Sharma,Super Admin,Marked payout pending,V9853,payout,2024-01-18 17:12,192.168.1.4,info
+AL0914,Karan Finance,Finance Admin,Deleted vehicle,TXN5947,vehicle,2024-01-18 16:28,192.168.1.10,danger
+AL0192,Karan Finance,Finance Admin,Blocked user,TXN6330,user,2024-01-18 14:50,192.168.1.4,warning
+AL0654,Arjun Sharma,Super Admin,Cancelled booking,BK4942,booking,2024-01-18 13:45,192.168.1.8,warning
+AL0836,Arjun Sharma,Super Admin,Blocked user,V2595,user,2024-01-18 12:53,192.168.1.6,warning
+AL0775,Arjun Sharma,Super Admin,Escalated report,U8729,report,2024-01-18 09:01,192.168.1.8,warning
+AL0935,Priya Admin,Verifier,Logged out,TXN2667,auth,2024-01-18 08:47,192.168.1.5,info
+AL0655,Arjun Sharma,Super Admin,Logged out,V5519,auth,2024-01-18 07:24,192.168.1.6,info
+AL0577,Meera Ops,Booking Manager,Approved vehicle,U7451,vehicle,2024-01-18 05:32,192.168.1.1,success
+AL0215,Priya Admin,Verifier,Marked payout paid,RPT7685,payout,2024-01-18 00:12,192.168.1.4,success
+AL0025,Priya Admin,Verifier,Resolved report,V9895,report,2024-01-17 22:37,192.168.1.1,success
+AL0216,Karan Finance,Finance Admin,Flagged transaction,U1297,transaction,2024-01-17 17:28,192.168.1.1,danger
+AL0122,Priya Admin,Verifier,Marked payout pending,TXN2415,payout,2024-01-17 11:43,192.168.1.10,info
+AL0758,Meera Ops,Booking Manager,Exported CSV,TXN1698,export,2024-01-17 09:18,192.168.1.9,info
+AL0087,Priya Admin,Verifier,Issued refund,RPT7176,transaction,2024-01-17 08:36,192.168.1.2,warning
+AL0439,Karan Finance,Finance Admin,Resolved report,TXN8053,report,2024-01-17 05:36,192.168.1.5,success
+AL0644,Priya Admin,Verifier,Unblocked user,U5323,user,2024-01-17 05:26,192.168.1.4,success
+AL0806,Karan Finance,Finance Admin,Logged out,RPT9845,auth,2024-01-17 03:27,192.168.1.4,info
+AL0448,Karan Finance,Finance Admin,Disabled promotion,V1703,promotion,2024-01-17 01:44,192.168.1.4,warning
+AL0034,Arjun Sharma,Super Admin,Rejected KYC,V8706,kyc,2024-01-17 00:52,192.168.1.1,danger
+AL0721,Karan Finance,Finance Admin,Marked payout paid,V9375,payout,2024-01-16 18:56,192.168.1.8,success
+AL0632,Priya Admin,Verifier,Disabled promotion,KYC6000,promotion,2024-01-16 18:55,192.168.1.2,warning
+AL0355,Arjun Sharma,Super Admin,Rejected vehicle,KYC6561,vehicle,2024-01-16 16:42,192.168.1.4,danger
+AL0649,Karan Finance,Finance Admin,Rejected KYC,RPT2035,kyc,2024-01-16 11:59,192.168.1.6,danger
+AL0574,Priya Admin,Verifier,Logged in,V3322,auth,2024-01-16 07:31,192.168.1.8,info
+AL0821,Priya Admin,Verifier,Rejected vehicle,U1214,vehicle,2024-01-16 05:12,192.168.1.7,danger
+AL0830,Priya Admin,Verifier,Logged in,U5380,auth,2024-01-16 01:19,192.168.1.10,info
+AL0219,Karan Finance,Finance Admin,Flagged transaction,KYC9186,transaction,2024-01-15 22:44,192.168.1.7,danger
+AL0732,Karan Finance,Finance Admin,Issued refund,V6145,transaction,2024-01-15 18:37,192.168.1.8,warning
+AL0362,Meera Ops,Booking Manager,Rejected vehicle,RPT5790,vehicle,2024-01-15 14:20,192.168.1.2,danger
+AL0910,Arjun Sharma,Super Admin,Created promotion,TXN4575,promotion,2024-01-15 13:28,192.168.1.2,info
+AL0350,Karan Finance,Finance Admin,Rejected vehicle,V3083,vehicle,2024-01-15 12:24,192.168.1.4,danger
+AL0488,Karan Finance,Finance Admin,Rejected KYC,RPT8058,kyc,2024-01-15 07:21,192.168.1.9,danger
+AL0948,Karan Finance,Finance Admin,Marked payout pending,U4424,payout,2024-01-15 06:24,192.168.1.9,info
+AL0616,Arjun Sharma,Super Admin,Created promotion,V6930,promotion,2024-01-15 01:32,192.168.1.1,info
+AL0297,Arjun Sharma,Super Admin,Flagged transaction,KYC3069,transaction,2024-01-14 21:49,192.168.1.8,danger
+AL0958,Meera Ops,Booking Manager,Blocked user,KYC1303,user,2024-01-14 20:05,192.168.1.7,warning
+AL0824,Karan Finance,Finance Admin,Rejected KYC,BK2526,kyc,2024-01-14 18:53,192.168.1.7,danger
+AL0038,Meera Ops,Booking Manager,Marked payout paid,BK9936,payout,2024-01-14 16:04,192.168.1.2,success
+AL0773,Arjun Sharma,Super Admin,Approved vehicle,TXN6998,vehicle,2024-01-14 11:19,192.168.1.6,success
+AL0974,Meera Ops,Booking Manager,Marked payout paid,TXN7303,payout,2024-01-14 09:44,192.168.1.8,success
+AL0225,Arjun Sharma,Super Admin,Flagged transaction,KYC8857,transaction,2024-01-14 09:21,192.168.1.9,danger
+AL0712,Karan Finance,Finance Admin,Cancelled booking,KYC1963,booking,2024-01-14 05:54,192.168.1.10,warning
+AL0885,Meera Ops,Booking Manager,Issued refund,KYC9757,transaction,2024-01-14 05:28,192.168.1.6,warning
+AL0823,Meera Ops,Booking Manager,Logged out,V7181,auth,2024-01-14 05:14,192.168.1.7,info
+AL0111,Meera Ops,Booking Manager,Blocked user,BK7932,user,2024-01-14 04:18,192.168.1.8,warning
+AL0322,Priya Admin,Verifier,Deleted vehicle,V2771,vehicle,2024-01-14 03:17,192.168.1.4,danger
+AL0032,Priya Admin,Verifier,Resolved report,KYC8199,report,2024-01-14 02:18,192.168.1.2,success
+AL0222,Karan Finance,Finance Admin,Deleted vehicle,TXN2500,vehicle,2024-01-13 17:21,192.168.1.9,danger
+AL0315,Karan Finance,Finance Admin,Blocked user,V8967,user,2024-01-13 16:23,192.168.1.10,warning
+AL0213,Priya Admin,Verifier,Approved vehicle,TXN5182,vehicle,2024-01-13 15:46,192.168.1.9,success
+AL0904,Karan Finance,Finance Admin,Logged out,RPT7369,auth,2024-01-13 15:00,192.168.1.2,info
+AL0208,Karan Finance,Finance Admin,Resolved report,RPT5771,report,2024-01-13 14:30,192.168.1.7,success
+AL0560,Meera Ops,Booking Manager,Rejected vehicle,V7139,vehicle,2024-01-13 13:12,192.168.1.6,danger
+AL0877,Karan Finance,Finance Admin,Unblocked user,RPT9069,user,2024-01-13 10:33,192.168.1.1,success
+AL0943,Priya Admin,Verifier,Rejected KYC,BK4034,kyc,2024-01-13 06:13,192.168.1.4,danger
+AL0659,Karan Finance,Finance Admin,Logged out,U8660,auth,2024-01-13 05:50,192.168.1.6,info
+AL0210,Priya Admin,Verifier,Cancelled booking,RPT6245,booking,2024-01-13 04:41,192.168.1.3,warning
+AL0380,Priya Admin,Verifier,Cancelled booking,BK8762,booking,2024-01-13 03:54,192.168.1.1,warning
+AL0990,Priya Admin,Verifier,Disabled promotion,BK5961,promotion,2024-01-12 22:45,192.168.1.7,warning
+AL0988,Arjun Sharma,Super Admin,Marked payout paid,RPT9816,payout,2024-01-12 22:29,192.168.1.1,success
+AL0221,Arjun Sharma,Super Admin,Approved vehicle,V8123,vehicle,2024-01-12 21:42,192.168.1.2,success
+AL0401,Priya Admin,Verifier,Deleted vehicle,V6511,vehicle,2024-01-12 21:24,192.168.1.10,danger
+AL0100,Priya Admin,Verifier,Marked payout pending,KYC9402,payout,2024-01-12 20:59,192.168.1.9,info
+AL0249,Priya Admin,Verifier,Rejected vehicle,U9458,vehicle,2024-01-12 20:13,192.168.1.10,danger
+AL0197,Arjun Sharma,Super Admin,Rejected vehicle,U4587,vehicle,2024-01-12 16:38,192.168.1.8,danger
+AL0152,Karan Finance,Finance Admin,Resolved report,RPT3762,report,2024-01-12 14:41,192.168.1.4,success
+AL0509,Karan Finance,Finance Admin,Cancelled booking,BK6079,booking,2024-01-12 14:06,192.168.1.5,warning
+AL0134,Meera Ops,Booking Manager,Approved vehicle,TXN1163,vehicle,2024-01-12 12:51,192.168.1.7,success
+AL0720,Priya Admin,Verifier,Resolved report,U9478,report,2024-01-12 12:22,192.168.1.9,success
+AL0135,Arjun Sharma,Super Admin,Marked payout paid,RPT7877,payout,2024-01-12 05:45,192.168.1.5,success
+AL0682,Meera Ops,Booking Manager,Approved vehicle,V4359,vehicle,2024-01-11 23:20,192.168.1.2,success
+AL0022,Karan Finance,Finance Admin,Created promotion,BK2402,promotion,2024-01-11 18:24,192.168.1.9,info
+AL0004,Karan Finance,Finance Admin,Updated role,TXN5871,settings,2024-01-11 15:58,192.168.1.10,warning
+AL0981,Meera Ops,Booking Manager,Approved KYC,KYC2511,kyc,2024-01-11 15:35,192.168.1.3,success
+AL0898,Meera Ops,Booking Manager,Disabled promotion,U1639,promotion,2024-01-11 13:08,192.168.1.8,warning
+AL0959,Meera Ops,Booking Manager,Marked payout pending,RPT6476,payout,2024-01-11 12:14,192.168.1.7,info
+AL0477,Meera Ops,Booking Manager,Logged in,TXN1486,auth,2024-01-11 11:08,192.168.1.1,info
+AL0809,Karan Finance,Finance Admin,Rejected KYC,RPT4977,kyc,2024-01-11 08:26,192.168.1.5,danger
+AL0653,Arjun Sharma,Super Admin,Issued refund,KYC8946,transaction,2024-01-11 08:13,192.168.1.4,warning
+AL0132,Karan Finance,Finance Admin,Marked payout paid,KYC7924,payout,2024-01-11 07:18,192.168.1.1,success
+AL0346,Karan Finance,Finance Admin,Updated role,BK2985,settings,2024-01-11 07:08,192.168.1.10,warning
+AL0245,Meera Ops,Booking Manager,Updated role,KYC3955,settings,2024-01-11 04:27,192.168.1.2,warning
+AL0264,Arjun Sharma,Super Admin,Resolved report,U5442,report,2024-01-11 04:12,192.168.1.9,success
+AL0559,Meera Ops,Booking Manager,Updated role,U8215,settings,2024-01-11 03:22,192.168.1.1,warning
+AL0422,Arjun Sharma,Super Admin,Rejected KYC,TXN9810,kyc,2024-01-11 00:31,192.168.1.7,danger
+AL0547,Meera Ops,Booking Manager,Escalated report,KYC2583,report,2024-01-10 18:53,192.168.1.10,warning
+AL0256,Meera Ops,Booking Manager,Logged in,U5578,auth,2024-01-10 16:54,192.168.1.5,info
+AL0367,Karan Finance,Finance Admin,Blocked user,RPT6167,user,2024-01-10 16:27,192.168.1.7,warning
+AL0762,Meera Ops,Booking Manager,Marked payout paid,BK9226,payout,2024-01-10 15:53,192.168.1.9,success
+AL0535,Priya Admin,Verifier,Deleted vehicle,KYC7579,vehicle,2024-01-10 12:25,192.168.1.3,danger
+AL0386,Priya Admin,Verifier,Rejected KYC,RPT3888,kyc,2024-01-10 12:08,192.168.1.1,danger
+AL0006,Meera Ops,Booking Manager,Escalated report,V5590,report,2024-01-10 08:32,192.168.1.9,warning
+AL0554,Arjun Sharma,Super Admin,Logged in,TXN3585,auth,2024-01-10 00:15,192.168.1.5,info
+AL0879,Priya Admin,Verifier,Rejected vehicle,U1802,vehicle,2024-01-09 23:26,192.168.1.4,danger
+AL0281,Meera Ops,Booking Manager,Exported CSV,U7946,export,2024-01-09 22:33,192.168.1.6,info
+AL0698,Karan Finance,Finance Admin,Marked payout paid,U4344,payout,2024-01-09 15:56,192.168.1.2,success
+AL0423,Meera Ops,Booking Manager,Created promotion,BK4517,promotion,2024-01-09 13:08,192.168.1.5,info
+AL0231,Priya Admin,Verifier,Approved vehicle,RPT7329,vehicle,2024-01-09 13:06,192.168.1.1,success
+AL0375,Karan Finance,Finance Admin,Escalated report,BK1229,report,2024-01-09 13:02,192.168.1.3,warning
+AL0500,Karan Finance,Finance Admin,Exported CSV,BK5612,export,2024-01-09 11:43,192.168.1.8,info
+AL0010,Arjun Sharma,Super Admin,Blocked user,TXN4397,user,2024-01-09 11:07,192.168.1.4,warning
+AL0073,Priya Admin,Verifier,Marked payout paid,TXN9950,payout,2024-01-09 10:02,192.168.1.9,success
+AL0433,Arjun Sharma,Super Admin,Created promotion,TXN3601,promotion,2024-01-09 09:27,192.168.1.8,info
+AL0035,Priya Admin,Verifier,Blocked user,RPT5077,user,2024-01-09 09:14,192.168.1.3,warning
+AL0992,Arjun Sharma,Super Admin,Rejected vehicle,U7720,vehicle,2024-01-09 07:52,192.168.1.7,danger
+AL0905,Karan Finance,Finance Admin,Logged out,U8187,auth,2024-01-09 06:41,192.168.1.10,info
+AL0730,Meera Ops,Booking Manager,Created promotion,V4634,promotion,2024-01-09 06:37,192.168.1.2,info
+AL0900,Meera Ops,Booking Manager,Flagged transaction,U2483,transaction,2024-01-09 05:24,192.168.1.7,danger
+AL0387,Karan Finance,Finance Admin,Blocked user,RPT6951,user,2024-01-09 05:07,192.168.1.7,warning
+AL0020,Karan Finance,Finance Admin,Logged out,V6478,auth,2024-01-09 03:26,192.168.1.9,info
+AL0485,Arjun Sharma,Super Admin,Disabled promotion,U6613,promotion,2024-01-09 00:33,192.168.1.1,warning
+AL0094,Karan Finance,Finance Admin,Cancelled booking,RPT3687,booking,2024-01-09 00:28,192.168.1.4,warning
+AL0042,Karan Finance,Finance Admin,Marked payout pending,U6939,payout,2024-01-08 21:39,192.168.1.6,info
+AL0406,Priya Admin,Verifier,Marked payout paid,V6708,payout,2024-01-08 17:06,192.168.1.7,success
+AL0445,Priya Admin,Verifier,Exported CSV,KYC6377,export,2024-01-08 15:58,192.168.1.2,info
+AL0869,Karan Finance,Finance Admin,Logged out,U3622,auth,2024-01-08 15:22,192.168.1.8,info
+AL0513,Priya Admin,Verifier,Rejected KYC,BK9540,kyc,2024-01-08 13:35,192.168.1.8,danger
+AL0934,Karan Finance,Finance Admin,Flagged transaction,V3196,transaction,2024-01-08 10:25,192.168.1.8,danger
+AL0572,Karan Finance,Finance Admin,Logged in,V4173,auth,2024-01-08 07:59,192.168.1.8,info
+AL0908,Arjun Sharma,Super Admin,Deleted vehicle,TXN7288,vehicle,2024-01-08 06:51,192.168.1.1,danger
+AL0028,Meera Ops,Booking Manager,Resolved report,U5887,report,2024-01-08 03:15,192.168.1.3,success
+AL0890,Priya Admin,Verifier,Updated role,BK3691,settings,2024-01-08 02:37,192.168.1.2,warning
+AL0629,Priya Admin,Verifier,Approved vehicle,RPT4347,vehicle,2024-01-08 01:43,192.168.1.3,success
+AL0255,Meera Ops,Booking Manager,Deleted vehicle,TXN7682,vehicle,2024-01-07 22:09,192.168.1.9,danger
+AL0794,Meera Ops,Booking Manager,Resolved report,V3886,report,2024-01-07 21:39,192.168.1.10,success
+AL0026,Meera Ops,Booking Manager,Marked payout pending,KYC6437,payout,2024-01-07 20:46,192.168.1.1,info
+AL0207,Arjun Sharma,Super Admin,Marked payout paid,V9670,payout,2024-01-07 20:25,192.168.1.6,success
+AL0956,Meera Ops,Booking Manager,Flagged transaction,TXN4963,transaction,2024-01-07 14:27,192.168.1.3,danger
+AL0647,Karan Finance,Finance Admin,Rejected vehicle,KYC2310,vehicle,2024-01-07 14:26,192.168.1.2,danger
+AL0468,Arjun Sharma,Super Admin,Marked payout paid,RPT4971,payout,2024-01-07 12:02,192.168.1.5,success
+AL0102,Meera Ops,Booking Manager,Updated role,U6979,settings,2024-01-07 09:24,192.168.1.10,warning
+AL0834,Arjun Sharma,Super Admin,Disabled promotion,V1341,promotion,2024-01-07 09:18,192.168.1.10,warning
+AL0024,Meera Ops,Booking Manager,Logged in,V6256,auth,2024-01-07 08:54,192.168.1.8,info
+AL0519,Meera Ops,Booking Manager,Issued refund,U6572,transaction,2024-01-07 03:16,192.168.1.8,warning
+AL0793,Priya Admin,Verifier,Blocked user,KYC4610,user,2024-01-07 00:05,192.168.1.10,warning
+AL0920,Arjun Sharma,Super Admin,Created promotion,U9699,promotion,2024-01-06 21:54,192.168.1.3,info
+AL0929,Priya Admin,Verifier,Deleted vehicle,U7258,vehicle,2024-01-06 16:30,192.168.1.2,danger
+AL0054,Arjun Sharma,Super Admin,Deleted vehicle,RPT1052,vehicle,2024-01-06 16:25,192.168.1.8,danger
+AL0259,Priya Admin,Verifier,Updated role,U1662,settings,2024-01-06 15:55,192.168.1.8,warning
+AL0184,Priya Admin,Verifier,Flagged transaction,BK8466,transaction,2024-01-06 12:19,192.168.1.2,danger
+AL0450,Priya Admin,Verifier,Flagged transaction,BK1900,transaction,2024-01-06 11:28,192.168.1.5,danger
+AL0940,Karan Finance,Finance Admin,Disabled promotion,TXN9390,promotion,2024-01-06 08:04,192.168.1.2,warning
+AL0200,Karan Finance,Finance Admin,Deleted vehicle,RPT9771,vehicle,2024-01-06 02:14,192.168.1.6,danger
+AL0666,Arjun Sharma,Super Admin,Updated role,TXN8394,settings,2024-01-05 14:12,192.168.1.6,warning
+AL0064,Karan Finance,Finance Admin,Updated role,V2301,settings,2024-01-05 12:57,192.168.1.3,warning
+AL0612,Priya Admin,Verifier,Rejected KYC,BK5917,kyc,2024-01-05 12:31,192.168.1.8,danger
+AL0902,Meera Ops,Booking Manager,Disabled promotion,V6515,promotion,2024-01-05 07:16,192.168.1.6,warning
+AL0669,Arjun Sharma,Super Admin,Exported CSV,TXN4387,export,2024-01-05 03:35,192.168.1.6,info
+AL0288,Priya Admin,Verifier,Resolved report,U7409,report,2024-01-05 00:27,192.168.1.2,success
+AL0175,Karan Finance,Finance Admin,Rejected vehicle,TXN5338,vehicle,2024-01-04 23:23,192.168.1.7,danger
+AL0481,Priya Admin,Verifier,Created promotion,TXN2328,promotion,2024-01-04 18:31,192.168.1.1,info
+AL0923,Arjun Sharma,Super Admin,Approved vehicle,U2854,vehicle,2024-01-04 18:31,192.168.1.10,success
+AL0276,Priya Admin,Verifier,Disabled promotion,RPT5445,promotion,2024-01-04 17:10,192.168.1.9,warning
+AL0817,Arjun Sharma,Super Admin,Approved KYC,U9609,kyc,2024-01-04 14:39,192.168.1.5,success
+AL0583,Arjun Sharma,Super Admin,Approved KYC,U2960,kyc,2024-01-04 13:55,192.168.1.10,success
+AL0881,Meera Ops,Booking Manager,Logged in,RPT1457,auth,2024-01-04 13:31,192.168.1.2,info
+AL0640,Priya Admin,Verifier,Exported CSV,BK4607,export,2024-01-04 11:48,192.168.1.3,info
+AL0808,Karan Finance,Finance Admin,Marked payout paid,V4372,payout,2024-01-04 10:46,192.168.1.6,success
+AL0901,Meera Ops,Booking Manager,Disabled promotion,TXN1231,promotion,2024-01-04 06:57,192.168.1.5,warning
+AL0695,Arjun Sharma,Super Admin,Logged in,BK4675,auth,2024-01-04 01:03,192.168.1.4,info
+AL0494,Priya Admin,Verifier,Updated role,U9275,settings,2024-01-03 23:52,192.168.1.8,warning
+AL0662,Meera Ops,Booking Manager,Marked payout paid,KYC2147,payout,2024-01-03 19:00,192.168.1.8,success
+AL0379,Arjun Sharma,Super Admin,Disabled promotion,BK6444,promotion,2024-01-03 17:26,192.168.1.10,warning
+AL0280,Meera Ops,Booking Manager,Logged out,RPT1594,auth,2024-01-03 11:55,192.168.1.9,info
+AL0328,Karan Finance,Finance Admin,Deleted vehicle,BK6426,vehicle,2024-01-03 10:17,192.168.1.5,danger
+AL0997,Meera Ops,Booking Manager,Resolved report,V6468,report,2024-01-03 02:28,192.168.1.9,success
+AL0172,Arjun Sharma,Super Admin,Rejected KYC,U6226,kyc,2024-01-03 00:51,192.168.1.4,danger
+AL0847,Priya Admin,Verifier,Disabled promotion,V7524,promotion,2024-01-02 23:41,192.168.1.2,warning
+AL0504,Meera Ops,Booking Manager,Disabled promotion,V5130,promotion,2024-01-02 23:03,192.168.1.3,warning
+AL0487,Karan Finance,Finance Admin,Deleted vehicle,BK3238,vehicle,2024-01-02 22:38,192.168.1.5,danger
+AL0343,Priya Admin,Verifier,Unblocked user,V9687,user,2024-01-02 16:10,192.168.1.3,success
+AL0201,Meera Ops,Booking Manager,Logged in,U2585,auth,2024-01-02 12:06,192.168.1.8,info
+AL0427,Meera Ops,Booking Manager,Created promotion,KYC7077,promotion,2024-01-02 11:10,192.168.1.8,info
+AL0619,Meera Ops,Booking Manager,Resolved report,KYC9592,report,2024-01-02 10:34,192.168.1.5,success
+AL0687,Arjun Sharma,Super Admin,Logged out,TXN4063,auth,2024-01-02 07:21,192.168.1.6,info
+AL0452,Arjun Sharma,Super Admin,Issued refund,TXN4292,transaction,2024-01-01 23:36,192.168.1.6,warning
+AL0108,Priya Admin,Verifier,Rejected vehicle,RPT2216,vehicle,2024-01-01 23:24,192.168.1.8,danger
+AL0398,Meera Ops,Booking Manager,Exported CSV,BK6255,export,2024-01-01 23:20,192.168.1.6,info
+AL0220,Priya Admin,Verifier,Escalated report,BK8020,report,2024-01-01 22:27,192.168.1.7,warning
+AL0689,Arjun Sharma,Super Admin,Marked payout paid,TXN9468,payout,2024-01-01 16:09,192.168.1.10,success
+AL0541,Karan Finance,Finance Admin,Unblocked user,BK6937,user,2024-01-01 14:13,192.168.1.5,success
+AL0598,Meera Ops,Booking Manager,Approved vehicle,BK6134,vehicle,2024-01-01 10:23,192.168.1.5,success
+AL0405,Meera Ops,Booking Manager,Exported CSV,V5839,export,2024-01-01 10:00,192.168.1.4,info
+AL0356,Priya Admin,Verifier,Approved KYC,BK8854,kyc,2024-01-01 08:17,192.168.1.9,success

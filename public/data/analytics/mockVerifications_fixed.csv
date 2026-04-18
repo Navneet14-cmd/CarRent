@@ -1,0 +1,1001 @@
+id,entityId,name,type,doc,submitted,status,aiCheck,priority,reviewer,reviewedDate,notes
+KYC0001,U274,Shreya Srivastava,Address Proof,Utility Bill,2024-01-22,approved,Pass,High,Priya Admin,2024-04-07,Auto-cleared by AI
+KYC0002,OWN0819,Tarun Tiwari,Driving License,DL + Selfie,2024-01-26,rejected,Pass,Medium,Arjun Sharma,2024-03-17,
+KYC0003,OWN0613,Ishaan Rao,Insurance,Policy + Receipt,2024-03-25,rejected,Pass,Low,Arjun Sharma,2024-03-30,
+KYC0004,OWN0568,Karan Mishra,Driving License,DL + Selfie,2024-02-02,approved,Pass,Medium,Arjun Sharma,2024-02-16,Auto-cleared by AI
+KYC0005,U316,Ananya Kumar,Address Proof,Utility Bill,2024-03-25,approved,Pass,High,Arjun Sharma,2024-04-06,Auto-cleared by AI
+KYC0006,OWN0129,Dev Sharma,Driving License,DL Upload,2024-02-29,approved,Pass,Low,Karan Finance,2024-04-09,Auto-cleared by AI
+KYC0007,OWN0687,Tarun Mishra,Address Proof,Utility Bill,2024-01-13,pending,Pass,Low,Karan Finance,,
+KYC0008,OWN0676,Sneha Nair,Address Proof,Aadhaar,2024-02-03,pending,Suspicious,Low,Priya Admin,,
+KYC0009,OWN0517,Vikram Bose,Insurance,Policy Upload,2024-01-25,rejected,Pass,Medium,,2024-03-19,
+KYC0010,OWN0240,Sonal Joshi,Address Proof,Passport,2024-03-04,approved,Pass,Medium,Priya Admin,2024-03-23,Auto-cleared by AI
+KYC0011,OWN0209,Priya Bose,Owner KYC,Aadhaar + PAN,2024-03-03,pending,Suspicious,Low,Arjun Sharma,,
+KYC0012,OWN0507,Arjun Agarwal,Address Proof,Aadhaar,2024-03-24,approved,Pass,High,Arjun Sharma,2024-04-08,Auto-cleared by AI
+KYC0013,U154,Rahul Kumar,Insurance,Policy Upload,2024-01-15,approved,Pass,High,Arjun Sharma,2024-02-26,Auto-cleared by AI
+KYC0014,U408,Pooja Mehta,Vehicle RC,RC + Insurance,2024-03-08,rejected,Pass,Low,,2024-03-18,
+KYC0015,U006,Aman Gupta,Owner KYC,PAN + GST,2024-02-03,rejected,Suspicious,Medium,,2024-02-15,
+KYC0016,OWN0942,Divya Srivastava,Insurance,Policy Upload,2024-04-09,approved,Pass,Medium,Arjun Sharma,2024-04-10,Auto-cleared by AI
+KYC0017,OWN0756,Meena Srivastava,Insurance,Policy + Receipt,2024-01-29,approved,Pass,Medium,Priya Admin,2024-03-18,Auto-cleared by AI
+KYC0018,U243,Mohan Pandey,Insurance,Policy Upload,2024-01-24,rejected,Suspicious,Low,Priya Admin,2024-03-22,
+KYC0019,OWN0246,Arjun Singh,Driving License,DL + Selfie,2024-02-25,approved,Suspicious,Medium,,2024-03-06,
+KYC0020,OWN0242,Neha Tiwari,Vehicle RC,RC + Insurance,2024-02-16,approved,Pass,Medium,Priya Admin,2024-04-05,Auto-cleared by AI
+KYC0021,OWN0132,Mohan Mishra,Insurance,Policy Upload,2024-02-29,pending,Pass,Low,,,
+KYC0022,U010,Tarun Agarwal,Insurance,Policy + Receipt,2024-01-27,approved,Pass,Medium,,2024-04-01,Auto-cleared by AI
+KYC0023,OWN0361,Mohan Das,Address Proof,Aadhaar,2024-03-29,approved,Suspicious,High,Karan Finance,2024-04-08,
+KYC0024,OWN0481,Nisha Pandey,Address Proof,Passport,2024-03-01,pending,Pass,High,Priya Admin,,
+KYC0025,OWN0284,Rahul Mehta,Driving License,DL Upload,2024-02-22,pending,Pass,High,,,
+KYC0026,OWN0718,Aakash Tiwari,Insurance,Policy + Receipt,2024-03-25,approved,Fail,Low,Karan Finance,2024-04-04,
+KYC0027,OWN0032,Meena Shah,Address Proof,Passport,2024-02-26,approved,Pass,Medium,,2024-03-02,Auto-cleared by AI
+KYC0028,OWN0408,Sneha Rao,Vehicle RC,RC + Insurance,2024-02-15,approved,Fail,Low,Arjun Sharma,2024-03-31,
+KYC0029,OWN0515,Sneha Srivastava,Driving License,DL Upload,2024-02-02,pending,Pass,Medium,Arjun Sharma,,
+KYC0030,OWN0316,Nisha Shah,Address Proof,Utility Bill,2024-04-02,pending,Fail,Low,Karan Finance,,
+KYC0031,U067,Rohit Das,Vehicle RC,RC + Insurance,2024-01-04,pending,Pass,Medium,Karan Finance,,
+KYC0032,OWN0326,Amit Tiwari,Driving License,DL Upload,2024-03-09,pending,Fail,High,Arjun Sharma,,
+KYC0033,U088,Tarun Reddy,Driving License,DL + Selfie,2024-02-22,approved,Pass,Low,Arjun Sharma,2024-03-23,Auto-cleared by AI
+KYC0034,U003,Priya Tiwari,Driving License,DL + Selfie,2024-02-28,pending,Pass,High,Karan Finance,,
+KYC0035,OWN0335,Ishaan Yadav,Owner KYC,Aadhaar + GST,2024-02-10,pending,Fail,Medium,,,
+KYC0036,OWN0457,Ritika Pandey,Address Proof,Utility Bill,2024-02-25,pending,Pass,Medium,Karan Finance,,
+KYC0037,OWN0495,Karan Yadav,Insurance,Policy Upload,2024-02-25,approved,Pass,Low,,2024-03-12,Auto-cleared by AI
+KYC0038,OWN0081,Kavya Bose,Owner KYC,Aadhaar + PAN,2024-02-12,approved,Pass,High,Arjun Sharma,2024-02-13,Auto-cleared by AI
+KYC0039,U226,Dev Das,Driving License,DL + Selfie,2024-03-21,approved,Pass,High,Karan Finance,2024-04-06,Auto-cleared by AI
+KYC0040,U415,Sonal Nair,Vehicle RC,RC Upload,2024-03-16,rejected,Pass,Low,Arjun Sharma,2024-03-29,
+KYC0041,OWN0053,Rajesh Tiwari,Owner KYC,PAN + GST,2024-02-03,pending,Pass,Low,Priya Admin,,
+KYC0042,OWN0340,Mohan Mehta,Vehicle RC,RC Upload,2024-01-03,rejected,Pass,High,,2024-01-06,
+KYC0043,U124,Shreya Nair,Insurance,Policy + Receipt,2024-03-08,approved,Pass,High,Arjun Sharma,2024-03-18,Auto-cleared by AI
+KYC0044,U448,Meena Kumar,Address Proof,Passport,2024-01-24,pending,Fail,High,Priya Admin,,
+KYC0045,OWN0567,Deepa Bose,Insurance,Policy + Receipt,2024-02-29,pending,Suspicious,Low,Arjun Sharma,,
+KYC0046,OWN0185,Rajesh Sharma,Driving License,DL Upload,2024-02-01,approved,Pass,Medium,Arjun Sharma,2024-02-06,Auto-cleared by AI
+KYC0047,OWN0048,Divya Agarwal,Insurance,Policy Upload,2024-03-23,approved,Pass,Medium,,2024-04-08,Auto-cleared by AI
+KYC0048,OWN0588,Pooja Srivastava,Driving License,DL + Selfie,2024-04-07,approved,Suspicious,Medium,Priya Admin,2024-04-07,
+KYC0049,U437,Ananya Srivastava,Driving License,DL + Selfie,2024-02-02,approved,Fail,Low,Karan Finance,2024-03-09,
+KYC0050,U379,Aditi Nair,Owner KYC,PAN + GST,2024-02-07,rejected,Suspicious,High,Arjun Sharma,2024-03-02,
+KYC0051,OWN0025,Sneha Pandey,Owner KYC,Aadhaar + PAN,2024-02-27,approved,Pass,Medium,Arjun Sharma,2024-03-25,Auto-cleared by AI
+KYC0052,OWN0047,Ravi Reddy,Insurance,Policy + Receipt,2024-04-05,approved,Fail,Low,Arjun Sharma,2024-04-09,
+KYC0053,U442,Tarun Bose,Address Proof,Aadhaar,2024-03-25,approved,Pass,High,Priya Admin,2024-03-26,Auto-cleared by AI
+KYC0054,U317,Aman Mishra,Insurance,Policy + Receipt,2024-03-21,rejected,Pass,Medium,Arjun Sharma,2024-03-24,
+KYC0055,OWN0744,Rahul Yadav,Vehicle RC,RC + Insurance,2024-01-21,pending,Suspicious,Medium,Priya Admin,,
+KYC0056,OWN0234,Ritika Patel,Owner KYC,Aadhaar + GST,2024-03-17,approved,Pass,Medium,Arjun Sharma,2024-03-24,Auto-cleared by AI
+KYC0057,OWN0064,Neha Tiwari,Owner KYC,Aadhaar + PAN,2024-02-26,approved,Suspicious,Low,,2024-03-10,
+KYC0058,U441,Ravi Tiwari,Driving License,DL Upload,2024-01-04,pending,Suspicious,Medium,Karan Finance,,
+KYC0059,U287,Priya Das,Owner KYC,PAN + GST,2024-01-03,pending,Pass,High,,,
+KYC0060,U255,Pooja Reddy,Address Proof,Passport,2024-01-17,approved,Pass,High,Priya Admin,2024-01-24,Auto-cleared by AI
+KYC0061,OWN0558,Rajesh Joshi,Vehicle RC,RC + Insurance,2024-02-08,approved,Fail,Medium,,2024-03-17,
+KYC0062,OWN0055,Tarun Yadav,Insurance,Policy + Receipt,2024-01-27,approved,Pass,Medium,Karan Finance,2024-02-26,Auto-cleared by AI
+KYC0063,OWN0496,Amit Mehta,Address Proof,Aadhaar,2024-01-14,approved,Pass,Low,Priya Admin,2024-03-19,Auto-cleared by AI
+KYC0064,U202,Sonal Tiwari,Driving License,DL + Selfie,2024-02-25,rejected,Pass,High,Karan Finance,2024-03-19,
+KYC0065,OWN0855,Nikhil Reddy,Insurance,Policy Upload,2024-03-28,approved,Pass,Medium,Karan Finance,2024-04-06,Auto-cleared by AI
+KYC0066,OWN0367,Neha Bose,Owner KYC,PAN + GST,2024-02-01,pending,Pass,Medium,Karan Finance,,
+KYC0067,OWN0883,Meena Kumar,Vehicle RC,RC + Insurance,2024-02-03,approved,Pass,High,Karan Finance,2024-04-08,Auto-cleared by AI
+KYC0068,U063,Ishaan Mishra,Address Proof,Passport,2024-02-06,approved,Pass,Medium,Karan Finance,2024-03-13,Auto-cleared by AI
+KYC0069,U055,Ritika Mishra,Insurance,Policy + Receipt,2024-04-01,pending,Pass,Low,,,
+KYC0070,OWN0255,Ravi Joshi,Address Proof,Utility Bill,2024-02-16,approved,Pass,Medium,Arjun Sharma,2024-04-10,Auto-cleared by AI
+KYC0071,OWN0415,Mohan Yadav,Owner KYC,Aadhaar + GST,2024-03-05,approved,Pass,Low,Karan Finance,2024-04-02,Auto-cleared by AI
+KYC0072,OWN0677,Rohit Tiwari,Insurance,Policy Upload,2024-03-21,approved,Pass,Medium,Arjun Sharma,2024-03-25,Auto-cleared by AI
+KYC0073,OWN0009,Tarun Bose,Driving License,DL + Selfie,2024-03-06,approved,Pass,Medium,Arjun Sharma,2024-03-07,Auto-cleared by AI
+KYC0074,OWN0729,Ishaan Tiwari,Insurance,Policy + Receipt,2024-01-08,approved,Pass,Medium,Karan Finance,2024-03-20,Auto-cleared by AI
+KYC0075,OWN0394,Aakash Kumar,Insurance,Policy + Receipt,2024-02-29,rejected,Fail,High,Karan Finance,2024-03-26,
+KYC0076,OWN0204,Sonal Patel,Insurance,Policy Upload,2024-01-16,pending,Pass,Low,,,
+KYC0077,OWN0270,Nikhil Sharma,Insurance,Policy + Receipt,2024-02-27,pending,Fail,High,Priya Admin,,
+KYC0078,U405,Meena Tiwari,Driving License,DL Upload,2024-03-03,pending,Pass,Low,Karan Finance,,
+KYC0079,OWN0805,Neha Nair,Owner KYC,Aadhaar + PAN,2024-03-29,approved,Pass,High,Karan Finance,2024-04-03,Auto-cleared by AI
+KYC0080,OWN0775,Ananya Tiwari,Vehicle RC,RC + Insurance,2024-03-12,pending,Pass,Low,Karan Finance,,
+KYC0081,U417,Amit Joshi,Insurance,Policy + Receipt,2024-01-24,rejected,Pass,Low,,2024-03-17,
+KYC0082,OWN0118,Ananya Sharma,Insurance,Policy Upload,2024-03-06,pending,Suspicious,High,,,
+KYC0083,OWN0176,Priya Tiwari,Owner KYC,PAN + GST,2024-02-07,pending,Pass,Medium,Karan Finance,,
+KYC0084,U475,Rajesh Bose,Driving License,DL Upload,2024-01-12,approved,Suspicious,Medium,,2024-01-17,
+KYC0085,U074,Mohan Agarwal,Address Proof,Passport,2024-03-28,rejected,Pass,Medium,Karan Finance,2024-04-07,
+KYC0086,U404,Nikhil Das,Owner KYC,PAN + GST,2024-01-12,pending,Pass,High,Arjun Sharma,,
+KYC0087,U100,Meena Verma,Vehicle RC,RC Upload,2024-01-27,pending,Pass,Medium,Priya Admin,,
+KYC0088,OWN0524,Suresh Patel,Driving License,DL Upload,2024-03-31,pending,Suspicious,High,Arjun Sharma,,
+KYC0089,OWN0842,Nisha Mehta,Driving License,DL Upload,2024-03-10,approved,Pass,Medium,Priya Admin,2024-03-29,Auto-cleared by AI
+KYC0090,OWN0428,Shreya Agarwal,Vehicle RC,RC + Insurance,2024-02-27,approved,Fail,Medium,Karan Finance,2024-03-06,
+KYC0091,U381,Kavya Gupta,Owner KYC,Aadhaar + GST,2024-03-10,pending,Pass,High,,,
+KYC0092,OWN0129,Tarun Agarwal,Insurance,Policy + Receipt,2024-02-07,approved,Pass,Low,Karan Finance,2024-04-06,Auto-cleared by AI
+KYC0093,OWN0728,Arjun Nair,Address Proof,Utility Bill,2024-01-25,approved,Fail,Medium,,2024-04-10,
+KYC0094,OWN0409,Amit Nair,Vehicle RC,RC + Insurance,2024-03-07,pending,Suspicious,High,Priya Admin,,
+KYC0095,OWN0027,Priya Verma,Vehicle RC,RC + Insurance,2024-02-19,approved,Suspicious,Low,Priya Admin,2024-04-09,
+KYC0096,OWN0177,Priya Mishra,Address Proof,Utility Bill,2024-03-19,approved,Pass,Medium,Priya Admin,2024-03-25,Auto-cleared by AI
+KYC0097,OWN0695,Deepa Pandey,Address Proof,Aadhaar,2024-02-05,pending,Pass,Low,,,
+KYC0098,OWN0868,Meena Agarwal,Vehicle RC,RC Upload,2024-04-08,rejected,Pass,Low,Arjun Sharma,2024-04-10,
+KYC0099,U498,Nikhil Yadav,Address Proof,Passport,2024-01-24,approved,Suspicious,Low,Priya Admin,2024-02-27,
+KYC0100,U464,Ishaan Singh,Insurance,Policy + Receipt,2024-03-12,approved,Pass,High,,2024-04-03,Auto-cleared by AI
+KYC0101,U418,Mohan Gupta,Address Proof,Passport,2024-04-09,pending,Pass,Medium,Karan Finance,,
+KYC0102,OWN0176,Rahul Rao,Address Proof,Utility Bill,2024-02-11,approved,Pass,Medium,Karan Finance,2024-03-25,Auto-cleared by AI
+KYC0103,OWN0443,Ritika Tiwari,Insurance,Policy + Receipt,2024-03-25,approved,Suspicious,Medium,Arjun Sharma,2024-03-26,
+KYC0104,OWN0805,Aditi Pandey,Vehicle RC,RC + Insurance,2024-02-13,pending,Fail,Medium,Karan Finance,,
+KYC0105,U340,Ritika Patel,Vehicle RC,RC + Insurance,2024-03-18,pending,Pass,High,,,
+KYC0106,OWN0019,Karan Rao,Owner KYC,Aadhaar + PAN,2024-02-02,rejected,Pass,High,Karan Finance,2024-02-21,
+KYC0107,OWN0966,Rohit Srivastava,Owner KYC,Aadhaar + PAN,2024-03-28,approved,Pass,Low,Priya Admin,2024-03-28,Auto-cleared by AI
+KYC0108,OWN0581,Priya Bose,Driving License,DL + Selfie,2024-02-11,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0109,OWN0149,Sneha Patel,Vehicle RC,RC + Insurance,2024-02-22,approved,Pass,High,Arjun Sharma,2024-04-02,Auto-cleared by AI
+KYC0110,OWN0526,Kavya Bose,Vehicle RC,RC + Insurance,2024-01-25,rejected,Pass,Low,,2024-02-20,
+KYC0111,OWN0072,Kavya Singh,Driving License,DL Upload,2024-03-03,approved,Suspicious,High,Arjun Sharma,2024-03-03,
+KYC0112,OWN0761,Nikhil Reddy,Insurance,Policy Upload,2024-01-06,rejected,Fail,Medium,,2024-01-11,
+KYC0113,OWN0048,Priya Reddy,Owner KYC,Aadhaar + GST,2024-02-16,pending,Suspicious,Medium,Karan Finance,,
+KYC0114,OWN0184,Ravi Sharma,Address Proof,Aadhaar,2024-04-08,approved,Suspicious,Medium,Priya Admin,2024-04-09,
+KYC0115,U442,Nikhil Verma,Address Proof,Utility Bill,2024-03-20,approved,Pass,Low,Priya Admin,2024-03-21,Auto-cleared by AI
+KYC0116,U253,Tarun Tiwari,Vehicle RC,RC Upload,2024-01-01,approved,Pass,High,Arjun Sharma,2024-01-02,Auto-cleared by AI
+KYC0117,OWN0626,Neha Pandey,Address Proof,Passport,2024-04-06,pending,Pass,Medium,Karan Finance,,
+KYC0118,U090,Sneha Yadav,Driving License,DL + Selfie,2024-02-28,pending,Pass,High,Priya Admin,,
+KYC0119,OWN0371,Arjun Agarwal,Insurance,Policy + Receipt,2024-02-06,pending,Pass,Medium,Arjun Sharma,,
+KYC0120,OWN0229,Ishaan Agarwal,Driving License,DL + Selfie,2024-01-29,pending,Pass,Medium,,,
+KYC0121,OWN0363,Vikram Yadav,Driving License,DL + Selfie,2024-02-02,approved,Pass,Low,Arjun Sharma,2024-03-03,Auto-cleared by AI
+KYC0122,OWN0432,Rahul Yadav,Insurance,Policy + Receipt,2024-03-21,rejected,Fail,High,Arjun Sharma,2024-04-01,
+KYC0123,OWN0154,Sonal Sharma,Insurance,Policy + Receipt,2024-03-11,approved,Pass,Low,Arjun Sharma,2024-03-16,Auto-cleared by AI
+KYC0124,U415,Rajesh Shah,Owner KYC,Aadhaar + PAN,2024-03-30,approved,Pass,Low,Karan Finance,2024-04-02,Auto-cleared by AI
+KYC0125,OWN0059,Aman Tiwari,Address Proof,Passport,2024-01-30,approved,Pass,High,Karan Finance,2024-02-09,Auto-cleared by AI
+KYC0126,OWN0692,Ishaan Srivastava,Insurance,Policy + Receipt,2024-02-12,approved,Pass,High,Arjun Sharma,2024-03-28,Auto-cleared by AI
+KYC0127,OWN0900,Arjun Pandey,Address Proof,Utility Bill,2024-01-30,pending,Pass,Medium,Karan Finance,,
+KYC0128,OWN0124,Aditi Singh,Vehicle RC,RC Upload,2024-04-04,pending,Pass,Low,Arjun Sharma,,
+KYC0129,U202,Rahul Mishra,Vehicle RC,RC Upload,2024-03-31,approved,Pass,Medium,Priya Admin,2024-04-04,Auto-cleared by AI
+KYC0130,U416,Sneha Agarwal,Insurance,Policy Upload,2024-04-09,approved,Pass,High,,2024-04-10,Auto-cleared by AI
+KYC0131,OWN0607,Aman Bose,Vehicle RC,RC + Insurance,2024-01-25,approved,Pass,High,Karan Finance,2024-02-23,Auto-cleared by AI
+KYC0132,OWN0448,Aditi Kumar,Insurance,Policy Upload,2024-02-27,pending,Suspicious,Low,Karan Finance,,
+KYC0133,U348,Vikram Shah,Insurance,Policy Upload,2024-01-08,pending,Pass,Low,,,
+KYC0134,OWN0584,Ananya Pandey,Owner KYC,Aadhaar + PAN,2024-02-27,approved,Pass,Medium,,2024-03-21,Auto-cleared by AI
+KYC0135,OWN0912,Tarun Patel,Owner KYC,PAN + GST,2024-02-15,approved,Pass,High,Arjun Sharma,2024-02-18,Auto-cleared by AI
+KYC0136,OWN0743,Priya Pandey,Vehicle RC,RC Upload,2024-04-02,approved,Suspicious,High,Arjun Sharma,2024-04-09,
+KYC0137,U058,Pooja Nair,Address Proof,Passport,2024-01-28,rejected,Pass,Medium,Karan Finance,2024-03-06,
+KYC0138,OWN0227,Nikhil Verma,Owner KYC,Aadhaar + PAN,2024-02-19,approved,Fail,Low,Karan Finance,2024-03-26,
+KYC0139,OWN0256,Dev Pandey,Driving License,DL Upload,2024-02-17,approved,Suspicious,Medium,,2024-02-28,
+KYC0140,U302,Vikram Agarwal,Owner KYC,PAN + GST,2024-03-01,approved,Suspicious,Low,Priya Admin,2024-03-29,
+KYC0141,U264,Suresh Sharma,Owner KYC,PAN + GST,2024-03-15,approved,Pass,Medium,Arjun Sharma,2024-03-18,Auto-cleared by AI
+KYC0142,U055,Tarun Kumar,Address Proof,Passport,2024-02-25,approved,Pass,Low,Priya Admin,2024-03-23,Auto-cleared by AI
+KYC0143,U008,Rohit Bose,Owner KYC,PAN + GST,2024-03-16,approved,Suspicious,High,,2024-03-17,
+KYC0144,OWN0866,Kavya Pandey,Owner KYC,Aadhaar + PAN,2024-01-26,rejected,Pass,Medium,Karan Finance,2024-04-02,
+KYC0145,U174,Nikhil Singh,Insurance,Policy + Receipt,2024-02-29,approved,Pass,Medium,,2024-03-08,Auto-cleared by AI
+KYC0146,OWN0188,Neha Bose,Insurance,Policy + Receipt,2024-03-05,pending,Pass,Medium,,,
+KYC0147,OWN0802,Rajesh Joshi,Vehicle RC,RC + Insurance,2024-02-25,pending,Pass,Low,Karan Finance,,
+KYC0148,U343,Neha Bose,Insurance,Policy Upload,2024-03-30,approved,Suspicious,High,Arjun Sharma,2024-04-02,
+KYC0149,OWN0858,Divya Bose,Vehicle RC,RC + Insurance,2024-02-21,pending,Fail,Low,Priya Admin,,
+KYC0150,OWN0457,Neha Agarwal,Vehicle RC,RC + Insurance,2024-01-06,pending,Pass,Low,,,
+KYC0151,OWN0997,Amit Yadav,Insurance,Policy Upload,2024-01-25,approved,Pass,Medium,,2024-02-27,Auto-cleared by AI
+KYC0152,OWN0744,Dev Srivastava,Address Proof,Aadhaar,2024-02-27,rejected,Pass,Medium,Karan Finance,2024-04-08,
+KYC0153,OWN0738,Ananya Pandey,Address Proof,Passport,2024-02-09,pending,Pass,Medium,Arjun Sharma,,
+KYC0154,OWN0753,Divya Gupta,Driving License,DL Upload,2024-02-14,pending,Pass,High,,,
+KYC0155,OWN0506,Aditi Pandey,Vehicle RC,RC Upload,2024-02-24,approved,Pass,Medium,,2024-04-01,Auto-cleared by AI
+KYC0156,U436,Mohan Singh,Address Proof,Passport,2024-01-25,pending,Pass,High,,,
+KYC0157,U272,Meena Reddy,Address Proof,Passport,2024-01-28,pending,Suspicious,Low,,,
+KYC0158,OWN0913,Arjun Agarwal,Vehicle RC,RC Upload,2024-01-30,pending,Pass,High,Karan Finance,,
+KYC0159,U382,Neha Kumar,Address Proof,Passport,2024-03-03,pending,Pass,High,Priya Admin,,
+KYC0160,U339,Sneha Bose,Vehicle RC,RC Upload,2024-04-05,approved,Pass,High,Priya Admin,2024-04-05,Auto-cleared by AI
+KYC0161,OWN0001,Vikram Sharma,Insurance,Policy + Receipt,2024-03-23,approved,Pass,Medium,,2024-04-03,Auto-cleared by AI
+KYC0162,OWN0985,Kavya Nair,Owner KYC,Aadhaar + GST,2024-02-10,approved,Pass,Low,Arjun Sharma,2024-03-10,Auto-cleared by AI
+KYC0163,U434,Mohan Verma,Vehicle RC,RC + Insurance,2024-01-27,pending,Pass,Medium,Priya Admin,,
+KYC0164,OWN0913,Priya Gupta,Vehicle RC,RC + Insurance,2024-02-01,approved,Suspicious,Medium,Arjun Sharma,2024-02-19,
+KYC0165,U386,Nisha Singh,Insurance,Policy + Receipt,2024-01-21,pending,Pass,Medium,Karan Finance,,
+KYC0166,OWN0026,Arjun Shah,Insurance,Policy Upload,2024-03-23,approved,Pass,High,Arjun Sharma,2024-04-05,Auto-cleared by AI
+KYC0167,OWN0600,Aman Reddy,Address Proof,Utility Bill,2024-02-18,rejected,Pass,Medium,,2024-03-25,
+KYC0168,OWN0045,Deepa Rao,Vehicle RC,RC Upload,2024-01-30,approved,Suspicious,High,Arjun Sharma,2024-02-01,
+KYC0169,OWN0471,Tarun Bose,Vehicle RC,RC + Insurance,2024-01-19,rejected,Fail,Medium,Karan Finance,2024-02-23,
+KYC0170,U146,Neha Reddy,Address Proof,Passport,2024-01-20,pending,Pass,Medium,,,
+KYC0171,OWN0003,Aditi Bose,Address Proof,Utility Bill,2024-03-20,approved,Pass,Medium,Karan Finance,2024-03-26,Auto-cleared by AI
+KYC0172,U183,Priya Kumar,Address Proof,Utility Bill,2024-02-09,approved,Suspicious,Medium,Arjun Sharma,2024-04-03,
+KYC0173,OWN0344,Rahul Gupta,Driving License,DL + Selfie,2024-02-08,approved,Pass,Low,Priya Admin,2024-03-03,Auto-cleared by AI
+KYC0174,OWN0082,Ritika Mishra,Driving License,DL + Selfie,2024-02-08,approved,Pass,Low,Arjun Sharma,2024-04-06,Auto-cleared by AI
+KYC0175,OWN0298,Kavya Rao,Driving License,DL Upload,2024-01-16,approved,Pass,High,Priya Admin,2024-03-28,Auto-cleared by AI
+KYC0176,OWN0005,Shreya Srivastava,Vehicle RC,RC + Insurance,2024-01-01,approved,Pass,High,,2024-02-19,Auto-cleared by AI
+KYC0177,OWN0977,Dev Singh,Owner KYC,PAN + GST,2024-03-20,rejected,Pass,High,Arjun Sharma,2024-03-27,
+KYC0178,OWN0684,Rahul Srivastava,Address Proof,Utility Bill,2024-03-08,rejected,Pass,High,Priya Admin,2024-03-29,
+KYC0179,U364,Tarun Gupta,Driving License,DL Upload,2024-01-10,pending,Fail,Low,Priya Admin,,
+KYC0180,OWN0285,Meena Gupta,Vehicle RC,RC Upload,2024-03-22,pending,Pass,Low,Karan Finance,,
+KYC0181,OWN0053,Nisha Mishra,Insurance,Policy Upload,2024-02-02,approved,Pass,High,Priya Admin,2024-03-28,Auto-cleared by AI
+KYC0182,OWN0198,Aditi Reddy,Insurance,Policy Upload,2024-02-16,approved,Pass,Medium,,2024-03-31,Auto-cleared by AI
+KYC0183,OWN0866,Ravi Kumar,Vehicle RC,RC + Insurance,2024-03-11,pending,Suspicious,Medium,Priya Admin,,
+KYC0184,OWN0714,Tarun Verma,Address Proof,Aadhaar,2024-01-08,approved,Pass,High,Arjun Sharma,2024-03-30,Auto-cleared by AI
+KYC0185,OWN0054,Sonal Shah,Owner KYC,PAN + GST,2024-03-24,pending,Suspicious,High,Arjun Sharma,,
+KYC0186,OWN0242,Divya Reddy,Vehicle RC,RC + Insurance,2024-01-01,approved,Pass,Low,Priya Admin,2024-03-15,Auto-cleared by AI
+KYC0187,U012,Vikram Yadav,Owner KYC,Aadhaar + PAN,2024-02-06,rejected,Pass,Low,Arjun Sharma,2024-02-19,
+KYC0188,OWN0537,Rahul Shah,Insurance,Policy + Receipt,2024-02-08,rejected,Pass,Medium,,2024-03-18,
+KYC0189,OWN0779,Meena Tiwari,Address Proof,Utility Bill,2024-03-06,rejected,Pass,Medium,Priya Admin,2024-04-04,
+KYC0190,OWN0869,Meena Srivastava,Driving License,DL + Selfie,2024-03-17,pending,Suspicious,Low,Arjun Sharma,,
+KYC0191,U254,Deepa Bose,Insurance,Policy + Receipt,2024-02-09,rejected,Suspicious,High,Priya Admin,2024-03-26,
+KYC0192,U127,Neha Joshi,Owner KYC,PAN + GST,2024-03-12,approved,Pass,Medium,Priya Admin,2024-03-18,Auto-cleared by AI
+KYC0193,U483,Shreya Mehta,Owner KYC,Aadhaar + GST,2024-02-15,approved,Pass,High,Karan Finance,2024-03-31,Auto-cleared by AI
+KYC0194,OWN0309,Ishaan Rao,Owner KYC,Aadhaar + PAN,2024-04-03,pending,Fail,Low,,,
+KYC0195,U286,Arjun Sharma,Owner KYC,Aadhaar + GST,2024-03-21,pending,Fail,High,Karan Finance,,
+KYC0196,OWN0418,Nikhil Singh,Driving License,DL + Selfie,2024-01-31,approved,Pass,Medium,Karan Finance,2024-02-17,Auto-cleared by AI
+KYC0197,OWN0597,Ritika Bose,Address Proof,Utility Bill,2024-04-03,pending,Suspicious,Medium,,,
+KYC0198,OWN0497,Kavya Nair,Insurance,Policy Upload,2024-03-01,approved,Pass,High,,2024-03-22,Auto-cleared by AI
+KYC0199,U448,Aman Patel,Driving License,DL Upload,2024-02-07,approved,Pass,Low,Karan Finance,2024-02-16,Auto-cleared by AI
+KYC0200,U297,Ravi Nair,Owner KYC,Aadhaar + GST,2024-03-29,approved,Fail,Low,Priya Admin,2024-04-03,
+KYC0201,OWN0395,Ishaan Gupta,Vehicle RC,RC Upload,2024-01-24,approved,Pass,Medium,,2024-03-19,Auto-cleared by AI
+KYC0202,OWN0638,Arjun Patel,Driving License,DL Upload,2024-03-15,approved,Suspicious,Low,Priya Admin,2024-04-09,
+KYC0203,OWN0874,Deepa Joshi,Address Proof,Passport,2024-03-14,pending,Pass,High,,,
+KYC0204,OWN0062,Dev Singh,Address Proof,Aadhaar,2024-03-24,approved,Pass,Medium,Priya Admin,2024-04-04,Auto-cleared by AI
+KYC0205,OWN0734,Nisha Shah,Insurance,Policy + Receipt,2024-04-08,approved,Pass,Medium,Arjun Sharma,2024-04-08,Auto-cleared by AI
+KYC0206,OWN0833,Mohan Gupta,Insurance,Policy Upload,2024-03-28,approved,Pass,Medium,Karan Finance,2024-04-08,Auto-cleared by AI
+KYC0207,OWN0843,Divya Nair,Insurance,Policy Upload,2024-04-02,pending,Pass,Medium,Karan Finance,,
+KYC0208,OWN0660,Ishaan Verma,Owner KYC,Aadhaar + GST,2024-04-02,approved,Fail,Medium,,2024-04-05,
+KYC0209,U257,Kavya Agarwal,Vehicle RC,RC Upload,2024-02-28,approved,Pass,High,Arjun Sharma,2024-03-19,Auto-cleared by AI
+KYC0210,OWN0632,Divya Rao,Address Proof,Utility Bill,2024-02-15,pending,Fail,Medium,Karan Finance,,
+KYC0211,U207,Vikram Mishra,Driving License,DL Upload,2024-01-21,rejected,Suspicious,Low,Priya Admin,2024-01-25,
+KYC0212,OWN0347,Neha Bose,Vehicle RC,RC Upload,2024-03-19,pending,Pass,Medium,Karan Finance,,
+KYC0213,OWN0342,Aman Shah,Owner KYC,Aadhaar + GST,2024-04-05,approved,Pass,Medium,Arjun Sharma,2024-04-10,Auto-cleared by AI
+KYC0214,U021,Ananya Shah,Driving License,DL + Selfie,2024-02-24,pending,Fail,Medium,Karan Finance,,
+KYC0215,OWN0035,Aditi Patel,Owner KYC,Aadhaar + PAN,2024-03-03,pending,Pass,Medium,,,
+KYC0216,OWN0890,Kavya Joshi,Address Proof,Aadhaar,2024-04-10,approved,Pass,High,Arjun Sharma,2024-04-10,Auto-cleared by AI
+KYC0217,OWN0840,Divya Shah,Address Proof,Passport,2024-01-11,approved,Pass,Medium,Priya Admin,2024-02-25,Auto-cleared by AI
+KYC0218,U285,Aakash Mishra,Vehicle RC,RC Upload,2024-03-27,approved,Suspicious,High,Priya Admin,2024-04-03,
+KYC0219,U446,Aakash Nair,Vehicle RC,RC Upload,2024-03-15,approved,Fail,High,Priya Admin,2024-03-22,
+KYC0220,U494,Meena Mehta,Owner KYC,Aadhaar + PAN,2024-01-03,rejected,Pass,Low,Karan Finance,2024-03-17,
+KYC0221,U196,Sneha Das,Vehicle RC,RC Upload,2024-03-27,approved,Pass,High,,2024-03-31,Auto-cleared by AI
+KYC0222,U265,Rahul Singh,Address Proof,Aadhaar,2024-02-17,approved,Suspicious,Medium,Karan Finance,2024-02-21,
+KYC0223,OWN0561,Rahul Yadav,Vehicle RC,RC + Insurance,2024-01-04,approved,Pass,Low,Arjun Sharma,2024-02-27,Auto-cleared by AI
+KYC0224,U377,Nikhil Joshi,Address Proof,Aadhaar,2024-03-01,approved,Suspicious,High,,2024-03-01,
+KYC0225,OWN0820,Rohit Joshi,Driving License,DL + Selfie,2024-03-26,pending,Pass,Medium,Karan Finance,,
+KYC0226,U089,Aditi Kumar,Driving License,DL + Selfie,2024-04-02,pending,Pass,Medium,Arjun Sharma,,
+KYC0227,OWN0789,Priya Sharma,Owner KYC,Aadhaar + GST,2024-02-07,approved,Pass,High,Arjun Sharma,2024-03-08,Auto-cleared by AI
+KYC0228,OWN0122,Rajesh Bose,Vehicle RC,RC Upload,2024-02-16,approved,Fail,High,,2024-04-04,
+KYC0229,OWN0232,Sneha Shah,Driving License,DL + Selfie,2024-03-28,approved,Suspicious,Low,,2024-03-30,
+KYC0230,OWN0729,Priya Reddy,Owner KYC,PAN + GST,2024-03-03,approved,Fail,Low,,2024-04-07,
+KYC0231,U131,Rajesh Tiwari,Insurance,Policy Upload,2024-03-03,approved,Fail,Medium,,2024-03-07,
+KYC0232,U458,Amit Bose,Driving License,DL + Selfie,2024-01-28,approved,Pass,Medium,Priya Admin,2024-02-02,Auto-cleared by AI
+KYC0233,U240,Rohit Tiwari,Vehicle RC,RC + Insurance,2024-03-05,approved,Pass,Medium,,2024-04-06,Auto-cleared by AI
+KYC0234,OWN0075,Divya Patel,Owner KYC,Aadhaar + PAN,2024-03-23,approved,Pass,Medium,Arjun Sharma,2024-04-07,Auto-cleared by AI
+KYC0235,OWN0008,Tarun Singh,Address Proof,Passport,2024-03-25,approved,Pass,Medium,Arjun Sharma,2024-04-05,Auto-cleared by AI
+KYC0236,U218,Karan Bose,Insurance,Policy + Receipt,2024-02-10,approved,Suspicious,High,,2024-03-27,
+KYC0237,OWN0731,Divya Verma,Driving License,DL Upload,2024-01-05,approved,Pass,Low,Priya Admin,2024-03-02,Auto-cleared by AI
+KYC0238,U467,Aman Agarwal,Owner KYC,PAN + GST,2024-03-27,approved,Pass,Medium,,2024-04-10,Auto-cleared by AI
+KYC0239,OWN0801,Tarun Srivastava,Insurance,Policy Upload,2024-01-02,pending,Pass,Low,Priya Admin,,
+KYC0240,OWN0236,Rahul Tiwari,Insurance,Policy + Receipt,2024-03-12,approved,Pass,Medium,Priya Admin,2024-04-02,Auto-cleared by AI
+KYC0241,OWN0422,Aakash Singh,Vehicle RC,RC + Insurance,2024-02-04,pending,Fail,Medium,Priya Admin,,
+KYC0242,OWN0433,Tarun Singh,Driving License,DL Upload,2024-01-14,approved,Pass,Medium,Arjun Sharma,2024-02-18,Auto-cleared by AI
+KYC0243,U256,Dev Gupta,Owner KYC,Aadhaar + PAN,2024-04-08,approved,Pass,High,Arjun Sharma,2024-04-10,Auto-cleared by AI
+KYC0244,OWN0073,Kavya Sharma,Insurance,Policy Upload,2024-02-16,approved,Pass,Low,Arjun Sharma,2024-03-31,Auto-cleared by AI
+KYC0245,OWN0357,Priya Reddy,Vehicle RC,RC + Insurance,2024-03-11,approved,Pass,Low,Priya Admin,2024-04-10,Auto-cleared by AI
+KYC0246,U122,Divya Nair,Insurance,Policy + Receipt,2024-01-17,approved,Pass,Medium,,2024-03-17,Auto-cleared by AI
+KYC0247,OWN0455,Nisha Srivastava,Owner KYC,Aadhaar + PAN,2024-01-15,approved,Pass,High,Priya Admin,2024-02-25,Auto-cleared by AI
+KYC0248,U460,Mohan Verma,Insurance,Policy Upload,2024-04-09,pending,Pass,Medium,Priya Admin,,
+KYC0249,OWN0757,Nisha Bose,Vehicle RC,RC + Insurance,2024-02-18,approved,Fail,Medium,Karan Finance,2024-03-27,
+KYC0250,U467,Rahul Rao,Owner KYC,PAN + GST,2024-04-06,pending,Fail,Low,,,
+KYC0251,OWN0675,Nisha Bose,Insurance,Policy Upload,2024-03-20,approved,Fail,High,Priya Admin,2024-03-29,
+KYC0252,OWN0893,Neha Kumar,Insurance,Policy Upload,2024-01-03,pending,Pass,High,,,
+KYC0253,OWN0232,Divya Rao,Vehicle RC,RC + Insurance,2024-02-01,pending,Pass,Low,Arjun Sharma,,
+KYC0254,U166,Ananya Shah,Address Proof,Utility Bill,2024-04-10,pending,Pass,High,Priya Admin,,
+KYC0255,OWN0993,Rohit Joshi,Vehicle RC,RC Upload,2024-01-31,rejected,Pass,Medium,,2024-03-31,
+KYC0256,OWN0279,Vikram Joshi,Vehicle RC,RC Upload,2024-01-04,rejected,Suspicious,Medium,Priya Admin,2024-01-30,
+KYC0257,U233,Neha Gupta,Owner KYC,PAN + GST,2024-01-10,approved,Pass,Low,Arjun Sharma,2024-03-31,Auto-cleared by AI
+KYC0258,OWN0324,Neha Patel,Driving License,DL Upload,2024-01-04,approved,Pass,High,Arjun Sharma,2024-02-19,Auto-cleared by AI
+KYC0259,U336,Pooja Rao,Driving License,DL + Selfie,2024-01-23,pending,Suspicious,Low,,,
+KYC0260,OWN0872,Amit Rao,Driving License,DL Upload,2024-04-05,approved,Pass,Medium,,2024-04-05,Auto-cleared by AI
+KYC0261,OWN0670,Vikram Shah,Owner KYC,PAN + GST,2024-02-22,pending,Suspicious,Medium,Karan Finance,,
+KYC0262,OWN0175,Amit Rao,Driving License,DL + Selfie,2024-02-22,approved,Pass,High,Karan Finance,2024-03-27,Auto-cleared by AI
+KYC0263,OWN0256,Deepa Shah,Driving License,DL Upload,2024-02-21,approved,Fail,Medium,Karan Finance,2024-03-31,
+KYC0264,U274,Arjun Joshi,Address Proof,Aadhaar,2024-03-25,approved,Pass,Medium,Karan Finance,2024-04-01,Auto-cleared by AI
+KYC0265,OWN0821,Mohan Mishra,Vehicle RC,RC Upload,2024-03-06,pending,Pass,Medium,Arjun Sharma,,
+KYC0266,OWN0519,Vikram Singh,Vehicle RC,RC Upload,2024-01-04,rejected,Pass,Medium,,2024-01-31,
+KYC0267,OWN0234,Ritika Yadav,Vehicle RC,RC Upload,2024-02-03,approved,Pass,High,,2024-04-06,Auto-cleared by AI
+KYC0268,OWN0659,Ritika Rao,Insurance,Policy + Receipt,2024-03-02,pending,Fail,High,Priya Admin,,
+KYC0269,U018,Rahul Agarwal,Owner KYC,Aadhaar + GST,2024-02-09,approved,Pass,Medium,Priya Admin,2024-03-04,Auto-cleared by AI
+KYC0270,OWN0246,Mohan Srivastava,Vehicle RC,RC + Insurance,2024-03-10,approved,Fail,Low,,2024-04-08,
+KYC0271,OWN0838,Ananya Verma,Address Proof,Utility Bill,2024-01-30,approved,Suspicious,High,Arjun Sharma,2024-02-16,
+KYC0272,U322,Aman Srivastava,Owner KYC,Aadhaar + GST,2024-01-03,rejected,Pass,High,Karan Finance,2024-04-05,
+KYC0273,U124,Shreya Agarwal,Driving License,DL Upload,2024-03-18,approved,Pass,High,Karan Finance,2024-04-01,Auto-cleared by AI
+KYC0274,OWN0869,Aditi Tiwari,Owner KYC,Aadhaar + PAN,2024-02-26,approved,Pass,Medium,Karan Finance,2024-03-09,Auto-cleared by AI
+KYC0275,OWN0262,Karan Yadav,Owner KYC,Aadhaar + PAN,2024-03-28,approved,Pass,Medium,Priya Admin,2024-04-08,Auto-cleared by AI
+KYC0276,OWN0588,Ravi Reddy,Address Proof,Utility Bill,2024-02-08,pending,Suspicious,Low,Priya Admin,,
+KYC0277,OWN0376,Mohan Patel,Insurance,Policy Upload,2024-03-12,approved,Pass,Low,,2024-03-30,Auto-cleared by AI
+KYC0278,OWN0739,Vikram Verma,Vehicle RC,RC + Insurance,2024-03-13,approved,Pass,Medium,Karan Finance,2024-04-08,Auto-cleared by AI
+KYC0279,OWN0986,Arjun Srivastava,Insurance,Policy Upload,2024-04-03,approved,Pass,Medium,,2024-04-07,Auto-cleared by AI
+KYC0280,U298,Sneha Yadav,Driving License,DL + Selfie,2024-02-26,approved,Pass,Low,Priya Admin,2024-03-10,Auto-cleared by AI
+KYC0281,OWN0475,Ritika Yadav,Address Proof,Utility Bill,2024-01-27,approved,Suspicious,High,,2024-03-01,
+KYC0282,OWN0189,Rohit Pandey,Owner KYC,PAN + GST,2024-04-08,approved,Pass,Medium,Arjun Sharma,2024-04-08,Auto-cleared by AI
+KYC0283,OWN0218,Neha Sharma,Address Proof,Aadhaar,2024-02-18,pending,Pass,Low,Priya Admin,,
+KYC0284,OWN0891,Dev Verma,Address Proof,Passport,2024-04-01,approved,Pass,Medium,Karan Finance,2024-04-03,Auto-cleared by AI
+KYC0285,OWN0505,Shreya Agarwal,Address Proof,Utility Bill,2024-04-01,rejected,Pass,Low,Priya Admin,2024-04-04,
+KYC0286,OWN0809,Karan Patel,Address Proof,Utility Bill,2024-01-27,approved,Pass,High,Priya Admin,2024-03-23,Auto-cleared by AI
+KYC0287,U384,Tarun Bose,Address Proof,Aadhaar,2024-01-28,approved,Fail,Low,Karan Finance,2024-02-12,
+KYC0288,U339,Dev Srivastava,Owner KYC,Aadhaar + PAN,2024-01-02,pending,Pass,High,Karan Finance,,
+KYC0289,OWN0204,Mohan Pandey,Address Proof,Aadhaar,2024-02-19,rejected,Suspicious,Low,Arjun Sharma,2024-03-13,
+KYC0290,U009,Ananya Mehta,Vehicle RC,RC Upload,2024-03-01,pending,Pass,High,,,
+KYC0291,OWN0476,Ananya Singh,Driving License,DL Upload,2024-01-04,approved,Suspicious,Low,,2024-03-01,
+KYC0292,OWN0064,Dev Joshi,Driving License,DL Upload,2024-01-14,rejected,Suspicious,Medium,Karan Finance,2024-01-20,
+KYC0293,OWN0743,Ritika Tiwari,Driving License,DL Upload,2024-03-28,approved,Suspicious,Medium,,2024-04-05,
+KYC0294,U057,Aditi Mehta,Owner KYC,PAN + GST,2024-01-01,approved,Pass,Medium,,2024-01-11,Auto-cleared by AI
+KYC0295,OWN0212,Aakash Rao,Driving License,DL Upload,2024-04-06,pending,Suspicious,High,Karan Finance,,
+KYC0296,U155,Sneha Joshi,Address Proof,Utility Bill,2024-02-22,approved,Pass,Low,,2024-03-15,Auto-cleared by AI
+KYC0297,U343,Aman Joshi,Owner KYC,Aadhaar + PAN,2024-02-28,approved,Suspicious,High,Arjun Sharma,2024-03-26,
+KYC0298,U025,Rajesh Mishra,Owner KYC,Aadhaar + PAN,2024-03-18,pending,Pass,Low,Karan Finance,,
+KYC0299,OWN0781,Rajesh Reddy,Owner KYC,PAN + GST,2024-01-29,rejected,Pass,Medium,Karan Finance,2024-04-04,
+KYC0300,OWN0704,Vikram Sharma,Insurance,Policy + Receipt,2024-02-11,approved,Pass,Medium,Arjun Sharma,2024-03-01,Auto-cleared by AI
+KYC0301,OWN0301,Arjun Patel,Vehicle RC,RC + Insurance,2024-01-06,pending,Pass,Medium,,,
+KYC0302,OWN0607,Vikram Kumar,Driving License,DL Upload,2024-02-27,pending,Pass,High,Priya Admin,,
+KYC0303,OWN0054,Deepa Das,Owner KYC,PAN + GST,2024-02-09,approved,Pass,Medium,Arjun Sharma,2024-03-23,Auto-cleared by AI
+KYC0304,OWN0035,Ishaan Pandey,Vehicle RC,RC Upload,2024-02-21,pending,Pass,Low,Priya Admin,,
+KYC0305,OWN0420,Shreya Pandey,Address Proof,Utility Bill,2024-02-06,pending,Fail,Low,,,
+KYC0306,OWN0547,Suresh Bose,Address Proof,Passport,2024-03-27,approved,Suspicious,Low,Karan Finance,2024-04-04,
+KYC0307,U112,Shreya Gupta,Vehicle RC,RC + Insurance,2024-02-27,pending,Pass,Medium,,,
+KYC0308,OWN0533,Pooja Gupta,Insurance,Policy + Receipt,2024-03-23,pending,Pass,Medium,,,
+KYC0309,U108,Rajesh Nair,Address Proof,Aadhaar,2024-03-19,rejected,Pass,Low,Karan Finance,2024-04-06,
+KYC0310,OWN0569,Ananya Shah,Driving License,DL Upload,2024-01-15,approved,Pass,Low,Karan Finance,2024-02-15,Auto-cleared by AI
+KYC0311,U081,Aman Verma,Insurance,Policy + Receipt,2024-03-10,pending,Pass,Medium,Priya Admin,,
+KYC0312,OWN0265,Divya Srivastava,Insurance,Policy + Receipt,2024-02-14,pending,Pass,Low,Priya Admin,,
+KYC0313,U452,Shreya Singh,Insurance,Policy Upload,2024-03-30,rejected,Pass,Medium,Priya Admin,2024-04-04,
+KYC0314,U379,Ishaan Nair,Insurance,Policy Upload,2024-01-16,pending,Pass,High,Priya Admin,,
+KYC0315,OWN0680,Rajesh Reddy,Owner KYC,Aadhaar + GST,2024-01-04,approved,Pass,Low,Arjun Sharma,2024-02-20,Auto-cleared by AI
+KYC0316,OWN0280,Vikram Pandey,Driving License,DL Upload,2024-01-19,approved,Pass,High,Arjun Sharma,2024-03-01,Auto-cleared by AI
+KYC0317,OWN0930,Ravi Singh,Insurance,Policy Upload,2024-03-09,pending,Suspicious,High,Karan Finance,,
+KYC0318,U257,Vikram Joshi,Owner KYC,PAN + GST,2024-02-01,approved,Pass,Medium,,2024-04-09,Auto-cleared by AI
+KYC0319,OWN0975,Aakash Srivastava,Vehicle RC,RC + Insurance,2024-03-19,rejected,Suspicious,Low,Arjun Sharma,2024-04-03,
+KYC0320,U204,Rohit Pandey,Owner KYC,Aadhaar + GST,2024-02-24,pending,Pass,Low,Priya Admin,,
+KYC0321,U163,Tarun Bose,Insurance,Policy + Receipt,2024-01-05,rejected,Pass,Low,Karan Finance,2024-01-30,
+KYC0322,U489,Tarun Pandey,Insurance,Policy + Receipt,2024-03-12,approved,Suspicious,Medium,Arjun Sharma,2024-04-10,
+KYC0323,OWN0166,Divya Sharma,Vehicle RC,RC + Insurance,2024-03-02,approved,Pass,Low,,2024-03-29,Auto-cleared by AI
+KYC0324,OWN0130,Amit Nair,Owner KYC,Aadhaar + PAN,2024-03-08,pending,Fail,High,,,
+KYC0325,U223,Priya Rao,Address Proof,Passport,2024-02-16,rejected,Suspicious,Medium,,2024-02-27,
+KYC0326,U169,Sonal Mehta,Insurance,Policy Upload,2024-01-27,approved,Suspicious,High,Priya Admin,2024-04-09,
+KYC0327,OWN0654,Neha Mishra,Address Proof,Aadhaar,2024-03-08,rejected,Pass,High,Arjun Sharma,2024-03-21,
+KYC0328,OWN0548,Kavya Rao,Driving License,DL + Selfie,2024-03-25,approved,Pass,Low,Karan Finance,2024-04-07,Auto-cleared by AI
+KYC0329,OWN0452,Rohit Kumar,Insurance,Policy + Receipt,2024-03-02,pending,Suspicious,Medium,Karan Finance,,
+KYC0330,U203,Sonal Gupta,Vehicle RC,RC + Insurance,2024-02-23,approved,Pass,Medium,Karan Finance,2024-03-17,Auto-cleared by AI
+KYC0331,OWN0263,Rajesh Pandey,Insurance,Policy + Receipt,2024-03-24,approved,Suspicious,Medium,,2024-04-05,
+KYC0332,U258,Amit Tiwari,Vehicle RC,RC Upload,2024-03-02,rejected,Pass,Medium,Karan Finance,2024-03-10,
+KYC0333,U145,Ritika Mehta,Address Proof,Utility Bill,2024-02-25,approved,Pass,Medium,Karan Finance,2024-04-01,Auto-cleared by AI
+KYC0334,OWN0644,Aditi Bose,Address Proof,Passport,2024-03-09,approved,Pass,Medium,Priya Admin,2024-04-07,Auto-cleared by AI
+KYC0335,OWN0383,Arjun Sharma,Vehicle RC,RC Upload,2024-02-08,approved,Pass,Medium,Karan Finance,2024-03-23,Auto-cleared by AI
+KYC0336,OWN0458,Ravi Das,Owner KYC,PAN + GST,2024-02-23,rejected,Pass,High,,2024-04-06,
+KYC0337,OWN0350,Aditi Verma,Vehicle RC,RC + Insurance,2024-01-05,pending,Pass,High,Arjun Sharma,,
+KYC0338,U114,Rohit Patel,Driving License,DL Upload,2024-01-21,approved,Pass,High,Priya Admin,2024-04-02,Auto-cleared by AI
+KYC0339,OWN0542,Neha Kumar,Driving License,DL + Selfie,2024-01-31,approved,Pass,Medium,,2024-03-16,Auto-cleared by AI
+KYC0340,OWN0155,Nisha Nair,Vehicle RC,RC + Insurance,2024-03-05,approved,Pass,High,Karan Finance,2024-03-27,Auto-cleared by AI
+KYC0341,U395,Priya Rao,Driving License,DL + Selfie,2024-03-13,approved,Pass,Medium,Karan Finance,2024-03-24,Auto-cleared by AI
+KYC0342,OWN0428,Vikram Gupta,Insurance,Policy Upload,2024-03-31,rejected,Pass,Medium,,2024-04-01,
+KYC0343,OWN0385,Suresh Shah,Driving License,DL Upload,2024-02-12,approved,Pass,Medium,Priya Admin,2024-04-03,Auto-cleared by AI
+KYC0344,OWN0396,Kavya Das,Address Proof,Passport,2024-04-01,approved,Pass,High,,2024-04-09,Auto-cleared by AI
+KYC0345,OWN0919,Ishaan Singh,Driving License,DL Upload,2024-02-11,rejected,Pass,Medium,Arjun Sharma,2024-03-31,
+KYC0346,OWN0128,Ritika Shah,Insurance,Policy + Receipt,2024-01-17,pending,Pass,Medium,Priya Admin,,
+KYC0347,OWN0082,Ritika Das,Address Proof,Aadhaar,2024-01-26,approved,Suspicious,Medium,Karan Finance,2024-02-09,
+KYC0348,OWN0989,Dev Bose,Insurance,Policy Upload,2024-03-16,approved,Pass,High,Arjun Sharma,2024-03-20,Auto-cleared by AI
+KYC0349,OWN0141,Mohan Shah,Insurance,Policy Upload,2024-01-10,approved,Pass,Low,Priya Admin,2024-03-19,Auto-cleared by AI
+KYC0350,OWN0805,Neha Tiwari,Insurance,Policy Upload,2024-01-21,pending,Pass,Medium,Karan Finance,,
+KYC0351,OWN0981,Divya Verma,Vehicle RC,RC + Insurance,2024-04-03,approved,Pass,Medium,Priya Admin,2024-04-05,Auto-cleared by AI
+KYC0352,OWN0795,Suresh Joshi,Owner KYC,Aadhaar + PAN,2024-01-13,approved,Pass,Medium,Karan Finance,2024-01-17,Auto-cleared by AI
+KYC0353,U263,Aditi Pandey,Address Proof,Utility Bill,2024-01-20,pending,Fail,High,Arjun Sharma,,
+KYC0354,OWN0142,Dev Mishra,Vehicle RC,RC + Insurance,2024-01-02,pending,Suspicious,High,Karan Finance,,
+KYC0355,U389,Nisha Verma,Driving License,DL + Selfie,2024-01-08,pending,Pass,High,Karan Finance,,
+KYC0356,OWN0006,Ravi Joshi,Vehicle RC,RC Upload,2024-01-02,approved,Fail,Medium,,2024-01-05,
+KYC0357,U177,Ritika Joshi,Driving License,DL Upload,2024-02-03,pending,Pass,Low,Arjun Sharma,,
+KYC0358,OWN0888,Arjun Patel,Insurance,Policy + Receipt,2024-03-02,pending,Suspicious,Medium,Priya Admin,,
+KYC0359,OWN0503,Deepa Patel,Driving License,DL + Selfie,2024-04-06,rejected,Pass,Medium,Karan Finance,2024-04-09,
+KYC0360,U462,Ananya Nair,Insurance,Policy + Receipt,2024-01-09,approved,Pass,Medium,Arjun Sharma,2024-02-14,Auto-cleared by AI
+KYC0361,U217,Suresh Agarwal,Insurance,Policy + Receipt,2024-01-13,pending,Pass,Low,Priya Admin,,
+KYC0362,OWN0744,Tarun Yadav,Address Proof,Utility Bill,2024-01-28,approved,Suspicious,High,Arjun Sharma,2024-02-14,
+KYC0363,OWN0022,Neha Joshi,Owner KYC,Aadhaar + PAN,2024-02-14,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0364,OWN0819,Amit Shah,Insurance,Policy + Receipt,2024-01-21,approved,Fail,Medium,Karan Finance,2024-03-18,
+KYC0365,OWN0735,Priya Yadav,Insurance,Policy Upload,2024-01-25,pending,Suspicious,High,Arjun Sharma,,
+KYC0366,U497,Ananya Shah,Address Proof,Passport,2024-01-15,pending,Pass,Medium,Karan Finance,,
+KYC0367,U173,Pooja Mehta,Vehicle RC,RC Upload,2024-02-29,approved,Pass,Medium,Priya Admin,2024-03-11,Auto-cleared by AI
+KYC0368,OWN0725,Tarun Mishra,Owner KYC,Aadhaar + PAN,2024-03-31,approved,Suspicious,High,Karan Finance,2024-04-04,
+KYC0369,OWN0095,Meena Rao,Driving License,DL + Selfie,2024-02-20,pending,Pass,High,Priya Admin,,
+KYC0370,OWN0914,Aditi Mehta,Address Proof,Passport,2024-02-23,approved,Pass,High,Arjun Sharma,2024-03-23,Auto-cleared by AI
+KYC0371,U490,Meena Reddy,Driving License,DL + Selfie,2024-01-22,rejected,Pass,High,Arjun Sharma,2024-03-26,
+KYC0372,OWN0733,Neha Singh,Insurance,Policy Upload,2024-03-10,approved,Pass,High,Karan Finance,2024-03-23,Auto-cleared by AI
+KYC0373,OWN0864,Ishaan Singh,Owner KYC,Aadhaar + GST,2024-01-02,pending,Pass,High,Priya Admin,,
+KYC0374,OWN0414,Deepa Nair,Vehicle RC,RC + Insurance,2024-03-06,approved,Pass,High,Karan Finance,2024-04-10,Auto-cleared by AI
+KYC0375,OWN0448,Mohan Verma,Insurance,Policy Upload,2024-01-16,approved,Suspicious,High,Karan Finance,2024-03-09,
+KYC0376,OWN0225,Divya Pandey,Driving License,DL + Selfie,2024-01-29,pending,Pass,Low,Karan Finance,,
+KYC0377,OWN0182,Tarun Joshi,Owner KYC,Aadhaar + PAN,2024-02-12,pending,Pass,Medium,,,
+KYC0378,OWN0251,Priya Reddy,Driving License,DL Upload,2024-02-10,rejected,Fail,Low,,2024-03-06,
+KYC0379,OWN0240,Divya Bose,Address Proof,Passport,2024-03-27,approved,Fail,Medium,,2024-03-27,
+KYC0380,OWN0945,Ritika Patel,Owner KYC,Aadhaar + PAN,2024-04-10,rejected,Fail,Medium,Karan Finance,2024-04-10,
+KYC0381,OWN0025,Rohit Reddy,Driving License,DL Upload,2024-03-13,approved,Fail,High,Priya Admin,2024-03-18,
+KYC0382,OWN0483,Vikram Tiwari,Driving License,DL + Selfie,2024-02-11,pending,Pass,Low,Priya Admin,,
+KYC0383,U093,Meena Agarwal,Insurance,Policy + Receipt,2024-03-23,pending,Pass,High,Priya Admin,,
+KYC0384,U095,Ravi Nair,Insurance,Policy Upload,2024-02-09,pending,Pass,High,,,
+KYC0385,OWN0770,Neha Sharma,Driving License,DL Upload,2024-01-23,approved,Pass,Medium,Priya Admin,2024-03-02,Auto-cleared by AI
+KYC0386,U068,Deepa Tiwari,Driving License,DL Upload,2024-03-18,pending,Suspicious,Medium,Karan Finance,,
+KYC0387,OWN0444,Rohit Sharma,Address Proof,Utility Bill,2024-02-20,rejected,Suspicious,Medium,Karan Finance,2024-03-03,
+KYC0388,OWN0851,Amit Joshi,Address Proof,Passport,2024-01-07,rejected,Pass,High,,2024-02-27,
+KYC0389,U320,Rajesh Reddy,Insurance,Policy + Receipt,2024-03-28,approved,Pass,Medium,,2024-04-03,Auto-cleared by AI
+KYC0390,OWN0902,Sneha Agarwal,Insurance,Policy Upload,2024-03-18,approved,Suspicious,Medium,Karan Finance,2024-03-24,
+KYC0391,OWN0993,Tarun Tiwari,Address Proof,Aadhaar,2024-02-22,approved,Suspicious,Medium,Karan Finance,2024-03-30,
+KYC0392,OWN0477,Arjun Bose,Driving License,DL Upload,2024-02-12,approved,Pass,Medium,Priya Admin,2024-02-25,Auto-cleared by AI
+KYC0393,OWN0795,Dev Patel,Driving License,DL + Selfie,2024-02-11,approved,Pass,Medium,,2024-04-09,Auto-cleared by AI
+KYC0394,OWN0991,Dev Singh,Address Proof,Passport,2024-04-01,approved,Pass,High,Priya Admin,2024-04-04,Auto-cleared by AI
+KYC0395,U216,Suresh Pandey,Driving License,DL Upload,2024-02-02,approved,Pass,Medium,Karan Finance,2024-03-22,Auto-cleared by AI
+KYC0396,OWN0311,Aakash Reddy,Owner KYC,Aadhaar + PAN,2024-03-10,pending,Pass,Medium,,,
+KYC0397,OWN0057,Ravi Mehta,Address Proof,Utility Bill,2024-03-30,approved,Pass,Medium,Karan Finance,2024-03-30,Auto-cleared by AI
+KYC0398,OWN0238,Deepa Shah,Driving License,DL Upload,2024-03-28,rejected,Fail,Medium,,2024-04-06,
+KYC0399,OWN0060,Mohan Verma,Vehicle RC,RC Upload,2024-02-23,approved,Pass,Low,Priya Admin,2024-04-07,Auto-cleared by AI
+KYC0400,OWN0310,Aman Kumar,Driving License,DL Upload,2024-01-13,approved,Pass,High,,2024-03-27,Auto-cleared by AI
+KYC0401,OWN0734,Dev Nair,Owner KYC,Aadhaar + PAN,2024-01-18,approved,Pass,Medium,Arjun Sharma,2024-01-29,Auto-cleared by AI
+KYC0402,U441,Priya Pandey,Driving License,DL Upload,2024-01-21,rejected,Pass,Medium,Karan Finance,2024-02-13,
+KYC0403,OWN0246,Sonal Kumar,Owner KYC,Aadhaar + PAN,2024-01-01,approved,Pass,High,Priya Admin,2024-02-01,Auto-cleared by AI
+KYC0404,OWN0097,Mohan Gupta,Insurance,Policy Upload,2024-03-22,approved,Pass,Medium,Priya Admin,2024-03-24,Auto-cleared by AI
+KYC0405,OWN0719,Neha Das,Driving License,DL + Selfie,2024-03-03,pending,Pass,Medium,Arjun Sharma,,
+KYC0406,U201,Aman Patel,Owner KYC,PAN + GST,2024-01-24,approved,Suspicious,Low,,2024-03-04,
+KYC0407,OWN0914,Aman Sharma,Insurance,Policy Upload,2024-03-14,approved,Pass,Medium,Arjun Sharma,2024-03-28,Auto-cleared by AI
+KYC0408,OWN0103,Divya Mehta,Insurance,Policy + Receipt,2024-02-13,approved,Pass,Medium,Karan Finance,2024-02-26,Auto-cleared by AI
+KYC0409,OWN0141,Ritika Gupta,Address Proof,Utility Bill,2024-04-09,approved,Pass,Medium,Karan Finance,2024-04-10,Auto-cleared by AI
+KYC0410,OWN0427,Rahul Das,Address Proof,Aadhaar,2024-01-15,pending,Suspicious,High,Priya Admin,,
+KYC0411,OWN0777,Rahul Singh,Address Proof,Aadhaar,2024-01-24,rejected,Pass,Medium,Arjun Sharma,2024-04-02,
+KYC0412,U367,Deepa Kumar,Driving License,DL Upload,2024-02-06,approved,Suspicious,High,,2024-02-07,
+KYC0413,OWN0044,Karan Mehta,Owner KYC,PAN + GST,2024-02-17,rejected,Fail,High,Priya Admin,2024-02-25,
+KYC0414,U303,Arjun Tiwari,Vehicle RC,RC Upload,2024-01-24,approved,Pass,Low,Arjun Sharma,2024-02-21,Auto-cleared by AI
+KYC0415,U340,Ananya Verma,Owner KYC,PAN + GST,2024-01-13,approved,Suspicious,Low,Priya Admin,2024-02-03,
+KYC0416,OWN0322,Tarun Gupta,Insurance,Policy + Receipt,2024-03-04,approved,Pass,Medium,Arjun Sharma,2024-03-31,Auto-cleared by AI
+KYC0417,U015,Aditi Shah,Insurance,Policy Upload,2024-04-04,approved,Fail,Medium,Karan Finance,2024-04-05,
+KYC0418,OWN0407,Arjun Agarwal,Address Proof,Aadhaar,2024-02-20,rejected,Fail,Low,Priya Admin,2024-03-01,
+KYC0419,U428,Dev Mishra,Owner KYC,PAN + GST,2024-03-19,approved,Pass,Low,Karan Finance,2024-04-09,Auto-cleared by AI
+KYC0420,OWN0076,Ravi Reddy,Owner KYC,Aadhaar + PAN,2024-02-16,approved,Pass,High,Karan Finance,2024-02-17,Auto-cleared by AI
+KYC0421,OWN0528,Nisha Rao,Insurance,Policy + Receipt,2024-02-11,approved,Pass,High,Karan Finance,2024-03-08,Auto-cleared by AI
+KYC0422,OWN0394,Nisha Rao,Insurance,Policy + Receipt,2024-02-27,pending,Pass,Medium,Arjun Sharma,,
+KYC0423,OWN0305,Aman Srivastava,Owner KYC,Aadhaar + GST,2024-03-12,approved,Pass,Medium,Arjun Sharma,2024-03-22,Auto-cleared by AI
+KYC0424,U173,Ishaan Sharma,Address Proof,Utility Bill,2024-01-30,approved,Fail,Low,,2024-02-20,
+KYC0425,OWN0624,Sneha Yadav,Insurance,Policy Upload,2024-03-23,approved,Pass,Medium,Arjun Sharma,2024-04-09,Auto-cleared by AI
+KYC0426,U130,Priya Mehta,Driving License,DL Upload,2024-01-17,pending,Pass,High,,,
+KYC0427,OWN0722,Ishaan Shah,Driving License,DL Upload,2024-02-19,approved,Pass,Medium,Priya Admin,2024-03-09,Auto-cleared by AI
+KYC0428,OWN0807,Mohan Nair,Owner KYC,PAN + GST,2024-02-21,approved,Pass,Low,,2024-02-25,Auto-cleared by AI
+KYC0429,OWN0221,Rohit Das,Owner KYC,Aadhaar + GST,2024-02-28,pending,Pass,Medium,,,
+KYC0430,U115,Ishaan Rao,Driving License,DL + Selfie,2024-03-21,approved,Pass,Medium,Arjun Sharma,2024-03-30,Auto-cleared by AI
+KYC0431,U247,Amit Reddy,Vehicle RC,RC Upload,2024-03-10,approved,Pass,Low,Arjun Sharma,2024-03-27,Auto-cleared by AI
+KYC0432,OWN0400,Meena Srivastava,Vehicle RC,RC + Insurance,2024-03-30,approved,Suspicious,Low,Karan Finance,2024-04-01,
+KYC0433,U080,Neha Nair,Vehicle RC,RC Upload,2024-03-13,approved,Pass,Low,,2024-03-26,Auto-cleared by AI
+KYC0434,U083,Aakash Srivastava,Vehicle RC,RC Upload,2024-02-12,pending,Pass,Low,Priya Admin,,
+KYC0435,OWN0426,Sneha Verma,Address Proof,Passport,2024-01-01,pending,Pass,Low,,,
+KYC0436,U122,Tarun Yadav,Insurance,Policy + Receipt,2024-03-25,pending,Pass,Medium,Priya Admin,,
+KYC0437,OWN0239,Dev Patel,Address Proof,Passport,2024-02-04,approved,Suspicious,Medium,Priya Admin,2024-04-02,
+KYC0438,OWN0935,Karan Mishra,Driving License,DL + Selfie,2024-03-20,approved,Pass,Low,Arjun Sharma,2024-03-25,Auto-cleared by AI
+KYC0439,OWN0531,Sneha Bose,Vehicle RC,RC + Insurance,2024-01-04,rejected,Suspicious,Medium,Priya Admin,2024-04-04,
+KYC0440,OWN0086,Pooja Das,Address Proof,Utility Bill,2024-03-08,approved,Pass,High,,2024-03-23,Auto-cleared by AI
+KYC0441,OWN0887,Shreya Pandey,Address Proof,Utility Bill,2024-03-12,pending,Fail,High,Priya Admin,,
+KYC0442,OWN0330,Suresh Srivastava,Address Proof,Aadhaar,2024-01-10,approved,Suspicious,Low,Priya Admin,2024-03-10,
+KYC0443,OWN0139,Divya Patel,Driving License,DL Upload,2024-02-12,rejected,Pass,Low,Priya Admin,2024-02-15,
+KYC0444,U239,Rohit Singh,Owner KYC,Aadhaar + GST,2024-02-22,approved,Pass,Medium,Priya Admin,2024-02-27,Auto-cleared by AI
+KYC0445,U363,Ishaan Mishra,Vehicle RC,RC + Insurance,2024-02-20,approved,Pass,High,Priya Admin,2024-03-24,Auto-cleared by AI
+KYC0446,OWN0441,Karan Tiwari,Address Proof,Aadhaar,2024-02-23,pending,Pass,High,Karan Finance,,
+KYC0447,U417,Tarun Verma,Vehicle RC,RC + Insurance,2024-02-16,approved,Pass,Low,Priya Admin,2024-02-21,Auto-cleared by AI
+KYC0448,OWN0043,Ishaan Bose,Owner KYC,Aadhaar + GST,2024-01-14,approved,Pass,Low,Karan Finance,2024-03-15,Auto-cleared by AI
+KYC0449,OWN0589,Deepa Das,Vehicle RC,RC + Insurance,2024-01-22,approved,Pass,High,Karan Finance,2024-03-10,Auto-cleared by AI
+KYC0450,OWN0779,Priya Mehta,Driving License,DL Upload,2024-03-05,pending,Pass,High,,,
+KYC0451,OWN0853,Arjun Rao,Vehicle RC,RC + Insurance,2024-04-06,approved,Suspicious,High,,2024-04-07,
+KYC0452,OWN0767,Karan Shah,Vehicle RC,RC + Insurance,2024-02-26,approved,Pass,Medium,Arjun Sharma,2024-03-20,Auto-cleared by AI
+KYC0453,OWN0035,Nikhil Kumar,Driving License,DL + Selfie,2024-01-01,pending,Pass,Low,Arjun Sharma,,
+KYC0454,U364,Ishaan Bose,Address Proof,Passport,2024-01-29,rejected,Pass,Low,Arjun Sharma,2024-03-12,
+KYC0455,U157,Tarun Joshi,Insurance,Policy Upload,2024-03-12,pending,Pass,Medium,Arjun Sharma,,
+KYC0456,OWN0480,Ishaan Patel,Driving License,DL + Selfie,2024-02-02,approved,Pass,Low,Karan Finance,2024-02-28,Auto-cleared by AI
+KYC0457,U028,Deepa Agarwal,Owner KYC,Aadhaar + GST,2024-03-22,pending,Pass,Medium,,,
+KYC0458,U497,Deepa Agarwal,Owner KYC,PAN + GST,2024-04-02,pending,Suspicious,Medium,Karan Finance,,
+KYC0459,OWN0563,Nikhil Gupta,Address Proof,Utility Bill,2024-01-14,rejected,Pass,Medium,Arjun Sharma,2024-03-03,
+KYC0460,U172,Rohit Srivastava,Vehicle RC,RC + Insurance,2024-01-02,approved,Fail,Medium,Arjun Sharma,2024-01-15,
+KYC0461,OWN0351,Karan Gupta,Driving License,DL Upload,2024-02-10,pending,Fail,High,Karan Finance,,
+KYC0462,OWN0772,Arjun Das,Owner KYC,PAN + GST,2024-01-24,rejected,Pass,Medium,Priya Admin,2024-02-10,
+KYC0463,OWN0042,Ishaan Gupta,Owner KYC,PAN + GST,2024-01-23,pending,Pass,Medium,Karan Finance,,
+KYC0464,OWN0280,Ravi Pandey,Driving License,DL + Selfie,2024-02-17,pending,Pass,Medium,Karan Finance,,
+KYC0465,U174,Priya Verma,Driving License,DL + Selfie,2024-01-05,rejected,Suspicious,Low,Priya Admin,2024-02-06,
+KYC0466,U348,Divya Nair,Insurance,Policy Upload,2024-01-02,approved,Pass,Medium,,2024-01-10,Auto-cleared by AI
+KYC0467,OWN0727,Kavya Mishra,Vehicle RC,RC + Insurance,2024-03-15,approved,Pass,Medium,Karan Finance,2024-04-05,Auto-cleared by AI
+KYC0468,OWN0939,Ishaan Nair,Insurance,Policy Upload,2024-03-30,approved,Fail,Medium,Arjun Sharma,2024-04-04,
+KYC0469,OWN0814,Mohan Shah,Vehicle RC,RC Upload,2024-03-04,approved,Pass,Medium,,2024-03-05,Auto-cleared by AI
+KYC0470,OWN0702,Rahul Tiwari,Insurance,Policy Upload,2024-02-09,approved,Pass,Medium,Arjun Sharma,2024-02-29,Auto-cleared by AI
+KYC0471,U485,Sonal Singh,Owner KYC,Aadhaar + GST,2024-04-08,pending,Pass,Low,,,
+KYC0472,OWN0768,Amit Agarwal,Owner KYC,PAN + GST,2024-01-18,approved,Fail,Low,,2024-01-19,
+KYC0473,OWN0305,Mohan Srivastava,Address Proof,Aadhaar,2024-02-23,pending,Pass,Low,Karan Finance,,
+KYC0474,U266,Nisha Verma,Owner KYC,Aadhaar + GST,2024-01-22,pending,Pass,High,Priya Admin,,
+KYC0475,OWN0579,Ritika Kumar,Insurance,Policy Upload,2024-02-09,approved,Pass,Low,Priya Admin,2024-04-03,Auto-cleared by AI
+KYC0476,OWN0743,Nisha Tiwari,Vehicle RC,RC Upload,2024-02-14,approved,Pass,Medium,Karan Finance,2024-02-29,Auto-cleared by AI
+KYC0477,OWN0429,Sneha Nair,Vehicle RC,RC + Insurance,2024-01-21,approved,Suspicious,High,,2024-03-14,
+KYC0478,OWN0496,Ishaan Patel,Vehicle RC,RC + Insurance,2024-04-09,approved,Pass,Medium,Karan Finance,2024-04-09,Auto-cleared by AI
+KYC0479,OWN0095,Divya Das,Vehicle RC,RC + Insurance,2024-01-10,pending,Pass,Medium,Arjun Sharma,,
+KYC0480,U324,Shreya Mehta,Owner KYC,Aadhaar + GST,2024-03-25,approved,Pass,Medium,Priya Admin,2024-04-02,Auto-cleared by AI
+KYC0481,U429,Vikram Mehta,Address Proof,Passport,2024-03-28,approved,Pass,Medium,Karan Finance,2024-04-07,Auto-cleared by AI
+KYC0482,OWN0862,Rahul Patel,Address Proof,Passport,2024-03-13,approved,Pass,Medium,Arjun Sharma,2024-03-27,Auto-cleared by AI
+KYC0483,OWN0669,Priya Mishra,Owner KYC,PAN + GST,2024-01-08,approved,Fail,High,Priya Admin,2024-02-13,
+KYC0484,U454,Dev Mishra,Driving License,DL + Selfie,2024-02-23,approved,Pass,High,Priya Admin,2024-04-06,Auto-cleared by AI
+KYC0485,OWN0760,Vikram Mehta,Address Proof,Utility Bill,2024-03-02,approved,Pass,Medium,Karan Finance,2024-03-10,Auto-cleared by AI
+KYC0486,OWN0226,Rahul Reddy,Insurance,Policy Upload,2024-04-05,pending,Pass,High,Priya Admin,,
+KYC0487,OWN0727,Priya Reddy,Driving License,DL + Selfie,2024-02-03,rejected,Pass,Medium,Priya Admin,2024-03-31,
+KYC0488,OWN0736,Ishaan Tiwari,Driving License,DL Upload,2024-03-07,pending,Pass,Medium,Arjun Sharma,,
+KYC0489,U175,Priya Nair,Vehicle RC,RC + Insurance,2024-01-14,approved,Suspicious,High,Priya Admin,2024-02-08,
+KYC0490,U178,Pooja Verma,Driving License,DL + Selfie,2024-01-08,approved,Pass,High,,2024-01-14,Auto-cleared by AI
+KYC0491,U179,Ritika Joshi,Driving License,DL Upload,2024-03-27,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0492,OWN0351,Sonal Patel,Driving License,DL + Selfie,2024-03-28,rejected,Pass,Medium,,2024-04-04,
+KYC0493,OWN0201,Aakash Agarwal,Insurance,Policy + Receipt,2024-04-10,approved,Pass,Medium,Karan Finance,2024-04-10,Auto-cleared by AI
+KYC0494,OWN0533,Karan Rao,Vehicle RC,RC Upload,2024-02-12,approved,Pass,Medium,Karan Finance,2024-02-24,Auto-cleared by AI
+KYC0495,U287,Neha Singh,Vehicle RC,RC + Insurance,2024-04-08,approved,Pass,Medium,Karan Finance,2024-04-09,Auto-cleared by AI
+KYC0496,U394,Ravi Yadav,Driving License,DL Upload,2024-01-31,approved,Pass,High,Arjun Sharma,2024-02-26,Auto-cleared by AI
+KYC0497,OWN0145,Pooja Reddy,Vehicle RC,RC + Insurance,2024-03-27,approved,Pass,Medium,Arjun Sharma,2024-04-03,Auto-cleared by AI
+KYC0498,OWN0366,Suresh Yadav,Owner KYC,Aadhaar + PAN,2024-01-19,approved,Pass,Medium,Karan Finance,2024-02-01,Auto-cleared by AI
+KYC0499,OWN0127,Divya Verma,Vehicle RC,RC + Insurance,2024-03-21,rejected,Fail,Medium,Arjun Sharma,2024-04-03,
+KYC0500,OWN0429,Rohit Yadav,Vehicle RC,RC + Insurance,2024-03-12,rejected,Fail,High,Priya Admin,2024-03-30,
+KYC0501,U346,Divya Nair,Vehicle RC,RC + Insurance,2024-01-07,approved,Pass,High,Arjun Sharma,2024-01-27,Auto-cleared by AI
+KYC0502,U423,Nisha Shah,Driving License,DL + Selfie,2024-04-04,approved,Pass,Medium,Arjun Sharma,2024-04-05,Auto-cleared by AI
+KYC0503,OWN0735,Nisha Das,Vehicle RC,RC Upload,2024-03-10,pending,Pass,Medium,Karan Finance,,
+KYC0504,OWN0780,Mohan Mishra,Address Proof,Passport,2024-02-15,rejected,Pass,High,Karan Finance,2024-03-06,
+KYC0505,OWN0159,Suresh Rao,Insurance,Policy Upload,2024-03-25,rejected,Pass,High,Arjun Sharma,2024-03-25,
+KYC0506,OWN0578,Pooja Yadav,Vehicle RC,RC + Insurance,2024-01-10,rejected,Pass,Medium,Karan Finance,2024-02-21,
+KYC0507,OWN0463,Nisha Bose,Vehicle RC,RC + Insurance,2024-03-04,rejected,Pass,Medium,Karan Finance,2024-03-06,
+KYC0508,OWN0891,Rahul Shah,Owner KYC,Aadhaar + PAN,2024-03-28,approved,Pass,Medium,Priya Admin,2024-04-09,Auto-cleared by AI
+KYC0509,U118,Kavya Sharma,Vehicle RC,RC + Insurance,2024-01-06,approved,Pass,Medium,,2024-03-07,Auto-cleared by AI
+KYC0510,U088,Kavya Agarwal,Owner KYC,PAN + GST,2024-03-22,approved,Pass,High,,2024-03-25,Auto-cleared by AI
+KYC0511,OWN0766,Dev Bose,Driving License,DL Upload,2024-03-25,pending,Fail,Low,Arjun Sharma,,
+KYC0512,OWN0500,Divya Mehta,Insurance,Policy + Receipt,2024-02-04,approved,Pass,High,Priya Admin,2024-04-08,Auto-cleared by AI
+KYC0513,OWN0908,Meena Nair,Driving License,DL + Selfie,2024-01-17,approved,Fail,Low,Karan Finance,2024-01-23,
+KYC0514,OWN0235,Priya Tiwari,Insurance,Policy + Receipt,2024-02-20,approved,Pass,High,Karan Finance,2024-03-14,Auto-cleared by AI
+KYC0515,OWN0693,Suresh Das,Insurance,Policy + Receipt,2024-03-27,approved,Pass,Low,Priya Admin,2024-04-02,Auto-cleared by AI
+KYC0516,OWN0665,Aman Mishra,Driving License,DL + Selfie,2024-02-19,pending,Suspicious,Medium,,,
+KYC0517,U385,Vikram Agarwal,Owner KYC,Aadhaar + PAN,2024-01-10,pending,Suspicious,High,Karan Finance,,
+KYC0518,U138,Ravi Pandey,Owner KYC,PAN + GST,2024-03-06,pending,Pass,High,Priya Admin,,
+KYC0519,OWN0643,Ishaan Verma,Insurance,Policy + Receipt,2024-03-13,approved,Fail,Medium,Karan Finance,2024-03-29,
+KYC0520,OWN0337,Deepa Shah,Insurance,Policy Upload,2024-03-14,approved,Pass,High,,2024-03-21,Auto-cleared by AI
+KYC0521,OWN0952,Rahul Rao,Owner KYC,Aadhaar + PAN,2024-02-14,pending,Suspicious,Medium,Priya Admin,,
+KYC0522,OWN0365,Tarun Gupta,Driving License,DL + Selfie,2024-04-07,approved,Suspicious,High,Arjun Sharma,2024-04-07,
+KYC0523,U227,Ritika Sharma,Driving License,DL + Selfie,2024-03-02,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0524,U500,Aakash Agarwal,Address Proof,Utility Bill,2024-01-12,approved,Pass,Low,Arjun Sharma,2024-03-19,Auto-cleared by AI
+KYC0525,U308,Aman Agarwal,Vehicle RC,RC Upload,2024-03-26,approved,Pass,High,,2024-04-01,Auto-cleared by AI
+KYC0526,OWN0505,Tarun Tiwari,Vehicle RC,RC + Insurance,2024-02-23,approved,Suspicious,Medium,Karan Finance,2024-03-04,
+KYC0527,U018,Aman Verma,Address Proof,Passport,2024-03-07,approved,Pass,High,Priya Admin,2024-04-06,Auto-cleared by AI
+KYC0528,U357,Pooja Reddy,Driving License,DL + Selfie,2024-01-03,pending,Pass,Medium,,,
+KYC0529,OWN0200,Mohan Patel,Driving License,DL + Selfie,2024-04-05,approved,Pass,High,Priya Admin,2024-04-05,Auto-cleared by AI
+KYC0530,OWN0175,Aakash Bose,Driving License,DL + Selfie,2024-03-10,pending,Pass,Low,Arjun Sharma,,
+KYC0531,OWN0955,Mohan Gupta,Address Proof,Aadhaar,2024-02-12,pending,Suspicious,High,Priya Admin,,
+KYC0532,U062,Nikhil Shah,Address Proof,Aadhaar,2024-04-07,pending,Pass,Medium,,,
+KYC0533,OWN0123,Tarun Shah,Insurance,Policy + Receipt,2024-02-20,pending,Suspicious,High,Arjun Sharma,,
+KYC0534,OWN0074,Sonal Reddy,Driving License,DL + Selfie,2024-01-21,approved,Pass,High,Priya Admin,2024-03-23,Auto-cleared by AI
+KYC0535,OWN0070,Mohan Shah,Address Proof,Aadhaar,2024-01-07,approved,Suspicious,Low,,2024-02-22,
+KYC0536,OWN0852,Mohan Kumar,Driving License,DL Upload,2024-02-14,approved,Pass,High,Karan Finance,2024-04-01,Auto-cleared by AI
+KYC0537,OWN0350,Kavya Mishra,Vehicle RC,RC + Insurance,2024-01-17,approved,Pass,Low,Karan Finance,2024-01-23,Auto-cleared by AI
+KYC0538,U127,Rajesh Das,Driving License,DL + Selfie,2024-01-07,approved,Pass,Low,Priya Admin,2024-04-05,Auto-cleared by AI
+KYC0539,OWN0737,Pooja Das,Insurance,Policy Upload,2024-02-12,pending,Suspicious,Medium,Priya Admin,,
+KYC0540,U009,Ishaan Mehta,Address Proof,Passport,2024-03-05,pending,Pass,High,Arjun Sharma,,
+KYC0541,OWN0677,Suresh Rao,Vehicle RC,RC Upload,2024-03-16,approved,Pass,High,Arjun Sharma,2024-03-29,Auto-cleared by AI
+KYC0542,U342,Aditi Reddy,Vehicle RC,RC Upload,2024-02-26,approved,Pass,Medium,,2024-03-03,Auto-cleared by AI
+KYC0543,OWN0865,Kavya Bose,Address Proof,Aadhaar,2024-03-24,approved,Pass,Low,Priya Admin,2024-04-02,Auto-cleared by AI
+KYC0544,OWN0156,Karan Rao,Address Proof,Utility Bill,2024-02-03,approved,Pass,Medium,,2024-03-24,Auto-cleared by AI
+KYC0545,OWN0203,Amit Agarwal,Owner KYC,PAN + GST,2024-04-02,rejected,Pass,Medium,Arjun Sharma,2024-04-03,
+KYC0546,OWN0556,Tarun Srivastava,Vehicle RC,RC Upload,2024-03-17,approved,Pass,High,Priya Admin,2024-04-04,Auto-cleared by AI
+KYC0547,U240,Meena Sharma,Vehicle RC,RC + Insurance,2024-04-06,approved,Pass,High,,2024-04-06,Auto-cleared by AI
+KYC0548,OWN0340,Vikram Patel,Insurance,Policy Upload,2024-02-19,pending,Fail,Medium,,,
+KYC0549,OWN0870,Aditi Sharma,Address Proof,Aadhaar,2024-01-06,rejected,Pass,High,Priya Admin,2024-03-27,
+KYC0550,U024,Priya Mehta,Driving License,DL + Selfie,2024-03-11,rejected,Pass,Medium,,2024-03-24,
+KYC0551,U458,Karan Srivastava,Driving License,DL + Selfie,2024-02-26,pending,Pass,Low,Priya Admin,,
+KYC0552,OWN0687,Rajesh Kumar,Insurance,Policy Upload,2024-02-16,approved,Pass,Medium,Karan Finance,2024-03-18,Auto-cleared by AI
+KYC0553,OWN0151,Dev Singh,Vehicle RC,RC + Insurance,2024-01-25,approved,Pass,Medium,,2024-02-19,Auto-cleared by AI
+KYC0554,U012,Tarun Shah,Address Proof,Passport,2024-02-01,pending,Pass,Low,Karan Finance,,
+KYC0555,U494,Amit Nair,Vehicle RC,RC Upload,2024-02-24,rejected,Suspicious,Low,,2024-03-29,
+KYC0556,U280,Karan Kumar,Owner KYC,PAN + GST,2024-01-08,approved,Pass,Low,,2024-03-01,Auto-cleared by AI
+KYC0557,U100,Shreya Reddy,Driving License,DL Upload,2024-02-10,pending,Pass,Medium,Arjun Sharma,,
+KYC0558,U251,Pooja Pandey,Vehicle RC,RC + Insurance,2024-01-02,approved,Fail,Medium,,2024-04-09,
+KYC0559,U072,Mohan Singh,Owner KYC,Aadhaar + GST,2024-01-06,pending,Suspicious,High,Karan Finance,,
+KYC0560,OWN0792,Kavya Patel,Vehicle RC,RC + Insurance,2024-02-20,approved,Fail,Medium,Karan Finance,2024-03-06,
+KYC0561,OWN0636,Deepa Singh,Insurance,Policy + Receipt,2024-04-06,approved,Suspicious,High,Arjun Sharma,2024-04-10,
+KYC0562,OWN0573,Dev Gupta,Address Proof,Aadhaar,2024-02-10,rejected,Pass,High,Priya Admin,2024-02-10,
+KYC0563,OWN0841,Amit Rao,Vehicle RC,RC Upload,2024-02-07,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0564,U403,Deepa Singh,Owner KYC,Aadhaar + GST,2024-01-12,rejected,Suspicious,Medium,Arjun Sharma,2024-03-25,
+KYC0565,OWN0143,Priya Mehta,Vehicle RC,RC + Insurance,2024-01-22,approved,Pass,Medium,Arjun Sharma,2024-02-20,Auto-cleared by AI
+KYC0566,OWN0459,Rajesh Agarwal,Driving License,DL + Selfie,2024-02-01,approved,Fail,Low,Arjun Sharma,2024-03-21,
+KYC0567,U414,Ishaan Gupta,Driving License,DL + Selfie,2024-04-03,approved,Pass,High,Priya Admin,2024-04-10,Auto-cleared by AI
+KYC0568,U044,Pooja Joshi,Address Proof,Passport,2024-01-28,approved,Pass,High,Priya Admin,2024-03-20,Auto-cleared by AI
+KYC0569,OWN0798,Mohan Joshi,Driving License,DL + Selfie,2024-01-21,approved,Suspicious,Medium,Priya Admin,2024-03-10,
+KYC0570,OWN0214,Dev Kumar,Insurance,Policy + Receipt,2024-02-01,approved,Pass,Medium,Karan Finance,2024-02-16,Auto-cleared by AI
+KYC0571,OWN0544,Priya Nair,Driving License,DL + Selfie,2024-01-29,approved,Pass,High,,2024-03-26,Auto-cleared by AI
+KYC0572,OWN0632,Aditi Das,Insurance,Policy Upload,2024-02-27,approved,Suspicious,Low,Priya Admin,2024-03-01,
+KYC0573,OWN0053,Vikram Srivastava,Driving License,DL Upload,2024-03-08,rejected,Pass,Medium,Priya Admin,2024-03-23,
+KYC0574,OWN0586,Rajesh Nair,Owner KYC,Aadhaar + GST,2024-01-27,approved,Pass,High,Priya Admin,2024-03-01,Auto-cleared by AI
+KYC0575,OWN0200,Meena Mishra,Address Proof,Utility Bill,2024-03-01,approved,Pass,High,,2024-03-19,Auto-cleared by AI
+KYC0576,U195,Kavya Tiwari,Address Proof,Passport,2024-02-23,approved,Pass,Medium,Karan Finance,2024-03-08,Auto-cleared by AI
+KYC0577,OWN0109,Rajesh Verma,Insurance,Policy Upload,2024-02-15,approved,Pass,Low,Karan Finance,2024-02-23,Auto-cleared by AI
+KYC0578,OWN0949,Sonal Singh,Insurance,Policy Upload,2024-03-24,approved,Suspicious,Low,Karan Finance,2024-03-27,
+KYC0579,U476,Dev Patel,Owner KYC,PAN + GST,2024-01-15,approved,Pass,Low,Arjun Sharma,2024-02-24,Auto-cleared by AI
+KYC0580,OWN0830,Dev Singh,Insurance,Policy + Receipt,2024-02-24,pending,Pass,High,,,
+KYC0581,U430,Karan Reddy,Address Proof,Aadhaar,2024-01-02,rejected,Pass,Low,Priya Admin,2024-02-04,
+KYC0582,OWN0156,Shreya Nair,Insurance,Policy + Receipt,2024-02-11,approved,Pass,High,Karan Finance,2024-03-29,Auto-cleared by AI
+KYC0583,OWN0607,Aakash Joshi,Vehicle RC,RC Upload,2024-02-18,pending,Pass,High,Karan Finance,,
+KYC0584,U158,Rahul Mishra,Driving License,DL + Selfie,2024-02-05,approved,Pass,Low,Karan Finance,2024-04-05,Auto-cleared by AI
+KYC0585,U016,Amit Das,Address Proof,Passport,2024-03-22,pending,Pass,High,Priya Admin,,
+KYC0586,OWN0274,Rajesh Gupta,Vehicle RC,RC Upload,2024-03-27,approved,Pass,Medium,,2024-04-08,Auto-cleared by AI
+KYC0587,OWN0688,Ritika Pandey,Driving License,DL + Selfie,2024-04-01,rejected,Pass,Low,Karan Finance,2024-04-08,
+KYC0588,U051,Deepa Nair,Insurance,Policy Upload,2024-04-02,approved,Pass,Medium,Karan Finance,2024-04-06,Auto-cleared by AI
+KYC0589,OWN0347,Aakash Mehta,Insurance,Policy Upload,2024-03-12,approved,Fail,Medium,Priya Admin,2024-04-10,
+KYC0590,U185,Sonal Rao,Owner KYC,PAN + GST,2024-03-19,pending,Fail,Low,Priya Admin,,
+KYC0591,U380,Aakash Pandey,Driving License,DL + Selfie,2024-03-06,approved,Pass,High,Karan Finance,2024-03-12,Auto-cleared by AI
+KYC0592,OWN0605,Rohit Gupta,Address Proof,Passport,2024-02-16,pending,Pass,High,Priya Admin,,
+KYC0593,OWN0211,Ishaan Patel,Owner KYC,Aadhaar + GST,2024-02-03,approved,Pass,High,Priya Admin,2024-02-23,Auto-cleared by AI
+KYC0594,OWN0755,Vikram Verma,Address Proof,Aadhaar,2024-01-20,approved,Pass,Medium,,2024-04-03,Auto-cleared by AI
+KYC0595,OWN0697,Suresh Reddy,Address Proof,Passport,2024-02-18,approved,Pass,Medium,Priya Admin,2024-02-23,Auto-cleared by AI
+KYC0596,OWN0356,Rahul Reddy,Driving License,DL Upload,2024-01-19,approved,Pass,Low,,2024-03-27,Auto-cleared by AI
+KYC0597,OWN0398,Karan Verma,Vehicle RC,RC + Insurance,2024-02-19,pending,Suspicious,High,Priya Admin,,
+KYC0598,U363,Amit Srivastava,Driving License,DL + Selfie,2024-01-03,approved,Pass,Medium,Priya Admin,2024-02-22,Auto-cleared by AI
+KYC0599,OWN0102,Aman Das,Driving License,DL + Selfie,2024-01-10,approved,Pass,High,,2024-01-30,Auto-cleared by AI
+KYC0600,OWN0936,Sneha Joshi,Insurance,Policy + Receipt,2024-01-20,approved,Pass,Medium,Arjun Sharma,2024-03-25,Auto-cleared by AI
+KYC0601,U166,Pooja Bose,Vehicle RC,RC Upload,2024-04-10,rejected,Pass,Medium,Priya Admin,2024-04-10,
+KYC0602,OWN0296,Rahul Kumar,Driving License,DL + Selfie,2024-03-28,pending,Pass,High,,,
+KYC0603,OWN0244,Nisha Rao,Insurance,Policy + Receipt,2024-01-23,rejected,Pass,Medium,Karan Finance,2024-01-23,
+KYC0604,U312,Ritika Pandey,Address Proof,Aadhaar,2024-03-22,approved,Suspicious,Low,Karan Finance,2024-03-24,
+KYC0605,U164,Nisha Agarwal,Owner KYC,Aadhaar + PAN,2024-03-22,pending,Pass,Medium,,,
+KYC0606,U013,Arjun Pandey,Owner KYC,Aadhaar + GST,2024-04-04,approved,Pass,Medium,Arjun Sharma,2024-04-09,Auto-cleared by AI
+KYC0607,OWN0547,Vikram Joshi,Owner KYC,PAN + GST,2024-02-26,pending,Suspicious,Medium,,,
+KYC0608,OWN0784,Suresh Pandey,Driving License,DL + Selfie,2024-02-09,pending,Pass,Medium,Karan Finance,,
+KYC0609,U156,Aakash Yadav,Vehicle RC,RC + Insurance,2024-03-01,rejected,Pass,Medium,Priya Admin,2024-03-18,
+KYC0610,OWN0045,Karan Tiwari,Driving License,DL + Selfie,2024-01-28,approved,Suspicious,Low,Arjun Sharma,2024-03-26,
+KYC0611,U352,Mohan Srivastava,Owner KYC,PAN + GST,2024-01-09,approved,Pass,Medium,Arjun Sharma,2024-01-30,Auto-cleared by AI
+KYC0612,OWN0372,Deepa Sharma,Driving License,DL + Selfie,2024-03-25,approved,Pass,Medium,Karan Finance,2024-04-04,Auto-cleared by AI
+KYC0613,U166,Neha Nair,Driving License,DL + Selfie,2024-01-29,approved,Fail,Medium,Karan Finance,2024-03-14,
+KYC0614,OWN0924,Sonal Das,Vehicle RC,RC Upload,2024-04-04,approved,Pass,High,Priya Admin,2024-04-05,Auto-cleared by AI
+KYC0615,U148,Ishaan Das,Owner KYC,Aadhaar + GST,2024-04-10,pending,Suspicious,Low,Priya Admin,,
+KYC0616,U227,Ananya Yadav,Owner KYC,Aadhaar + GST,2024-03-06,approved,Suspicious,Low,Arjun Sharma,2024-03-13,
+KYC0617,OWN0171,Vikram Singh,Driving License,DL Upload,2024-02-23,approved,Pass,Medium,Priya Admin,2024-04-08,Auto-cleared by AI
+KYC0618,OWN0731,Priya Patel,Driving License,DL + Selfie,2024-02-05,approved,Suspicious,High,Priya Admin,2024-02-26,
+KYC0619,OWN0730,Dev Rao,Vehicle RC,RC + Insurance,2024-01-06,approved,Pass,Low,Priya Admin,2024-03-17,Auto-cleared by AI
+KYC0620,OWN0487,Rahul Patel,Driving License,DL + Selfie,2024-03-05,rejected,Pass,Medium,Priya Admin,2024-03-22,
+KYC0621,U040,Tarun Reddy,Driving License,DL Upload,2024-04-03,approved,Pass,High,Arjun Sharma,2024-04-09,Auto-cleared by AI
+KYC0622,U263,Deepa Patel,Vehicle RC,RC Upload,2024-01-13,pending,Pass,Medium,Arjun Sharma,,
+KYC0623,OWN0515,Ritika Reddy,Vehicle RC,RC Upload,2024-01-08,approved,Pass,Medium,Arjun Sharma,2024-02-17,Auto-cleared by AI
+KYC0624,U349,Rajesh Nair,Owner KYC,Aadhaar + PAN,2024-03-12,pending,Pass,High,Arjun Sharma,,
+KYC0625,OWN0664,Sonal Patel,Insurance,Policy Upload,2024-02-02,pending,Pass,Medium,,,
+KYC0626,U411,Aman Sharma,Owner KYC,PAN + GST,2024-03-03,rejected,Fail,High,,2024-04-05,
+KYC0627,OWN0881,Meena Mishra,Address Proof,Utility Bill,2024-03-29,pending,Pass,Low,,,
+KYC0628,U011,Meena Pandey,Vehicle RC,RC + Insurance,2024-04-09,pending,Pass,High,,,
+KYC0629,OWN0040,Aakash Nair,Insurance,Policy Upload,2024-04-03,pending,Pass,High,Arjun Sharma,,
+KYC0630,OWN0527,Ravi Joshi,Address Proof,Passport,2024-01-01,pending,Pass,High,Priya Admin,,
+KYC0631,OWN0127,Pooja Sharma,Address Proof,Aadhaar,2024-03-27,rejected,Suspicious,Medium,Karan Finance,2024-03-28,
+KYC0632,OWN0490,Shreya Mishra,Insurance,Policy + Receipt,2024-01-03,pending,Suspicious,Medium,,,
+KYC0633,U445,Ritika Singh,Insurance,Policy Upload,2024-03-12,pending,Suspicious,Medium,,,
+KYC0634,OWN0827,Aditi Rao,Insurance,Policy Upload,2024-03-07,pending,Pass,High,Priya Admin,,
+KYC0635,U472,Ravi Reddy,Insurance,Policy Upload,2024-02-19,rejected,Pass,High,Karan Finance,2024-03-05,
+KYC0636,U086,Ishaan Pandey,Address Proof,Passport,2024-02-16,pending,Suspicious,Medium,Karan Finance,,
+KYC0637,U485,Divya Srivastava,Driving License,DL + Selfie,2024-01-24,approved,Suspicious,Medium,Arjun Sharma,2024-02-04,
+KYC0638,OWN0433,Dev Verma,Owner KYC,Aadhaar + GST,2024-02-02,approved,Suspicious,High,,2024-02-27,
+KYC0639,U082,Sonal Shah,Insurance,Policy + Receipt,2024-02-29,pending,Fail,Medium,Arjun Sharma,,
+KYC0640,OWN0678,Aakash Mishra,Address Proof,Utility Bill,2024-02-09,approved,Pass,Low,Priya Admin,2024-03-19,Auto-cleared by AI
+KYC0641,OWN0908,Mohan Joshi,Insurance,Policy + Receipt,2024-01-13,approved,Pass,High,,2024-02-08,Auto-cleared by AI
+KYC0642,U105,Sonal Kumar,Insurance,Policy Upload,2024-03-10,rejected,Fail,High,Arjun Sharma,2024-04-10,
+KYC0643,U065,Ishaan Joshi,Vehicle RC,RC + Insurance,2024-02-24,approved,Pass,Low,Priya Admin,2024-03-01,Auto-cleared by AI
+KYC0644,U140,Mohan Srivastava,Address Proof,Passport,2024-03-25,approved,Pass,Medium,Arjun Sharma,2024-04-06,Auto-cleared by AI
+KYC0645,OWN0132,Suresh Patel,Vehicle RC,RC Upload,2024-03-05,approved,Pass,High,Karan Finance,2024-04-08,Auto-cleared by AI
+KYC0646,U227,Suresh Srivastava,Vehicle RC,RC Upload,2024-02-26,rejected,Fail,Medium,,2024-04-10,
+KYC0647,U241,Aditi Bose,Driving License,DL Upload,2024-03-11,approved,Suspicious,Low,Karan Finance,2024-04-09,
+KYC0648,OWN0780,Sonal Gupta,Driving License,DL + Selfie,2024-02-03,approved,Suspicious,High,Karan Finance,2024-02-15,
+KYC0649,U396,Vikram Tiwari,Vehicle RC,RC + Insurance,2024-03-27,rejected,Fail,Medium,Arjun Sharma,2024-04-07,
+KYC0650,OWN0585,Karan Kumar,Vehicle RC,RC + Insurance,2024-01-28,approved,Pass,Medium,,2024-03-31,Auto-cleared by AI
+KYC0651,OWN0024,Shreya Shah,Owner KYC,Aadhaar + GST,2024-03-04,approved,Pass,Medium,Arjun Sharma,2024-03-21,Auto-cleared by AI
+KYC0652,U075,Tarun Rao,Vehicle RC,RC + Insurance,2024-01-01,pending,Fail,Medium,Arjun Sharma,,
+KYC0653,OWN0140,Rahul Agarwal,Driving License,DL Upload,2024-01-31,approved,Pass,Medium,,2024-02-20,Auto-cleared by AI
+KYC0654,OWN0531,Arjun Das,Address Proof,Passport,2024-02-22,approved,Pass,Low,Karan Finance,2024-03-02,Auto-cleared by AI
+KYC0655,OWN0680,Sonal Nair,Insurance,Policy Upload,2024-01-27,approved,Pass,Low,Karan Finance,2024-02-10,Auto-cleared by AI
+KYC0656,OWN0065,Suresh Mishra,Address Proof,Utility Bill,2024-03-02,approved,Pass,Medium,Karan Finance,2024-04-03,Auto-cleared by AI
+KYC0657,OWN0866,Tarun Patel,Insurance,Policy + Receipt,2024-03-12,approved,Suspicious,Low,Arjun Sharma,2024-04-07,
+KYC0658,OWN0227,Kavya Yadav,Vehicle RC,RC Upload,2024-01-25,rejected,Fail,Low,,2024-03-23,
+KYC0659,OWN0801,Meena Sharma,Owner KYC,Aadhaar + PAN,2024-03-12,approved,Fail,Medium,Priya Admin,2024-04-03,
+KYC0660,U121,Ananya Pandey,Owner KYC,Aadhaar + PAN,2024-02-02,pending,Pass,High,Priya Admin,,
+KYC0661,U303,Rajesh Tiwari,Owner KYC,Aadhaar + GST,2024-02-22,approved,Pass,Low,Arjun Sharma,2024-03-21,Auto-cleared by AI
+KYC0662,U211,Kavya Srivastava,Owner KYC,Aadhaar + GST,2024-01-20,rejected,Suspicious,Medium,Karan Finance,2024-01-21,
+KYC0663,OWN0667,Rajesh Mehta,Insurance,Policy Upload,2024-04-07,pending,Suspicious,Medium,Priya Admin,,
+KYC0664,OWN0446,Ritika Agarwal,Address Proof,Utility Bill,2024-03-11,approved,Pass,High,Priya Admin,2024-04-07,Auto-cleared by AI
+KYC0665,U148,Pooja Patel,Insurance,Policy + Receipt,2024-01-05,pending,Pass,Medium,Priya Admin,,
+KYC0666,OWN0489,Suresh Rao,Address Proof,Aadhaar,2024-01-09,approved,Pass,Medium,Arjun Sharma,2024-02-14,Auto-cleared by AI
+KYC0667,OWN0897,Arjun Singh,Insurance,Policy Upload,2024-02-29,rejected,Pass,Medium,Arjun Sharma,2024-03-25,
+KYC0668,OWN0859,Ananya Singh,Owner KYC,Aadhaar + PAN,2024-02-10,approved,Suspicious,Medium,Arjun Sharma,2024-02-25,
+KYC0669,U277,Sneha Gupta,Vehicle RC,RC Upload,2024-01-04,approved,Pass,Low,Arjun Sharma,2024-04-04,Auto-cleared by AI
+KYC0670,OWN0844,Vikram Verma,Insurance,Policy Upload,2024-02-19,approved,Pass,Medium,Priya Admin,2024-03-07,Auto-cleared by AI
+KYC0671,OWN0658,Kavya Agarwal,Driving License,DL + Selfie,2024-03-21,rejected,Pass,High,Priya Admin,2024-03-26,
+KYC0672,OWN0864,Rajesh Das,Address Proof,Aadhaar,2024-04-05,approved,Pass,Medium,Arjun Sharma,2024-04-06,Auto-cleared by AI
+KYC0673,U238,Sneha Mehta,Address Proof,Aadhaar,2024-01-05,rejected,Pass,Medium,,2024-03-16,
+KYC0674,U274,Divya Tiwari,Address Proof,Utility Bill,2024-02-19,pending,Pass,High,Arjun Sharma,,
+KYC0675,OWN0520,Ananya Tiwari,Owner KYC,Aadhaar + PAN,2024-02-26,pending,Fail,Medium,Priya Admin,,
+KYC0676,OWN0047,Amit Nair,Address Proof,Utility Bill,2024-02-17,pending,Pass,High,Priya Admin,,
+KYC0677,OWN0389,Amit Bose,Vehicle RC,RC Upload,2024-03-27,approved,Suspicious,Low,Karan Finance,2024-04-04,
+KYC0678,OWN0383,Sneha Mishra,Insurance,Policy Upload,2024-03-17,pending,Pass,High,Priya Admin,,
+KYC0679,OWN0703,Priya Nair,Vehicle RC,RC + Insurance,2024-03-26,approved,Pass,Medium,Karan Finance,2024-03-28,Auto-cleared by AI
+KYC0680,OWN0186,Rohit Bose,Address Proof,Aadhaar,2024-01-26,approved,Pass,High,Priya Admin,2024-03-24,Auto-cleared by AI
+KYC0681,OWN0586,Nikhil Mishra,Driving License,DL Upload,2024-02-04,approved,Pass,Medium,,2024-03-29,Auto-cleared by AI
+KYC0682,OWN0313,Suresh Gupta,Driving License,DL + Selfie,2024-01-15,pending,Pass,Medium,Arjun Sharma,,
+KYC0683,OWN0009,Shreya Mishra,Vehicle RC,RC Upload,2024-01-20,rejected,Pass,Low,Priya Admin,2024-02-22,
+KYC0684,U220,Neha Sharma,Insurance,Policy + Receipt,2024-01-06,approved,Pass,Medium,Arjun Sharma,2024-01-27,Auto-cleared by AI
+KYC0685,OWN0059,Amit Das,Address Proof,Aadhaar,2024-04-02,approved,Suspicious,Low,Karan Finance,2024-04-05,
+KYC0686,U279,Amit Kumar,Insurance,Policy + Receipt,2024-04-08,approved,Pass,Medium,,2024-04-10,Auto-cleared by AI
+KYC0687,OWN0163,Aakash Sharma,Driving License,DL Upload,2024-01-02,approved,Pass,Medium,Arjun Sharma,2024-03-11,Auto-cleared by AI
+KYC0688,OWN0197,Pooja Sharma,Owner KYC,Aadhaar + PAN,2024-02-04,pending,Pass,Medium,Arjun Sharma,,
+KYC0689,OWN0814,Sneha Mishra,Owner KYC,PAN + GST,2024-02-13,approved,Fail,Medium,,2024-04-04,
+KYC0690,U141,Neha Patel,Address Proof,Aadhaar,2024-03-16,pending,Pass,Medium,,,
+KYC0691,U330,Deepa Gupta,Address Proof,Utility Bill,2024-02-08,approved,Pass,Low,,2024-04-01,Auto-cleared by AI
+KYC0692,OWN0946,Neha Yadav,Insurance,Policy + Receipt,2024-04-09,pending,Pass,Medium,Priya Admin,,
+KYC0693,OWN0774,Divya Rao,Insurance,Policy + Receipt,2024-04-09,pending,Pass,Medium,Karan Finance,,
+KYC0694,U305,Aman Bose,Address Proof,Aadhaar,2024-01-10,approved,Pass,High,Arjun Sharma,2024-02-12,Auto-cleared by AI
+KYC0695,OWN0966,Ananya Nair,Insurance,Policy Upload,2024-02-17,approved,Suspicious,Low,,2024-03-10,
+KYC0696,OWN0677,Aman Verma,Insurance,Policy + Receipt,2024-03-06,approved,Pass,Low,Karan Finance,2024-03-21,Auto-cleared by AI
+KYC0697,OWN0315,Pooja Kumar,Address Proof,Utility Bill,2024-03-13,approved,Pass,Medium,,2024-03-17,Auto-cleared by AI
+KYC0698,U464,Shreya Yadav,Address Proof,Aadhaar,2024-02-11,pending,Pass,Medium,Priya Admin,,
+KYC0699,OWN0290,Ritika Nair,Vehicle RC,RC + Insurance,2024-04-03,rejected,Suspicious,High,Priya Admin,2024-04-09,
+KYC0700,OWN0504,Ananya Tiwari,Owner KYC,Aadhaar + GST,2024-01-28,approved,Suspicious,Medium,,2024-02-12,
+KYC0701,U410,Aakash Reddy,Address Proof,Passport,2024-04-05,pending,Pass,High,Arjun Sharma,,
+KYC0702,U289,Divya Rao,Address Proof,Passport,2024-01-29,approved,Suspicious,Medium,Karan Finance,2024-04-10,
+KYC0703,OWN0754,Aman Agarwal,Address Proof,Utility Bill,2024-03-06,pending,Pass,Medium,Priya Admin,,
+KYC0704,OWN0439,Suresh Yadav,Driving License,DL + Selfie,2024-02-17,approved,Suspicious,Medium,Priya Admin,2024-03-03,
+KYC0705,U473,Dev Mishra,Insurance,Policy + Receipt,2024-03-09,pending,Pass,High,Priya Admin,,
+KYC0706,OWN0801,Ananya Mishra,Address Proof,Utility Bill,2024-04-04,approved,Fail,Low,Arjun Sharma,2024-04-05,
+KYC0707,OWN0889,Dev Gupta,Driving License,DL Upload,2024-03-06,pending,Pass,Medium,Karan Finance,,
+KYC0708,OWN0087,Mohan Bose,Vehicle RC,RC + Insurance,2024-01-03,pending,Pass,Medium,Karan Finance,,
+KYC0709,OWN0773,Pooja Patel,Driving License,DL Upload,2024-02-05,pending,Suspicious,High,Priya Admin,,
+KYC0710,OWN0384,Divya Reddy,Driving License,DL + Selfie,2024-01-31,approved,Pass,Low,Arjun Sharma,2024-03-25,Auto-cleared by AI
+KYC0711,OWN0488,Rohit Nair,Insurance,Policy Upload,2024-03-22,approved,Fail,Low,Arjun Sharma,2024-03-24,
+KYC0712,OWN0006,Nisha Rao,Owner KYC,PAN + GST,2024-02-07,pending,Pass,Medium,Priya Admin,,
+KYC0713,OWN0461,Amit Srivastava,Insurance,Policy + Receipt,2024-01-03,approved,Suspicious,Low,Karan Finance,2024-03-25,
+KYC0714,U292,Ritika Verma,Driving License,DL Upload,2024-01-25,rejected,Fail,Medium,Priya Admin,2024-02-10,
+KYC0715,OWN0424,Dev Nair,Driving License,DL Upload,2024-02-03,pending,Fail,Medium,Karan Finance,,
+KYC0716,OWN0849,Arjun Kumar,Vehicle RC,RC + Insurance,2024-02-27,approved,Pass,High,Arjun Sharma,2024-03-16,Auto-cleared by AI
+KYC0717,U389,Sneha Pandey,Address Proof,Passport,2024-02-09,approved,Pass,High,,2024-03-25,Auto-cleared by AI
+KYC0718,U362,Aakash Verma,Address Proof,Aadhaar,2024-03-03,approved,Pass,Low,Karan Finance,2024-04-01,Auto-cleared by AI
+KYC0719,OWN0006,Shreya Das,Vehicle RC,RC + Insurance,2024-03-29,approved,Suspicious,Medium,Karan Finance,2024-04-05,
+KYC0720,OWN0898,Kavya Patel,Insurance,Policy Upload,2024-01-08,rejected,Suspicious,Medium,Priya Admin,2024-01-24,
+KYC0721,U167,Pooja Agarwal,Owner KYC,Aadhaar + GST,2024-01-20,rejected,Pass,Medium,,2024-04-04,
+KYC0722,OWN0576,Deepa Srivastava,Vehicle RC,RC Upload,2024-02-22,approved,Pass,Medium,,2024-03-06,Auto-cleared by AI
+KYC0723,OWN0167,Aakash Bose,Insurance,Policy + Receipt,2024-04-05,rejected,Pass,Low,Karan Finance,2024-04-09,
+KYC0724,OWN0187,Kavya Das,Driving License,DL + Selfie,2024-03-31,rejected,Pass,High,Karan Finance,2024-04-10,
+KYC0725,OWN0499,Karan Nair,Owner KYC,PAN + GST,2024-01-12,approved,Pass,Medium,,2024-04-07,Auto-cleared by AI
+KYC0726,OWN0099,Meena Tiwari,Driving License,DL + Selfie,2024-03-05,rejected,Suspicious,Medium,Arjun Sharma,2024-04-04,
+KYC0727,OWN0627,Aman Singh,Address Proof,Passport,2024-03-21,approved,Pass,Medium,Arjun Sharma,2024-03-21,Auto-cleared by AI
+KYC0728,OWN0868,Divya Agarwal,Owner KYC,Aadhaar + GST,2024-04-05,pending,Pass,Medium,,,
+KYC0729,OWN0197,Vikram Bose,Driving License,DL Upload,2024-02-10,pending,Pass,High,Arjun Sharma,,
+KYC0730,OWN0860,Deepa Sharma,Address Proof,Passport,2024-03-30,approved,Pass,High,Karan Finance,2024-04-09,Auto-cleared by AI
+KYC0731,OWN0850,Rohit Mehta,Vehicle RC,RC Upload,2024-03-06,approved,Pass,Medium,Karan Finance,2024-03-31,Auto-cleared by AI
+KYC0732,OWN0558,Ravi Verma,Insurance,Policy Upload,2024-02-14,approved,Pass,Low,Karan Finance,2024-02-21,Auto-cleared by AI
+KYC0733,U131,Tarun Mishra,Insurance,Policy Upload,2024-01-16,approved,Pass,Medium,Karan Finance,2024-02-11,Auto-cleared by AI
+KYC0734,OWN0884,Rajesh Tiwari,Driving License,DL + Selfie,2024-02-11,pending,Pass,Medium,,,
+KYC0735,OWN0295,Nikhil Yadav,Insurance,Policy + Receipt,2024-01-28,pending,Fail,Medium,,,
+KYC0736,OWN0952,Aman Verma,Vehicle RC,RC + Insurance,2024-01-07,pending,Pass,Medium,Karan Finance,,
+KYC0737,OWN0545,Deepa Mehta,Owner KYC,Aadhaar + PAN,2024-03-01,rejected,Pass,Low,,2024-03-06,
+KYC0738,OWN0950,Meena Pandey,Address Proof,Utility Bill,2024-03-17,pending,Pass,Medium,,,
+KYC0739,U246,Priya Srivastava,Vehicle RC,RC Upload,2024-03-01,pending,Fail,High,Priya Admin,,
+KYC0740,U104,Nikhil Patel,Vehicle RC,RC Upload,2024-02-19,approved,Suspicious,High,Priya Admin,2024-03-14,
+KYC0741,OWN0413,Vikram Das,Address Proof,Passport,2024-02-17,approved,Pass,Medium,,2024-03-19,Auto-cleared by AI
+KYC0742,U114,Amit Gupta,Driving License,DL + Selfie,2024-02-10,approved,Pass,High,Priya Admin,2024-03-22,Auto-cleared by AI
+KYC0743,OWN0890,Rohit Agarwal,Address Proof,Aadhaar,2024-02-08,approved,Pass,High,,2024-02-13,Auto-cleared by AI
+KYC0744,OWN0873,Karan Pandey,Vehicle RC,RC Upload,2024-03-19,approved,Suspicious,High,,2024-03-24,
+KYC0745,OWN0689,Rohit Patel,Insurance,Policy Upload,2024-02-12,approved,Pass,Medium,Arjun Sharma,2024-03-23,Auto-cleared by AI
+KYC0746,U127,Karan Sharma,Address Proof,Passport,2024-02-13,approved,Pass,Medium,,2024-02-22,Auto-cleared by AI
+KYC0747,U116,Meena Rao,Owner KYC,Aadhaar + GST,2024-01-07,approved,Pass,Medium,Arjun Sharma,2024-02-14,Auto-cleared by AI
+KYC0748,U401,Deepa Tiwari,Address Proof,Passport,2024-01-14,pending,Fail,Medium,Priya Admin,,
+KYC0749,OWN0720,Dev Mehta,Address Proof,Utility Bill,2024-02-23,approved,Pass,Medium,,2024-03-22,Auto-cleared by AI
+KYC0750,OWN0559,Ananya Verma,Insurance,Policy Upload,2024-03-01,approved,Pass,Medium,Priya Admin,2024-04-07,Auto-cleared by AI
+KYC0751,OWN0167,Ritika Kumar,Address Proof,Utility Bill,2024-02-19,approved,Suspicious,Medium,Priya Admin,2024-03-20,
+KYC0752,OWN0925,Sneha Joshi,Owner KYC,Aadhaar + PAN,2024-01-07,approved,Suspicious,High,Priya Admin,2024-02-26,
+KYC0753,U321,Suresh Sharma,Address Proof,Aadhaar,2024-03-14,pending,Pass,High,Karan Finance,,
+KYC0754,OWN0745,Kavya Yadav,Owner KYC,Aadhaar + PAN,2024-02-16,approved,Pass,Medium,Priya Admin,2024-03-31,Auto-cleared by AI
+KYC0755,U175,Nikhil Agarwal,Vehicle RC,RC + Insurance,2024-01-09,approved,Pass,Medium,Karan Finance,2024-02-21,Auto-cleared by AI
+KYC0756,OWN0241,Kavya Tiwari,Address Proof,Aadhaar,2024-03-17,pending,Pass,Medium,Karan Finance,,
+KYC0757,OWN0866,Karan Sharma,Address Proof,Aadhaar,2024-03-03,approved,Pass,Low,Priya Admin,2024-04-10,Auto-cleared by AI
+KYC0758,OWN0580,Amit Srivastava,Driving License,DL + Selfie,2024-01-31,approved,Pass,High,Priya Admin,2024-03-15,Auto-cleared by AI
+KYC0759,OWN0578,Arjun Agarwal,Address Proof,Passport,2024-03-24,approved,Pass,Medium,,2024-04-01,Auto-cleared by AI
+KYC0760,OWN0902,Rahul Srivastava,Insurance,Policy Upload,2024-02-05,approved,Pass,Low,Priya Admin,2024-02-18,Auto-cleared by AI
+KYC0761,OWN0578,Tarun Singh,Owner KYC,PAN + GST,2024-01-16,rejected,Pass,High,,2024-02-25,
+KYC0762,OWN0888,Shreya Sharma,Insurance,Policy + Receipt,2024-04-04,approved,Pass,Medium,Arjun Sharma,2024-04-06,Auto-cleared by AI
+KYC0763,OWN0894,Ishaan Das,Address Proof,Utility Bill,2024-01-02,pending,Suspicious,Medium,,,
+KYC0764,OWN0415,Sonal Joshi,Vehicle RC,RC + Insurance,2024-02-02,approved,Pass,Medium,,2024-03-10,Auto-cleared by AI
+KYC0765,OWN0410,Sneha Verma,Insurance,Policy + Receipt,2024-04-07,approved,Pass,High,,2024-04-08,Auto-cleared by AI
+KYC0766,U349,Aditi Agarwal,Driving License,DL Upload,2024-03-02,approved,Pass,Medium,Arjun Sharma,2024-03-24,Auto-cleared by AI
+KYC0767,OWN0809,Karan Das,Owner KYC,Aadhaar + GST,2024-01-24,pending,Pass,High,Karan Finance,,
+KYC0768,U018,Ravi Verma,Owner KYC,Aadhaar + GST,2024-02-11,rejected,Pass,Low,Arjun Sharma,2024-02-27,
+KYC0769,OWN0814,Ravi Nair,Insurance,Policy + Receipt,2024-01-17,approved,Pass,High,Arjun Sharma,2024-02-20,Auto-cleared by AI
+KYC0770,U033,Suresh Pandey,Vehicle RC,RC + Insurance,2024-03-16,approved,Pass,Medium,Arjun Sharma,2024-03-30,Auto-cleared by AI
+KYC0771,OWN0248,Meena Agarwal,Vehicle RC,RC Upload,2024-03-03,rejected,Pass,Medium,Karan Finance,2024-04-05,
+KYC0772,OWN0841,Mohan Tiwari,Insurance,Policy + Receipt,2024-02-08,approved,Suspicious,Medium,Priya Admin,2024-02-15,
+KYC0773,OWN0300,Rohit Shah,Address Proof,Aadhaar,2024-03-09,pending,Pass,Low,Priya Admin,,
+KYC0774,OWN0477,Rohit Nair,Address Proof,Utility Bill,2024-02-10,pending,Pass,High,,,
+KYC0775,OWN0433,Rohit Reddy,Driving License,DL + Selfie,2024-01-11,pending,Pass,Medium,Arjun Sharma,,
+KYC0776,OWN0461,Sonal Reddy,Address Proof,Utility Bill,2024-01-11,rejected,Fail,Medium,Priya Admin,2024-01-27,
+KYC0777,OWN0163,Aman Singh,Driving License,DL Upload,2024-03-17,pending,Fail,Medium,Karan Finance,,
+KYC0778,OWN0083,Amit Tiwari,Owner KYC,Aadhaar + PAN,2024-02-26,pending,Pass,Medium,Arjun Sharma,,
+KYC0779,U258,Pooja Agarwal,Address Proof,Passport,2024-01-29,pending,Pass,Medium,,,
+KYC0780,OWN0333,Sneha Singh,Owner KYC,Aadhaar + GST,2024-01-18,pending,Pass,High,Karan Finance,,
+KYC0781,OWN0874,Vikram Bose,Driving License,DL Upload,2024-04-01,approved,Pass,Medium,Priya Admin,2024-04-09,Auto-cleared by AI
+KYC0782,OWN0576,Meena Sharma,Driving License,DL + Selfie,2024-04-03,approved,Suspicious,Medium,Karan Finance,2024-04-10,
+KYC0783,U390,Shreya Nair,Address Proof,Utility Bill,2024-03-24,rejected,Pass,Low,,2024-03-31,
+KYC0784,OWN0814,Sneha Bose,Owner KYC,PAN + GST,2024-03-16,rejected,Pass,Medium,,2024-03-28,
+KYC0785,OWN0531,Sonal Nair,Insurance,Policy + Receipt,2024-01-04,approved,Suspicious,Low,Arjun Sharma,2024-04-09,
+KYC0786,OWN0409,Ananya Singh,Owner KYC,PAN + GST,2024-03-28,approved,Pass,High,,2024-03-30,Auto-cleared by AI
+KYC0787,OWN0906,Tarun Sharma,Address Proof,Aadhaar,2024-04-03,rejected,Fail,High,,2024-04-06,
+KYC0788,OWN0419,Ananya Yadav,Driving License,DL Upload,2024-03-29,rejected,Pass,Medium,,2024-04-01,
+KYC0789,OWN0372,Priya Tiwari,Owner KYC,Aadhaar + GST,2024-02-12,approved,Suspicious,High,,2024-03-11,
+KYC0790,U338,Tarun Srivastava,Vehicle RC,RC + Insurance,2024-01-27,approved,Fail,Low,Karan Finance,2024-04-06,
+KYC0791,OWN0537,Rajesh Singh,Owner KYC,PAN + GST,2024-04-01,rejected,Suspicious,Medium,Arjun Sharma,2024-04-08,
+KYC0792,U005,Kavya Das,Vehicle RC,RC + Insurance,2024-04-01,approved,Pass,High,,2024-04-06,Auto-cleared by AI
+KYC0793,OWN0769,Nisha Joshi,Address Proof,Utility Bill,2024-03-21,approved,Pass,High,,2024-03-21,Auto-cleared by AI
+KYC0794,OWN0351,Suresh Shah,Vehicle RC,RC + Insurance,2024-01-11,approved,Pass,High,Priya Admin,2024-03-19,Auto-cleared by AI
+KYC0795,U058,Amit Srivastava,Owner KYC,Aadhaar + PAN,2024-02-10,approved,Pass,Medium,Karan Finance,2024-02-24,Auto-cleared by AI
+KYC0796,U229,Shreya Yadav,Insurance,Policy + Receipt,2024-03-13,rejected,Suspicious,Low,Priya Admin,2024-03-22,
+KYC0797,OWN0373,Sneha Sharma,Owner KYC,PAN + GST,2024-01-29,approved,Pass,High,Arjun Sharma,2024-04-05,Auto-cleared by AI
+KYC0798,OWN0900,Amit Rao,Vehicle RC,RC Upload,2024-03-08,pending,Pass,Low,,,
+KYC0799,OWN0309,Karan Das,Address Proof,Utility Bill,2024-01-16,approved,Pass,Medium,,2024-01-21,Auto-cleared by AI
+KYC0800,OWN0420,Sonal Tiwari,Insurance,Policy Upload,2024-03-01,approved,Pass,Medium,Karan Finance,2024-03-19,Auto-cleared by AI
+KYC0801,OWN0486,Shreya Srivastava,Owner KYC,PAN + GST,2024-01-01,approved,Fail,High,Arjun Sharma,2024-02-07,
+KYC0802,OWN0529,Amit Shah,Owner KYC,PAN + GST,2024-01-23,approved,Fail,High,Karan Finance,2024-03-04,
+KYC0803,OWN0098,Dev Reddy,Address Proof,Utility Bill,2024-02-27,pending,Pass,Low,Priya Admin,,
+KYC0804,OWN0087,Neha Sharma,Owner KYC,Aadhaar + PAN,2024-03-08,pending,Pass,Medium,,,
+KYC0805,OWN0572,Meena Sharma,Vehicle RC,RC Upload,2024-03-15,pending,Pass,Medium,Arjun Sharma,,
+KYC0806,U183,Meena Agarwal,Owner KYC,Aadhaar + PAN,2024-02-13,approved,Suspicious,Medium,Arjun Sharma,2024-03-29,
+KYC0807,U085,Rahul Singh,Vehicle RC,RC + Insurance,2024-02-26,approved,Pass,Medium,Karan Finance,2024-02-28,Auto-cleared by AI
+KYC0808,OWN0332,Dev Sharma,Address Proof,Passport,2024-03-16,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0809,OWN0181,Ravi Patel,Insurance,Policy + Receipt,2024-02-09,approved,Pass,Medium,Arjun Sharma,2024-04-07,Auto-cleared by AI
+KYC0810,OWN0327,Amit Joshi,Driving License,DL + Selfie,2024-04-10,approved,Pass,Medium,Priya Admin,2024-04-10,Auto-cleared by AI
+KYC0811,U079,Neha Nair,Vehicle RC,RC Upload,2024-02-11,approved,Fail,High,Arjun Sharma,2024-04-01,
+KYC0812,OWN0792,Rohit Shah,Vehicle RC,RC + Insurance,2024-03-23,approved,Pass,Medium,Priya Admin,2024-03-24,Auto-cleared by AI
+KYC0813,OWN0955,Karan Bose,Owner KYC,PAN + GST,2024-04-03,pending,Pass,High,,,
+KYC0814,U021,Neha Verma,Insurance,Policy + Receipt,2024-03-21,pending,Pass,High,,,
+KYC0815,OWN0520,Karan Gupta,Owner KYC,Aadhaar + PAN,2024-03-13,approved,Pass,Low,Arjun Sharma,2024-04-10,Auto-cleared by AI
+KYC0816,U037,Neha Patel,Insurance,Policy Upload,2024-02-22,rejected,Suspicious,Low,Karan Finance,2024-03-17,
+KYC0817,U112,Neha Tiwari,Address Proof,Aadhaar,2024-01-14,approved,Suspicious,Medium,Karan Finance,2024-02-16,
+KYC0818,U229,Rajesh Patel,Insurance,Policy Upload,2024-02-19,rejected,Pass,Low,Priya Admin,2024-03-16,
+KYC0819,OWN0309,Nisha Srivastava,Owner KYC,Aadhaar + PAN,2024-01-17,approved,Suspicious,Low,Priya Admin,2024-03-31,
+KYC0820,OWN0501,Sonal Verma,Vehicle RC,RC + Insurance,2024-03-04,approved,Suspicious,Medium,Arjun Sharma,2024-04-09,
+KYC0821,OWN0836,Rajesh Patel,Address Proof,Aadhaar,2024-03-19,approved,Pass,High,Karan Finance,2024-04-03,Auto-cleared by AI
+KYC0822,U169,Arjun Pandey,Owner KYC,Aadhaar + GST,2024-02-24,pending,Pass,Low,Karan Finance,,
+KYC0823,OWN0038,Rahul Rao,Insurance,Policy Upload,2024-01-12,rejected,Pass,Medium,,2024-02-14,
+KYC0824,OWN0728,Tarun Yadav,Vehicle RC,RC + Insurance,2024-02-14,approved,Pass,Medium,Karan Finance,2024-03-31,Auto-cleared by AI
+KYC0825,U235,Divya Bose,Vehicle RC,RC Upload,2024-02-02,pending,Suspicious,Low,,,
+KYC0826,U277,Dev Agarwal,Address Proof,Aadhaar,2024-01-06,pending,Pass,Medium,Priya Admin,,
+KYC0827,OWN0140,Tarun Mehta,Insurance,Policy Upload,2024-02-01,approved,Pass,Low,,2024-02-01,Auto-cleared by AI
+KYC0828,OWN0036,Pooja Agarwal,Insurance,Policy + Receipt,2024-02-06,approved,Pass,High,Priya Admin,2024-04-01,Auto-cleared by AI
+KYC0829,OWN0224,Aditi Mishra,Owner KYC,Aadhaar + GST,2024-01-25,approved,Pass,Medium,Priya Admin,2024-02-12,Auto-cleared by AI
+KYC0830,OWN0024,Karan Das,Insurance,Policy Upload,2024-04-02,pending,Pass,Low,Karan Finance,,
+KYC0831,OWN0060,Mohan Tiwari,Vehicle RC,RC Upload,2024-01-10,approved,Suspicious,Low,Karan Finance,2024-01-28,
+KYC0832,OWN0531,Ishaan Das,Insurance,Policy Upload,2024-02-13,pending,Pass,Medium,Karan Finance,,
+KYC0833,U148,Arjun Nair,Address Proof,Aadhaar,2024-01-23,approved,Pass,Medium,Priya Admin,2024-03-02,Auto-cleared by AI
+KYC0834,OWN0501,Ravi Joshi,Owner KYC,PAN + GST,2024-03-29,approved,Suspicious,Low,Priya Admin,2024-03-31,
+KYC0835,OWN0339,Sneha Yadav,Insurance,Policy Upload,2024-03-01,pending,Pass,Medium,,,
+KYC0836,OWN0542,Vikram Reddy,Insurance,Policy Upload,2024-02-07,approved,Suspicious,Medium,Karan Finance,2024-03-27,
+KYC0837,OWN0696,Shreya Verma,Address Proof,Passport,2024-02-27,approved,Pass,High,Karan Finance,2024-03-15,Auto-cleared by AI
+KYC0838,OWN0502,Karan Agarwal,Address Proof,Utility Bill,2024-03-19,pending,Pass,Medium,,,
+KYC0839,OWN0034,Suresh Reddy,Driving License,DL Upload,2024-04-03,approved,Pass,Low,Karan Finance,2024-04-06,Auto-cleared by AI
+KYC0840,U429,Deepa Reddy,Insurance,Policy Upload,2024-03-24,approved,Pass,High,Arjun Sharma,2024-04-05,Auto-cleared by AI
+KYC0841,OWN0491,Aakash Kumar,Owner KYC,Aadhaar + GST,2024-04-01,approved,Pass,Medium,Karan Finance,2024-04-04,Auto-cleared by AI
+KYC0842,U454,Mohan Das,Vehicle RC,RC Upload,2024-01-06,rejected,Suspicious,High,Karan Finance,2024-03-31,
+KYC0843,OWN0608,Meena Rao,Owner KYC,Aadhaar + PAN,2024-03-06,pending,Pass,High,,,
+KYC0844,U455,Aakash Shah,Driving License,DL + Selfie,2024-03-09,pending,Pass,Low,Arjun Sharma,,
+KYC0845,OWN0654,Ishaan Patel,Owner KYC,Aadhaar + GST,2024-02-15,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0846,OWN0688,Aakash Mishra,Vehicle RC,RC Upload,2024-03-03,pending,Pass,High,,,
+KYC0847,OWN0224,Sneha Pandey,Insurance,Policy Upload,2024-01-02,approved,Pass,High,Arjun Sharma,2024-01-20,Auto-cleared by AI
+KYC0848,OWN0631,Pooja Nair,Insurance,Policy Upload,2024-03-24,pending,Pass,High,Karan Finance,,
+KYC0849,OWN0814,Aditi Agarwal,Owner KYC,Aadhaar + PAN,2024-03-22,approved,Suspicious,Low,Priya Admin,2024-04-01,
+KYC0850,U068,Nisha Verma,Owner KYC,Aadhaar + PAN,2024-02-23,pending,Pass,Medium,,,
+KYC0851,U279,Aman Pandey,Address Proof,Passport,2024-03-15,approved,Suspicious,Medium,Arjun Sharma,2024-03-16,
+KYC0852,OWN0588,Arjun Agarwal,Address Proof,Utility Bill,2024-03-19,approved,Pass,Medium,Karan Finance,2024-03-20,Auto-cleared by AI
+KYC0853,OWN0642,Shreya Pandey,Address Proof,Passport,2024-01-28,approved,Pass,Low,Arjun Sharma,2024-03-05,Auto-cleared by AI
+KYC0854,OWN0577,Karan Singh,Owner KYC,PAN + GST,2024-02-26,rejected,Pass,Low,Arjun Sharma,2024-03-14,
+KYC0855,U318,Aman Shah,Driving License,DL Upload,2024-03-15,pending,Suspicious,Low,Karan Finance,,
+KYC0856,OWN0796,Dev Sharma,Insurance,Policy Upload,2024-01-23,approved,Pass,Low,Karan Finance,2024-03-26,Auto-cleared by AI
+KYC0857,OWN0572,Rajesh Shah,Vehicle RC,RC Upload,2024-03-06,approved,Suspicious,High,Priya Admin,2024-04-04,
+KYC0858,OWN0721,Arjun Yadav,Driving License,DL Upload,2024-03-09,pending,Pass,High,,,
+KYC0859,OWN0714,Neha Verma,Driving License,DL Upload,2024-04-08,approved,Pass,Medium,Karan Finance,2024-04-09,Auto-cleared by AI
+KYC0860,OWN0323,Nisha Das,Vehicle RC,RC + Insurance,2024-02-07,pending,Pass,Medium,Karan Finance,,
+KYC0861,U356,Divya Bose,Insurance,Policy + Receipt,2024-03-10,pending,Pass,Low,Priya Admin,,
+KYC0862,OWN0218,Sneha Nair,Insurance,Policy + Receipt,2024-02-22,rejected,Pass,Low,Karan Finance,2024-04-03,
+KYC0863,OWN0606,Amit Patel,Owner KYC,Aadhaar + GST,2024-02-05,approved,Pass,Medium,Arjun Sharma,2024-04-08,Auto-cleared by AI
+KYC0864,U237,Tarun Joshi,Insurance,Policy + Receipt,2024-01-05,approved,Pass,Low,Arjun Sharma,2024-03-25,Auto-cleared by AI
+KYC0865,U005,Kavya Reddy,Owner KYC,Aadhaar + GST,2024-01-30,approved,Suspicious,High,Priya Admin,2024-02-13,
+KYC0866,U237,Rohit Sharma,Vehicle RC,RC Upload,2024-03-27,approved,Pass,High,,2024-03-27,Auto-cleared by AI
+KYC0867,U015,Vikram Mehta,Owner KYC,Aadhaar + GST,2024-03-20,approved,Pass,High,Priya Admin,2024-04-01,Auto-cleared by AI
+KYC0868,U268,Meena Rao,Owner KYC,Aadhaar + GST,2024-03-28,approved,Pass,Medium,Priya Admin,2024-03-31,Auto-cleared by AI
+KYC0869,U320,Ishaan Das,Owner KYC,Aadhaar + PAN,2024-02-18,pending,Pass,High,Arjun Sharma,,
+KYC0870,OWN0105,Ravi Bose,Insurance,Policy + Receipt,2024-01-11,approved,Pass,Medium,Karan Finance,2024-01-16,Auto-cleared by AI
+KYC0871,OWN0242,Deepa Bose,Vehicle RC,RC Upload,2024-04-07,pending,Suspicious,Medium,Arjun Sharma,,
+KYC0872,U477,Shreya Srivastava,Owner KYC,PAN + GST,2024-04-06,approved,Pass,Medium,,2024-04-07,Auto-cleared by AI
+KYC0873,U489,Nikhil Agarwal,Vehicle RC,RC + Insurance,2024-03-17,approved,Pass,High,Arjun Sharma,2024-03-24,Auto-cleared by AI
+KYC0874,OWN0481,Nikhil Pandey,Owner KYC,Aadhaar + PAN,2024-01-20,approved,Pass,High,,2024-03-01,Auto-cleared by AI
+KYC0875,OWN0251,Arjun Joshi,Insurance,Policy + Receipt,2024-01-03,pending,Suspicious,Medium,Karan Finance,,
+KYC0876,U176,Ananya Nair,Owner KYC,Aadhaar + GST,2024-03-26,approved,Pass,Medium,Priya Admin,2024-03-30,Auto-cleared by AI
+KYC0877,OWN0922,Aakash Nair,Insurance,Policy + Receipt,2024-03-28,approved,Suspicious,High,Arjun Sharma,2024-04-02,
+KYC0878,OWN0719,Ravi Reddy,Address Proof,Passport,2024-02-29,rejected,Pass,High,Priya Admin,2024-03-06,
+KYC0879,OWN0029,Priya Gupta,Insurance,Policy Upload,2024-01-14,approved,Pass,Medium,Arjun Sharma,2024-02-03,Auto-cleared by AI
+KYC0880,OWN0353,Ananya Verma,Vehicle RC,RC + Insurance,2024-03-30,approved,Pass,High,Priya Admin,2024-04-06,Auto-cleared by AI
+KYC0881,OWN0675,Rohit Gupta,Owner KYC,Aadhaar + PAN,2024-04-04,approved,Fail,Medium,,2024-04-08,
+KYC0882,OWN0612,Deepa Singh,Vehicle RC,RC + Insurance,2024-02-09,rejected,Pass,Medium,Arjun Sharma,2024-02-21,
+KYC0883,OWN0510,Nikhil Gupta,Vehicle RC,RC + Insurance,2024-01-01,rejected,Suspicious,Low,Arjun Sharma,2024-02-29,
+KYC0884,U233,Ishaan Singh,Owner KYC,Aadhaar + PAN,2024-02-19,pending,Suspicious,Medium,,,
+KYC0885,OWN0794,Mohan Reddy,Driving License,DL Upload,2024-03-09,pending,Pass,Medium,Arjun Sharma,,
+KYC0886,OWN0032,Ananya Agarwal,Driving License,DL Upload,2024-02-10,approved,Pass,High,Arjun Sharma,2024-03-23,Auto-cleared by AI
+KYC0887,OWN0954,Meena Singh,Vehicle RC,RC + Insurance,2024-02-07,rejected,Fail,Medium,Priya Admin,2024-03-15,
+KYC0888,OWN0911,Karan Rao,Owner KYC,Aadhaar + PAN,2024-01-16,approved,Pass,Medium,Arjun Sharma,2024-01-31,Auto-cleared by AI
+KYC0889,OWN0394,Mohan Pandey,Vehicle RC,RC Upload,2024-03-01,approved,Pass,High,Priya Admin,2024-03-09,Auto-cleared by AI
+KYC0890,U163,Aditi Gupta,Driving License,DL + Selfie,2024-01-08,approved,Pass,Low,Karan Finance,2024-02-28,Auto-cleared by AI
+KYC0891,U201,Nikhil Tiwari,Owner KYC,PAN + GST,2024-01-29,approved,Suspicious,Medium,Priya Admin,2024-02-28,
+KYC0892,OWN0515,Aditi Gupta,Vehicle RC,RC + Insurance,2024-03-29,approved,Pass,Medium,Karan Finance,2024-04-01,Auto-cleared by AI
+KYC0893,OWN0689,Aakash Rao,Driving License,DL + Selfie,2024-01-13,rejected,Fail,High,Arjun Sharma,2024-02-23,
+KYC0894,U459,Dev Kumar,Vehicle RC,RC + Insurance,2024-01-14,pending,Pass,Medium,Priya Admin,,
+KYC0895,OWN0901,Amit Shah,Owner KYC,Aadhaar + PAN,2024-04-06,approved,Pass,Medium,,2024-04-10,Auto-cleared by AI
+KYC0896,OWN0580,Neha Das,Vehicle RC,RC Upload,2024-02-27,approved,Pass,Low,Karan Finance,2024-03-04,Auto-cleared by AI
+KYC0897,OWN0501,Deepa Verma,Vehicle RC,RC + Insurance,2024-03-22,rejected,Pass,Low,Priya Admin,2024-03-29,
+KYC0898,OWN0461,Divya Shah,Vehicle RC,RC Upload,2024-03-30,pending,Suspicious,Medium,,,
+KYC0899,U320,Shreya Tiwari,Owner KYC,Aadhaar + GST,2024-01-13,approved,Pass,Low,Arjun Sharma,2024-04-07,Auto-cleared by AI
+KYC0900,U439,Nikhil Bose,Insurance,Policy + Receipt,2024-02-10,pending,Pass,High,Arjun Sharma,,
+KYC0901,OWN0051,Sonal Srivastava,Address Proof,Passport,2024-02-11,approved,Suspicious,High,Karan Finance,2024-02-21,
+KYC0902,OWN0727,Ananya Singh,Address Proof,Utility Bill,2024-01-03,approved,Suspicious,Medium,Priya Admin,2024-03-07,
+KYC0903,OWN0316,Aditi Pandey,Owner KYC,PAN + GST,2024-03-08,pending,Fail,High,Priya Admin,,
+KYC0904,OWN0373,Pooja Gupta,Address Proof,Passport,2024-03-18,approved,Pass,High,Karan Finance,2024-03-26,Auto-cleared by AI
+KYC0905,U364,Divya Pandey,Owner KYC,PAN + GST,2024-03-29,approved,Suspicious,Medium,Arjun Sharma,2024-04-06,
+KYC0906,U413,Meena Reddy,Address Proof,Aadhaar,2024-04-04,approved,Pass,Low,Priya Admin,2024-04-09,Auto-cleared by AI
+KYC0907,OWN0636,Ravi Yadav,Owner KYC,Aadhaar + PAN,2024-02-28,rejected,Pass,Low,Priya Admin,2024-03-12,
+KYC0908,U281,Dev Nair,Driving License,DL + Selfie,2024-01-11,pending,Pass,High,Priya Admin,,
+KYC0909,U359,Neha Agarwal,Address Proof,Passport,2024-02-14,rejected,Pass,Medium,Arjun Sharma,2024-03-01,
+KYC0910,U387,Dev Nair,Owner KYC,Aadhaar + PAN,2024-01-25,pending,Pass,High,,,
+KYC0911,OWN0885,Arjun Kumar,Driving License,DL + Selfie,2024-03-30,approved,Pass,Medium,Arjun Sharma,2024-04-08,Auto-cleared by AI
+KYC0912,OWN0035,Sneha Nair,Vehicle RC,RC Upload,2024-01-24,pending,Suspicious,Medium,,,
+KYC0913,U104,Aditi Mishra,Owner KYC,PAN + GST,2024-03-20,approved,Pass,Medium,Priya Admin,2024-04-10,Auto-cleared by AI
+KYC0914,OWN0677,Nikhil Sharma,Vehicle RC,RC + Insurance,2024-01-29,rejected,Suspicious,Medium,,2024-04-01,
+KYC0915,OWN0501,Pooja Mehta,Address Proof,Aadhaar,2024-03-31,approved,Pass,Medium,Karan Finance,2024-04-07,Auto-cleared by AI
+KYC0916,OWN0895,Neha Agarwal,Driving License,DL Upload,2024-01-29,approved,Suspicious,High,Priya Admin,2024-02-08,
+KYC0917,U491,Ishaan Gupta,Driving License,DL Upload,2024-02-11,pending,Suspicious,High,Arjun Sharma,,
+KYC0918,U365,Mohan Singh,Insurance,Policy + Receipt,2024-02-12,pending,Fail,Medium,Karan Finance,,
+KYC0919,U350,Tarun Kumar,Address Proof,Aadhaar,2024-04-09,approved,Fail,High,Priya Admin,2024-04-09,
+KYC0920,OWN0573,Dev Patel,Driving License,DL + Selfie,2024-01-22,rejected,Suspicious,Low,,2024-01-29,
+KYC0921,U025,Sneha Nair,Address Proof,Passport,2024-02-08,pending,Pass,Low,,,
+KYC0922,U229,Neha Patel,Address Proof,Utility Bill,2024-01-27,approved,Pass,Low,Priya Admin,2024-02-13,Auto-cleared by AI
+KYC0923,U429,Ravi Shah,Insurance,Policy + Receipt,2024-03-24,pending,Pass,High,Arjun Sharma,,
+KYC0924,OWN0118,Divya Das,Address Proof,Utility Bill,2024-01-30,pending,Pass,Medium,Priya Admin,,
+KYC0925,U474,Rohit Srivastava,Address Proof,Passport,2024-01-01,pending,Suspicious,High,Priya Admin,,
+KYC0926,OWN0311,Sonal Rao,Driving License,DL Upload,2024-02-27,pending,Pass,Medium,Karan Finance,,
+KYC0927,U032,Ishaan Sharma,Vehicle RC,RC + Insurance,2024-02-09,pending,Pass,Low,Karan Finance,,
+KYC0928,OWN0041,Aditi Joshi,Vehicle RC,RC Upload,2024-03-24,rejected,Pass,Medium,Arjun Sharma,2024-04-10,
+KYC0929,U119,Nisha Mishra,Driving License,DL Upload,2024-03-13,approved,Pass,Medium,Karan Finance,2024-03-28,Auto-cleared by AI
+KYC0930,OWN0556,Arjun Mishra,Insurance,Policy + Receipt,2024-03-16,rejected,Fail,Medium,Priya Admin,2024-03-30,
+KYC0931,U481,Neha Mishra,Owner KYC,Aadhaar + PAN,2024-02-17,approved,Pass,Medium,,2024-04-06,Auto-cleared by AI
+KYC0932,U125,Ishaan Nair,Owner KYC,PAN + GST,2024-02-18,approved,Suspicious,Low,,2024-03-02,
+KYC0933,OWN0928,Kavya Agarwal,Driving License,DL Upload,2024-01-12,pending,Pass,Low,Karan Finance,,
+KYC0934,U421,Sneha Nair,Vehicle RC,RC Upload,2024-04-05,pending,Suspicious,Low,Karan Finance,,
+KYC0935,U018,Priya Srivastava,Owner KYC,Aadhaar + PAN,2024-01-30,approved,Suspicious,Medium,Priya Admin,2024-02-02,
+KYC0936,U030,Aditi Singh,Insurance,Policy + Receipt,2024-01-13,approved,Suspicious,Low,Karan Finance,2024-03-19,
+KYC0937,OWN0054,Meena Mehta,Driving License,DL + Selfie,2024-01-06,approved,Pass,Low,Karan Finance,2024-01-22,Auto-cleared by AI
+KYC0938,OWN0238,Sneha Yadav,Vehicle RC,RC + Insurance,2024-02-25,approved,Pass,High,,2024-03-17,Auto-cleared by AI
+KYC0939,OWN0288,Vikram Patel,Driving License,DL + Selfie,2024-03-14,approved,Pass,Medium,Arjun Sharma,2024-03-18,Auto-cleared by AI
+KYC0940,OWN0773,Tarun Singh,Owner KYC,Aadhaar + GST,2024-02-27,rejected,Fail,Medium,Arjun Sharma,2024-03-12,
+KYC0941,U203,Aman Das,Vehicle RC,RC + Insurance,2024-03-30,rejected,Pass,Medium,Karan Finance,2024-04-03,
+KYC0942,U163,Rajesh Das,Vehicle RC,RC + Insurance,2024-02-25,approved,Fail,High,Priya Admin,2024-02-27,
+KYC0943,OWN0258,Ananya Gupta,Vehicle RC,RC + Insurance,2024-02-03,pending,Suspicious,Medium,Karan Finance,,
+KYC0944,OWN0823,Neha Pandey,Owner KYC,Aadhaar + GST,2024-03-13,approved,Pass,Low,Priya Admin,2024-03-14,Auto-cleared by AI
+KYC0945,OWN0121,Aakash Gupta,Owner KYC,Aadhaar + PAN,2024-01-10,pending,Pass,Medium,Arjun Sharma,,
+KYC0946,OWN0057,Priya Rao,Insurance,Policy + Receipt,2024-03-21,approved,Suspicious,Medium,Karan Finance,2024-03-21,
+KYC0947,OWN0100,Rahul Sharma,Owner KYC,PAN + GST,2024-01-02,pending,Pass,Medium,Karan Finance,,
+KYC0948,OWN0106,Nikhil Joshi,Vehicle RC,RC + Insurance,2024-03-20,approved,Pass,Medium,Karan Finance,2024-04-02,Auto-cleared by AI
+KYC0949,U291,Sonal Shah,Owner KYC,Aadhaar + GST,2024-02-06,rejected,Suspicious,Medium,Priya Admin,2024-03-17,
+KYC0950,OWN0927,Nisha Singh,Insurance,Policy + Receipt,2024-02-24,pending,Pass,Medium,Arjun Sharma,,
+KYC0951,OWN0287,Ishaan Kumar,Owner KYC,Aadhaar + GST,2024-03-05,pending,Suspicious,High,Karan Finance,,
+KYC0952,OWN0733,Sonal Mishra,Owner KYC,Aadhaar + PAN,2024-03-12,approved,Pass,Medium,Arjun Sharma,2024-03-22,Auto-cleared by AI
+KYC0953,OWN0026,Shreya Nair,Owner KYC,Aadhaar + PAN,2024-02-26,rejected,Pass,Medium,Karan Finance,2024-03-27,
+KYC0954,U208,Meena Joshi,Insurance,Policy Upload,2024-04-08,rejected,Suspicious,Medium,Priya Admin,2024-04-08,
+KYC0955,U333,Dev Singh,Driving License,DL + Selfie,2024-01-16,approved,Pass,Medium,,2024-01-28,Auto-cleared by AI
+KYC0956,OWN0716,Rohit Pandey,Insurance,Policy + Receipt,2024-03-06,pending,Pass,High,Priya Admin,,
+KYC0957,U380,Amit Patel,Vehicle RC,RC Upload,2024-03-28,approved,Suspicious,Low,Priya Admin,2024-04-10,
+KYC0958,OWN0510,Mohan Rao,Insurance,Policy Upload,2024-03-21,pending,Fail,Low,,,
+KYC0959,OWN0586,Ritika Verma,Vehicle RC,RC + Insurance,2024-03-14,pending,Pass,High,Arjun Sharma,,
+KYC0960,OWN0023,Aakash Das,Address Proof,Utility Bill,2024-03-25,approved,Pass,High,Priya Admin,2024-04-03,Auto-cleared by AI
+KYC0961,U038,Dev Das,Address Proof,Passport,2024-04-04,approved,Pass,Low,Priya Admin,2024-04-07,Auto-cleared by AI
+KYC0962,OWN0672,Suresh Rao,Insurance,Policy + Receipt,2024-03-26,approved,Pass,Low,,2024-03-27,Auto-cleared by AI
+KYC0963,OWN0653,Ananya Kumar,Vehicle RC,RC Upload,2024-02-01,pending,Pass,Low,,,
+KYC0964,OWN0128,Sonal Srivastava,Owner KYC,Aadhaar + GST,2024-02-24,pending,Pass,Medium,,,
+KYC0965,OWN0918,Shreya Singh,Insurance,Policy Upload,2024-02-24,approved,Pass,Medium,Priya Admin,2024-03-18,Auto-cleared by AI
+KYC0966,OWN0848,Vikram Bose,Driving License,DL Upload,2024-02-18,approved,Pass,High,,2024-03-26,Auto-cleared by AI
+KYC0967,OWN0153,Suresh Srivastava,Insurance,Policy Upload,2024-01-02,approved,Pass,High,Karan Finance,2024-03-25,Auto-cleared by AI
+KYC0968,OWN0494,Sonal Agarwal,Insurance,Policy Upload,2024-04-03,approved,Fail,Medium,Karan Finance,2024-04-10,
+KYC0969,OWN0228,Rohit Singh,Insurance,Policy + Receipt,2024-03-02,rejected,Pass,Low,,2024-03-05,
+KYC0970,OWN0238,Aman Gupta,Driving License,DL + Selfie,2024-02-16,rejected,Fail,Low,Karan Finance,2024-03-26,
+KYC0971,OWN0603,Kavya Shah,Vehicle RC,RC + Insurance,2024-01-05,approved,Suspicious,Medium,Karan Finance,2024-01-21,
+KYC0972,OWN0048,Dev Rao,Vehicle RC,RC + Insurance,2024-02-19,rejected,Pass,Medium,Karan Finance,2024-04-04,
+KYC0973,U432,Mohan Agarwal,Insurance,Policy Upload,2024-02-19,rejected,Fail,Low,Karan Finance,2024-03-01,
+KYC0974,OWN0200,Aman Bose,Owner KYC,Aadhaar + PAN,2024-03-31,rejected,Pass,Low,,2024-04-02,
+KYC0975,OWN0473,Deepa Yadav,Insurance,Policy + Receipt,2024-04-03,approved,Pass,Medium,,2024-04-03,Auto-cleared by AI
+KYC0976,OWN0326,Tarun Agarwal,Address Proof,Aadhaar,2024-03-15,rejected,Pass,High,,2024-04-09,
+KYC0977,OWN0392,Arjun Srivastava,Address Proof,Passport,2024-03-10,pending,Suspicious,Low,Karan Finance,,
+KYC0978,U403,Ravi Verma,Address Proof,Passport,2024-01-23,approved,Fail,Medium,Arjun Sharma,2024-03-24,
+KYC0979,OWN0480,Ananya Patel,Address Proof,Utility Bill,2024-02-20,approved,Pass,Low,,2024-04-03,Auto-cleared by AI
+KYC0980,OWN0090,Neha Agarwal,Address Proof,Passport,2024-02-02,pending,Pass,Low,Arjun Sharma,,
+KYC0981,U045,Sonal Mishra,Insurance,Policy + Receipt,2024-01-25,rejected,Pass,Low,Karan Finance,2024-02-16,
+KYC0982,OWN0375,Priya Tiwari,Vehicle RC,RC + Insurance,2024-01-05,pending,Suspicious,Medium,,,
+KYC0983,U044,Dev Singh,Address Proof,Passport,2024-03-06,pending,Pass,High,Priya Admin,,
+KYC0984,OWN0114,Karan Nair,Vehicle RC,RC Upload,2024-04-04,approved,Pass,High,,2024-04-08,Auto-cleared by AI
+KYC0985,OWN0631,Pooja Kumar,Driving License,DL Upload,2024-04-07,approved,Suspicious,High,,2024-04-09,
+KYC0986,OWN0673,Kavya Mehta,Address Proof,Utility Bill,2024-03-19,pending,Suspicious,Medium,Karan Finance,,
+KYC0987,OWN0634,Amit Yadav,Owner KYC,Aadhaar + GST,2024-02-01,pending,Pass,Low,Arjun Sharma,,
+KYC0988,U169,Ananya Kumar,Vehicle RC,RC Upload,2024-02-25,rejected,Suspicious,High,Priya Admin,2024-03-10,
+KYC0989,OWN0386,Ravi Pandey,Address Proof,Passport,2024-04-05,rejected,Pass,Medium,Karan Finance,2024-04-06,
+KYC0990,OWN0643,Divya Joshi,Driving License,DL Upload,2024-03-14,rejected,Pass,Medium,Karan Finance,2024-04-10,
+KYC0991,OWN0471,Meena Patel,Vehicle RC,RC + Insurance,2024-01-21,approved,Pass,High,Karan Finance,2024-01-27,Auto-cleared by AI
+KYC0992,OWN0473,Arjun Srivastava,Driving License,DL Upload,2024-01-02,approved,Fail,Medium,Arjun Sharma,2024-02-29,
+KYC0993,U096,Arjun Tiwari,Address Proof,Utility Bill,2024-01-27,approved,Pass,Medium,Priya Admin,2024-03-21,Auto-cleared by AI
+KYC0994,OWN0884,Aakash Verma,Insurance,Policy Upload,2024-03-20,approved,Pass,Medium,Priya Admin,2024-04-01,Auto-cleared by AI
+KYC0995,U493,Dev Bose,Address Proof,Passport,2024-04-01,approved,Fail,Medium,Karan Finance,2024-04-10,
+KYC0996,OWN0538,Rajesh Mehta,Owner KYC,Aadhaar + GST,2024-01-22,rejected,Pass,Medium,,2024-03-30,
+KYC0997,OWN0278,Aman Srivastava,Insurance,Policy Upload,2024-03-19,pending,Pass,Medium,,,
+KYC0998,OWN0496,Neha Mishra,Vehicle RC,RC Upload,2024-01-24,approved,Pass,High,Arjun Sharma,2024-02-11,Auto-cleared by AI
+KYC0999,OWN0443,Kavya Sharma,Owner KYC,Aadhaar + PAN,2024-02-06,pending,Pass,Medium,Priya Admin,,
+KYC1000,OWN0435,Nikhil Patel,Address Proof,Aadhaar,2024-04-09,approved,Pass,Low,Priya Admin,2024-04-10,Auto-cleared by AI

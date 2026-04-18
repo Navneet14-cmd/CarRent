@@ -1,0 +1,1001 @@
+id,name,type,owner,ownerId,status,condition,price,priceHourly,bookings,aiScore,location,rating,fuel,available,insuranceExpiry,registrationNo,ownerName
+1,Yamaha R15,Bike,Rahul Bose,OWN0581,approved,New,612,110,64,74,Rishikesh,4.7,Petrol,False,2024-11-22,UK19C6137,Rahul Bose
+2,Ather 450X,Scooty,Sonal Das,OWN0128,pending,Needs Maintenance,723,98,6,57,Mussoorie,4.8,Petrol,False,2024-09-01,UK10D6919,Sonal Das
+3,Baleno,Car,Suresh Mishra,OWN0952,approved,New,1815,125,31,94,Rishikesh,4.4,Diesel,False,2024-07-29,UK11D2287,Suresh Mishra
+4,KTM Duke 200,Bike,Kavya Shah,OWN0746,approved,Needs Maintenance,778,114,54,93,Dehradun,4.8,Petrol,False,2025-03-12,UK16B7901,Kavya Shah
+5,TVS Jupiter,Scooty,Amit Kumar,OWN0421,approved,Good,579,85,40,65,Lansdowne,4.5,Electric,False,2025-02-19,UK19C6368,Amit Kumar
+6,Sonet,Car,Ishaan Shah,OWN0058,approved,New,2146,163,47,88,Rishikesh,4.5,Diesel,False,2024-06-13,UK19C3226,Ishaan Shah
+7,TVS Apache RTR 160,Bike,Priya Gupta,OWN0995,approved,Good,563,72,38,83,Mussoorie,4.2,Petrol,True,2024-10-29,UK16D5488,Priya Gupta
+8,Honda Activa,Scooty,Aakash Verma,OWN0446,approved,Good,564,78,71,89,Rishikesh,4.2,Electric,True,2024-11-15,UK16C3651,Aakash Verma
+9,Sonet,Car,Divya Sharma,OWN0323,approved,Good,1982,179,1,69,Rishikesh,4.3,Diesel,True,2025-01-13,UK15A8382,Divya Sharma
+10,Yamaha R15,Bike,Pooja Yadav,OWN0327,approved,Good,671,99,39,99,Lansdowne,4.3,Petrol,True,2025-04-08,UK10D3143,Pooja Yadav
+11,TVS Ntorq,Scooty,Nisha Joshi,OWN0265,approved,Good,648,88,31,73,Haridwar,4.8,Electric,True,2025-04-21,UK12D6513,Nisha Joshi
+12,Maruti Alto,Car,Ananya Joshi,OWN0112,pending,Good,1085,84,37,53,Rishikesh,4.8,Petrol,True,2025-04-08,UK15B1879,Ananya Joshi
+13,Bajaj Pulsar 150,Bike,Arjun Singh,OWN0955,approved,Good,427,71,1,94,Mussoorie,4.1,Petrol,False,2024-07-31,UK12B5818,Arjun Singh
+14,TVS Jupiter,Scooty,Meena Agarwal,OWN0818,pending,Good,620,87,23,98,Rishikesh,4.6,Petrol,False,2025-05-03,UK17C7573,Meena Agarwal
+15,Nexon,Car,Pooja Mehta,OWN0324,approved,Good,2149,200,17,98,Mussoorie,4.9,Petrol,True,2024-07-24,UK11B5602,Pooja Mehta
+16,Yamaha R15,Bike,Shreya Mehta,OWN0382,approved,Needs Maintenance,671,99,12,55,Nainital,4.5,Petrol,False,2025-03-01,UK18D1982,Shreya Mehta
+17,TVS Ntorq,Scooty,Deepa Das,OWN0927,approved,New,614,99,0,98,Lansdowne,4.5,Petrol,False,2025-01-29,UK19D8883,Deepa Das
+18,Creta,Car,Aditi Joshi,OWN0131,approved,New,2665,206,63,85,Dehradun,4.3,Petrol,False,2025-03-23,UK19C8275,Aditi Joshi
+19,Yamaha FZ,Bike,Mohan Bose,OWN0457,approved,Good,553,100,1,67,Dehradun,4.2,Petrol,False,2024-08-24,UK20D2247,Mohan Bose
+20,TVS Jupiter,Scooty,Vikram Joshi,OWN0114,approved,New,584,72,18,96,Nainital,4.7,Electric,True,2025-02-26,UK14B8843,Vikram Joshi
+21,City,Car,Neha Gupta,OWN0441,rejected,Needs Maintenance,2454,202,43,64,Rishikesh,4.8,Diesel,False,2024-12-15,UK18A8556,Neha Gupta
+22,Yamaha R15,Bike,Nikhil Bose,OWN0998,approved,Good,644,90,70,72,Haridwar,4.9,Petrol,False,2024-10-14,UK18B6075,Nikhil Bose
+23,Honda Activa,Scooty,Pooja Das,OWN0688,approved,Good,632,83,16,57,Mussoorie,4.5,Electric,False,2024-11-14,UK14C5396,Pooja Das
+24,Swift,Car,Ishaan Bose,OWN0693,approved,Good,1589,128,6,52,Auli,4.2,Diesel,True,2025-05-01,UK15C8654,Ishaan Bose
+25,KTM Duke 200,Bike,Mohan Mishra,OWN0150,approved,New,757,107,43,97,Nainital,4.6,Petrol,True,2024-08-11,UK13B8331,Mohan Mishra
+26,TVS Ntorq,Scooty,Divya Sharma,OWN0551,pending,Good,696,96,36,99,Mussoorie,4.1,Petrol,False,2025-04-14,UK11D8182,Divya Sharma
+27,Maruti Alto,Car,Kavya Patel,OWN0212,pending,Good,1194,92,50,98,Dehradun,4.1,Diesel,True,2025-04-25,UK20B9016,Kavya Patel
+28,TVS Apache RTR 160,Bike,Neha Nair,OWN0197,approved,Needs Maintenance,585,87,21,51,Nainital,4.3,Petrol,True,2024-12-12,UK20B2192,Neha Nair
+29,TVS Ntorq,Scooty,Mohan Rao,OWN0732,approved,Needs Maintenance,695,91,60,72,Dehradun,4.9,Petrol,False,2024-07-05,UK19D5045,Mohan Rao
+30,City,Car,Aditi Mishra,OWN0337,approved,Good,2521,192,5,66,Mussoorie,4.3,Diesel,True,2024-12-15,UK19B6324,Aditi Mishra
+31,TVS Apache RTR 160,Bike,Pooja Rao,OWN0850,approved,Needs Maintenance,468,87,69,82,Dehradun,4.7,Petrol,True,2024-11-17,UK13C1193,Pooja Rao
+32,Honda Activa,Scooty,Ananya Sharma,OWN0807,approved,New,602,70,4,94,Mussoorie,4.6,Petrol,True,2024-07-06,UK16D8768,Ananya Sharma
+33,Baleno,Car,Aakash Patel,OWN0527,approved,Good,1716,127,64,68,Nainital,4.9,Petrol,True,2024-08-28,UK14C5167,Aakash Patel
+34,Hero Splendor Plus,Bike,Ishaan Verma,OWN0269,approved,Needs Maintenance,426,63,46,66,Rishikesh,4.9,Petrol,False,2025-03-01,UK15A8784,Ishaan Verma
+35,TVS Ntorq,Scooty,Sneha Agarwal,OWN0223,approved,Needs Maintenance,606,98,77,89,Rishikesh,4.5,Petrol,True,2024-06-08,UK20C4947,Sneha Agarwal
+36,Swift,Car,Meena Kumar,OWN0151,approved,Needs Maintenance,1637,140,76,57,Rishikesh,4.7,Diesel,True,2025-05-05,UK14D7972,Meena Kumar
+37,Bajaj Avenger 220,Bike,Aakash Patel,OWN0527,approved,Needs Maintenance,622,103,75,83,Haridwar,4.1,Petrol,False,2024-11-04,UK15D3176,Aakash Patel
+38,Suzuki Access,Scooty,Dev Kumar,OWN0281,approved,Good,584,75,61,56,Haridwar,4.6,Petrol,False,2024-12-10,UK13A2467,Dev Kumar
+39,Maruti Alto,Car,Mohan Mehta,OWN0766,approved,Good,1341,99,76,84,Lansdowne,4.3,Diesel,True,2024-10-16,UK12B4709,Mohan Mehta
+40,Yamaha R15,Bike,Aditi Reddy,OWN0167,pending,Good,720,117,75,78,Rishikesh,4.2,Petrol,False,2024-07-23,UK12A9191,Aditi Reddy
+41,Ola S1,Scooty,Aman Singh,OWN0943,approved,Needs Maintenance,648,95,3,75,Haridwar,4.4,Petrol,False,2024-08-28,UK18A4474,Aman Singh
+42,Swift,Car,Dev Mishra,OWN0125,approved,New,1353,106,21,59,Dehradun,4.3,Diesel,True,2024-09-03,UK13B1034,Dev Mishra
+43,TVS Apache RTR 160,Bike,Pooja Das,OWN0709,approved,Good,597,82,2,54,Rishikesh,4.8,Petrol,True,2024-12-12,UK11A1488,Pooja Das
+44,Ola S1,Scooty,Ananya Verma,OWN0612,pending,Needs Maintenance,626,87,65,90,Mussoorie,4.6,Electric,True,2025-02-02,UK16A1183,Ananya Verma
+45,City,Car,Ravi Rao,OWN0838,approved,Good,2585,219,70,55,Dehradun,4.2,Diesel,False,2024-07-18,UK14A4854,Ravi Rao
+46,TVS Apache RTR 160,Bike,Karan Srivastava,OWN0951,pending,Good,471,95,70,68,Rishikesh,4.6,Petrol,False,2024-07-14,UK19A8906,Karan Srivastava
+47,Honda Activa,Scooty,Ishaan Mehta,OWN0802,pending,Needs Maintenance,570,75,35,76,Haridwar,4.7,Electric,True,2024-08-10,UK13C6068,Ishaan Mehta
+48,Maruti Alto,Car,Pooja Mehta,OWN0324,approved,New,1198,104,52,87,Haridwar,4.9,Petrol,False,2024-06-02,UK13A8488,Pooja Mehta
+49,Yamaha R15,Bike,Dev Yadav,OWN0004,approved,Good,731,120,51,61,Rishikesh,4.4,Petrol,True,2025-03-29,UK16D2221,Dev Yadav
+50,Ather 450X,Scooty,Amit Rao,OWN0925,approved,Good,699,108,42,51,Mussoorie,4.2,Petrol,True,2025-05-09,UK16D5401,Amit Rao
+51,City,Car,Rahul Das,OWN0014,approved,Good,2368,186,11,54,Nainital,4.2,Petrol,False,2024-11-01,UK11A4683,Rahul Das
+52,Yamaha R15,Bike,Aakash Mishra,OWN0828,approved,Good,751,99,36,50,Rishikesh,4.8,Petrol,False,2024-12-22,UK19C8691,Aakash Mishra
+53,Yamaha Fascino,Scooty,Ritika Gupta,OWN0630,rejected,Needs Maintenance,559,84,5,83,Dehradun,4.8,Electric,False,2024-09-08,UK16D9982,Ritika Gupta
+54,Creta,Car,Dev Rao,OWN0568,rejected,Needs Maintenance,2828,229,25,68,Dehradun,4.6,Diesel,False,2025-03-18,UK19D3610,Dev Rao
+55,RE Classic 350,Bike,Tarun Yadav,OWN0471,approved,Needs Maintenance,624,108,49,88,Haridwar,4.5,Petrol,False,2025-03-04,UK16A8741,Tarun Yadav
+56,Honda Activa,Scooty,Rohit Srivastava,OWN0677,approved,Needs Maintenance,586,77,67,93,Mussoorie,4.5,Electric,False,2024-12-04,UK10C8024,Rohit Srivastava
+57,Swift,Car,Aman Agarwal,OWN0465,approved,Needs Maintenance,1504,108,23,73,Haridwar,4.5,Petrol,False,2024-12-11,UK10B3072,Aman Agarwal
+58,Hero Splendor Plus,Bike,Aakash Mishra,OWN0136,approved,Good,409,64,2,55,Rishikesh,4.3,Petrol,False,2025-04-20,UK18B7228,Aakash Mishra
+59,Ather 450X,Scooty,Pooja Rao,OWN0081,rejected,New,724,91,1,69,Mussoorie,4.8,Petrol,True,2025-03-20,UK15B2193,Pooja Rao
+60,i20,Car,Suresh Das,OWN0344,approved,New,1733,133,59,73,Rishikesh,4.7,Diesel,False,2025-02-05,UK17C2478,Suresh Das
+61,RE Classic 350,Bike,Divya Srivastava,OWN0304,approved,Good,697,100,17,81,Rishikesh,4.2,Petrol,True,2024-07-20,UK18B5592,Divya Srivastava
+62,TVS Jupiter,Scooty,Mohan Bose,OWN0730,approved,Good,638,80,11,88,Mussoorie,4.1,Petrol,False,2024-10-15,UK12B3308,Mohan Bose
+63,Maruti Alto,Car,Ravi Agarwal,OWN0343,approved,New,1237,82,77,80,Rishikesh,4.6,Petrol,False,2024-06-28,UK14C5364,Ravi Agarwal
+64,Hero Splendor Plus,Bike,Priya Reddy,OWN0844,approved,Good,328,64,16,56,Mussoorie,4.5,Petrol,False,2025-02-04,UK10C8128,Priya Reddy
+65,Suzuki Access,Scooty,Sonal Joshi,OWN0003,approved,Good,639,83,64,58,Haridwar,4.5,Electric,False,2024-12-05,UK17A1295,Sonal Joshi
+66,Swift,Car,Karan Bose,OWN0648,approved,Good,1609,104,6,54,Rishikesh,4.1,Petrol,False,2024-10-19,UK10D3812,Karan Bose
+67,Yamaha FZ,Bike,Ishaan Verma,OWN0286,approved,Good,482,92,27,58,Haridwar,4.1,Petrol,False,2025-02-13,UK12C5587,Ishaan Verma
+68,Ather 450X,Scooty,Rajesh Patel,OWN0092,approved,Needs Maintenance,744,96,0,53,Rishikesh,4.9,Petrol,True,2024-08-22,UK14D4938,Rajesh Patel
+69,Creta,Car,Arjun Agarwal,OWN0430,rejected,Needs Maintenance,2641,208,11,58,Dehradun,4.7,Diesel,True,2024-12-09,UK10D2079,Arjun Agarwal
+70,Yamaha R15,Bike,Tarun Sharma,OWN0966,approved,New,697,117,7,72,Mussoorie,4.4,Petrol,True,2024-07-30,UK19C1016,Tarun Sharma
+71,Ola S1,Scooty,Aman Rao,OWN0865,pending,New,654,94,78,61,Rishikesh,4.7,Petrol,False,2024-07-15,UK15B8002,Aman Rao
+72,Swift,Car,Nisha Verma,OWN0902,approved,Good,1530,139,10,97,Dehradun,4.6,Diesel,True,2025-01-12,UK10B4270,Nisha Verma
+73,RE Classic 350,Bike,Sonal Agarwal,OWN0474,pending,Good,586,89,5,52,Dehradun,4.3,Petrol,True,2024-11-08,UK20A1075,Sonal Agarwal
+74,Suzuki Access,Scooty,Mohan Mehta,OWN0928,approved,New,590,87,61,66,Mussoorie,4.7,Electric,False,2025-03-21,UK14C5801,Mohan Mehta
+75,i10,Car,Shreya Verma,OWN0145,approved,Needs Maintenance,1654,126,29,91,Haridwar,4.6,Diesel,True,2024-12-29,UK19B7752,Shreya Verma
+76,Bajaj Avenger 220,Bike,Pooja Shah,OWN0610,rejected,Good,650,104,44,58,Dehradun,4.2,Petrol,False,2024-07-30,UK16A9432,Pooja Shah
+77,TVS Jupiter,Scooty,Suresh Tiwari,OWN0208,approved,Needs Maintenance,638,73,18,80,Haridwar,4.4,Electric,False,2024-09-18,UK11A5224,Suresh Tiwari
+78,Sonet,Car,Dev Agarwal,OWN0158,pending,Needs Maintenance,2188,184,42,52,Rishikesh,4.1,Diesel,False,2025-04-09,UK16B4001,Dev Agarwal
+79,Yamaha FZ,Bike,Ritika Shah,OWN0914,approved,Good,581,81,8,79,Dehradun,4.2,Petrol,False,2024-10-10,UK18B6527,Ritika Shah
+80,Yamaha Fascino,Scooty,Divya Yadav,OWN0543,approved,Good,560,84,19,76,Dehradun,4.4,Electric,False,2025-01-09,UK10D8336,Divya Yadav
+81,Maruti Alto,Car,Tarun Patel,OWN0562,approved,Good,1127,104,24,87,Dehradun,4.6,Petrol,False,2025-03-05,UK18B9964,Tarun Patel
+82,Bajaj Avenger 220,Bike,Ritika Yadav,OWN0326,pending,Good,671,76,38,61,Haridwar,4.1,Petrol,True,2024-10-31,UK16B9850,Ritika Yadav
+83,Yamaha Fascino,Scooty,Ravi Agarwal,OWN0343,approved,Good,559,70,6,71,Dehradun,4.4,Electric,True,2025-05-27,UK10D6899,Ravi Agarwal
+84,Swift,Car,Suresh Das,OWN0344,approved,Good,1650,106,57,89,Rishikesh,4.6,Petrol,True,2024-08-21,UK13B1159,Suresh Das
+85,RE Classic 350,Bike,Meena Patel,OWN0554,approved,Good,650,87,76,52,Auli,4.3,Petrol,True,2024-06-22,UK17C1451,Meena Patel
+86,TVS Jupiter,Scooty,Rohit Gupta,OWN0911,approved,New,562,80,76,56,Dehradun,4.5,Electric,True,2025-01-23,UK18D2552,Rohit Gupta
+87,Maruti Alto,Car,Tarun Patel,OWN0020,rejected,Good,1164,95,76,93,Dehradun,4.0,Diesel,True,2025-01-14,UK20D1884,Tarun Patel
+88,TVS Apache RTR 160,Bike,Meena Sharma,OWN0650,approved,Needs Maintenance,580,70,22,60,Dehradun,4.6,Petrol,False,2024-09-28,UK15C2362,Meena Sharma
+89,Honda Activa,Scooty,Ritika Yadav,OWN0915,approved,Good,588,70,22,50,Dehradun,4.1,Petrol,False,2025-01-11,UK15C1975,Ritika Yadav
+90,Swift,Car,Tarun Rao,OWN0881,approved,New,1477,126,1,60,Rishikesh,4.8,Petrol,False,2024-11-11,UK11C4515,Tarun Rao
+91,Bajaj Avenger 220,Bike,Suresh Singh,OWN0990,approved,Needs Maintenance,570,89,23,72,Haridwar,4.2,Petrol,True,2025-01-12,UK20C1524,Suresh Singh
+92,Ather 450X,Scooty,Priya Rao,OWN0045,approved,Good,662,96,56,68,Auli,4.1,Electric,False,2025-01-13,UK13B8597,Priya Rao
+93,Sonet,Car,Shreya Nair,OWN0051,pending,Needs Maintenance,2167,151,76,85,Auli,4.2,Diesel,False,2024-12-05,UK20A4778,Shreya Nair
+94,Bajaj Avenger 220,Bike,Dev Tiwari,OWN0010,pending,Good,529,87,8,53,Chakrata,4.0,Petrol,True,2025-04-15,UK13C1199,Dev Tiwari
+95,Yamaha Fascino,Scooty,Neha Yadav,OWN0919,approved,New,533,81,26,94,Mussoorie,4.7,Petrol,True,2024-11-26,UK12A4514,Neha Yadav
+96,Baleno,Car,Rahul Shah,OWN0519,approved,Good,1822,155,54,52,Mussoorie,4.2,Petrol,False,2024-07-07,UK18C2536,Rahul Shah
+97,Bajaj Pulsar 150,Bike,Kavya Srivastava,OWN0345,approved,Needs Maintenance,474,76,28,91,Nainital,4.1,Petrol,True,2025-03-07,UK15C4991,Kavya Srivastava
+98,TVS Jupiter,Scooty,Rahul Bose,OWN0581,approved,New,596,78,47,93,Rishikesh,4.3,Electric,False,2024-12-16,UK11A1971,Rahul Bose
+99,Maruti Alto,Car,Meena Agarwal,OWN0584,pending,New,1181,93,52,81,Auli,4.3,Petrol,False,2024-06-10,UK16D9970,Meena Agarwal
+100,Bajaj Avenger 220,Bike,Neha Shah,OWN0560,approved,Good,637,88,7,54,Rishikesh,4.7,Petrol,False,2024-10-13,UK10B8847,Neha Shah
+101,Ather 450X,Scooty,Ishaan Yadav,OWN0712,pending,Good,712,97,64,67,Mussoorie,4.6,Electric,False,2024-09-08,UK19C6025,Ishaan Yadav
+102,Maruti Alto,Car,Rajesh Sharma,OWN0987,approved,Good,1089,87,74,94,Chakrata,4.6,Petrol,False,2024-06-02,UK16D8511,Rajesh Sharma
+103,RE Classic 350,Bike,Nikhil Srivastava,OWN0869,approved,Good,612,95,48,98,Haridwar,4.1,Petrol,False,2024-06-05,UK13B6700,Nikhil Srivastava
+104,Yamaha Fascino,Scooty,Ishaan Yadav,OWN0506,approved,Good,630,71,1,54,Dehradun,4.3,Electric,False,2024-10-09,UK12D4008,Ishaan Yadav
+105,i20,Car,Tarun Yadav,OWN0471,pending,Good,1757,151,36,56,Rishikesh,4.4,Diesel,True,2024-07-02,UK20B3448,Tarun Yadav
+106,Bajaj Avenger 220,Bike,Meena Mishra,OWN0316,approved,New,538,90,28,64,Rishikesh,4.6,Petrol,True,2024-06-08,UK10A7910,Meena Mishra
+107,Ather 450X,Scooty,Meena Bose,OWN0251,pending,Needs Maintenance,673,102,5,72,Dehradun,4.9,Electric,False,2024-12-29,UK18C4980,Meena Bose
+108,WagonR,Car,Nikhil Reddy,OWN0908,approved,New,1198,118,1,59,Nainital,4.3,Petrol,False,2024-12-19,UK17B3229,Nikhil Reddy
+109,TVS Apache RTR 160,Bike,Tarun Bose,OWN0289,approved,Good,502,81,78,50,Nainital,4.1,Petrol,False,2024-11-19,UK19D6296,Tarun Bose
+110,Ola S1,Scooty,Rajesh Sharma,OWN0090,rejected,Needs Maintenance,648,84,72,61,Dehradun,4.4,Petrol,False,2025-01-03,UK14B7475,Rajesh Sharma
+111,City,Car,Ritika Srivastava,OWN0977,pending,Good,2645,214,5,64,Haridwar,4.2,Diesel,False,2024-08-31,UK10B8496,Ritika Srivastava
+112,Bajaj Pulsar 150,Bike,Nikhil Shah,OWN0534,approved,Good,514,82,47,72,Dehradun,4.5,Petrol,True,2025-01-24,UK10B1017,Nikhil Shah
+113,TVS Ntorq,Scooty,Nikhil Rao,OWN0094,approved,Good,633,96,56,57,Haridwar,4.5,Electric,True,2025-06-01,UK18A3964,Nikhil Rao
+114,Swift,Car,Aman Singh,OWN0718,pending,New,1484,121,24,77,Auli,4.1,Diesel,True,2025-04-08,UK20B2106,Aman Singh
+115,Bajaj Avenger 220,Bike,Pooja Srivastava,OWN0805,approved,Needs Maintenance,628,94,45,83,Dehradun,4.6,Petrol,True,2024-06-03,UK20C2547,Pooja Srivastava
+116,TVS Ntorq,Scooty,Mohan Agarwal,OWN0792,approved,Good,610,88,55,56,Dehradun,4.8,Petrol,True,2025-03-02,UK15C2336,Mohan Agarwal
+117,City,Car,Rohit Joshi,OWN0583,approved,Good,2553,182,75,70,Haridwar,4.5,Petrol,True,2025-05-27,UK11D9466,Rohit Joshi
+118,Yamaha R15,Bike,Neha Reddy,OWN0052,approved,Good,739,103,5,95,Haridwar,4.3,Petrol,False,2025-02-01,UK18B2100,Neha Reddy
+119,Honda Activa,Scooty,Kavya Verma,OWN0624,pending,Needs Maintenance,623,82,70,74,Auli,4.5,Electric,False,2025-02-01,UK12C6434,Kavya Verma
+120,WagonR,Car,Divya Bose,OWN0674,approved,Needs Maintenance,1238,121,39,53,Dehradun,4.2,Petrol,False,2024-08-26,UK17B1019,Divya Bose
+121,KTM Duke 200,Bike,Neha Rao,OWN0565,approved,Good,748,114,6,61,Dehradun,4.1,Petrol,True,2024-08-05,UK20B3216,Neha Rao
+122,TVS Jupiter,Scooty,Sneha Mehta,OWN0259,approved,Good,580,82,19,53,Dehradun,4.3,Petrol,False,2024-10-21,UK20B3157,Sneha Mehta
+123,Swift,Car,Ananya Yadav,OWN0113,pending,Good,1617,133,67,97,Dehradun,4.3,Petrol,False,2025-04-05,UK13A3073,Ananya Yadav
+124,Hero Splendor Plus,Bike,Rahul Das,OWN0014,approved,Good,454,71,80,97,Dehradun,4.8,Petrol,True,2024-10-20,UK12B3149,Rahul Das
+125,Suzuki Access,Scooty,Amit Srivastava,OWN0450,pending,Good,614,88,16,95,Rishikesh,4.3,Electric,True,2024-07-23,UK13C4177,Amit Srivastava
+126,Swift,Car,Priya Bose,OWN0778,approved,New,1560,125,5,99,Dehradun,4.6,Diesel,True,2024-11-19,UK10D5152,Priya Bose
+127,KTM Duke 200,Bike,Sonal Joshi,OWN0003,approved,New,702,100,50,62,Mussoorie,4.5,Petrol,False,2025-04-01,UK13D8486,Sonal Joshi
+128,Suzuki Access,Scooty,Dev Das,OWN0408,pending,New,631,93,58,72,Nainital,4.2,Petrol,False,2025-03-03,UK13B2163,Dev Das
+129,Maruti Alto,Car,Divya Tiwari,OWN0166,approved,New,1241,103,2,91,Chakrata,4.1,Diesel,True,2025-05-16,UK20A8695,Divya Tiwari
+130,TVS Apache RTR 160,Bike,Amit Reddy,OWN0886,pending,Good,498,79,38,74,Mussoorie,4.2,Petrol,False,2025-02-27,UK13A1477,Amit Reddy
+131,Suzuki Access,Scooty,Nikhil Shah,OWN0863,approved,Needs Maintenance,588,92,33,65,Lansdowne,4.1,Petrol,False,2024-07-05,UK19D7420,Nikhil Shah
+132,Creta,Car,Kavya Yadav,OWN0582,approved,Good,2605,236,20,59,Dehradun,4.3,Diesel,True,2025-01-01,UK17A9209,Kavya Yadav
+133,Bajaj Avenger 220,Bike,Priya Das,OWN0416,approved,Good,579,92,7,73,Mussoorie,4.0,Petrol,True,2024-12-19,UK17A7277,Priya Das
+134,Yamaha Fascino,Scooty,Ishaan Shah,OWN0404,pending,New,541,84,29,94,Auli,4.9,Electric,True,2025-02-18,UK16C6925,Ishaan Shah
+135,Maruti Alto,Car,Neha Nair,OWN0596,approved,Good,1167,107,7,69,Dehradun,4.5,Petrol,True,2025-05-02,UK10D8069,Neha Nair
+136,Yamaha R15,Bike,Sneha Tiwari,OWN0702,rejected,Good,651,101,50,62,Rishikesh,4.8,Petrol,True,2024-09-24,UK19D6632,Sneha Tiwari
+137,Ather 450X,Scooty,Mohan Mishra,OWN0663,approved,Good,662,99,1,69,Mussoorie,4.6,Electric,False,2024-09-06,UK12B7313,Mohan Mishra
+138,i20,Car,Kavya Sharma,OWN0904,approved,New,1766,167,17,77,Haridwar,4.6,Diesel,True,2024-08-15,UK14B7732,Kavya Sharma
+139,KTM Duke 200,Bike,Ravi Nair,OWN0352,pending,Needs Maintenance,681,112,17,97,Auli,4.7,Petrol,False,2024-11-12,UK14B2661,Ravi Nair
+140,Honda Activa,Scooty,Nisha Kumar,OWN0652,approved,New,644,84,65,82,Nainital,4.9,Electric,True,2025-02-08,UK19A7677,Nisha Kumar
+141,Swift,Car,Pooja Tiwari,OWN0246,pending,New,1438,116,18,90,Mussoorie,4.5,Petrol,True,2025-04-04,UK19D5319,Pooja Tiwari
+142,Yamaha FZ,Bike,Rohit Verma,OWN0574,approved,Good,565,76,28,62,Rishikesh,4.6,Petrol,False,2024-10-23,UK17B6990,Rohit Verma
+143,Ola S1,Scooty,Arjun Gupta,OWN0545,approved,Good,656,83,7,73,Dehradun,4.4,Petrol,False,2024-09-12,UK10B2270,Arjun Gupta
+144,i10,Car,Aditi Verma,OWN0855,approved,Needs Maintenance,1489,149,10,95,Rishikesh,4.6,Diesel,True,2024-12-25,UK10C5375,Aditi Verma
+145,RE Classic 350,Bike,Sneha Gupta,OWN0798,pending,Needs Maintenance,719,96,47,79,Mussoorie,4.5,Petrol,True,2024-10-16,UK17C8430,Sneha Gupta
+146,Ather 450X,Scooty,Mohan Bose,OWN0730,rejected,Good,731,98,51,87,Nainital,4.5,Petrol,False,2025-04-22,UK15B6906,Mohan Bose
+147,i20,Car,Divya Patel,OWN0380,approved,Good,1867,139,30,77,Mussoorie,4.4,Petrol,False,2024-12-15,UK19D2041,Divya Patel
+148,Hero Splendor Plus,Bike,Mohan Mehta,OWN0928,approved,New,431,56,55,63,Dehradun,4.6,Petrol,True,2024-11-23,UK14C1362,Mohan Mehta
+149,TVS Ntorq,Scooty,Meena Shah,OWN0931,pending,Good,661,80,68,94,Dehradun,4.1,Petrol,False,2024-11-04,UK18A6598,Meena Shah
+150,Maruti Alto,Car,Nisha Sharma,OWN0409,approved,Good,1249,108,23,98,Mussoorie,4.5,Petrol,False,2025-03-22,UK16D5949,Nisha Sharma
+151,Hero Splendor Plus,Bike,Mohan Tiwari,OWN0116,approved,Good,343,50,57,61,Nainital,4.7,Petrol,True,2025-01-19,UK14B4925,Mohan Tiwari
+152,Yamaha Fascino,Scooty,Rajesh Srivastava,OWN0735,approved,New,558,66,47,99,Mussoorie,4.7,Electric,True,2024-09-01,UK16A5684,Rajesh Srivastava
+153,Sonet,Car,Ritika Srivastava,OWN0977,pending,Needs Maintenance,2204,160,6,92,Dehradun,4.1,Petrol,False,2024-09-09,UK13B7806,Ritika Srivastava
+154,TVS Apache RTR 160,Bike,Rohit Joshi,OWN0796,approved,Good,537,66,14,69,Rishikesh,4.5,Petrol,True,2024-06-29,UK17D4604,Rohit Joshi
+155,Honda Activa,Scooty,Priya Bose,OWN0107,approved,New,646,76,58,64,Lansdowne,4.7,Petrol,True,2025-03-01,UK20A9121,Priya Bose
+156,i10,Car,Suresh Tiwari,OWN0942,approved,New,1498,129,67,72,Dehradun,4.5,Petrol,True,2024-12-06,UK18D2513,Suresh Tiwari
+157,KTM Duke 200,Bike,Ritika Yadav,OWN0326,pending,Good,640,102,71,67,Dehradun,4.3,Petrol,False,2024-10-22,UK12D9281,Ritika Yadav
+158,TVS Jupiter,Scooty,Meena Nair,OWN0274,approved,Good,561,83,58,66,Haridwar,4.4,Petrol,False,2024-07-28,UK17B3680,Meena Nair
+159,Maruti Alto,Car,Vikram Kumar,OWN0542,rejected,Good,1216,101,3,94,Rishikesh,4.0,Petrol,False,2024-08-15,UK13D8582,Vikram Kumar
+160,Yamaha FZ,Bike,Rajesh Shah,OWN0592,approved,Good,577,78,57,58,Rishikesh,4.6,Petrol,False,2024-09-05,UK13D1055,Rajesh Shah
+161,Ola S1,Scooty,Divya Patel,OWN0933,rejected,New,627,92,14,67,Dehradun,4.6,Electric,True,2025-04-19,UK15B8197,Divya Patel
+162,Sonet,Car,Rahul Bose,OWN0026,approved,Good,1960,151,68,54,Auli,4.7,Petrol,False,2025-04-29,UK18A1595,Rahul Bose
+163,KTM Duke 200,Bike,Arjun Rao,OWN0496,rejected,Good,768,116,3,59,Nainital,4.8,Petrol,True,2024-08-05,UK11C4052,Arjun Rao
+164,Ather 450X,Scooty,Karan Rao,OWN0679,approved,Good,725,91,40,79,Haridwar,4.1,Electric,False,2025-01-04,UK10C4714,Karan Rao
+165,Creta,Car,Deepa Reddy,OWN0811,rejected,Good,2843,225,73,94,Dehradun,4.7,Petrol,False,2024-12-21,UK18A9099,Deepa Reddy
+166,RE Classic 350,Bike,Amit Verma,OWN0204,pending,Good,724,86,21,52,Dehradun,4.0,Petrol,True,2024-11-25,UK15B9488,Amit Verma
+167,Ola S1,Scooty,Aditi Shah,OWN0929,pending,Needs Maintenance,623,82,50,61,Mussoorie,4.3,Petrol,True,2024-09-04,UK19D5032,Aditi Shah
+168,i10,Car,Aakash Das,OWN0737,approved,Needs Maintenance,1632,130,44,58,Rishikesh,4.4,Petrol,True,2025-05-04,UK20B4844,Aakash Das
+169,Hero Splendor Plus,Bike,Nikhil Verma,OWN0155,approved,Good,369,61,18,60,Mussoorie,4.7,Petrol,False,2025-05-25,UK19B9555,Nikhil Verma
+170,Suzuki Access,Scooty,Karan Reddy,OWN0179,approved,Good,578,95,77,88,Dehradun,4.5,Petrol,False,2025-05-20,UK13C4694,Karan Reddy
+171,Creta,Car,Suresh Reddy,OWN0434,approved,Needs Maintenance,2794,212,16,64,Rishikesh,4.7,Petrol,False,2024-06-18,UK17D2501,Suresh Reddy
+172,Bajaj Pulsar 150,Bike,Rohit Das,OWN1000,approved,Needs Maintenance,394,73,6,85,Rishikesh,4.1,Petrol,False,2024-12-17,UK19D2979,Rohit Das
+173,Yamaha Fascino,Scooty,Pooja Rao,OWN0850,approved,Good,590,79,64,60,Nainital,4.2,Electric,False,2024-07-21,UK10D3042,Pooja Rao
+174,WagonR,Car,Amit Agarwal,OWN0103,approved,Needs Maintenance,1448,116,19,75,Rishikesh,4.2,Diesel,False,2025-03-13,UK20B2468,Amit Agarwal
+175,TVS Apache RTR 160,Bike,Rajesh Rao,OWN0813,rejected,Good,443,74,63,92,Haridwar,4.2,Petrol,False,2024-10-13,UK18C7595,Rajesh Rao
+176,Suzuki Access,Scooty,Kavya Das,OWN0333,approved,Good,625,78,61,62,Rishikesh,4.7,Electric,True,2024-08-14,UK13B3502,Kavya Das
+177,Nexon,Car,Suresh Tiwari,OWN0942,pending,New,2118,183,18,60,Mussoorie,4.4,Petrol,False,2024-07-25,UK19C5157,Suresh Tiwari
+178,Yamaha FZ,Bike,Rohit Verma,OWN0574,approved,Needs Maintenance,537,93,19,72,Chakrata,4.6,Petrol,False,2025-05-07,UK20B3926,Rohit Verma
+179,Suzuki Access,Scooty,Rahul Reddy,OWN0059,approved,Needs Maintenance,620,77,45,75,Rishikesh,4.3,Petrol,True,2024-09-17,UK15A7383,Rahul Reddy
+180,Nexon,Car,Aakash Nair,OWN0810,approved,Good,2317,198,31,90,Mussoorie,4.7,Petrol,False,2025-04-28,UK11A5449,Aakash Nair
+181,Yamaha FZ,Bike,Rajesh Rao,OWN0813,approved,New,619,84,50,93,Rishikesh,4.6,Petrol,True,2024-06-04,UK17C4753,Rajesh Rao
+182,Ola S1,Scooty,Meena Mishra,OWN0791,approved,Needs Maintenance,639,92,71,69,Dehradun,4.8,Petrol,False,2024-08-16,UK10A4600,Meena Mishra
+183,i20,Car,Sonal Yadav,OWN0411,approved,Needs Maintenance,1777,147,49,61,Mussoorie,4.6,Petrol,False,2025-05-06,UK16B8758,Sonal Yadav
+184,TVS Apache RTR 160,Bike,Rajesh Sharma,OWN0065,approved,Good,441,82,46,74,Rishikesh,4.2,Petrol,True,2024-06-24,UK15C5119,Rajesh Sharma
+185,Yamaha Fascino,Scooty,Aditi Agarwal,OWN0819,approved,New,547,73,72,54,Dehradun,4.4,Electric,True,2024-07-15,UK16C2179,Aditi Agarwal
+186,Swift,Car,Meena Bose,OWN0785,approved,Good,1401,136,9,86,Nainital,4.8,Diesel,True,2025-01-06,UK14A2496,Meena Bose
+187,KTM Duke 200,Bike,Sonal Kumar,OWN0385,pending,Good,678,99,73,96,Mussoorie,4.7,Petrol,False,2024-11-12,UK17D6861,Sonal Kumar
+188,Ather 450X,Scooty,Neha Patel,OWN0489,approved,Good,725,92,23,53,Haridwar,4.1,Electric,True,2024-10-08,UK12D3593,Neha Patel
+189,Sonet,Car,Rahul Agarwal,OWN0638,approved,Good,2127,156,1,54,Nainital,4.1,Diesel,False,2024-08-09,UK20A3452,Rahul Agarwal
+190,Yamaha R15,Bike,Mohan Verma,OWN0964,rejected,Good,669,119,39,54,Dehradun,4.3,Petrol,True,2025-01-07,UK19D8581,Mohan Verma
+191,Yamaha Fascino,Scooty,Mohan Mishra,OWN0663,pending,New,605,85,68,86,Rishikesh,4.8,Electric,False,2025-02-23,UK17B2215,Mohan Mishra
+192,Nexon,Car,Aman Das,OWN0503,approved,Good,2111,167,21,77,Nainital,4.5,Petrol,False,2025-04-05,UK12B8173,Aman Das
+193,Hero Splendor Plus,Bike,Nisha Agarwal,OWN0783,pending,Good,383,69,49,93,Dehradun,4.5,Petrol,False,2025-03-23,UK18D9924,Nisha Agarwal
+194,Ola S1,Scooty,Nisha Kumar,OWN0243,pending,Good,631,81,53,72,Haridwar,4.7,Electric,False,2025-05-17,UK19C4326,Nisha Kumar
+195,Swift,Car,Nikhil Rao,OWN0094,approved,Good,1622,115,14,88,Mussoorie,4.3,Diesel,True,2024-11-06,UK13A9396,Nikhil Rao
+196,Hero Splendor Plus,Bike,Ravi Agarwal,OWN0343,approved,New,356,70,74,90,Dehradun,4.2,Petrol,True,2024-06-24,UK12A2134,Ravi Agarwal
+197,Ather 450X,Scooty,Neha Kumar,OWN0794,approved,Good,711,95,45,51,Rishikesh,4.2,Electric,True,2024-10-23,UK19D5654,Neha Kumar
+198,Swift,Car,Sneha Joshi,OWN0729,approved,Good,1594,117,61,50,Dehradun,4.3,Diesel,True,2025-03-15,UK17D6016,Sneha Joshi
+199,KTM Duke 200,Bike,Rahul Patel,OWN0682,approved,Good,678,105,39,84,Haridwar,4.3,Petrol,False,2024-10-31,UK19D8375,Rahul Patel
+200,TVS Jupiter,Scooty,Arjun Agarwal,OWN0430,approved,Good,642,70,39,55,Haridwar,4.0,Electric,True,2025-01-05,UK10C6416,Arjun Agarwal
+201,Swift,Car,Shreya Das,OWN0417,pending,Good,1609,119,4,51,Dehradun,4.2,Petrol,False,2024-09-21,UK17B1616,Shreya Das
+202,RE Classic 350,Bike,Sneha Rao,OWN0396,approved,Needs Maintenance,710,87,75,97,Lansdowne,4.9,Petrol,True,2025-04-12,UK12D8231,Sneha Rao
+203,Ather 450X,Scooty,Kavya Sharma,OWN0904,approved,Good,667,101,10,57,Mussoorie,4.2,Petrol,False,2025-03-19,UK16B6260,Kavya Sharma
+204,Creta,Car,Ishaan Yadav,OWN0712,rejected,Good,2794,225,26,53,Rishikesh,4.1,Diesel,True,2024-06-05,UK12C6730,Ishaan Yadav
+205,Yamaha R15,Bike,Vikram Kumar,OWN0542,pending,Good,617,113,14,60,Dehradun,4.0,Petrol,True,2024-09-14,UK16C4846,Vikram Kumar
+206,Ola S1,Scooty,Nikhil Mehta,OWN0629,pending,Needs Maintenance,658,82,10,70,Dehradun,4.3,Electric,False,2025-03-14,UK19C7446,Nikhil Mehta
+207,Sonet,Car,Divya Mehta,OWN0424,approved,Good,2011,160,44,68,Mussoorie,4.7,Diesel,False,2024-11-17,UK14C4627,Divya Mehta
+208,Yamaha FZ,Bike,Arjun Pandey,OWN0264,pending,Good,495,71,39,95,Haridwar,4.4,Petrol,True,2024-08-02,UK16B4972,Arjun Pandey
+209,Yamaha Fascino,Scooty,Sneha Reddy,OWN0593,pending,Good,545,80,33,67,Rishikesh,4.6,Electric,True,2024-10-17,UK16C1281,Sneha Reddy
+210,Creta,Car,Ishaan Bose,OWN0693,approved,Needs Maintenance,2703,202,67,98,Haridwar,4.4,Petrol,False,2024-08-14,UK13A6377,Ishaan Bose
+211,TVS Apache RTR 160,Bike,Dev Srivastava,OWN0132,rejected,Good,568,67,64,76,Mussoorie,4.0,Petrol,False,2024-09-20,UK19C2634,Dev Srivastava
+212,TVS Jupiter,Scooty,Priya Bose,OWN0107,approved,Needs Maintenance,637,71,31,60,Lansdowne,4.4,Petrol,False,2024-08-06,UK10B2886,Priya Bose
+213,Nexon,Car,Priya Rao,OWN0045,approved,Good,2263,194,61,98,Rishikesh,4.2,Diesel,True,2024-11-26,UK13C7763,Priya Rao
+214,Yamaha R15,Bike,Rahul Joshi,OWN0484,rejected,Good,652,92,47,71,Haridwar,4.2,Petrol,True,2024-08-04,UK10B1166,Rahul Joshi
+215,TVS Ntorq,Scooty,Vikram Tiwari,OWN0285,approved,Good,601,95,5,69,Mussoorie,4.9,Electric,True,2024-07-03,UK12B1894,Vikram Tiwari
+216,i20,Car,Neha Yadav,OWN0919,approved,Good,1834,166,3,59,Haridwar,4.5,Diesel,False,2024-08-09,UK11B8560,Neha Yadav
+217,RE Classic 350,Bike,Amit Reddy,OWN0886,approved,Needs Maintenance,605,88,42,75,Rishikesh,4.8,Petrol,True,2024-09-06,UK15C8722,Amit Reddy
+218,TVS Ntorq,Scooty,Ritika Reddy,OWN0963,pending,New,649,87,0,85,Rishikesh,4.4,Petrol,False,2025-04-09,UK13A5277,Ritika Reddy
+219,Nexon,Car,Nikhil Mishra,OWN0306,approved,Good,2050,195,46,85,Dehradun,4.1,Diesel,True,2024-12-16,UK13A2187,Nikhil Mishra
+220,Bajaj Avenger 220,Bike,Amit Shah,OWN0564,approved,Good,570,96,28,84,Rishikesh,4.6,Petrol,True,2024-09-02,UK13D3581,Amit Shah
+221,Suzuki Access,Scooty,Arjun Bose,OWN0879,approved,Good,659,82,17,52,Dehradun,4.8,Petrol,True,2024-10-28,UK12C7661,Arjun Bose
+222,City,Car,Karan Nair,OWN0111,pending,Good,2544,205,26,91,Dehradun,4.6,Petrol,True,2025-01-17,UK19D9264,Karan Nair
+223,KTM Duke 200,Bike,Sonal Sharma,OWN0852,pending,Needs Maintenance,721,101,50,84,Dehradun,4.8,Petrol,True,2024-11-08,UK12C7249,Sonal Sharma
+224,Honda Activa,Scooty,Dev Yadav,OWN0157,pending,New,620,77,74,53,Nainital,4.7,Petrol,False,2025-05-06,UK17D5686,Dev Yadav
+225,WagonR,Car,Aman Sharma,OWN0270,approved,New,1230,100,8,79,Dehradun,4.5,Petrol,True,2024-09-15,UK15A3542,Aman Sharma
+226,Yamaha FZ,Bike,Rajesh Rao,OWN0813,approved,Good,582,75,29,84,Haridwar,4.8,Petrol,False,2024-08-23,UK12C7916,Rajesh Rao
+227,Suzuki Access,Scooty,Neha Yadav,OWN0186,rejected,Good,661,93,50,71,Rishikesh,4.3,Petrol,False,2024-08-21,UK13B3186,Neha Yadav
+228,Sonet,Car,Suresh Pandey,OWN0639,approved,New,2232,189,66,59,Haridwar,4.7,Diesel,True,2024-06-09,UK12C7574,Suresh Pandey
+229,TVS Apache RTR 160,Bike,Shreya Shah,OWN0221,approved,New,568,73,73,56,Dehradun,4.7,Petrol,True,2024-06-12,UK13B5155,Shreya Shah
+230,Suzuki Access,Scooty,Ananya Agarwal,OWN0452,pending,New,581,76,52,79,Dehradun,4.1,Petrol,True,2025-01-06,UK17C1175,Ananya Agarwal
+231,Sonet,Car,Neha Sharma,OWN0146,pending,Needs Maintenance,2107,175,56,77,Haridwar,4.3,Petrol,False,2024-11-25,UK15B1928,Neha Sharma
+232,Bajaj Avenger 220,Bike,Ishaan Rao,OWN0658,approved,New,598,86,22,67,Rishikesh,4.2,Petrol,True,2024-08-28,UK13C8989,Ishaan Rao
+233,Honda Activa,Scooty,Ishaan Das,OWN0030,approved,Good,615,74,21,65,Dehradun,4.7,Petrol,False,2024-08-05,UK18C8511,Ishaan Das
+234,Baleno,Car,Ishaan Mishra,OWN0829,approved,New,1579,148,8,87,Haridwar,4.6,Petrol,False,2025-01-19,UK12B3169,Ishaan Mishra
+235,Yamaha R15,Bike,Nikhil Joshi,OWN0903,rejected,Good,760,104,37,53,Rishikesh,4.5,Petrol,True,2024-12-29,UK14D2664,Nikhil Joshi
+236,TVS Ntorq,Scooty,Nisha Kumar,OWN0652,approved,Good,696,90,60,91,Mussoorie,4.8,Petrol,False,2024-12-29,UK11B5320,Nisha Kumar
+237,Swift,Car,Dev Nair,OWN0369,approved,Good,1389,121,6,74,Mussoorie,4.8,Diesel,False,2025-01-12,UK12D3430,Dev Nair
+238,TVS Apache RTR 160,Bike,Rajesh Rao,OWN0894,approved,Good,518,75,43,82,Auli,4.5,Petrol,True,2024-11-10,UK19A6623,Rajesh Rao
+239,TVS Jupiter,Scooty,Rahul Rao,OWN0777,approved,Good,585,78,49,75,Rishikesh,4.3,Petrol,False,2024-08-15,UK13D5081,Rahul Rao
+240,i20,Car,Meena Joshi,OWN0463,approved,New,1793,151,80,62,Mussoorie,4.7,Petrol,False,2024-07-22,UK12A2408,Meena Joshi
+241,RE Classic 350,Bike,Deepa Joshi,OWN0544,approved,Needs Maintenance,722,103,6,57,Rishikesh,4.7,Petrol,True,2024-09-29,UK15D1819,Deepa Joshi
+242,Yamaha Fascino,Scooty,Amit Yadav,OWN0876,approved,Good,616,79,9,79,Dehradun,4.3,Electric,False,2025-05-22,UK10B3474,Amit Yadav
+243,Maruti Alto,Car,Shreya Nair,OWN0602,approved,Needs Maintenance,1297,93,45,56,Lansdowne,4.2,Diesel,True,2025-05-22,UK15B6215,Shreya Nair
+244,TVS Apache RTR 160,Bike,Rajesh Pandey,OWN0105,approved,Good,460,93,14,81,Dehradun,4.3,Petrol,True,2024-12-16,UK14B4609,Rajesh Pandey
+245,Honda Activa,Scooty,Ishaan Srivastava,OWN0187,approved,Good,644,77,71,79,Dehradun,4.2,Electric,False,2024-08-16,UK12A7155,Ishaan Srivastava
+246,Creta,Car,Priya Mishra,OWN0696,pending,Good,2841,206,22,74,Rishikesh,4.3,Petrol,True,2025-04-27,UK16B4199,Priya Mishra
+247,TVS Apache RTR 160,Bike,Nisha Gupta,OWN0553,approved,Good,594,67,0,94,Haridwar,4.2,Petrol,True,2024-10-29,UK14D1303,Nisha Gupta
+248,Honda Activa,Scooty,Aditi Patel,OWN0861,pending,Needs Maintenance,635,72,39,82,Rishikesh,4.3,Electric,True,2025-03-25,UK15A5439,Aditi Patel
+249,i20,Car,Vikram Mehta,OWN0824,pending,Good,1918,167,59,51,Dehradun,4.1,Petrol,False,2025-05-16,UK16C2169,Vikram Mehta
+250,Bajaj Pulsar 150,Bike,Karan Singh,OWN0896,approved,Good,442,63,78,99,Rishikesh,4.1,Petrol,False,2024-10-10,UK19B7508,Karan Singh
+251,TVS Jupiter,Scooty,Divya Bose,OWN0674,rejected,Needs Maintenance,552,80,54,90,Dehradun,4.5,Electric,False,2024-11-10,UK16B5391,Divya Bose
+252,Sonet,Car,Priya Joshi,OWN0944,approved,Good,2225,190,23,78,Rishikesh,4.4,Petrol,True,2024-08-21,UK15B1287,Priya Joshi
+253,Yamaha R15,Bike,Nikhil Reddy,OWN0908,approved,Needs Maintenance,682,100,53,55,Rishikesh,4.4,Petrol,False,2024-08-12,UK19B1455,Nikhil Reddy
+254,Honda Activa,Scooty,Deepa Sharma,OWN0743,pending,Good,583,87,47,86,Auli,4.1,Electric,False,2024-10-25,UK11A6285,Deepa Sharma
+255,Maruti Alto,Car,Aakash Reddy,OWN0044,approved,Good,1051,85,52,63,Dehradun,4.4,Diesel,True,2025-05-07,UK19D4810,Aakash Reddy
+256,Yamaha R15,Bike,Ananya Tiwari,OWN0475,pending,Good,714,98,55,65,Mussoorie,4.6,Petrol,False,2024-12-27,UK12C3947,Ananya Tiwari
+257,Suzuki Access,Scooty,Aakash Pandey,OWN0387,pending,Good,621,94,5,77,Dehradun,4.8,Electric,True,2025-02-19,UK10C2590,Aakash Pandey
+258,i20,Car,Dev Srivastava,OWN0742,rejected,Needs Maintenance,1721,157,24,63,Dehradun,4.7,Diesel,False,2024-06-21,UK10C9756,Dev Srivastava
+259,Bajaj Pulsar 150,Bike,Dev Singh,OWN0877,approved,New,435,65,28,95,Dehradun,4.0,Petrol,False,2024-08-17,UK11B2249,Dev Singh
+260,TVS Ntorq,Scooty,Divya Srivastava,OWN0304,rejected,New,626,90,47,97,Rishikesh,4.5,Electric,False,2024-12-08,UK18B8134,Divya Srivastava
+261,Creta,Car,Divya Joshi,OWN0549,approved,Good,2751,202,69,76,Rishikesh,4.5,Petrol,False,2024-06-05,UK11A9697,Divya Joshi
+262,RE Classic 350,Bike,Arjun Reddy,OWN0570,approved,Good,626,88,41,66,Rishikesh,4.5,Petrol,False,2024-11-04,UK12A1697,Arjun Reddy
+263,Suzuki Access,Scooty,Meena Agarwal,OWN0584,approved,Good,584,77,49,61,Auli,4.3,Petrol,False,2025-04-23,UK18D5006,Meena Agarwal
+264,Maruti Alto,Car,Divya Tiwari,OWN0336,pending,Good,1051,83,40,83,Haridwar,4.0,Petrol,False,2024-12-23,UK14D6092,Divya Tiwari
+265,TVS Apache RTR 160,Bike,Aakash Verma,OWN0446,approved,Good,495,89,15,88,Mussoorie,4.9,Petrol,False,2025-05-04,UK12A3308,Aakash Verma
+266,Ola S1,Scooty,Karan Yadav,OWN0184,approved,Good,618,90,55,59,Dehradun,4.1,Petrol,False,2024-11-04,UK11A5658,Karan Yadav
+267,Baleno,Car,Neha Yadav,OWN0260,approved,New,1799,147,20,89,Rishikesh,4.5,Diesel,False,2025-02-04,UK18A2475,Neha Yadav
+268,Yamaha FZ,Bike,Divya Das,OWN0458,pending,Good,548,86,60,89,Dehradun,4.4,Petrol,True,2025-04-09,UK19C9631,Divya Das
+269,Ather 450X,Scooty,Nisha Singh,OWN0165,approved,Good,720,98,12,91,Rishikesh,4.8,Electric,False,2025-03-09,UK10A4593,Nisha Singh
+270,City,Car,Rohit Das,OWN0420,rejected,Good,2427,184,55,77,Dehradun,4.2,Petrol,False,2024-06-02,UK10A6698,Rohit Das
+271,RE Classic 350,Bike,Divya Tiwari,OWN0166,approved,Good,603,109,25,97,Rishikesh,4.3,Petrol,False,2024-12-20,UK13A1063,Divya Tiwari
+272,Suzuki Access,Scooty,Ishaan Gupta,OWN0048,approved,Good,644,75,41,90,Rishikesh,4.2,Electric,False,2024-10-04,UK18B1031,Ishaan Gupta
+273,WagonR,Car,Neha Kumar,OWN0706,pending,Good,1169,119,45,85,Dehradun,4.3,Diesel,False,2024-08-27,UK20A1977,Neha Kumar
+274,Yamaha R15,Bike,Tarun Mehta,OWN0547,approved,Good,621,101,57,75,Mussoorie,4.5,Petrol,True,2025-01-10,UK13B3905,Tarun Mehta
+275,Honda Activa,Scooty,Kavya Sharma,OWN0904,approved,Needs Maintenance,592,83,71,63,Nainital,4.2,Petrol,False,2025-05-11,UK13B8924,Kavya Sharma
+276,WagonR,Car,Shreya Yadav,OWN0086,pending,New,1315,124,52,97,Rishikesh,4.1,Petrol,True,2025-03-05,UK16B7515,Shreya Yadav
+277,RE Classic 350,Bike,Ravi Srivastava,OWN0254,rejected,Good,596,101,58,56,Rishikesh,4.2,Petrol,False,2024-07-26,UK10A4110,Ravi Srivastava
+278,Yamaha Fascino,Scooty,Dev Reddy,OWN0518,approved,Good,612,67,19,92,Haridwar,4.5,Electric,True,2025-04-08,UK12A9856,Dev Reddy
+279,City,Car,Priya Gupta,OWN0995,approved,Good,2513,187,65,96,Dehradun,4.2,Petrol,False,2025-04-04,UK11D6330,Priya Gupta
+280,Hero Splendor Plus,Bike,Nisha Tiwari,OWN0976,approved,Good,400,58,2,75,Nainital,4.8,Petrol,False,2024-07-19,UK20A7922,Nisha Tiwari
+281,TVS Jupiter,Scooty,Divya Patel,OWN0380,approved,Good,636,78,80,96,Haridwar,4.3,Petrol,True,2025-04-22,UK18A5364,Divya Patel
+282,Sonet,Car,Ishaan Reddy,OWN0077,pending,Good,2204,165,31,99,Mussoorie,4.2,Diesel,True,2025-01-14,UK16A8547,Ishaan Reddy
+283,TVS Apache RTR 160,Bike,Vikram Joshi,OWN0114,approved,Needs Maintenance,507,93,64,94,Rishikesh,4.4,Petrol,False,2025-03-24,UK18B9864,Vikram Joshi
+284,Ather 450X,Scooty,Rohit Srivastava,OWN0677,rejected,New,698,95,38,72,Rishikesh,4.9,Electric,False,2024-08-17,UK16D7039,Rohit Srivastava
+285,Sonet,Car,Tarun Rao,OWN0394,approved,Needs Maintenance,2148,182,51,84,Haridwar,4.2,Diesel,True,2025-03-22,UK11B6303,Tarun Rao
+286,Bajaj Avenger 220,Bike,Meena Mishra,OWN0316,pending,Needs Maintenance,526,100,57,63,Mussoorie,4.5,Petrol,True,2024-08-23,UK15C4662,Meena Mishra
+287,Honda Activa,Scooty,Pooja Das,OWN0688,rejected,New,559,83,77,67,Rishikesh,4.6,Petrol,True,2025-01-14,UK14B1368,Pooja Das
+288,WagonR,Car,Karan Mehta,OWN0643,approved,Needs Maintenance,1356,125,56,67,Rishikesh,4.1,Diesel,False,2025-01-03,UK19C2031,Karan Mehta
+289,Bajaj Avenger 220,Bike,Arjun Gupta,OWN0634,pending,New,554,102,56,86,Rishikesh,4.1,Petrol,True,2024-06-02,UK18D6029,Arjun Gupta
+290,Yamaha Fascino,Scooty,Karan Joshi,OWN0573,pending,Needs Maintenance,545,74,63,66,Rishikesh,4.9,Electric,False,2024-10-24,UK16C2233,Karan Joshi
+291,Sonet,Car,Ishaan Verma,OWN0822,approved,Needs Maintenance,2013,151,65,62,Mussoorie,4.3,Diesel,False,2024-07-28,UK16D4973,Ishaan Verma
+292,KTM Duke 200,Bike,Amit Pandey,OWN0532,approved,Good,648,121,36,79,Auli,4.3,Petrol,True,2024-12-22,UK19A7239,Amit Pandey
+293,TVS Ntorq,Scooty,Karan Verma,OWN0599,approved,Good,619,86,37,99,Rishikesh,4.0,Petrol,False,2024-11-09,UK10B9433,Karan Verma
+294,Baleno,Car,Karan Agarwal,OWN0335,approved,New,1630,125,50,50,Lansdowne,4.8,Petrol,False,2024-08-23,UK16B8515,Karan Agarwal
+295,RE Classic 350,Bike,Aditi Reddy,OWN0410,approved,Needs Maintenance,702,86,5,75,Dehradun,4.3,Petrol,True,2024-06-10,UK18B5432,Aditi Reddy
+296,Yamaha Fascino,Scooty,Arjun Joshi,OWN0368,approved,Good,569,65,68,66,Rishikesh,4.2,Petrol,False,2025-03-12,UK18B1674,Arjun Joshi
+297,i10,Car,Amit Srivastava,OWN0313,pending,Needs Maintenance,1561,143,42,80,Mussoorie,4.8,Petrol,False,2024-09-30,UK19D5291,Amit Srivastava
+298,Yamaha R15,Bike,Tarun Mishra,OWN0356,approved,Good,740,92,13,85,Rishikesh,4.1,Petrol,True,2024-08-16,UK17C1208,Tarun Mishra
+299,Suzuki Access,Scooty,Divya Kumar,OWN0218,rejected,Good,640,93,6,50,Dehradun,4.1,Petrol,False,2024-12-17,UK20D2668,Divya Kumar
+300,Maruti Alto,Car,Tarun Nair,OWN0611,approved,Good,1171,112,75,99,Rishikesh,4.4,Diesel,False,2024-12-01,UK16C2590,Tarun Nair
+301,Yamaha R15,Bike,Aakash Verma,OWN0786,approved,Good,649,110,71,66,Mussoorie,4.3,Petrol,False,2025-05-07,UK14D8353,Aakash Verma
+302,TVS Ntorq,Scooty,Rahul Shah,OWN0515,pending,New,686,96,72,53,Haridwar,4.8,Electric,False,2024-07-31,UK18D3654,Rahul Shah
+303,i20,Car,Pooja Shah,OWN0823,pending,New,1839,133,53,91,Dehradun,4.5,Diesel,False,2024-09-13,UK16C3013,Pooja Shah
+304,TVS Apache RTR 160,Bike,Ishaan Rao,OWN0278,approved,Good,484,85,6,64,Nainital,4.4,Petrol,False,2024-08-07,UK19A7445,Ishaan Rao
+305,Yamaha Fascino,Scooty,Rahul Patel,OWN0682,pending,Good,600,65,61,67,Rishikesh,4.3,Petrol,True,2024-12-23,UK15B5929,Rahul Patel
+306,Maruti Alto,Car,Neha Sharma,OWN0146,approved,Good,1168,106,4,74,Haridwar,4.8,Petrol,False,2024-11-13,UK15D8826,Neha Sharma
+307,Yamaha R15,Bike,Arjun Singh,OWN0955,approved,Good,744,118,17,70,Rishikesh,4.3,Petrol,True,2024-09-01,UK11A6435,Arjun Singh
+308,Suzuki Access,Scooty,Arjun Singh,OWN0955,approved,Good,653,75,30,63,Mussoorie,4.1,Petrol,False,2024-06-16,UK14D6034,Arjun Singh
+309,Creta,Car,Aditi Rao,OWN0311,approved,Good,2847,235,61,74,Rishikesh,4.4,Petrol,True,2025-04-02,UK13D6345,Aditi Rao
+310,KTM Duke 200,Bike,Nikhil Srivastava,OWN0869,approved,Good,686,117,21,56,Haridwar,4.7,Petrol,False,2024-09-24,UK15A9013,Nikhil Srivastava
+311,Ola S1,Scooty,Sonal Srivastava,OWN0295,approved,Good,669,99,10,58,Rishikesh,4.4,Petrol,False,2024-07-23,UK12A1054,Sonal Srivastava
+312,WagonR,Car,Aditi Joshi,OWN0131,approved,New,1297,91,31,75,Mussoorie,4.7,Petrol,True,2025-01-28,UK13B8590,Aditi Joshi
+313,Yamaha FZ,Bike,Kavya Yadav,OWN0436,pending,Needs Maintenance,615,70,63,60,Haridwar,4.1,Petrol,False,2025-03-07,UK13C6259,Kavya Yadav
+314,Suzuki Access,Scooty,Kavya Das,OWN0333,pending,Needs Maintenance,624,75,41,85,Dehradun,4.9,Petrol,False,2024-11-04,UK12C3292,Kavya Das
+315,Sonet,Car,Priya Das,OWN0416,approved,Needs Maintenance,2233,189,40,56,Dehradun,4.5,Petrol,False,2025-02-06,UK15A8350,Priya Das
+316,RE Classic 350,Bike,Kavya Srivastava,OWN0345,pending,Needs Maintenance,695,95,8,53,Nainital,4.8,Petrol,False,2024-06-25,UK15C2519,Kavya Srivastava
+317,TVS Jupiter,Scooty,Deepa Patel,OWN0466,approved,Good,594,73,33,78,Rishikesh,4.1,Petrol,True,2024-12-05,UK20B6842,Deepa Patel
+318,WagonR,Car,Amit Sharma,OWN0449,approved,Good,1294,97,18,69,Nainital,4.3,Petrol,False,2025-01-23,UK11C5919,Amit Sharma
+319,Yamaha R15,Bike,Shreya Bose,OWN0205,approved,Needs Maintenance,643,92,73,79,Dehradun,4.4,Petrol,True,2024-06-19,UK15B9000,Shreya Bose
+320,TVS Ntorq,Scooty,Rahul Pandey,OWN0032,approved,New,611,96,65,84,Dehradun,4.6,Petrol,False,2024-09-20,UK16A2124,Rahul Pandey
+321,i20,Car,Mohan Verma,OWN0846,approved,Needs Maintenance,1662,157,25,65,Mussoorie,4.5,Petrol,True,2025-01-05,UK10D9290,Mohan Verma
+322,KTM Duke 200,Bike,Suresh Bose,OWN0832,approved,New,652,102,68,61,Nainital,4.8,Petrol,True,2024-08-29,UK17D4216,Suresh Bose
+323,Ola S1,Scooty,Deepa Bose,OWN0848,approved,Good,636,83,1,68,Mussoorie,4.3,Petrol,False,2025-05-17,UK11C3974,Deepa Bose
+324,Sonet,Car,Pooja Das,OWN0709,pending,Good,2214,174,15,78,Rishikesh,4.1,Petrol,False,2024-09-17,UK15B8907,Pooja Das
+325,Bajaj Pulsar 150,Bike,Ishaan Mishra,OWN0104,approved,New,475,66,65,53,Rishikesh,4.0,Petrol,True,2025-01-04,UK20D4080,Ishaan Mishra
+326,Ola S1,Scooty,Suresh Kumar,OWN0891,rejected,New,684,94,37,67,Rishikesh,4.5,Electric,True,2025-02-01,UK17D3663,Suresh Kumar
+327,City,Car,Sonal Rao,OWN0603,approved,Good,2515,217,75,75,Auli,4.7,Petrol,False,2024-09-16,UK16B5209,Sonal Rao
+328,Hero Splendor Plus,Bike,Rajesh Rao,OWN0813,approved,Good,337,54,48,90,Rishikesh,4.2,Petrol,False,2025-04-09,UK19A1605,Rajesh Rao
+329,Ola S1,Scooty,Ishaan Mishra,OWN0546,approved,Good,690,82,14,53,Mussoorie,4.2,Petrol,False,2024-09-25,UK19A9704,Ishaan Mishra
+330,i20,Car,Amit Joshi,OWN0726,rejected,New,1815,135,29,93,Rishikesh,4.1,Petrol,True,2024-07-14,UK18D9553,Amit Joshi
+331,KTM Duke 200,Bike,Tarun Gupta,OWN0175,approved,Good,674,108,37,68,Mussoorie,4.5,Petrol,True,2025-02-19,UK18C8500,Tarun Gupta
+332,TVS Jupiter,Scooty,Amit Sharma,OWN0449,rejected,Good,630,85,74,73,Dehradun,4.6,Electric,False,2025-02-07,UK15C9518,Amit Sharma
+333,Swift,Car,Suresh Srivastava,OWN0760,approved,Needs Maintenance,1606,133,16,83,Dehradun,4.4,Diesel,True,2024-08-31,UK12A8227,Suresh Srivastava
+334,Yamaha FZ,Bike,Vikram Gupta,OWN0749,approved,New,481,71,74,79,Rishikesh,4.2,Petrol,False,2024-11-01,UK18B8403,Vikram Gupta
+335,Ather 450X,Scooty,Priya Kumar,OWN0015,approved,Needs Maintenance,722,92,10,79,Auli,4.8,Electric,False,2024-11-01,UK14C2620,Priya Kumar
+336,City,Car,Kavya Yadav,OWN0436,approved,Good,2362,210,34,63,Rishikesh,4.8,Diesel,True,2024-12-18,UK18A2359,Kavya Yadav
+337,Yamaha FZ,Bike,Sneha Agarwal,OWN0223,approved,Good,578,92,23,96,Mussoorie,4.5,Petrol,False,2025-02-13,UK15D9787,Sneha Agarwal
+338,Ather 450X,Scooty,Aakash Mishra,OWN0084,approved,Needs Maintenance,730,99,14,99,Mussoorie,4.4,Petrol,False,2025-03-03,UK11C6514,Aakash Mishra
+339,i20,Car,Rahul Sharma,OWN0909,pending,Needs Maintenance,1760,155,73,50,Haridwar,4.9,Petrol,True,2025-03-21,UK20B2726,Rahul Sharma
+340,RE Classic 350,Bike,Aakash Sharma,OWN0591,approved,Good,706,95,56,79,Dehradun,4.4,Petrol,False,2025-03-14,UK16D4403,Aakash Sharma
+341,Ather 450X,Scooty,Rajesh Patel,OWN0092,rejected,Good,734,107,28,73,Mussoorie,4.0,Electric,False,2025-02-14,UK18A8613,Rajesh Patel
+342,Maruti Alto,Car,Tarun Tiwari,OWN0857,approved,Good,1273,92,1,99,Mussoorie,4.9,Diesel,True,2025-05-11,UK16A2991,Tarun Tiwari
+343,TVS Apache RTR 160,Bike,Shreya Patel,OWN0247,approved,New,576,81,15,86,Haridwar,4.5,Petrol,False,2024-10-06,UK18B8771,Shreya Patel
+344,Yamaha Fascino,Scooty,Rohit Das,OWN0662,approved,Good,592,67,39,58,Nainital,4.2,Electric,True,2024-10-03,UK16A1967,Rohit Das
+345,Baleno,Car,Aman Kumar,OWN0847,approved,New,1775,160,67,70,Rishikesh,4.4,Diesel,False,2024-08-02,UK10C6369,Aman Kumar
+346,TVS Apache RTR 160,Bike,Aman Shah,OWN0307,approved,Good,538,80,7,58,Dehradun,4.9,Petrol,False,2024-12-23,UK11C9698,Aman Shah
+347,Honda Activa,Scooty,Divya Bose,OWN0389,approved,Good,580,78,63,63,Haridwar,4.4,Electric,False,2024-07-11,UK13C9350,Divya Bose
+348,Creta,Car,Kavya Yadav,OWN0582,approved,Good,2645,234,76,75,Dehradun,4.2,Diesel,True,2025-04-13,UK10A6470,Kavya Yadav
+349,RE Classic 350,Bike,Ritika Sharma,OWN0999,approved,Good,706,108,69,70,Nainital,4.3,Petrol,True,2024-12-05,UK20C8378,Ritika Sharma
+350,TVS Ntorq,Scooty,Suresh Nair,OWN0667,approved,Good,670,96,31,55,Rishikesh,4.0,Electric,True,2024-10-01,UK19D4046,Suresh Nair
+351,i20,Car,Ritika Kumar,OWN0809,approved,New,1751,130,45,72,Nainital,4.1,Diesel,False,2024-10-27,UK13D1697,Ritika Kumar
+352,KTM Duke 200,Bike,Divya Patel,OWN0933,approved,Good,770,104,17,82,Dehradun,4.4,Petrol,False,2025-01-20,UK10B9924,Divya Patel
+353,Ather 450X,Scooty,Meena Bose,OWN0785,approved,Good,702,93,76,76,Mussoorie,4.4,Electric,False,2024-11-23,UK13C3901,Meena Bose
+354,City,Car,Aakash Pandey,OWN0387,approved,Good,2443,180,66,55,Haridwar,4.5,Petrol,True,2025-05-27,UK20D2254,Aakash Pandey
+355,Yamaha FZ,Bike,Suresh Pandey,OWN0639,approved,Good,591,95,4,56,Chakrata,4.9,Petrol,True,2025-04-21,UK13C9772,Suresh Pandey
+356,TVS Jupiter,Scooty,Tarun Joshi,OWN0849,approved,Good,632,84,38,76,Dehradun,4.8,Petrol,False,2024-06-20,UK13A3217,Tarun Joshi
+357,i10,Car,Neha Pandey,OWN0009,approved,Good,1666,113,62,63,Dehradun,4.0,Petrol,False,2024-09-15,UK16B9341,Neha Pandey
+358,Yamaha R15,Bike,Aakash Mishra,OWN0649,approved,Good,662,98,13,66,Dehradun,4.4,Petrol,True,2024-07-30,UK18B6193,Aakash Mishra
+359,TVS Jupiter,Scooty,Rajesh Rao,OWN0590,approved,New,572,70,27,51,Rishikesh,4.1,Petrol,True,2025-02-09,UK16C1058,Rajesh Rao
+360,Baleno,Car,Priya Das,OWN0178,pending,Good,1723,150,72,61,Rishikesh,4.5,Petrol,True,2025-02-16,UK17C6241,Priya Das
+361,RE Classic 350,Bike,Dev Singh,OWN0877,approved,Good,670,99,44,57,Mussoorie,4.3,Petrol,True,2025-01-19,UK12D3019,Dev Singh
+362,Ather 450X,Scooty,Shreya Pandey,OWN0910,pending,Good,707,98,58,67,Dehradun,4.7,Petrol,True,2025-03-14,UK11A7287,Shreya Pandey
+363,City,Car,Mohan Shah,OWN0739,approved,New,2616,206,34,99,Haridwar,4.8,Diesel,True,2024-11-04,UK13A9310,Mohan Shah
+364,KTM Duke 200,Bike,Tarun Patel,OWN0562,approved,Good,662,125,63,63,Rishikesh,4.7,Petrol,False,2024-09-22,UK13B7630,Tarun Patel
+365,Ather 450X,Scooty,Nisha Srivastava,OWN0487,approved,Good,728,103,36,98,Rishikesh,4.1,Electric,False,2024-09-28,UK10A2846,Nisha Srivastava
+366,i10,Car,Sonal Sharma,OWN0525,approved,Good,1684,118,44,62,Haridwar,4.7,Diesel,True,2024-09-04,UK18B7486,Sonal Sharma
+367,Yamaha R15,Bike,Priya Yadav,OWN0271,approved,New,618,117,17,72,Haridwar,4.6,Petrol,False,2024-07-05,UK20B4811,Priya Yadav
+368,Suzuki Access,Scooty,Vikram Tiwari,OWN0036,approved,Good,613,84,10,89,Mussoorie,4.9,Electric,False,2025-01-23,UK12A5399,Vikram Tiwari
+369,Nexon,Car,Aakash Mehta,OWN0021,pending,Good,2347,200,35,54,Dehradun,4.7,Diesel,False,2025-03-30,UK14A4524,Aakash Mehta
+370,KTM Duke 200,Bike,Kavya Bose,OWN0381,pending,Good,773,116,20,67,Chakrata,4.4,Petrol,True,2025-04-26,UK11A8908,Kavya Bose
+371,TVS Jupiter,Scooty,Divya Verma,OWN0102,approved,Good,614,80,78,69,Auli,4.4,Petrol,True,2024-10-20,UK18D1461,Divya Verma
+372,Swift,Car,Neha Singh,OWN0754,rejected,Good,1621,108,75,96,Mussoorie,4.8,Petrol,False,2024-12-17,UK14D4353,Neha Singh
+373,Yamaha FZ,Bike,Meena Pandey,OWN0383,approved,Good,474,96,23,61,Dehradun,4.3,Petrol,True,2024-08-13,UK12C1229,Meena Pandey
+374,Honda Activa,Scooty,Rohit Das,OWN0662,approved,Good,622,90,33,94,Mussoorie,4.4,Petrol,True,2024-07-22,UK11A1580,Rohit Das
+375,Creta,Car,Mohan Singh,OWN0392,pending,New,2553,221,24,69,Rishikesh,4.6,Diesel,False,2024-12-13,UK13A8780,Mohan Singh
+376,Bajaj Avenger 220,Bike,Neha Shah,OWN0560,approved,Good,558,76,1,59,Rishikesh,4.2,Petrol,True,2024-08-17,UK10A6492,Neha Shah
+377,TVS Ntorq,Scooty,Ritika Yadav,OWN0915,approved,Good,618,82,30,75,Haridwar,4.4,Electric,False,2025-03-20,UK15B7705,Ritika Yadav
+378,Nexon,Car,Rahul Pandey,OWN0032,approved,Good,2067,173,69,87,Dehradun,4.1,Diesel,False,2025-04-06,UK15A1981,Rahul Pandey
+379,Hero Splendor Plus,Bike,Mohan Agarwal,OWN0250,approved,Needs Maintenance,371,52,12,81,Dehradun,4.6,Petrol,False,2024-06-14,UK17B8560,Mohan Agarwal
+380,TVS Ntorq,Scooty,Sonal Shah,OWN0771,approved,Good,700,81,11,62,Haridwar,4.8,Petrol,False,2024-08-22,UK11A4345,Sonal Shah
+381,Sonet,Car,Pooja Mishra,OWN0580,approved,Needs Maintenance,2117,158,69,74,Dehradun,4.7,Petrol,False,2024-07-09,UK20D9120,Pooja Mishra
+382,Yamaha FZ,Bike,Aman Tiwari,OWN0123,approved,Good,567,91,18,61,Dehradun,4.2,Petrol,False,2025-05-30,UK14D2832,Aman Tiwari
+383,Suzuki Access,Scooty,Meena Agarwal,OWN0584,approved,New,602,91,63,57,Dehradun,4.5,Petrol,True,2024-06-04,UK17C6019,Meena Agarwal
+384,Baleno,Car,Tarun Verma,OWN0056,approved,Good,1613,139,31,76,Chakrata,4.6,Petrol,False,2024-11-02,UK14B4009,Tarun Verma
+385,Hero Splendor Plus,Bike,Rajesh Joshi,OWN0096,approved,New,419,62,46,59,Mussoorie,4.7,Petrol,False,2024-11-23,UK12B5421,Rajesh Joshi
+386,Yamaha Fascino,Scooty,Rohit Pandey,OWN0978,pending,New,590,85,10,59,Haridwar,4.9,Petrol,False,2024-10-18,UK14D8773,Rohit Pandey
+387,Sonet,Car,Karan Bose,OWN0632,approved,Good,2007,169,23,74,Dehradun,4.2,Petrol,False,2025-04-25,UK20C6174,Karan Bose
+388,TVS Apache RTR 160,Bike,Aman Yadav,OWN0946,approved,Good,583,65,12,64,Dehradun,4.8,Petrol,True,2025-04-30,UK17C1394,Aman Yadav
+389,Ola S1,Scooty,Pooja Shah,OWN0971,pending,Good,680,98,17,67,Rishikesh,4.4,Petrol,True,2025-03-04,UK15A7263,Pooja Shah
+390,Nexon,Car,Nisha Singh,OWN0109,approved,New,2160,189,4,58,Dehradun,4.5,Petrol,True,2025-03-02,UK19A3797,Nisha Singh
+391,KTM Duke 200,Bike,Nisha Verma,OWN0902,rejected,Good,679,99,55,84,Rishikesh,4.1,Petrol,True,2025-04-07,UK18D5182,Nisha Verma
+392,TVS Jupiter,Scooty,Divya Rao,OWN0439,pending,Needs Maintenance,612,72,61,85,Haridwar,4.6,Electric,False,2025-01-02,UK12B8595,Divya Rao
+393,Sonet,Car,Amit Mishra,OWN0930,approved,Needs Maintenance,2171,178,48,53,Dehradun,4.2,Diesel,False,2024-11-07,UK17C1387,Amit Mishra
+394,Yamaha FZ,Bike,Rohit Gupta,OWN0237,approved,Needs Maintenance,549,80,65,97,Rishikesh,4.1,Petrol,True,2025-03-17,UK11A9039,Rohit Gupta
+395,Suzuki Access,Scooty,Arjun Tiwari,OWN0867,approved,New,634,79,37,89,Mussoorie,4.7,Electric,True,2024-11-01,UK10A7613,Arjun Tiwari
+396,City,Car,Rahul Joshi,OWN0744,approved,Good,2631,219,73,97,Haridwar,4.6,Petrol,False,2025-04-08,UK20B4233,Rahul Joshi
+397,Hero Splendor Plus,Bike,Ishaan Verma,OWN0286,approved,Needs Maintenance,413,53,41,64,Rishikesh,4.2,Petrol,False,2024-10-17,UK17A9260,Ishaan Verma
+398,Suzuki Access,Scooty,Meena Srivastava,OWN0230,approved,Needs Maintenance,612,92,20,57,Mussoorie,4.7,Petrol,True,2024-11-11,UK14D4071,Meena Srivastava
+399,Swift,Car,Dev Singh,OWN0877,approved,New,1549,122,18,95,Dehradun,4.4,Petrol,True,2024-09-11,UK17B1238,Dev Singh
+400,Bajaj Avenger 220,Bike,Sneha Singh,OWN0002,approved,Good,546,97,45,71,Nainital,4.8,Petrol,False,2024-07-02,UK10A9987,Sneha Singh
+401,Suzuki Access,Scooty,Amit Singh,OWN0255,approved,Good,650,82,66,74,Haridwar,4.5,Petrol,False,2024-10-01,UK19A1079,Amit Singh
+402,Creta,Car,Nikhil Shah,OWN0534,approved,Needs Maintenance,2795,204,0,83,Mussoorie,4.5,Petrol,False,2024-08-02,UK14A7655,Nikhil Shah
+403,Hero Splendor Plus,Bike,Aditi Yadav,OWN0594,approved,New,363,60,0,51,Auli,4.3,Petrol,True,2025-03-18,UK20B4851,Aditi Yadav
+404,Honda Activa,Scooty,Neha Nair,OWN0507,rejected,Good,554,88,17,93,Dehradun,4.2,Electric,True,2025-03-25,UK20D1732,Neha Nair
+405,Baleno,Car,Priya Nair,OWN0555,approved,Good,1615,157,49,50,Haridwar,4.3,Petrol,False,2025-03-06,UK11D8864,Priya Nair
+406,TVS Apache RTR 160,Bike,Meena Bose,OWN0251,pending,New,586,68,33,74,Dehradun,4.4,Petrol,False,2025-03-29,UK18C4590,Meena Bose
+407,Ather 450X,Scooty,Ritika Rao,OWN0122,approved,Good,657,102,31,77,Nainital,4.2,Petrol,False,2024-07-13,UK11A6215,Ritika Rao
+408,Maruti Alto,Car,Rajesh Reddy,OWN0619,pending,Good,1152,108,11,92,Mussoorie,4.3,Petrol,False,2024-10-11,UK15B6063,Rajesh Reddy
+409,Bajaj Avenger 220,Bike,Tarun Bose,OWN0194,approved,New,674,76,19,51,Mussoorie,4.8,Petrol,True,2024-12-03,UK13C4918,Tarun Bose
+410,Ola S1,Scooty,Amit Kumar,OWN0421,approved,Good,613,86,35,76,Dehradun,4.5,Electric,False,2025-03-22,UK19C5642,Amit Kumar
+411,City,Car,Divya Kumar,OWN0280,approved,Good,2513,186,74,95,Nainital,4.4,Petrol,False,2024-08-15,UK10A1959,Divya Kumar
+412,Bajaj Pulsar 150,Bike,Meena Nair,OWN0274,approved,New,393,60,70,58,Nainital,4.5,Petrol,False,2025-05-28,UK18A9306,Meena Nair
+413,Honda Activa,Scooty,Tarun Bose,OWN0669,pending,Good,592,90,19,58,Dehradun,4.7,Electric,True,2024-10-26,UK10B7407,Tarun Bose
+414,City,Car,Deepa Joshi,OWN0544,approved,New,2419,188,18,52,Rishikesh,4.7,Petrol,False,2024-10-13,UK15B8660,Deepa Joshi
+415,Yamaha R15,Bike,Pooja Patel,OWN0653,approved,Good,622,95,29,72,Lansdowne,4.2,Petrol,False,2024-08-21,UK13C8445,Pooja Patel
+416,Yamaha Fascino,Scooty,Rajesh Das,OWN0302,approved,Needs Maintenance,586,68,2,50,Dehradun,4.2,Petrol,False,2025-03-14,UK12C2756,Rajesh Das
+417,i10,Car,Sneha Gupta,OWN0704,pending,New,1586,122,70,57,Rishikesh,4.3,Petrol,True,2024-08-30,UK20C6668,Sneha Gupta
+418,KTM Duke 200,Bike,Sonal Agarwal,OWN0294,approved,Good,705,109,72,51,Mussoorie,4.7,Petrol,True,2024-06-17,UK10D3832,Sonal Agarwal
+419,Yamaha Fascino,Scooty,Priya Yadav,OWN0271,approved,New,605,83,28,53,Rishikesh,4.9,Petrol,False,2024-07-14,UK12B9558,Priya Yadav
+420,Creta,Car,Rajesh Shah,OWN0089,approved,Good,2821,200,18,79,Dehradun,4.5,Diesel,False,2024-08-05,UK19D2124,Rajesh Shah
+421,RE Classic 350,Bike,Ritika Mehta,OWN0129,approved,Good,709,98,44,55,Dehradun,4.7,Petrol,False,2024-12-09,UK10D8035,Ritika Mehta
+422,Ather 450X,Scooty,Kavya Das,OWN0333,approved,Good,749,93,55,98,Dehradun,4.1,Electric,True,2024-12-13,UK10C3911,Kavya Das
+423,Nexon,Car,Arjun Agarwal,OWN0430,approved,Good,2125,173,18,78,Chakrata,4.7,Diesel,False,2024-06-13,UK11A6454,Arjun Agarwal
+424,KTM Duke 200,Bike,Mohan Das,OWN0375,rejected,Good,631,122,30,50,Rishikesh,4.6,Petrol,False,2024-11-06,UK17B5251,Mohan Das
+425,TVS Jupiter,Scooty,Karan Mishra,OWN0572,approved,New,632,76,30,72,Lansdowne,4.4,Electric,True,2024-12-27,UK18B3673,Karan Mishra
+426,Swift,Car,Ishaan Mishra,OWN0104,approved,Good,1550,101,40,98,Haridwar,4.8,Petrol,False,2025-05-09,UK12D8422,Ishaan Mishra
+427,KTM Duke 200,Bike,Arjun Reddy,OWN0402,approved,Good,723,103,0,82,Haridwar,4.7,Petrol,False,2025-05-24,UK16B3130,Arjun Reddy
+428,TVS Jupiter,Scooty,Mohan Gupta,OWN0980,approved,Good,646,75,35,54,Auli,4.6,Electric,False,2025-03-07,UK17C5807,Mohan Gupta
+429,i10,Car,Pooja Rao,OWN0850,pending,Good,1740,121,60,79,Dehradun,4.7,Diesel,True,2024-07-01,UK20B6924,Pooja Rao
+430,Hero Splendor Plus,Bike,Sneha Mishra,OWN0423,approved,New,435,53,1,52,Lansdowne,4.3,Petrol,False,2024-11-03,UK18D5937,Sneha Mishra
+431,TVS Ntorq,Scooty,Amit Agarwal,OWN0241,approved,Good,633,100,18,58,Rishikesh,4.4,Electric,True,2024-11-05,UK10C7869,Amit Agarwal
+432,i10,Car,Dev Yadav,OWN0157,approved,Good,1577,124,48,85,Auli,4.8,Diesel,False,2024-11-20,UK20D5141,Dev Yadav
+433,TVS Apache RTR 160,Bike,Ravi Bose,OWN0770,approved,Good,476,72,77,97,Rishikesh,4.7,Petrol,True,2025-03-22,UK12A7548,Ravi Bose
+434,Ola S1,Scooty,Nikhil Yadav,OWN0659,approved,New,666,80,35,68,Haridwar,4.8,Electric,True,2025-05-10,UK19D4204,Nikhil Yadav
+435,Sonet,Car,Ravi Yadav,OWN0083,approved,Good,1954,190,69,85,Rishikesh,4.7,Diesel,False,2024-06-02,UK20D4825,Ravi Yadav
+436,Bajaj Avenger 220,Bike,Amit Patel,OWN0346,approved,Good,665,103,39,64,Mussoorie,4.1,Petrol,True,2025-02-13,UK12A9654,Amit Patel
+437,Honda Activa,Scooty,Nisha Pandey,OWN0601,approved,Needs Maintenance,610,74,66,67,Haridwar,4.1,Petrol,True,2024-12-25,UK16C1299,Nisha Pandey
+438,Maruti Alto,Car,Aakash Kumar,OWN0837,approved,New,1185,94,44,56,Dehradun,4.6,Petrol,True,2024-07-17,UK12C6095,Aakash Kumar
+439,Hero Splendor Plus,Bike,Kavya Verma,OWN0768,approved,Good,427,71,25,92,Dehradun,4.7,Petrol,False,2024-06-16,UK11D1834,Kavya Verma
+440,Ather 450X,Scooty,Priya Shah,OWN0762,approved,Good,675,99,39,89,Auli,4.4,Electric,False,2024-10-01,UK17B2646,Priya Shah
+441,Maruti Alto,Car,Aditi Bose,OWN0055,approved,Good,1235,84,64,74,Chakrata,4.9,Petrol,True,2024-07-02,UK13A8319,Aditi Bose
+442,Hero Splendor Plus,Bike,Rahul Agarwal,OWN0638,approved,New,432,70,70,87,Mussoorie,4.3,Petrol,True,2024-07-16,UK14A1216,Rahul Agarwal
+443,Yamaha Fascino,Scooty,Suresh Tiwari,OWN0942,approved,New,621,72,26,69,Auli,4.1,Petrol,False,2024-07-25,UK17A8645,Suresh Tiwari
+444,Nexon,Car,Aditi Mishra,OWN0047,pending,New,2150,200,71,76,Haridwar,4.6,Petrol,False,2024-12-16,UK12C1834,Aditi Mishra
+445,Bajaj Avenger 220,Bike,Ritika Gupta,OWN0101,pending,Good,663,84,64,66,Mussoorie,4.4,Petrol,False,2025-01-25,UK18C6974,Ritika Gupta
+446,Ola S1,Scooty,Karan Patel,OWN0124,approved,Good,645,94,1,90,Dehradun,4.2,Electric,False,2024-09-23,UK15B2955,Karan Patel
+447,Baleno,Car,Nisha Reddy,OWN0945,pending,Needs Maintenance,1842,149,2,80,Dehradun,4.4,Diesel,True,2025-01-14,UK18A8727,Nisha Reddy
+448,Hero Splendor Plus,Bike,Dev Kumar,OWN0480,rejected,New,321,54,17,99,Mussoorie,4.3,Petrol,False,2024-09-25,UK17A7807,Dev Kumar
+449,TVS Jupiter,Scooty,Ravi Verma,OWN0029,approved,Needs Maintenance,619,89,13,77,Mussoorie,4.6,Electric,False,2025-04-12,UK17B3126,Ravi Verma
+450,Swift,Car,Tarun Nair,OWN0611,pending,Needs Maintenance,1600,125,25,93,Nainital,4.1,Diesel,False,2024-12-14,UK14D9034,Tarun Nair
+451,TVS Apache RTR 160,Bike,Rahul Mishra,OWN0203,approved,Good,522,68,15,84,Rishikesh,4.3,Petrol,False,2025-01-16,UK16A1114,Rahul Mishra
+452,TVS Ntorq,Scooty,Nisha Joshi,OWN0561,approved,Needs Maintenance,636,96,23,68,Dehradun,4.4,Petrol,True,2024-11-28,UK17A1241,Nisha Joshi
+453,Creta,Car,Arjun Pandey,OWN0264,approved,Good,2654,206,21,91,Mussoorie,4.2,Diesel,False,2024-08-09,UK13D4051,Arjun Pandey
+454,KTM Duke 200,Bike,Ritika Yadav,OWN0401,pending,Good,738,112,20,57,Mussoorie,4.2,Petrol,False,2025-05-09,UK16C8469,Ritika Yadav
+455,Honda Activa,Scooty,Sneha Sharma,OWN0683,approved,Good,558,88,33,75,Rishikesh,4.8,Petrol,True,2025-05-16,UK20C2086,Sneha Sharma
+456,Creta,Car,Rahul Reddy,OWN0707,approved,Needs Maintenance,2608,216,55,89,Dehradun,4.2,Diesel,False,2025-05-23,UK12A6273,Rahul Reddy
+457,Yamaha R15,Bike,Meena Yadav,OWN0119,approved,Good,687,120,7,97,Haridwar,4.5,Petrol,True,2024-12-16,UK11A8869,Meena Yadav
+458,Ather 450X,Scooty,Rahul Mishra,OWN0203,rejected,Needs Maintenance,662,102,1,63,Rishikesh,4.6,Petrol,True,2024-10-11,UK12C4471,Rahul Mishra
+459,City,Car,Priya Yadav,OWN0552,approved,Needs Maintenance,2529,183,14,89,Nainital,4.6,Diesel,True,2024-10-26,UK18C9247,Priya Yadav
+460,Yamaha R15,Bike,Rahul Mehta,OWN0025,rejected,New,723,109,8,64,Dehradun,4.5,Petrol,False,2025-01-04,UK19A1253,Rahul Mehta
+461,TVS Jupiter,Scooty,Ishaan Gupta,OWN0048,approved,Good,583,87,40,64,Dehradun,4.3,Electric,False,2024-12-11,UK17C7359,Ishaan Gupta
+462,Creta,Car,Aakash Mishra,OWN0731,pending,Good,2609,215,37,75,Haridwar,4.7,Diesel,False,2025-04-11,UK15B6076,Aakash Mishra
+463,Yamaha FZ,Bike,Rajesh Joshi,OWN0096,approved,New,520,84,70,55,Dehradun,4.1,Petrol,False,2024-10-20,UK17D5252,Rajesh Joshi
+464,Yamaha Fascino,Scooty,Dev Reddy,OWN0518,approved,Needs Maintenance,575,74,19,81,Haridwar,4.1,Electric,False,2024-08-02,UK15D5043,Dev Reddy
+465,Baleno,Car,Deepa Bose,OWN0329,approved,New,1667,146,70,71,Haridwar,4.1,Diesel,False,2025-03-07,UK11D9072,Deepa Bose
+466,TVS Apache RTR 160,Bike,Rohit Gupta,OWN0138,rejected,Good,540,88,42,56,Dehradun,4.6,Petrol,True,2025-03-16,UK17A6592,Rohit Gupta
+467,TVS Ntorq,Scooty,Rajesh Pandey,OWN0159,rejected,New,669,92,46,66,Rishikesh,4.4,Electric,True,2025-05-10,UK19D3634,Rajesh Pandey
+468,Nexon,Car,Suresh Gupta,OWN0393,approved,Good,2080,173,29,96,Dehradun,4.6,Diesel,False,2025-01-09,UK15C7927,Suresh Gupta
+469,Hero Splendor Plus,Bike,Shreya Verma,OWN0145,approved,New,429,73,59,79,Dehradun,4.7,Petrol,True,2024-07-23,UK10D4335,Shreya Verma
+470,Suzuki Access,Scooty,Ananya Tiwari,OWN0475,approved,Good,650,79,7,82,Dehradun,4.3,Petrol,True,2025-04-30,UK17B8883,Ananya Tiwari
+471,Nexon,Car,Ritika Gupta,OWN0101,approved,Good,2077,190,7,63,Rishikesh,4.8,Petrol,True,2025-02-27,UK10B8246,Ritika Gupta
+472,Yamaha FZ,Bike,Aditi Patel,OWN0861,rejected,Good,480,86,37,54,Rishikesh,4.7,Petrol,False,2025-01-22,UK20B7280,Aditi Patel
+473,Honda Activa,Scooty,Nisha Kumar,OWN0577,rejected,Good,619,86,6,60,Dehradun,4.5,Petrol,False,2024-12-19,UK20D3416,Nisha Kumar
+474,City,Car,Vikram Patel,OWN0569,approved,Good,2621,196,57,61,Rishikesh,4.1,Diesel,True,2025-01-16,UK16D5107,Vikram Patel
+475,Yamaha FZ,Bike,Mohan Bose,OWN0457,pending,Good,624,81,17,50,Mussoorie,4.0,Petrol,True,2024-09-14,UK12D2107,Mohan Bose
+476,Yamaha Fascino,Scooty,Ritika Tiwari,OWN0214,approved,Good,612,77,26,71,Mussoorie,4.7,Petrol,False,2024-12-31,UK12C3054,Ritika Tiwari
+477,City,Car,Sneha Rao,OWN0442,pending,Good,2585,190,27,83,Mussoorie,4.2,Diesel,True,2024-06-27,UK16A5313,Sneha Rao
+478,RE Classic 350,Bike,Mohan Patel,OWN0403,approved,Good,603,103,66,83,Mussoorie,4.5,Petrol,False,2024-06-30,UK15C4855,Mohan Patel
+479,TVS Ntorq,Scooty,Tarun Mishra,OWN0356,pending,Needs Maintenance,625,96,33,50,Haridwar,4.8,Electric,False,2024-08-14,UK17B7850,Tarun Mishra
+480,Maruti Alto,Car,Tarun Nair,OWN0611,approved,Good,1210,109,10,70,Nainital,4.8,Diesel,False,2024-06-05,UK15B6270,Tarun Nair
+481,RE Classic 350,Bike,Ritika Gupta,OWN0060,pending,Needs Maintenance,720,96,52,78,Haridwar,4.3,Petrol,False,2025-01-24,UK17C6640,Ritika Gupta
+482,Ather 450X,Scooty,Kavya Srivastava,OWN0447,rejected,Needs Maintenance,665,94,32,60,Nainital,4.4,Electric,False,2024-06-15,UK13C3411,Kavya Srivastava
+483,Creta,Car,Ritika Mehta,OWN0216,approved,Good,2848,211,23,80,Nainital,4.4,Diesel,True,2024-09-14,UK12A3884,Ritika Mehta
+484,Bajaj Avenger 220,Bike,Meena Kumar,OWN0151,rejected,New,663,102,22,91,Rishikesh,4.5,Petrol,True,2024-07-09,UK17C9029,Meena Kumar
+485,TVS Ntorq,Scooty,Karan Patel,OWN0124,approved,New,659,80,54,88,Lansdowne,4.3,Electric,True,2024-08-24,UK10C3582,Karan Patel
+486,Creta,Car,Kavya Bose,OWN0381,pending,Good,2621,218,78,84,Dehradun,4.5,Petrol,False,2024-12-24,UK19B1530,Kavya Bose
+487,Bajaj Avenger 220,Bike,Ritika Reddy,OWN0963,pending,Good,568,84,47,61,Dehradun,4.6,Petrol,False,2024-06-05,UK13B4066,Ritika Reddy
+488,Honda Activa,Scooty,Sonal Yadav,OWN0765,pending,Needs Maintenance,647,76,3,61,Rishikesh,4.6,Electric,False,2024-06-08,UK11C4020,Sonal Yadav
+489,Nexon,Car,Mohan Srivastava,OWN0508,approved,New,2248,192,50,67,Haridwar,4.4,Petrol,False,2025-03-07,UK10A8382,Mohan Srivastava
+490,TVS Apache RTR 160,Bike,Tarun Patel,OWN0020,approved,New,556,72,59,98,Auli,4.9,Petrol,False,2024-09-08,UK17A6610,Tarun Patel
+491,TVS Ntorq,Scooty,Ritika Sharma,OWN0299,approved,Good,678,83,1,52,Mussoorie,4.3,Petrol,False,2024-12-29,UK17B5158,Ritika Sharma
+492,Sonet,Car,Rajesh Shah,OWN0592,approved,New,2123,169,35,74,Dehradun,4.0,Diesel,False,2024-08-21,UK19C8267,Rajesh Shah
+493,TVS Apache RTR 160,Bike,Karan Agarwal,OWN0938,approved,Needs Maintenance,468,72,55,65,Mussoorie,4.7,Petrol,False,2025-03-16,UK10D6326,Karan Agarwal
+494,Yamaha Fascino,Scooty,Ravi Gupta,OWN0161,rejected,Needs Maintenance,594,76,33,53,Nainital,4.1,Electric,False,2025-04-10,UK18C2781,Ravi Gupta
+495,City,Car,Shreya Mehta,OWN0756,approved,Good,2484,217,77,64,Mussoorie,4.6,Petrol,True,2025-05-25,UK12D3952,Shreya Mehta
+496,Yamaha FZ,Bike,Rohit Rao,OWN0164,approved,New,585,84,69,55,Nainital,4.3,Petrol,False,2024-09-22,UK15A5890,Rohit Rao
+497,TVS Jupiter,Scooty,Karan Mishra,OWN0061,rejected,Good,555,83,72,77,Dehradun,4.8,Petrol,False,2025-01-01,UK17D6425,Karan Mishra
+498,Sonet,Car,Arjun Tiwari,OWN0884,approved,Good,2203,186,21,79,Dehradun,4.9,Petrol,True,2024-09-14,UK19D5338,Arjun Tiwari
+499,Hero Splendor Plus,Bike,Vikram Bose,OWN0642,approved,New,355,64,79,97,Mussoorie,4.6,Petrol,False,2024-06-01,UK18D5937,Vikram Bose
+500,Yamaha Fascino,Scooty,Kavya Kumar,OWN0767,rejected,Good,570,73,0,76,Rishikesh,4.5,Electric,True,2024-12-29,UK10B1730,Kavya Kumar
+501,Swift,Car,Rahul Patel,OWN0682,pending,New,1534,118,69,50,Mussoorie,4.5,Diesel,True,2024-08-27,UK19A3718,Rahul Patel
+502,Yamaha R15,Bike,Rajesh Yadav,OWN0080,approved,Good,672,100,23,99,Nainital,4.5,Petrol,False,2025-04-14,UK10C5244,Rajesh Yadav
+503,Suzuki Access,Scooty,Ravi Kumar,OWN0936,approved,Good,658,75,69,86,Dehradun,4.3,Electric,True,2024-08-20,UK15B5051,Ravi Kumar
+504,City,Car,Rohit Joshi,OWN0007,approved,Good,2629,182,26,61,Auli,4.8,Diesel,False,2024-07-05,UK10B7131,Rohit Joshi
+505,KTM Duke 200,Bike,Shreya Sharma,OWN0874,pending,New,661,114,42,72,Lansdowne,4.4,Petrol,False,2024-09-24,UK15C6383,Shreya Sharma
+506,TVS Ntorq,Scooty,Amit Yadav,OWN0876,pending,Needs Maintenance,610,93,4,64,Rishikesh,4.3,Petrol,False,2025-03-14,UK14B4172,Amit Yadav
+507,Sonet,Car,Karan Kumar,OWN0897,approved,Good,2001,164,31,62,Dehradun,4.6,Diesel,True,2024-08-23,UK19D3166,Karan Kumar
+508,TVS Apache RTR 160,Bike,Vikram Verma,OWN0028,pending,Needs Maintenance,559,88,0,84,Rishikesh,4.2,Petrol,False,2024-09-27,UK11B5414,Vikram Verma
+509,Suzuki Access,Scooty,Divya Tiwari,OWN0166,approved,New,582,86,34,55,Nainital,4.6,Petrol,False,2024-11-18,UK19D6129,Divya Tiwari
+510,Baleno,Car,Ritika Gupta,OWN0630,approved,New,1813,160,78,88,Dehradun,4.8,Diesel,False,2024-08-13,UK13D7577,Ritika Gupta
+511,Bajaj Avenger 220,Bike,Shreya Kumar,OWN0493,approved,Needs Maintenance,653,104,25,54,Rishikesh,4.6,Petrol,False,2024-10-21,UK12A1243,Shreya Kumar
+512,TVS Ntorq,Scooty,Pooja Shah,OWN0610,pending,Good,695,94,49,61,Haridwar,4.7,Petrol,False,2024-07-18,UK19B8342,Pooja Shah
+513,i20,Car,Divya Bose,OWN0816,approved,Good,1929,130,43,89,Dehradun,4.4,Petrol,False,2024-12-20,UK17A4753,Divya Bose
+514,TVS Apache RTR 160,Bike,Shreya Mehta,OWN0382,approved,Good,490,87,12,80,Dehradun,4.8,Petrol,False,2025-01-03,UK14D6218,Shreya Mehta
+515,Yamaha Fascino,Scooty,Shreya Sharma,OWN0874,approved,Good,568,80,19,92,Rishikesh,4.7,Electric,False,2024-12-14,UK11B1416,Shreya Sharma
+516,WagonR,Car,Karan Patel,OWN0124,approved,Good,1389,130,79,77,Rishikesh,4.2,Petrol,True,2024-06-03,UK19B9733,Karan Patel
+517,Yamaha R15,Bike,Karan Singh,OWN0896,approved,New,629,103,34,70,Dehradun,4.3,Petrol,False,2024-08-25,UK11A6797,Karan Singh
+518,Ola S1,Scooty,Mohan Yadav,OWN0364,approved,New,678,87,29,71,Dehradun,4.4,Petrol,True,2024-09-16,UK12A2721,Mohan Yadav
+519,Creta,Car,Sneha Sharma,OWN0683,approved,Needs Maintenance,2663,216,38,65,Haridwar,4.0,Diesel,False,2025-02-04,UK19D3288,Sneha Sharma
+520,Yamaha FZ,Bike,Priya Agarwal,OWN0620,pending,Good,621,96,33,79,Lansdowne,4.7,Petrol,True,2024-10-07,UK12B2530,Priya Agarwal
+521,Ola S1,Scooty,Rahul Gupta,OWN0242,pending,Good,655,85,64,84,Mussoorie,4.5,Petrol,False,2025-05-12,UK15A3954,Rahul Gupta
+522,i10,Car,Meena Mishra,OWN0791,approved,Good,1599,126,0,69,Rishikesh,4.7,Petrol,False,2025-01-07,UK17D4248,Meena Mishra
+523,Yamaha FZ,Bike,Aditi Yadav,OWN0776,pending,Needs Maintenance,618,85,26,65,Dehradun,4.9,Petrol,False,2025-01-07,UK15A6864,Aditi Yadav
+524,TVS Ntorq,Scooty,Mohan Joshi,OWN0170,pending,Needs Maintenance,696,85,79,53,Rishikesh,4.8,Electric,False,2024-10-27,UK16C1939,Mohan Joshi
+525,i10,Car,Nisha Kumar,OWN0652,rejected,Good,1731,135,66,71,Rishikesh,4.8,Petrol,True,2025-02-25,UK18B9871,Nisha Kumar
+526,Bajaj Avenger 220,Bike,Deepa Bose,OWN0329,approved,Good,639,105,21,99,Mussoorie,4.6,Petrol,False,2024-12-25,UK12A9321,Deepa Bose
+527,TVS Jupiter,Scooty,Vikram Reddy,OWN0494,rejected,Needs Maintenance,571,75,34,75,Dehradun,4.0,Petrol,True,2024-08-26,UK15C4550,Vikram Reddy
+528,Baleno,Car,Meena Pandey,OWN0383,approved,Needs Maintenance,1713,154,40,97,Dehradun,4.5,Petrol,False,2024-08-26,UK18B3828,Meena Pandey
+529,Yamaha R15,Bike,Neha Pandey,OWN0009,approved,Needs Maintenance,700,114,23,72,Haridwar,4.3,Petrol,False,2024-11-28,UK20D3752,Neha Pandey
+530,Ola S1,Scooty,Meena Kumar,OWN0177,pending,Good,682,81,38,78,Mussoorie,4.5,Petrol,False,2024-10-07,UK12A2485,Meena Kumar
+531,WagonR,Car,Arjun Bose,OWN0252,approved,New,1203,92,21,60,Auli,4.7,Diesel,True,2025-03-19,UK19B1187,Arjun Bose
+532,TVS Apache RTR 160,Bike,Kavya Patel,OWN0720,approved,Good,508,89,1,88,Mussoorie,4.2,Petrol,True,2025-05-22,UK17A3201,Kavya Patel
+533,TVS Ntorq,Scooty,Ravi Shah,OWN0001,approved,Good,658,98,52,75,Dehradun,4.8,Electric,False,2025-03-25,UK15D4181,Ravi Shah
+534,Nexon,Car,Neha Patel,OWN0489,approved,New,2347,195,23,54,Haridwar,4.6,Petrol,True,2024-09-27,UK19A1817,Neha Patel
+535,Bajaj Avenger 220,Bike,Mohan Nair,OWN0225,approved,Good,588,88,10,86,Dehradun,4.4,Petrol,False,2025-04-14,UK12B3626,Mohan Nair
+536,Ola S1,Scooty,Rajesh Joshi,OWN0096,approved,Needs Maintenance,629,97,38,79,Dehradun,4.7,Petrol,False,2024-12-13,UK10A7879,Rajesh Joshi
+537,i10,Car,Ravi Bose,OWN0148,approved,New,1486,131,2,83,Rishikesh,4.6,Diesel,True,2024-12-22,UK14D2816,Ravi Bose
+538,Bajaj Avenger 220,Bike,Mohan Verma,OWN0486,approved,Good,572,93,53,53,Lansdowne,4.8,Petrol,False,2024-10-23,UK13C1169,Mohan Verma
+539,Suzuki Access,Scooty,Sneha Patel,OWN0334,approved,Good,639,79,1,86,Dehradun,4.7,Electric,False,2024-10-17,UK16A8285,Sneha Patel
+540,i10,Car,Meena Kumar,OWN0151,approved,New,1727,113,54,92,Nainital,4.1,Diesel,False,2024-09-10,UK16A1203,Meena Kumar
+541,Hero Splendor Plus,Bike,Nisha Bose,OWN0290,approved,Good,467,52,79,66,Mussoorie,4.5,Petrol,True,2024-08-10,UK13A7374,Nisha Bose
+542,Suzuki Access,Scooty,Kavya Singh,OWN0922,rejected,New,580,75,44,67,Haridwar,4.7,Petrol,True,2024-09-09,UK17B8600,Kavya Singh
+543,Maruti Alto,Car,Sonal Tiwari,OWN0917,approved,Good,1288,92,60,92,Rishikesh,4.7,Diesel,True,2025-01-02,UK10D4414,Sonal Tiwari
+544,Yamaha FZ,Bike,Arjun Rao,OWN0300,approved,New,538,97,32,88,Dehradun,4.5,Petrol,True,2025-01-06,UK11D6370,Arjun Rao
+545,TVS Ntorq,Scooty,Suresh Agarwal,OWN0524,approved,New,693,80,43,56,Mussoorie,4.7,Electric,True,2025-02-09,UK19B3825,Suresh Agarwal
+546,Swift,Car,Tarun Mishra,OWN0188,approved,Good,1486,137,38,94,Dehradun,4.8,Diesel,False,2025-03-14,UK13D6040,Tarun Mishra
+547,Yamaha FZ,Bike,Meena Nair,OWN0274,approved,Good,545,84,34,99,Dehradun,4.5,Petrol,True,2024-09-21,UK14C8018,Meena Nair
+548,Ola S1,Scooty,Tarun Mehta,OWN0514,approved,Needs Maintenance,641,96,42,62,Haridwar,4.8,Electric,False,2025-01-16,UK19A3711,Tarun Mehta
+549,i10,Car,Mohan Agarwal,OWN0792,approved,Good,1659,145,45,68,Rishikesh,4.7,Diesel,True,2024-08-10,UK16A5601,Mohan Agarwal
+550,Hero Splendor Plus,Bike,Rahul Mishra,OWN0203,approved,Good,354,45,59,61,Rishikesh,4.7,Petrol,False,2025-05-01,UK10A6552,Rahul Mishra
+551,Ola S1,Scooty,Karan Singh,OWN0896,approved,Good,618,84,29,82,Rishikesh,4.1,Petrol,False,2024-10-16,UK12A7403,Karan Singh
+552,Swift,Car,Deepa Bose,OWN0329,approved,Needs Maintenance,1559,107,35,65,Haridwar,4.9,Petrol,False,2024-06-17,UK19B8814,Deepa Bose
+553,RE Classic 350,Bike,Ishaan Verma,OWN0269,approved,New,647,107,68,54,Mussoorie,4.5,Petrol,True,2025-02-06,UK20D2537,Ishaan Verma
+554,Ola S1,Scooty,Deepa Bose,OWN0467,approved,Needs Maintenance,694,95,37,64,Rishikesh,4.5,Electric,True,2024-10-20,UK13D1839,Deepa Bose
+555,Nexon,Car,Sonal Kumar,OWN0385,pending,Good,2225,160,50,96,Dehradun,4.3,Petrol,False,2024-11-27,UK16C7784,Sonal Kumar
+556,TVS Apache RTR 160,Bike,Priya Mishra,OWN0696,approved,Good,442,73,59,58,Nainital,4.0,Petrol,True,2025-03-11,UK11C5864,Priya Mishra
+557,Suzuki Access,Scooty,Shreya Mehta,OWN0382,pending,Needs Maintenance,650,94,11,83,Haridwar,4.2,Electric,True,2024-06-18,UK10B8418,Shreya Mehta
+558,Baleno,Car,Rajesh Gupta,OWN0171,approved,New,1782,152,60,94,Mussoorie,4.3,Petrol,False,2025-02-20,UK14C1671,Rajesh Gupta
+559,Bajaj Pulsar 150,Bike,Neha Singh,OWN0862,approved,Good,450,82,58,91,Haridwar,4.6,Petrol,False,2024-10-27,UK13C7748,Neha Singh
+560,TVS Ntorq,Scooty,Amit Patel,OWN0346,rejected,Good,663,80,54,52,Nainital,4.8,Petrol,False,2024-10-05,UK17C7960,Amit Patel
+561,Swift,Car,Arjun Bose,OWN0252,approved,Good,1421,108,75,82,Dehradun,4.3,Petrol,True,2025-04-27,UK17B1364,Arjun Bose
+562,Bajaj Avenger 220,Bike,Aman Singh,OWN0718,pending,New,604,80,51,80,Haridwar,4.8,Petrol,False,2024-08-09,UK12B7891,Aman Singh
+563,Suzuki Access,Scooty,Meena Mehta,OWN0934,rejected,Good,579,89,52,80,Mussoorie,4.5,Electric,True,2024-07-12,UK19A9386,Meena Mehta
+564,Baleno,Car,Mohan Mishra,OWN0663,approved,Good,1833,158,57,82,Rishikesh,4.4,Diesel,False,2025-02-13,UK15A7344,Mohan Mishra
+565,RE Classic 350,Bike,Tarun Srivastava,OWN0211,approved,Good,690,108,60,98,Mussoorie,4.6,Petrol,False,2025-05-15,UK12D7550,Tarun Srivastava
+566,Suzuki Access,Scooty,Aman Rao,OWN0865,approved,Good,613,91,3,97,Rishikesh,4.9,Electric,True,2025-05-10,UK20C3261,Aman Rao
+567,Maruti Alto,Car,Ishaan Yadav,OWN0712,pending,Good,1148,94,17,57,Rishikesh,4.7,Diesel,True,2025-03-15,UK16A9930,Ishaan Yadav
+568,Yamaha R15,Bike,Deepa Bose,OWN0741,approved,Good,612,119,51,93,Rishikesh,4.3,Petrol,True,2024-09-14,UK12A2142,Deepa Bose
+569,Honda Activa,Scooty,Aditi Reddy,OWN0167,approved,New,563,77,51,98,Mussoorie,4.4,Electric,True,2024-09-07,UK19B9338,Aditi Reddy
+570,Baleno,Car,Tarun Kumar,OWN0690,approved,Needs Maintenance,1785,123,78,55,Chakrata,4.1,Diesel,False,2025-02-07,UK11B7859,Tarun Kumar
+571,KTM Duke 200,Bike,Nikhil Agarwal,OWN0209,approved,Good,770,100,41,99,Haridwar,4.7,Petrol,False,2024-07-17,UK17A9747,Nikhil Agarwal
+572,Ola S1,Scooty,Nisha Mishra,OWN0626,pending,Good,647,100,54,69,Dehradun,4.7,Petrol,False,2024-10-28,UK12A4379,Nisha Mishra
+573,Baleno,Car,Sneha Gupta,OWN0704,approved,Good,1847,158,75,84,Auli,4.1,Petrol,False,2025-05-12,UK13C5955,Sneha Gupta
+574,Bajaj Avenger 220,Bike,Tarun Patel,OWN0020,rejected,Good,638,82,76,94,Dehradun,4.3,Petrol,False,2025-03-17,UK19D8366,Tarun Patel
+575,Suzuki Access,Scooty,Arjun Pandey,OWN0614,approved,Needs Maintenance,576,95,3,74,Dehradun,4.6,Electric,False,2025-03-03,UK17B1032,Arjun Pandey
+576,Creta,Car,Vikram Yadav,OWN0622,approved,Good,2627,215,47,66,Rishikesh,4.2,Diesel,True,2025-03-15,UK18C5019,Vikram Yadav
+577,Yamaha R15,Bike,Meena Kumar,OWN0151,approved,New,684,102,6,94,Haridwar,4.3,Petrol,True,2025-03-03,UK11D8724,Meena Kumar
+578,Suzuki Access,Scooty,Sneha Rao,OWN0396,pending,Good,670,77,64,50,Mussoorie,4.8,Petrol,True,2024-09-22,UK20A6631,Sneha Rao
+579,Swift,Car,Tarun Sharma,OWN0885,approved,New,1570,125,67,87,Haridwar,4.4,Diesel,True,2024-12-12,UK20C3325,Tarun Sharma
+580,RE Classic 350,Bike,Aditi Mishra,OWN0337,rejected,Good,600,110,65,55,Dehradun,4.5,Petrol,True,2024-06-24,UK11D1891,Aditi Mishra
+581,Honda Activa,Scooty,Sneha Mishra,OWN0423,approved,New,568,88,76,59,Mussoorie,4.1,Electric,True,2024-06-25,UK13A9407,Sneha Mishra
+582,i10,Car,Karan Verma,OWN0033,approved,New,1658,136,80,84,Rishikesh,4.5,Diesel,False,2024-08-21,UK16B9662,Karan Verma
+583,Bajaj Pulsar 150,Bike,Aakash Bose,OWN0969,pending,Good,407,81,21,88,Rishikesh,4.5,Petrol,False,2024-10-30,UK14C1494,Aakash Bose
+584,TVS Jupiter,Scooty,Meena Kumar,OWN0151,approved,Needs Maintenance,564,86,2,79,Rishikesh,4.6,Electric,True,2025-03-17,UK12D5515,Meena Kumar
+585,Baleno,Car,Arjun Agarwal,OWN0430,pending,Good,1572,157,11,54,Rishikesh,4.3,Diesel,False,2025-05-17,UK11D2805,Arjun Agarwal
+586,Hero Splendor Plus,Bike,Priya Das,OWN0416,pending,New,449,62,21,80,Rishikesh,4.9,Petrol,False,2024-06-17,UK18B1274,Priya Das
+587,Ather 450X,Scooty,Aman Tiwari,OWN0123,approved,Good,681,108,30,89,Rishikesh,4.3,Petrol,False,2024-09-08,UK20C5597,Aman Tiwari
+588,Nexon,Car,Sneha Patel,OWN0334,pending,Good,2089,166,34,63,Haridwar,4.3,Diesel,False,2025-04-30,UK12C6472,Sneha Patel
+589,Bajaj Pulsar 150,Bike,Divya Kumar,OWN0842,approved,New,484,56,66,93,Nainital,4.5,Petrol,True,2024-08-31,UK10C3336,Divya Kumar
+590,Ather 450X,Scooty,Divya Bose,OWN0674,approved,Good,734,109,38,60,Nainital,4.6,Petrol,False,2025-04-02,UK10A3559,Divya Bose
+591,Swift,Car,Sneha Shah,OWN0373,pending,Good,1429,134,28,79,Dehradun,4.7,Diesel,False,2024-10-15,UK19D7636,Sneha Shah
+592,TVS Apache RTR 160,Bike,Aman Joshi,OWN0625,approved,Good,549,65,7,65,Rishikesh,4.3,Petrol,True,2024-08-07,UK14B7151,Aman Joshi
+593,Honda Activa,Scooty,Aman Rao,OWN0865,approved,Good,620,73,40,58,Haridwar,4.6,Petrol,False,2024-11-28,UK15B7961,Aman Rao
+594,City,Car,Kavya Kumar,OWN0772,approved,Needs Maintenance,2391,215,32,82,Dehradun,4.2,Diesel,True,2024-12-06,UK14A4982,Kavya Kumar
+595,Yamaha R15,Bike,Dev Rao,OWN0279,approved,Needs Maintenance,635,91,51,94,Haridwar,4.2,Petrol,True,2024-08-15,UK11C8401,Dev Rao
+596,Honda Activa,Scooty,Ananya Sharma,OWN0531,approved,Good,647,80,63,65,Rishikesh,4.6,Petrol,True,2024-08-17,UK13B4781,Ananya Sharma
+597,City,Car,Aman Patel,OWN0391,pending,Good,2397,210,54,52,Rishikesh,4.5,Diesel,False,2025-04-16,UK18D5648,Aman Patel
+598,KTM Duke 200,Bike,Deepa Tiwari,OWN0133,pending,Good,673,108,74,54,Rishikesh,4.2,Petrol,False,2025-02-04,UK20B3210,Deepa Tiwari
+599,Ola S1,Scooty,Aakash Patel,OWN0191,approved,Good,621,85,6,66,Mussoorie,4.9,Petrol,False,2024-08-24,UK16B1181,Aakash Patel
+600,City,Car,Dev Das,OWN0408,pending,Good,2420,193,49,76,Dehradun,4.6,Petrol,False,2025-03-26,UK16B4098,Dev Das
+601,KTM Duke 200,Bike,Aman Joshi,OWN0625,pending,Needs Maintenance,632,123,44,74,Chakrata,4.6,Petrol,False,2024-08-19,UK19B4528,Aman Joshi
+602,Ather 450X,Scooty,Vikram Yadav,OWN0567,pending,Good,653,103,41,98,Haridwar,4.3,Petrol,True,2025-02-19,UK17D8388,Vikram Yadav
+603,WagonR,Car,Shreya Mehta,OWN0382,approved,Good,1183,98,78,61,Nainital,4.8,Diesel,True,2024-11-02,UK11B5174,Shreya Mehta
+604,Bajaj Avenger 220,Bike,Shreya Nair,OWN0051,pending,Good,600,105,67,61,Rishikesh,4.1,Petrol,False,2024-10-05,UK11C4279,Shreya Nair
+605,Ather 450X,Scooty,Vikram Tiwari,OWN0764,approved,Needs Maintenance,716,93,77,83,Dehradun,4.3,Petrol,False,2024-08-19,UK12D1161,Vikram Tiwari
+606,Nexon,Car,Neha Yadav,OWN0919,approved,Good,2165,161,3,50,Dehradun,4.2,Diesel,False,2025-05-01,UK20D7535,Neha Yadav
+607,Yamaha R15,Bike,Dev Srivastava,OWN0742,approved,New,684,120,18,89,Haridwar,4.4,Petrol,False,2025-04-30,UK20B1553,Dev Srivastava
+608,Honda Activa,Scooty,Divya Mehta,OWN0959,approved,Good,642,78,36,96,Mussoorie,4.5,Petrol,False,2024-07-31,UK10B9463,Divya Mehta
+609,Nexon,Car,Ananya Rao,OWN0330,approved,Needs Maintenance,2144,183,73,81,Dehradun,4.2,Petrol,True,2024-08-07,UK10D6361,Ananya Rao
+610,Hero Splendor Plus,Bike,Rohit Rao,OWN0164,approved,Good,369,75,49,69,Haridwar,4.3,Petrol,False,2024-06-06,UK15B1911,Rohit Rao
+611,Suzuki Access,Scooty,Aakash Agarwal,OWN0240,approved,Good,630,81,66,61,Rishikesh,4.8,Petrol,True,2025-03-19,UK17D8014,Aakash Agarwal
+612,i20,Car,Rahul Agarwal,OWN0638,pending,Needs Maintenance,1778,133,77,56,Auli,4.3,Petrol,False,2024-12-23,UK12A7062,Rahul Agarwal
+613,Yamaha FZ,Bike,Kavya Rao,OWN0135,approved,New,519,81,51,84,Nainital,4.2,Petrol,False,2025-05-04,UK15B1045,Kavya Rao
+614,Ather 450X,Scooty,Rohit Joshi,OWN0419,approved,Needs Maintenance,746,95,57,89,Rishikesh,4.0,Electric,True,2025-03-20,UK15D3505,Rohit Joshi
+615,Baleno,Car,Nikhil Sharma,OWN0318,approved,Good,1604,158,37,50,Dehradun,4.2,Diesel,False,2024-10-10,UK11B6209,Nikhil Sharma
+616,RE Classic 350,Bike,Divya Rao,OWN0673,approved,Needs Maintenance,579,95,28,54,Dehradun,4.8,Petrol,True,2024-12-25,UK11A1849,Divya Rao
+617,Yamaha Fascino,Scooty,Mohan Srivastava,OWN0508,approved,Good,577,66,63,81,Dehradun,4.3,Petrol,False,2025-02-10,UK15A4698,Mohan Srivastava
+618,Nexon,Car,Aditi Yadav,OWN0776,approved,Good,2303,176,53,55,Mussoorie,4.7,Petrol,True,2024-08-15,UK15A4248,Aditi Yadav
+619,Yamaha FZ,Bike,Arjun Verma,OWN0199,approved,New,609,73,66,80,Dehradun,4.7,Petrol,False,2024-10-31,UK12C6087,Arjun Verma
+620,Honda Activa,Scooty,Sonal Agarwal,OWN0294,rejected,New,586,73,35,78,Rishikesh,4.5,Electric,False,2024-10-17,UK17D1420,Sonal Agarwal
+621,City,Car,Pooja Singh,OWN0982,rejected,Good,2563,187,56,97,Rishikesh,4.2,Diesel,True,2024-09-24,UK15A1084,Pooja Singh
+622,RE Classic 350,Bike,Ananya Rao,OWN0330,approved,Needs Maintenance,710,114,60,76,Dehradun,4.4,Petrol,True,2025-01-28,UK20A6853,Ananya Rao
+623,TVS Jupiter,Scooty,Ishaan Yadav,OWN0712,approved,Good,630,70,11,80,Dehradun,4.2,Petrol,False,2025-03-31,UK15A5390,Ishaan Yadav
+624,WagonR,Car,Nisha Reddy,OWN0198,pending,New,1209,91,45,74,Lansdowne,4.5,Petrol,True,2024-07-08,UK18C9337,Nisha Reddy
+625,Hero Splendor Plus,Bike,Tarun Shah,OWN0355,rejected,New,446,75,0,72,Rishikesh,4.2,Petrol,True,2024-07-19,UK15D5269,Tarun Shah
+626,Ola S1,Scooty,Aakash Patel,OWN0820,approved,Good,670,88,34,95,Mussoorie,4.3,Petrol,False,2025-04-05,UK20A7526,Aakash Patel
+627,i20,Car,Aakash Pandey,OWN0504,approved,New,1793,154,6,91,Haridwar,4.7,Petrol,False,2024-10-24,UK10B1206,Aakash Pandey
+628,RE Classic 350,Bike,Ritika Yadav,OWN0915,approved,Needs Maintenance,689,110,39,70,Rishikesh,4.7,Petrol,True,2024-06-10,UK13B3919,Ritika Yadav
+629,Ola S1,Scooty,Rahul Mehta,OWN0025,approved,Needs Maintenance,611,83,10,84,Mussoorie,4.8,Electric,True,2024-12-19,UK12A4908,Rahul Mehta
+630,Nexon,Car,Karan Agarwal,OWN0938,approved,Needs Maintenance,2157,198,65,73,Haridwar,4.2,Diesel,True,2025-05-17,UK14A8287,Karan Agarwal
+631,Bajaj Pulsar 150,Bike,Neha Reddy,OWN0013,approved,Good,481,66,68,84,Dehradun,4.5,Petrol,True,2025-04-08,UK15A7260,Neha Reddy
+632,TVS Ntorq,Scooty,Ravi Yadav,OWN0448,approved,Good,659,95,36,94,Mussoorie,4.2,Electric,False,2024-09-30,UK15D3165,Ravi Yadav
+633,Swift,Car,Arjun Singh,OWN0955,approved,Good,1538,125,25,53,Dehradun,4.2,Diesel,False,2024-10-13,UK10A8077,Arjun Singh
+634,KTM Duke 200,Bike,Dev Reddy,OWN0518,pending,Needs Maintenance,775,123,62,52,Mussoorie,4.5,Petrol,True,2025-02-03,UK10B1672,Dev Reddy
+635,Yamaha Fascino,Scooty,Sonal Joshi,OWN0717,rejected,Needs Maintenance,550,77,15,88,Mussoorie,4.0,Electric,False,2025-05-21,UK20C4643,Sonal Joshi
+636,i20,Car,Shreya Bose,OWN0205,approved,Good,1935,144,10,55,Mussoorie,4.6,Diesel,False,2024-12-11,UK11A6493,Shreya Bose
+637,Bajaj Pulsar 150,Bike,Vikram Yadav,OWN0567,approved,New,496,85,68,67,Rishikesh,4.5,Petrol,True,2024-08-23,UK16B4055,Vikram Yadav
+638,Honda Activa,Scooty,Nikhil Agarwal,OWN0609,approved,New,559,75,15,57,Mussoorie,4.2,Petrol,True,2025-01-19,UK20B3404,Nikhil Agarwal
+639,Maruti Alto,Car,Aman Bose,OWN0232,pending,Good,1122,116,2,70,Mussoorie,4.2,Diesel,False,2024-06-04,UK17D5466,Aman Bose
+640,Bajaj Pulsar 150,Bike,Ishaan Verma,OWN0286,approved,New,460,72,46,95,Dehradun,4.3,Petrol,False,2025-05-14,UK20B4222,Ishaan Verma
+641,Ather 450X,Scooty,Divya Gupta,OWN0769,rejected,Good,697,94,10,78,Dehradun,4.3,Petrol,True,2024-07-08,UK19C4995,Divya Gupta
+642,Baleno,Car,Neha Bose,OWN0432,approved,Good,1807,131,73,67,Nainital,4.4,Petrol,True,2024-12-26,UK12D3945,Neha Bose
+643,Bajaj Pulsar 150,Bike,Kavya Patel,OWN0720,approved,Good,446,68,31,70,Haridwar,4.7,Petrol,False,2024-12-04,UK13A3258,Kavya Patel
+644,TVS Jupiter,Scooty,Ishaan Kumar,OWN0758,approved,New,560,80,49,54,Rishikesh,4.6,Petrol,False,2024-12-09,UK17D1097,Ishaan Kumar
+645,WagonR,Car,Aakash Shah,OWN0530,approved,Good,1189,96,27,74,Rishikesh,4.2,Diesel,False,2024-12-19,UK13A7491,Aakash Shah
+646,KTM Duke 200,Bike,Ananya Shah,OWN0445,approved,Good,741,107,50,65,Haridwar,4.5,Petrol,False,2024-08-06,UK18A8027,Ananya Shah
+647,Ola S1,Scooty,Suresh Pandey,OWN0639,approved,New,616,80,34,50,Rishikesh,4.2,Electric,True,2024-09-19,UK19A2937,Suresh Pandey
+648,Sonet,Car,Rajesh Yadav,OWN0825,approved,New,1990,152,21,53,Haridwar,4.6,Petrol,True,2024-12-04,UK12A5297,Rajesh Yadav
+649,RE Classic 350,Bike,Neha Kumar,OWN0706,rejected,Good,640,101,43,60,Dehradun,4.2,Petrol,True,2024-12-07,UK19D7007,Neha Kumar
+650,Ather 450X,Scooty,Meena Yadav,OWN0589,approved,Good,709,104,29,57,Mussoorie,4.5,Electric,False,2024-06-22,UK10D1704,Meena Yadav
+651,Baleno,Car,Rajesh Verma,OWN0358,approved,Good,1711,150,17,79,Nainital,4.1,Petrol,True,2025-05-05,UK15C5478,Rajesh Verma
+652,RE Classic 350,Bike,Aakash Verma,OWN0975,approved,Good,672,103,80,87,Dehradun,4.4,Petrol,False,2025-03-13,UK19C5674,Aakash Verma
+653,Yamaha Fascino,Scooty,Aakash Patel,OWN0527,approved,Needs Maintenance,567,82,42,64,Dehradun,4.8,Petrol,True,2025-04-19,UK18A9978,Aakash Patel
+654,i10,Car,Deepa Sharma,OWN0357,approved,Needs Maintenance,1568,119,76,74,Mussoorie,4.1,Petrol,False,2024-10-24,UK14C7523,Deepa Sharma
+655,TVS Apache RTR 160,Bike,Nikhil Yadav,OWN0888,approved,Good,465,90,51,60,Dehradun,4.5,Petrol,True,2024-08-03,UK17D1857,Nikhil Yadav
+656,TVS Jupiter,Scooty,Sonal Singh,OWN0418,approved,Good,640,90,40,94,Rishikesh,4.1,Electric,True,2024-07-23,UK16B6072,Sonal Singh
+657,City,Car,Rahul Pandey,OWN0032,approved,Good,2370,220,69,77,Rishikesh,4.7,Petrol,True,2025-04-24,UK12D7653,Rahul Pandey
+658,TVS Apache RTR 160,Bike,Shreya Singh,OWN0202,approved,New,515,76,2,58,Rishikesh,4.7,Petrol,True,2025-02-14,UK15A2163,Shreya Singh
+659,Suzuki Access,Scooty,Meena Gupta,OWN0698,approved,Good,645,91,47,62,Dehradun,4.8,Electric,True,2025-05-14,UK20A7933,Meena Gupta
+660,WagonR,Car,Pooja Mehta,OWN0324,approved,Good,1199,130,63,56,Rishikesh,4.5,Petrol,True,2025-01-12,UK19A7118,Pooja Mehta
+661,TVS Apache RTR 160,Bike,Rajesh Nair,OWN0262,approved,Good,574,74,16,61,Rishikesh,4.5,Petrol,False,2025-03-30,UK15C8247,Rajesh Nair
+662,TVS Ntorq,Scooty,Ishaan Shah,OWN0058,rejected,Good,674,89,72,66,Mussoorie,4.6,Petrol,False,2024-12-05,UK13A6240,Ishaan Shah
+663,i20,Car,Tarun Verma,OWN0056,approved,Good,1896,139,59,87,Rishikesh,4.3,Diesel,True,2025-03-21,UK11D8122,Tarun Verma
+664,TVS Apache RTR 160,Bike,Rohit Joshi,OWN0415,approved,Good,471,92,38,95,Mussoorie,4.3,Petrol,True,2024-12-16,UK11B4191,Rohit Joshi
+665,Honda Activa,Scooty,Vikram Yadav,OWN0622,approved,Needs Maintenance,594,75,41,95,Rishikesh,4.3,Electric,False,2024-12-20,UK18A7131,Vikram Yadav
+666,Creta,Car,Meena Mishra,OWN0791,rejected,Good,2642,205,59,53,Dehradun,4.2,Diesel,True,2025-05-22,UK17D2453,Meena Mishra
+667,TVS Apache RTR 160,Bike,Meena Bose,OWN0251,pending,New,591,78,69,66,Nainital,4.9,Petrol,False,2024-09-04,UK12A6896,Meena Bose
+668,Honda Activa,Scooty,Suresh Mishra,OWN0248,pending,Good,577,74,55,81,Dehradun,4.3,Petrol,False,2025-05-28,UK19D4484,Suresh Mishra
+669,i10,Car,Pooja Mishra,OWN0580,approved,Good,1594,138,17,63,Chakrata,4.2,Petrol,True,2024-10-11,UK10B3185,Pooja Mishra
+670,Bajaj Pulsar 150,Bike,Suresh Singh,OWN0782,approved,Good,371,57,41,65,Dehradun,4.8,Petrol,True,2024-12-10,UK19B5231,Suresh Singh
+671,TVS Jupiter,Scooty,Aakash Reddy,OWN0485,rejected,Needs Maintenance,581,72,21,78,Nainital,4.2,Electric,False,2024-08-21,UK13C3305,Aakash Reddy
+672,i20,Car,Sneha Rao,OWN0245,pending,New,1783,152,5,58,Mussoorie,4.7,Petrol,True,2024-07-19,UK14A2069,Sneha Rao
+673,Hero Splendor Plus,Bike,Tarun Bose,OWN0194,approved,Good,367,60,54,89,Dehradun,4.2,Petrol,True,2024-10-21,UK14B4480,Tarun Bose
+674,TVS Ntorq,Scooty,Aman Joshi,OWN0676,approved,Needs Maintenance,690,96,38,81,Dehradun,4.9,Electric,True,2024-08-16,UK19A8917,Aman Joshi
+675,i10,Car,Sneha Agarwal,OWN0883,pending,Good,1713,130,42,70,Dehradun,4.4,Petrol,True,2024-11-23,UK12D1943,Sneha Agarwal
+676,Yamaha FZ,Bike,Kavya Srivastava,OWN0447,pending,Needs Maintenance,500,85,56,70,Mussoorie,4.5,Petrol,False,2024-07-06,UK13B3036,Kavya Srivastava
+677,TVS Jupiter,Scooty,Dev Mishra,OWN0734,approved,Good,617,80,3,50,Haridwar,4.5,Electric,True,2024-09-18,UK20B4019,Dev Mishra
+678,i20,Car,Deepa Sharma,OWN0743,approved,Good,1777,163,55,90,Haridwar,4.6,Petrol,True,2025-01-17,UK17D4577,Deepa Sharma
+679,Hero Splendor Plus,Bike,Sneha Srivastava,OWN0425,pending,Needs Maintenance,443,74,26,54,Nainital,4.3,Petrol,False,2024-06-18,UK16D5894,Sneha Srivastava
+680,Ather 450X,Scooty,Karan Das,OWN0948,approved,New,719,107,61,51,Haridwar,4.9,Petrol,False,2025-03-13,UK15A4900,Karan Das
+681,Baleno,Car,Suresh Das,OWN0344,pending,Good,1607,147,48,52,Mussoorie,4.7,Diesel,True,2025-02-13,UK14B5713,Suresh Das
+682,Yamaha FZ,Bike,Priya Reddy,OWN0844,rejected,Good,538,73,10,96,Dehradun,4.6,Petrol,False,2024-10-31,UK10B9127,Priya Reddy
+683,Ola S1,Scooty,Nisha Rao,OWN0692,approved,Good,666,97,34,51,Mussoorie,4.8,Petrol,False,2024-12-05,UK18B8012,Nisha Rao
+684,Maruti Alto,Car,Sneha Tiwari,OWN0142,approved,New,1313,86,58,76,Rishikesh,4.9,Petrol,True,2024-08-21,UK10A5015,Sneha Tiwari
+685,Hero Splendor Plus,Bike,Rajesh Yadav,OWN0825,pending,Good,372,71,51,62,Rishikesh,4.7,Petrol,True,2024-12-24,UK14D2162,Rajesh Yadav
+686,Ather 450X,Scooty,Kavya Agarwal,OWN0459,approved,Needs Maintenance,745,103,36,86,Dehradun,4.8,Petrol,True,2025-04-27,UK19B2711,Kavya Agarwal
+687,Creta,Car,Shreya Nair,OWN0602,pending,Needs Maintenance,2849,222,66,63,Mussoorie,4.3,Petrol,False,2025-02-04,UK19C2267,Shreya Nair
+688,TVS Apache RTR 160,Bike,Ravi Kumar,OWN0936,approved,Good,524,93,32,88,Mussoorie,4.5,Petrol,False,2025-03-29,UK19C6137,Ravi Kumar
+689,Honda Activa,Scooty,Ananya Verma,OWN0612,approved,Good,644,72,1,68,Mussoorie,4.4,Petrol,True,2024-12-31,UK16C4546,Ananya Verma
+690,Nexon,Car,Vikram Tiwari,OWN0764,approved,Needs Maintenance,2086,174,16,58,Dehradun,4.6,Petrol,True,2024-12-13,UK11B2652,Vikram Tiwari
+691,TVS Apache RTR 160,Bike,Tarun Patel,OWN0562,pending,Needs Maintenance,511,74,20,95,Mussoorie,4.3,Petrol,False,2024-07-09,UK20A6399,Tarun Patel
+692,TVS Ntorq,Scooty,Nikhil Patel,OWN0576,approved,Good,635,91,78,68,Auli,4.2,Petrol,True,2024-06-09,UK10A3989,Nikhil Patel
+693,WagonR,Car,Suresh Srivastava,OWN0760,approved,Good,1158,101,57,77,Mussoorie,4.2,Petrol,True,2024-09-07,UK19C9154,Suresh Srivastava
+694,Bajaj Pulsar 150,Bike,Aman Kumar,OWN0847,approved,Good,443,80,38,61,Nainital,4.2,Petrol,False,2024-12-21,UK17D2052,Aman Kumar
+695,TVS Ntorq,Scooty,Tarun Mehta,OWN0514,approved,Good,608,97,65,99,Rishikesh,4.4,Electric,False,2025-01-17,UK18D1947,Tarun Mehta
+696,Sonet,Car,Neha Shah,OWN0560,approved,Good,2135,160,42,92,Lansdowne,4.5,Diesel,False,2024-12-16,UK18A7298,Neha Shah
+697,Yamaha FZ,Bike,Shreya Bose,OWN0205,pending,Good,546,100,9,96,Mussoorie,4.2,Petrol,False,2025-04-25,UK15D6012,Shreya Bose
+698,Honda Activa,Scooty,Meena Yadav,OWN0589,approved,Good,608,84,59,97,Mussoorie,4.8,Electric,True,2024-06-13,UK20C9442,Meena Yadav
+699,WagonR,Car,Mohan Bose,OWN0455,rejected,Needs Maintenance,1446,123,54,93,Mussoorie,4.1,Petrol,True,2024-12-16,UK13B1060,Mohan Bose
+700,TVS Apache RTR 160,Bike,Dev Agarwal,OWN0158,approved,New,518,89,79,78,Dehradun,4.2,Petrol,False,2025-03-06,UK10B7835,Dev Agarwal
+701,Suzuki Access,Scooty,Sonal Yadav,OWN0411,approved,New,598,76,10,74,Dehradun,4.3,Petrol,False,2024-11-13,UK15C8366,Sonal Yadav
+702,City,Car,Neha Mishra,OWN0974,pending,Good,2412,209,64,76,Dehradun,4.0,Diesel,True,2025-02-23,UK16C6370,Neha Mishra
+703,RE Classic 350,Bike,Dev Joshi,OWN0361,approved,Good,591,101,45,81,Dehradun,4.2,Petrol,False,2025-01-27,UK16C1093,Dev Joshi
+704,Yamaha Fascino,Scooty,Sneha Rao,OWN0396,approved,Good,573,83,0,53,Rishikesh,4.7,Electric,False,2024-12-30,UK18B5770,Sneha Rao
+705,Nexon,Car,Kavya Reddy,OWN0074,approved,Good,2328,179,7,72,Rishikesh,4.4,Diesel,True,2024-11-14,UK11B3869,Kavya Reddy
+706,RE Classic 350,Bike,Aditi Verma,OWN0267,pending,Needs Maintenance,691,90,32,69,Dehradun,4.6,Petrol,True,2025-04-10,UK17C1080,Aditi Verma
+707,TVS Jupiter,Scooty,Aakash Srivastava,OWN0207,approved,Needs Maintenance,631,75,18,62,Rishikesh,4.6,Petrol,False,2024-06-09,UK18B6214,Aakash Srivastava
+708,i10,Car,Rahul Yadav,OWN0748,approved,New,1612,137,60,52,Dehradun,4.9,Diesel,True,2024-12-27,UK13A5887,Rahul Yadav
+709,Yamaha R15,Bike,Nikhil Gupta,OWN0939,approved,Good,660,101,34,59,Dehradun,4.2,Petrol,False,2024-08-28,UK10C1794,Nikhil Gupta
+710,Yamaha Fascino,Scooty,Neha Singh,OWN0754,pending,New,530,74,69,89,Rishikesh,4.3,Petrol,True,2024-10-21,UK11B5409,Neha Singh
+711,Creta,Car,Ravi Mehta,OWN0598,pending,New,2746,205,74,50,Haridwar,4.4,Diesel,True,2025-01-30,UK19D8978,Ravi Mehta
+712,Bajaj Avenger 220,Bike,Kavya Srivastava,OWN0345,approved,Needs Maintenance,586,80,17,67,Chakrata,4.4,Petrol,True,2024-07-27,UK13C7377,Kavya Srivastava
+713,TVS Jupiter,Scooty,Meena Bose,OWN0540,approved,Good,582,87,78,67,Dehradun,4.2,Petrol,True,2025-01-24,UK13C7187,Meena Bose
+714,Creta,Car,Suresh Shah,OWN0522,pending,New,2644,203,62,69,Lansdowne,4.4,Petrol,True,2024-11-12,UK17B5115,Suresh Shah
+715,Bajaj Avenger 220,Bike,Karan Verma,OWN0599,approved,Needs Maintenance,629,88,2,71,Haridwar,4.1,Petrol,True,2024-08-11,UK20D1017,Karan Verma
+716,Honda Activa,Scooty,Karan Bose,OWN0632,pending,Good,576,79,21,95,Dehradun,4.6,Petrol,False,2024-06-23,UK13A6796,Karan Bose
+717,WagonR,Car,Ritika Sharma,OWN0999,approved,Good,1317,98,67,88,Haridwar,4.3,Petrol,False,2024-10-22,UK19A8678,Ritika Sharma
+718,RE Classic 350,Bike,Dev Agarwal,OWN0158,pending,New,576,91,24,69,Dehradun,4.4,Petrol,True,2025-01-12,UK20D8719,Dev Agarwal
+719,Honda Activa,Scooty,Ravi Yadav,OWN0448,approved,Needs Maintenance,647,80,36,84,Rishikesh,4.6,Petrol,True,2024-07-29,UK20C2092,Ravi Yadav
+720,i10,Car,Shreya Mehta,OWN0756,rejected,Needs Maintenance,1718,123,65,77,Dehradun,4.3,Petrol,True,2024-08-21,UK13A9206,Shreya Mehta
+721,KTM Duke 200,Bike,Dev Srivastava,OWN0742,approved,Needs Maintenance,661,100,66,98,Dehradun,4.0,Petrol,False,2025-04-25,UK18D9426,Dev Srivastava
+722,TVS Jupiter,Scooty,Kavya Reddy,OWN0585,pending,Good,559,80,35,56,Rishikesh,4.6,Electric,False,2024-09-21,UK12D1510,Kavya Reddy
+723,Swift,Car,Tarun Patel,OWN0562,rejected,Needs Maintenance,1489,108,46,96,Rishikesh,4.5,Diesel,True,2024-10-22,UK12D7881,Tarun Patel
+724,KTM Duke 200,Bike,Karan Srivastava,OWN0951,approved,New,689,124,61,68,Rishikesh,4.2,Petrol,False,2024-09-07,UK10D7600,Karan Srivastava
+725,Suzuki Access,Scooty,Shreya Agarwal,OWN0219,approved,New,599,82,23,87,Mussoorie,4.3,Petrol,True,2024-07-18,UK18A8679,Shreya Agarwal
+726,Maruti Alto,Car,Ishaan Bose,OWN0154,approved,Good,1264,102,69,82,Dehradun,4.4,Petrol,True,2024-12-03,UK15C7788,Ishaan Bose
+727,RE Classic 350,Bike,Ritika Agarwal,OWN0608,approved,Good,682,115,79,85,Haridwar,4.7,Petrol,True,2024-09-29,UK12D3366,Ritika Agarwal
+728,Yamaha Fascino,Scooty,Mohan Verma,OWN0486,approved,Needs Maintenance,565,80,28,91,Dehradun,4.7,Electric,True,2025-03-24,UK10B3805,Mohan Verma
+729,Maruti Alto,Car,Priya Mishra,OWN0696,approved,New,1159,104,29,80,Haridwar,4.3,Diesel,False,2025-05-29,UK16C5468,Priya Mishra
+730,Yamaha FZ,Bike,Aditi Yadav,OWN0654,approved,Needs Maintenance,505,85,69,90,Rishikesh,4.8,Petrol,True,2025-01-25,UK17C5251,Aditi Yadav
+731,Ather 450X,Scooty,Deepa Reddy,OWN0811,approved,Good,672,107,9,90,Rishikesh,4.9,Electric,False,2024-11-08,UK13A9923,Deepa Reddy
+732,Creta,Car,Sneha Tiwari,OWN0702,rejected,Good,2846,231,69,89,Dehradun,4.5,Petrol,True,2024-09-16,UK17A6779,Sneha Tiwari
+733,TVS Apache RTR 160,Bike,Deepa Bose,OWN0329,pending,New,513,66,74,54,Rishikesh,4.1,Petrol,True,2025-03-25,UK14C9354,Deepa Bose
+734,Suzuki Access,Scooty,Mohan Bose,OWN0730,approved,Good,581,87,77,98,Mussoorie,4.0,Petrol,False,2025-03-09,UK13C9384,Mohan Bose
+735,Creta,Car,Tarun Srivastava,OWN0211,approved,Good,2670,237,56,76,Rishikesh,4.1,Diesel,False,2025-05-17,UK17D2298,Tarun Srivastava
+736,Yamaha FZ,Bike,Ritika Agarwal,OWN0608,approved,New,549,93,19,65,Rishikesh,4.6,Petrol,True,2024-07-29,UK20A6467,Ritika Agarwal
+737,Honda Activa,Scooty,Ravi Kumar,OWN0900,approved,New,644,79,11,85,Haridwar,4.3,Petrol,True,2025-03-18,UK20D2610,Ravi Kumar
+738,Nexon,Car,Rohit Gupta,OWN0138,pending,New,2124,186,65,99,Haridwar,4.9,Diesel,False,2025-02-06,UK10D7357,Rohit Gupta
+739,Hero Splendor Plus,Bike,Shreya Mishra,OWN0895,pending,Good,324,51,76,52,Dehradun,4.9,Petrol,True,2024-08-07,UK13D3404,Shreya Mishra
+740,Suzuki Access,Scooty,Ravi Bose,OWN0148,approved,Needs Maintenance,617,83,75,85,Rishikesh,4.3,Petrol,True,2024-09-23,UK14D5977,Ravi Bose
+741,Maruti Alto,Car,Priya Joshi,OWN0944,approved,Good,1319,107,77,79,Dehradun,4.4,Petrol,True,2025-01-02,UK17C8540,Priya Joshi
+742,Hero Splendor Plus,Bike,Divya Mehta,OWN0424,approved,Good,473,50,65,89,Nainital,4.1,Petrol,False,2024-11-21,UK15D1217,Divya Mehta
+743,TVS Ntorq,Scooty,Rahul Gupta,OWN0242,pending,Good,693,91,62,78,Haridwar,4.7,Electric,True,2024-09-20,UK11C6394,Rahul Gupta
+744,i10,Car,Aakash Reddy,OWN0044,approved,Good,1730,149,43,90,Mussoorie,4.4,Petrol,True,2025-05-13,UK10C3080,Aakash Reddy
+745,Bajaj Pulsar 150,Bike,Tarun Rao,OWN0490,approved,Good,374,75,11,83,Mussoorie,4.0,Petrol,False,2024-10-19,UK14C1732,Tarun Rao
+746,Ola S1,Scooty,Suresh Shah,OWN0522,approved,New,679,98,39,73,Rishikesh,4.8,Petrol,False,2024-11-07,UK11C8919,Suresh Shah
+747,Baleno,Car,Suresh Tiwari,OWN0942,approved,Good,1799,122,6,91,Mussoorie,4.6,Petrol,True,2025-04-28,UK15A4251,Suresh Tiwari
+748,Yamaha FZ,Bike,Mohan Bose,OWN0455,rejected,Good,570,87,51,84,Dehradun,4.1,Petrol,False,2025-03-01,UK19A1613,Mohan Bose
+749,Yamaha Fascino,Scooty,Amit Sharma,OWN0449,pending,Good,582,78,74,90,Nainital,4.8,Petrol,True,2025-01-15,UK18A3328,Amit Sharma
+750,Nexon,Car,Kavya Sharma,OWN0997,approved,Good,2105,183,29,90,Rishikesh,4.7,Diesel,True,2025-01-05,UK18C5315,Kavya Sharma
+751,Yamaha R15,Bike,Meena Yadav,OWN0589,rejected,New,735,115,52,80,Haridwar,4.6,Petrol,True,2024-09-27,UK16D5885,Meena Yadav
+752,Yamaha Fascino,Scooty,Meena Tiwari,OWN0443,pending,Good,607,78,2,54,Dehradun,4.3,Electric,False,2024-11-11,UK17B9169,Meena Tiwari
+753,Swift,Car,Ritika Tiwari,OWN0214,pending,Good,1516,126,64,92,Nainital,4.2,Petrol,False,2025-02-11,UK15D3624,Ritika Tiwari
+754,RE Classic 350,Bike,Rahul Srivastava,OWN0686,approved,Good,675,111,76,95,Dehradun,4.8,Petrol,False,2024-07-24,UK18D4414,Rahul Srivastava
+755,Ola S1,Scooty,Shreya Tiwari,OWN0579,pending,Good,697,85,4,58,Haridwar,4.2,Petrol,False,2024-12-06,UK20C3681,Shreya Tiwari
+756,Sonet,Car,Deepa Yadav,OWN0180,rejected,Good,2026,167,29,64,Rishikesh,4.8,Petrol,True,2024-12-08,UK11C5166,Deepa Yadav
+757,Hero Splendor Plus,Bike,Ravi Mehta,OWN0598,approved,Good,405,49,68,65,Rishikesh,4.8,Petrol,True,2025-01-25,UK13C5778,Ravi Mehta
+758,Yamaha Fascino,Scooty,Neha Patel,OWN0727,rejected,Good,614,76,49,80,Dehradun,4.5,Electric,False,2024-08-02,UK15C9925,Neha Patel
+759,Baleno,Car,Deepa Das,OWN0085,approved,Good,1784,140,36,91,Auli,4.1,Diesel,False,2025-04-09,UK11D2042,Deepa Das
+760,KTM Duke 200,Bike,Kavya Srivastava,OWN0345,approved,Good,669,103,56,50,Dehradun,4.9,Petrol,False,2024-07-10,UK18A7627,Kavya Srivastava
+761,Honda Activa,Scooty,Kavya Reddy,OWN0074,approved,Good,611,73,72,85,Mussoorie,4.3,Petrol,True,2024-09-25,UK14C8856,Kavya Reddy
+762,Creta,Car,Rohit Gupta,OWN0911,approved,Needs Maintenance,2574,200,49,94,Dehradun,4.1,Diesel,True,2025-03-15,UK13D8368,Rohit Gupta
+763,Bajaj Pulsar 150,Bike,Neha Singh,OWN0754,rejected,Needs Maintenance,489,69,36,51,Chakrata,4.4,Petrol,False,2024-08-04,UK18D5728,Neha Singh
+764,Honda Activa,Scooty,Ritika Rao,OWN0790,approved,Good,575,88,30,62,Auli,4.8,Electric,True,2025-04-21,UK15A7299,Ritika Rao
+765,Creta,Car,Karan Mishra,OWN0572,approved,Good,2777,223,23,57,Nainital,4.6,Petrol,True,2025-01-18,UK17A7185,Karan Mishra
+766,Yamaha R15,Bike,Aakash Verma,OWN0446,approved,New,661,119,53,76,Auli,4.4,Petrol,False,2024-11-08,UK16B5552,Aakash Verma
+767,Honda Activa,Scooty,Rohit Gupta,OWN0138,approved,Good,625,85,22,52,Haridwar,4.4,Electric,True,2025-05-15,UK13C9916,Rohit Gupta
+768,City,Car,Kavya Singh,OWN0922,approved,Good,2418,199,5,54,Chakrata,4.2,Diesel,False,2025-03-11,UK13D8999,Kavya Singh
+769,KTM Duke 200,Bike,Priya Patel,OWN0759,approved,Good,683,102,45,89,Dehradun,4.3,Petrol,False,2025-04-11,UK11C3453,Priya Patel
+770,Ather 450X,Scooty,Nikhil Rao,OWN0834,approved,Good,671,102,38,67,Rishikesh,4.8,Electric,False,2024-06-14,UK19B4461,Nikhil Rao
+771,Swift,Car,Arjun Bose,OWN0879,approved,Good,1389,108,31,99,Rishikesh,4.7,Diesel,True,2024-12-20,UK15D6032,Arjun Bose
+772,TVS Apache RTR 160,Bike,Nikhil Rao,OWN0834,approved,Needs Maintenance,467,92,17,74,Dehradun,4.2,Petrol,False,2024-10-05,UK17B7219,Nikhil Rao
+773,TVS Jupiter,Scooty,Kavya Yadav,OWN0582,rejected,Good,644,73,27,54,Mussoorie,4.5,Petrol,False,2025-04-26,UK16C6832,Kavya Yadav
+774,Baleno,Car,Dev Bose,OWN0162,pending,Good,1716,154,74,98,Mussoorie,4.7,Petrol,True,2025-01-11,UK16C2518,Dev Bose
+775,Yamaha FZ,Bike,Aditi Mishra,OWN0047,approved,Needs Maintenance,479,72,38,88,Dehradun,4.3,Petrol,True,2024-06-02,UK12C6624,Aditi Mishra
+776,Yamaha Fascino,Scooty,Suresh Patel,OWN0740,rejected,Good,568,65,8,96,Lansdowne,4.5,Electric,False,2024-10-26,UK20C7542,Suresh Patel
+777,Sonet,Car,Aman Das,OWN0185,approved,Needs Maintenance,2196,173,61,59,Rishikesh,4.8,Petrol,False,2025-03-21,UK10C8681,Aman Das
+778,Bajaj Pulsar 150,Bike,Nisha Verma,OWN0068,approved,Good,493,76,30,64,Dehradun,4.8,Petrol,True,2024-12-11,UK11C8900,Nisha Verma
+779,TVS Ntorq,Scooty,Pooja Rao,OWN0850,approved,Good,628,98,37,87,Dehradun,4.8,Petrol,False,2024-07-29,UK14D9617,Pooja Rao
+780,i20,Car,Mohan Verma,OWN0604,approved,Good,1651,137,66,79,Haridwar,4.1,Petrol,False,2024-08-08,UK10C1228,Mohan Verma
+781,Bajaj Pulsar 150,Bike,Ravi Agarwal,OWN0293,pending,Good,383,84,74,70,Dehradun,4.5,Petrol,True,2025-01-09,UK16A9418,Ravi Agarwal
+782,Ather 450X,Scooty,Karan Mishra,OWN0716,approved,Good,690,102,24,53,Rishikesh,4.7,Electric,False,2024-06-27,UK10A9780,Karan Mishra
+783,i20,Car,Nikhil Shah,OWN0088,approved,Needs Maintenance,1773,169,61,65,Rishikesh,4.3,Petrol,True,2024-11-14,UK11A5098,Nikhil Shah
+784,RE Classic 350,Bike,Shreya Kumar,OWN0493,pending,Good,728,112,29,77,Rishikesh,4.6,Petrol,True,2024-07-24,UK10D9986,Shreya Kumar
+785,Ola S1,Scooty,Nikhil Sharma,OWN0468,pending,Needs Maintenance,687,91,9,85,Dehradun,4.4,Electric,True,2024-12-25,UK20C7934,Nikhil Sharma
+786,Maruti Alto,Car,Mohan Reddy,OWN0339,approved,New,1235,89,38,58,Haridwar,4.8,Petrol,True,2025-04-25,UK18A3339,Mohan Reddy
+787,Bajaj Avenger 220,Bike,Divya Rao,OWN0673,approved,New,675,77,54,87,Dehradun,4.1,Petrol,False,2024-10-13,UK12B1200,Divya Rao
+788,TVS Jupiter,Scooty,Aditi Bose,OWN0055,approved,New,568,80,51,52,Dehradun,4.8,Electric,True,2025-02-13,UK16C6490,Aditi Bose
+789,Creta,Car,Karan Agarwal,OWN0335,approved,Good,2814,215,2,93,Nainital,4.2,Petrol,True,2024-10-26,UK11A5739,Karan Agarwal
+790,Hero Splendor Plus,Bike,Dev Tiwari,OWN0414,approved,New,338,55,19,51,Rishikesh,4.8,Petrol,False,2024-11-09,UK11C6238,Dev Tiwari
+791,Honda Activa,Scooty,Neha Sharma,OWN0146,approved,Good,621,81,75,86,Dehradun,4.2,Electric,True,2024-10-06,UK13B3109,Neha Sharma
+792,i10,Car,Vikram Tiwari,OWN0285,approved,Good,1548,114,17,58,Dehradun,4.3,Diesel,True,2025-03-28,UK12B3885,Vikram Tiwari
+793,TVS Apache RTR 160,Bike,Aakash Pandey,OWN0387,approved,New,560,92,6,73,Dehradun,4.7,Petrol,True,2025-05-06,UK19A2237,Aakash Pandey
+794,Yamaha Fascino,Scooty,Neha Tiwari,OWN0213,approved,Good,579,84,14,98,Dehradun,4.6,Electric,True,2024-09-23,UK19A4152,Neha Tiwari
+795,Swift,Car,Karan Reddy,OWN0179,approved,Needs Maintenance,1543,131,29,91,Rishikesh,4.7,Diesel,False,2024-07-30,UK13B4985,Karan Reddy
+796,KTM Duke 200,Bike,Suresh Das,OWN0344,pending,Good,661,122,76,66,Haridwar,4.8,Petrol,False,2024-10-24,UK15B4548,Suresh Das
+797,Honda Activa,Scooty,Arjun Bose,OWN0513,pending,Good,581,72,38,61,Rishikesh,4.4,Electric,True,2025-01-13,UK16A3838,Arjun Bose
+798,Creta,Car,Sonal Sharma,OWN0525,approved,Good,2606,214,33,87,Rishikesh,4.0,Petrol,False,2024-08-29,UK10C5055,Sonal Sharma
+799,Yamaha R15,Bike,Aman Agarwal,OWN0465,pending,Good,649,116,55,98,Mussoorie,4.5,Petrol,False,2024-10-03,UK14C3905,Aman Agarwal
+800,TVS Ntorq,Scooty,Divya Bose,OWN0851,rejected,Good,676,87,79,80,Dehradun,4.8,Electric,True,2024-07-18,UK15B7285,Divya Bose
+801,WagonR,Car,Nikhil Rao,OWN0834,approved,New,1241,124,51,73,Rishikesh,4.8,Diesel,False,2025-02-05,UK16B7057,Nikhil Rao
+802,TVS Apache RTR 160,Bike,Suresh Agarwal,OWN0524,approved,Good,564,65,31,90,Dehradun,4.1,Petrol,False,2024-11-01,UK11C8745,Suresh Agarwal
+803,Ather 450X,Scooty,Meena Verma,OWN0256,pending,Needs Maintenance,733,97,47,64,Rishikesh,4.3,Electric,False,2024-12-07,UK12C8234,Meena Verma
+804,Swift,Car,Ishaan Shah,OWN0404,pending,Good,1649,139,34,98,Rishikesh,4.5,Petrol,False,2024-09-28,UK15B7680,Ishaan Shah
+805,Bajaj Pulsar 150,Bike,Meena Sharma,OWN0650,pending,Needs Maintenance,456,76,16,98,Nainital,4.7,Petrol,True,2024-11-21,UK13B5745,Meena Sharma
+806,Honda Activa,Scooty,Dev Mehta,OWN0774,pending,Good,613,79,25,95,Chakrata,4.5,Electric,False,2024-08-17,UK14A6550,Dev Mehta
+807,Creta,Car,Ravi Gupta,OWN0161,approved,Good,2708,234,60,55,Mussoorie,4.1,Diesel,True,2025-04-17,UK18B6308,Ravi Gupta
+808,Bajaj Avenger 220,Bike,Ritika Reddy,OWN0963,pending,Good,640,78,34,63,Mussoorie,4.0,Petrol,False,2024-11-16,UK18D5036,Ritika Reddy
+809,Ola S1,Scooty,Sneha Mishra,OWN0423,rejected,Good,612,88,73,51,Haridwar,4.6,Electric,False,2025-03-03,UK12C8706,Sneha Mishra
+810,Swift,Car,Nisha Kumar,OWN0243,pending,Needs Maintenance,1509,106,75,90,Mussoorie,4.2,Petrol,True,2024-07-10,UK16A6807,Nisha Kumar
+811,Bajaj Pulsar 150,Bike,Kavya Verma,OWN0970,approved,New,452,77,28,93,Rishikesh,4.4,Petrol,True,2025-02-19,UK20B8567,Kavya Verma
+812,TVS Ntorq,Scooty,Meena Bose,OWN0251,approved,Good,679,95,11,51,Dehradun,4.0,Petrol,False,2024-08-06,UK16A8725,Meena Bose
+813,Maruti Alto,Car,Divya Bose,OWN0851,approved,New,1253,95,21,99,Haridwar,4.9,Petrol,False,2025-03-02,UK19D8896,Divya Bose
+814,Yamaha R15,Bike,Tarun Patel,OWN0020,approved,Good,718,104,70,95,Mussoorie,4.3,Petrol,False,2024-10-19,UK19B2930,Tarun Patel
+815,Ola S1,Scooty,Ravi Agarwal,OWN0293,pending,Good,699,94,16,57,Rishikesh,4.1,Petrol,False,2024-10-31,UK17D4013,Ravi Agarwal
+816,Maruti Alto,Car,Vikram Tiwari,OWN0285,pending,Needs Maintenance,1269,97,41,91,Haridwar,4.8,Diesel,True,2024-08-24,UK16C6643,Vikram Tiwari
+817,Bajaj Avenger 220,Bike,Divya Yadav,OWN0940,approved,Needs Maintenance,585,89,51,63,Haridwar,4.3,Petrol,False,2025-01-22,UK12C1185,Divya Yadav
+818,Ola S1,Scooty,Rahul Singh,OWN0841,pending,Needs Maintenance,639,81,27,75,Mussoorie,4.3,Petrol,False,2024-07-11,UK20A3974,Rahul Singh
+819,Sonet,Car,Divya Patel,OWN0933,pending,Good,2046,169,52,94,Rishikesh,4.8,Diesel,True,2025-01-22,UK11D8397,Divya Patel
+820,Bajaj Pulsar 150,Bike,Pooja Bose,OWN0699,approved,Good,440,68,3,76,Nainital,4.5,Petrol,False,2024-11-16,UK13A1538,Pooja Bose
+821,Suzuki Access,Scooty,Karan Nair,OWN0111,approved,Needs Maintenance,572,84,13,74,Dehradun,4.8,Petrol,False,2024-07-29,UK16B5458,Karan Nair
+822,City,Car,Aman Verma,OWN0780,approved,Good,2416,180,74,52,Haridwar,4.7,Petrol,False,2024-09-27,UK14C4529,Aman Verma
+823,Yamaha R15,Bike,Arjun Agarwal,OWN0430,pending,Good,648,103,60,92,Haridwar,4.7,Petrol,False,2024-10-19,UK18A5611,Arjun Agarwal
+824,TVS Ntorq,Scooty,Rahul Rao,OWN0559,approved,Good,651,89,5,86,Haridwar,4.3,Petrol,False,2024-07-02,UK11D9087,Rahul Rao
+825,Creta,Car,Suresh Kumar,OWN0039,approved,Good,2639,235,76,63,Dehradun,4.5,Diesel,False,2024-07-17,UK11D1170,Suresh Kumar
+826,TVS Apache RTR 160,Bike,Ishaan Rao,OWN0671,rejected,New,473,70,36,87,Mussoorie,4.8,Petrol,False,2024-06-13,UK10C3646,Ishaan Rao
+827,Honda Activa,Scooty,Divya Yadav,OWN0543,approved,Good,556,73,4,59,Mussoorie,4.4,Petrol,False,2024-07-31,UK16A2185,Divya Yadav
+828,i20,Car,Ravi Gupta,OWN0041,approved,Good,1685,130,79,88,Dehradun,4.4,Petrol,False,2024-09-11,UK14C5953,Ravi Gupta
+829,RE Classic 350,Bike,Shreya Pandey,OWN0910,approved,New,725,108,70,66,Dehradun,4.1,Petrol,False,2024-11-11,UK13A7970,Shreya Pandey
+830,Honda Activa,Scooty,Tarun Rao,OWN0490,approved,New,636,78,7,94,Mussoorie,4.5,Electric,True,2025-03-30,UK11B9905,Tarun Rao
+831,Creta,Car,Aman Yadav,OWN0082,approved,Good,2633,232,48,53,Rishikesh,4.3,Petrol,True,2025-05-26,UK11D2900,Aman Yadav
+832,Hero Splendor Plus,Bike,Ishaan Mehta,OWN0802,pending,Needs Maintenance,332,75,26,58,Mussoorie,4.8,Petrol,True,2024-11-06,UK10B5971,Ishaan Mehta
+833,Yamaha Fascino,Scooty,Karan Nair,OWN0889,pending,Needs Maintenance,620,67,59,92,Dehradun,4.7,Petrol,False,2025-05-02,UK11C2507,Karan Nair
+834,i10,Car,Aditi Patel,OWN0861,approved,Good,1564,146,15,58,Rishikesh,4.1,Petrol,True,2024-08-09,UK17A4491,Aditi Patel
+835,Bajaj Avenger 220,Bike,Aakash Bose,OWN0870,approved,Good,530,98,55,80,Rishikesh,4.6,Petrol,False,2024-10-29,UK16B2175,Aakash Bose
+836,Honda Activa,Scooty,Aman Patel,OWN0808,pending,New,635,77,30,85,Lansdowne,4.2,Petrol,False,2025-02-11,UK14A7208,Aman Patel
+837,Sonet,Car,Sonal Agarwal,OWN0294,approved,Good,1976,168,15,86,Dehradun,4.4,Diesel,True,2024-11-26,UK14A2247,Sonal Agarwal
+838,KTM Duke 200,Bike,Aman Singh,OWN0943,approved,Good,688,113,30,55,Rishikesh,4.3,Petrol,False,2024-12-28,UK19D4039,Aman Singh
+839,Suzuki Access,Scooty,Shreya Das,OWN0417,approved,Good,592,82,49,54,Rishikesh,4.8,Petrol,False,2024-08-25,UK15B9140,Shreya Das
+840,Creta,Car,Sonal Joshi,OWN0003,approved,Good,2645,203,39,54,Dehradun,4.8,Diesel,False,2025-02-05,UK11D9893,Sonal Joshi
+841,Bajaj Pulsar 150,Bike,Nikhil Mehta,OWN0629,approved,Needs Maintenance,412,58,76,95,Dehradun,4.4,Petrol,False,2025-01-05,UK16C9301,Nikhil Mehta
+842,Yamaha Fascino,Scooty,Meena Nair,OWN0227,approved,New,628,65,72,88,Chakrata,4.8,Electric,True,2024-07-25,UK19C8089,Meena Nair
+843,Nexon,Car,Tarun Gupta,OWN0962,approved,Good,2345,186,57,72,Mussoorie,4.4,Diesel,False,2024-12-05,UK15C3386,Tarun Gupta
+844,KTM Duke 200,Bike,Aditi Yadav,OWN0654,approved,Good,733,121,23,78,Mussoorie,4.9,Petrol,True,2024-12-17,UK16B6924,Aditi Yadav
+845,TVS Jupiter,Scooty,Dev Reddy,OWN0027,approved,New,556,78,51,73,Dehradun,4.7,Electric,False,2024-06-12,UK20A2359,Dev Reddy
+846,Creta,Car,Priya Joshi,OWN0944,approved,Good,2758,231,37,91,Dehradun,4.3,Petrol,True,2024-12-11,UK18D3949,Priya Joshi
+847,Hero Splendor Plus,Bike,Ananya Sharma,OWN0807,rejected,Good,334,60,33,52,Mussoorie,4.4,Petrol,False,2024-07-23,UK10A7747,Ananya Sharma
+848,Ather 450X,Scooty,Arjun Pandey,OWN0614,rejected,Good,746,91,52,84,Dehradun,4.1,Electric,True,2024-07-22,UK17B9786,Arjun Pandey
+849,Maruti Alto,Car,Rahul Joshi,OWN0484,approved,Good,1297,94,18,50,Rishikesh,4.6,Petrol,False,2024-07-27,UK11C3643,Rahul Joshi
+850,Hero Splendor Plus,Bike,Pooja Shah,OWN0147,approved,Good,403,72,17,64,Mussoorie,4.8,Petrol,False,2025-03-12,UK12C1215,Pooja Shah
+851,Ola S1,Scooty,Mohan Nair,OWN0483,approved,Good,606,97,68,67,Rishikesh,4.7,Petrol,True,2024-09-07,UK15C1523,Mohan Nair
+852,Swift,Car,Dev Gupta,OWN0095,approved,Needs Maintenance,1422,103,0,67,Dehradun,4.2,Petrol,True,2025-01-18,UK19A4738,Dev Gupta
+853,Bajaj Avenger 220,Bike,Mohan Pandey,OWN0722,approved,Good,568,98,47,56,Dehradun,4.8,Petrol,False,2025-05-08,UK10C4182,Mohan Pandey
+854,Ola S1,Scooty,Suresh Tiwari,OWN0967,approved,Good,672,89,40,99,Rishikesh,4.4,Electric,True,2025-04-26,UK18B1125,Suresh Tiwari
+855,WagonR,Car,Ritika Mehta,OWN0121,approved,Good,1235,123,55,68,Mussoorie,4.6,Petrol,True,2025-03-12,UK10D9588,Ritika Mehta
+856,Bajaj Avenger 220,Bike,Aditi Joshi,OWN0131,approved,New,659,101,30,51,Auli,4.0,Petrol,True,2024-06-13,UK14A5713,Aditi Joshi
+857,TVS Jupiter,Scooty,Tarun Sharma,OWN0309,rejected,Good,556,71,42,65,Dehradun,4.1,Petrol,False,2024-08-04,UK18A5303,Tarun Sharma
+858,Maruti Alto,Car,Arjun Reddy,OWN0570,approved,Good,1203,120,36,80,Rishikesh,4.6,Petrol,False,2025-04-18,UK12A3871,Arjun Reddy
+859,Bajaj Pulsar 150,Bike,Nikhil Patel,OWN0523,approved,Needs Maintenance,418,70,10,91,Mussoorie,4.9,Petrol,True,2024-06-12,UK16B6641,Nikhil Patel
+860,Suzuki Access,Scooty,Ishaan Rao,OWN0658,pending,New,666,80,63,85,Mussoorie,4.3,Petrol,False,2024-09-25,UK17A3390,Ishaan Rao
+861,Swift,Car,Priya Reddy,OWN0844,approved,Good,1549,127,12,64,Mussoorie,4.3,Petrol,True,2024-10-01,UK16A6225,Priya Reddy
+862,Yamaha R15,Bike,Suresh Tiwari,OWN0331,approved,Good,657,120,42,85,Auli,4.5,Petrol,False,2025-03-31,UK19C1341,Suresh Tiwari
+863,Ather 450X,Scooty,Vikram Tiwari,OWN0285,approved,New,700,102,69,98,Dehradun,4.1,Petrol,True,2025-04-05,UK16A5883,Vikram Tiwari
+864,Sonet,Car,Aman Rao,OWN0533,approved,Needs Maintenance,2059,161,45,59,Mussoorie,4.2,Diesel,False,2024-06-08,UK16A1794,Aman Rao
+865,KTM Duke 200,Bike,Ritika Rao,OWN0431,approved,Good,763,98,49,71,Rishikesh,4.0,Petrol,True,2024-10-18,UK15D1708,Ritika Rao
+866,TVS Jupiter,Scooty,Ritika Yadav,OWN0326,approved,Good,593,82,10,75,Dehradun,4.4,Petrol,False,2024-09-23,UK16A5896,Ritika Yadav
+867,Creta,Car,Ritika Gupta,OWN0060,pending,Good,2739,212,75,85,Dehradun,4.6,Diesel,False,2024-06-11,UK18C4185,Ritika Gupta
+868,Yamaha R15,Bike,Nisha Sharma,OWN0409,pending,Good,610,113,61,96,Mussoorie,4.7,Petrol,True,2025-04-10,UK16C5413,Nisha Sharma
+869,Ola S1,Scooty,Ananya Patel,OWN0793,approved,Good,625,98,38,79,Haridwar,4.0,Electric,True,2024-06-05,UK18C4017,Ananya Patel
+870,City,Car,Shreya Verma,OWN0145,approved,Good,2529,195,30,97,Nainital,4.9,Petrol,True,2024-11-02,UK18A1522,Shreya Verma
+871,Bajaj Pulsar 150,Bike,Deepa Patel,OWN0466,approved,Good,502,72,35,55,Mussoorie,4.7,Petrol,True,2024-11-17,UK15B7526,Deepa Patel
+872,TVS Ntorq,Scooty,Divya Tiwari,OWN0336,approved,Good,691,87,76,56,Rishikesh,4.4,Petrol,True,2024-10-23,UK19A7294,Divya Tiwari
+873,Creta,Car,Nisha Kumar,OWN0577,approved,New,2754,229,22,81,Haridwar,4.5,Petrol,True,2024-10-21,UK12C8408,Nisha Kumar
+874,Yamaha FZ,Bike,Suresh Singh,OWN0782,pending,Good,622,70,7,65,Dehradun,4.8,Petrol,True,2024-11-21,UK20C6879,Suresh Singh
+875,Honda Activa,Scooty,Nikhil Srivastava,OWN0869,approved,Needs Maintenance,602,90,23,64,Dehradun,4.6,Petrol,False,2025-02-24,UK16B1755,Nikhil Srivastava
+876,Maruti Alto,Car,Meena Mehta,OWN0934,approved,Needs Maintenance,1157,115,35,51,Haridwar,4.2,Diesel,False,2024-12-18,UK12A8251,Meena Mehta
+877,RE Classic 350,Bike,Nikhil Verma,OWN0498,pending,Good,655,108,20,56,Dehradun,4.4,Petrol,True,2024-08-11,UK12A5948,Nikhil Verma
+878,Ola S1,Scooty,Ravi Joshi,OWN0476,approved,Good,635,99,11,76,Rishikesh,4.6,Petrol,False,2024-12-01,UK20B3885,Ravi Joshi
+879,City,Car,Rajesh Reddy,OWN0619,approved,New,2356,184,51,74,Dehradun,4.1,Petrol,True,2024-09-22,UK12C1540,Rajesh Reddy
+880,Yamaha FZ,Bike,Karan Patel,OWN0860,approved,Good,606,73,27,57,Dehradun,4.4,Petrol,False,2024-06-24,UK14C1124,Karan Patel
+881,TVS Ntorq,Scooty,Aditi Mishra,OWN0047,approved,Needs Maintenance,610,91,23,59,Rishikesh,4.7,Petrol,True,2024-07-25,UK19B4989,Aditi Mishra
+882,Creta,Car,Arjun Gupta,OWN0634,approved,Needs Maintenance,2807,221,27,73,Dehradun,4.2,Petrol,False,2024-07-14,UK19A1033,Arjun Gupta
+883,Bajaj Pulsar 150,Bike,Nikhil Shah,OWN0023,pending,Needs Maintenance,529,69,7,91,Dehradun,4.8,Petrol,True,2024-11-22,UK16A7173,Nikhil Shah
+884,Suzuki Access,Scooty,Neha Singh,OWN0862,pending,Good,582,94,18,61,Rishikesh,4.8,Electric,False,2025-02-08,UK11C6798,Neha Singh
+885,WagonR,Car,Sonal Joshi,OWN0003,pending,Needs Maintenance,1400,115,76,69,Mussoorie,4.4,Petrol,True,2024-08-13,UK13A5680,Sonal Joshi
+886,Yamaha FZ,Bike,Vikram Mehta,OWN0824,rejected,Good,504,100,44,96,Lansdowne,4.6,Petrol,True,2024-09-28,UK11D8679,Vikram Mehta
+887,Ather 450X,Scooty,Suresh Rao,OWN0787,approved,Good,656,100,59,84,Dehradun,4.3,Petrol,False,2024-10-27,UK17C5015,Suresh Rao
+888,Baleno,Car,Ishaan Mehta,OWN0802,approved,Needs Maintenance,1686,138,56,50,Haridwar,4.3,Petrol,False,2024-11-28,UK13A2315,Ishaan Mehta
+889,Bajaj Avenger 220,Bike,Divya Rao,OWN0439,approved,Good,663,84,57,81,Lansdowne,4.1,Petrol,False,2024-06-30,UK15B8715,Divya Rao
+890,TVS Jupiter,Scooty,Ritika Mehta,OWN0129,approved,Needs Maintenance,595,81,53,54,Dehradun,4.7,Petrol,False,2025-03-11,UK11C8811,Ritika Mehta
+891,City,Car,Shreya Das,OWN0417,approved,Needs Maintenance,2615,215,70,53,Mussoorie,4.4,Petrol,False,2024-08-19,UK12B2134,Shreya Das
+892,TVS Apache RTR 160,Bike,Tarun Rao,OWN0490,approved,Good,494,95,14,75,Mussoorie,4.6,Petrol,False,2024-12-15,UK20D8005,Tarun Rao
+893,Suzuki Access,Scooty,Arjun Bose,OWN0252,pending,Good,633,79,26,71,Dehradun,4.6,Petrol,False,2025-02-04,UK11C3544,Arjun Bose
+894,i20,Car,Arjun Pandey,OWN0388,rejected,Needs Maintenance,1676,150,9,58,Haridwar,4.8,Diesel,True,2024-10-24,UK20C7784,Arjun Pandey
+895,KTM Duke 200,Bike,Shreya Yadav,OWN0086,pending,Good,751,120,28,81,Dehradun,4.2,Petrol,True,2024-11-07,UK13A1656,Shreya Yadav
+896,Ather 450X,Scooty,Meena Bose,OWN0251,rejected,Good,655,90,3,97,Rishikesh,4.1,Petrol,False,2024-10-04,UK19B4986,Meena Bose
+897,WagonR,Car,Pooja Shah,OWN0147,pending,Good,1180,102,9,63,Dehradun,4.7,Diesel,False,2025-05-04,UK20D7225,Pooja Shah
+898,Bajaj Pulsar 150,Bike,Arjun Mishra,OWN0130,rejected,Needs Maintenance,489,66,78,63,Lansdowne,4.3,Petrol,True,2024-10-11,UK11D4304,Arjun Mishra
+899,Suzuki Access,Scooty,Deepa Mishra,OWN0351,approved,Good,610,82,63,76,Mussoorie,4.7,Petrol,True,2025-02-24,UK12A2544,Deepa Mishra
+900,Nexon,Car,Nisha Mehta,OWN0282,approved,New,2129,163,12,99,Mussoorie,4.6,Petrol,True,2024-11-28,UK12D7437,Nisha Mehta
+901,Hero Splendor Plus,Bike,Sneha Rao,OWN0442,approved,Good,327,69,37,61,Rishikesh,4.7,Petrol,True,2024-07-03,UK12D3999,Sneha Rao
+902,TVS Jupiter,Scooty,Tarun Sharma,OWN0966,approved,Good,648,83,35,70,Rishikesh,4.5,Petrol,False,2024-12-05,UK20D6144,Tarun Sharma
+903,i10,Car,Tarun Tiwari,OWN0481,approved,Good,1708,135,49,89,Lansdowne,4.0,Diesel,True,2025-01-12,UK18C7977,Tarun Tiwari
+904,RE Classic 350,Bike,Ishaan Verma,OWN0286,approved,Needs Maintenance,685,91,20,60,Haridwar,4.4,Petrol,True,2025-05-29,UK15A1355,Ishaan Verma
+905,TVS Ntorq,Scooty,Pooja Kumar,OWN0641,approved,New,678,83,39,76,Dehradun,4.7,Electric,True,2025-03-24,UK12D6357,Pooja Kumar
+906,i10,Car,Suresh Mishra,OWN0952,approved,New,1470,110,49,84,Rishikesh,4.6,Diesel,True,2025-05-11,UK10D3070,Suresh Mishra
+907,Hero Splendor Plus,Bike,Sneha Joshi,OWN0729,approved,Needs Maintenance,372,55,57,76,Rishikesh,4.6,Petrol,False,2024-11-11,UK10D4530,Sneha Joshi
+908,Honda Activa,Scooty,Rajesh Joshi,OWN0899,approved,Good,635,71,32,93,Dehradun,4.1,Electric,False,2024-08-07,UK19A5934,Rajesh Joshi
+909,WagonR,Car,Kavya Bose,OWN0381,approved,Good,1379,114,55,92,Nainital,4.4,Diesel,True,2024-09-09,UK14D8560,Kavya Bose
+910,Bajaj Pulsar 150,Bike,Meena Singh,OWN0958,approved,New,479,71,70,94,Nainital,4.4,Petrol,False,2024-11-24,UK17D3243,Meena Singh
+911,Honda Activa,Scooty,Tarun Sharma,OWN0885,approved,New,571,75,47,57,Rishikesh,4.6,Petrol,True,2024-06-13,UK13B9678,Tarun Sharma
+912,i20,Car,Arjun Rao,OWN0300,rejected,Good,1864,138,17,55,Rishikesh,4.8,Petrol,True,2024-10-03,UK13D3556,Arjun Rao
+913,Bajaj Pulsar 150,Bike,Karan Mishra,OWN0716,approved,Good,529,68,7,86,Mussoorie,4.9,Petrol,True,2024-12-20,UK17D8295,Karan Mishra
+914,Ola S1,Scooty,Shreya Singh,OWN0202,pending,Good,636,80,1,75,Rishikesh,4.0,Petrol,False,2024-08-11,UK18D4284,Shreya Singh
+915,Nexon,Car,Mohan Srivastava,OWN0069,approved,Good,2058,188,0,57,Chakrata,4.0,Diesel,False,2024-06-26,UK20C9247,Mohan Srivastava
+916,Yamaha R15,Bike,Mohan Reddy,OWN0398,approved,Needs Maintenance,611,97,34,58,Haridwar,4.1,Petrol,False,2024-09-13,UK13D8395,Mohan Reddy
+917,Ola S1,Scooty,Shreya Shah,OWN0024,approved,Needs Maintenance,628,91,73,74,Auli,4.4,Petrol,False,2025-05-20,UK18D9171,Shreya Shah
+918,Sonet,Car,Kavya Patel,OWN0212,pending,Good,2041,157,10,94,Rishikesh,4.4,Diesel,True,2025-05-13,UK14C8124,Kavya Patel
+919,RE Classic 350,Bike,Rahul Mehta,OWN0025,approved,Good,709,92,76,58,Mussoorie,4.6,Petrol,True,2024-10-22,UK19A2863,Rahul Mehta
+920,TVS Jupiter,Scooty,Tarun Bose,OWN0268,pending,New,593,89,24,59,Mussoorie,4.3,Electric,True,2024-09-19,UK15A1014,Tarun Bose
+921,Maruti Alto,Car,Aakash Reddy,OWN0921,approved,Good,1303,99,9,56,Rishikesh,4.5,Petrol,False,2025-01-30,UK15A9861,Aakash Reddy
+922,Hero Splendor Plus,Bike,Aakash Verma,OWN0975,pending,Needs Maintenance,451,46,6,63,Rishikesh,4.2,Petrol,False,2025-04-24,UK10C5182,Aakash Verma
+923,Suzuki Access,Scooty,Tarun Bose,OWN0289,approved,Good,642,76,8,53,Dehradun,4.3,Electric,False,2024-11-26,UK16D9338,Tarun Bose
+924,Maruti Alto,Car,Sneha Gupta,OWN0704,approved,Good,1321,87,43,54,Dehradun,4.8,Diesel,False,2025-02-23,UK20A5496,Sneha Gupta
+925,KTM Duke 200,Bike,Sneha Agarwal,OWN0223,approved,Good,635,104,65,91,Rishikesh,4.1,Petrol,True,2024-11-28,UK18A4229,Sneha Agarwal
+926,Ola S1,Scooty,Ritika Reddy,OWN0655,approved,Good,683,89,5,89,Dehradun,4.2,Petrol,False,2024-11-10,UK16C8329,Ritika Reddy
+927,Baleno,Car,Aditi Patel,OWN0861,approved,Needs Maintenance,1703,140,14,81,Haridwar,4.6,Petrol,False,2024-06-19,UK11A3535,Aditi Patel
+928,RE Classic 350,Bike,Divya Rao,OWN0106,approved,Needs Maintenance,651,103,59,92,Rishikesh,4.7,Petrol,True,2025-05-22,UK18B8925,Divya Rao
+929,Ather 450X,Scooty,Rajesh Joshi,OWN0096,approved,Needs Maintenance,716,95,13,77,Dehradun,4.1,Electric,False,2025-01-04,UK18D2848,Rajesh Joshi
+930,Baleno,Car,Kavya Reddy,OWN0585,approved,Good,1697,131,10,86,Rishikesh,4.7,Petrol,True,2024-11-30,UK19B4263,Kavya Reddy
+931,Yamaha FZ,Bike,Nisha Verma,OWN0068,rejected,New,572,83,20,76,Rishikesh,4.3,Petrol,False,2024-11-12,UK10C9786,Nisha Verma
+932,Suzuki Access,Scooty,Vikram Reddy,OWN0195,approved,Needs Maintenance,669,88,26,73,Dehradun,4.2,Electric,True,2025-03-29,UK15D6360,Vikram Reddy
+933,i20,Car,Ishaan Bose,OWN0154,approved,Good,1888,165,56,95,Rishikesh,4.6,Petrol,True,2024-10-01,UK13B5625,Ishaan Bose
+934,Hero Splendor Plus,Bike,Aditi Reddy,OWN0410,approved,New,350,54,20,74,Mussoorie,4.7,Petrol,True,2025-05-25,UK17C1709,Aditi Reddy
+935,TVS Ntorq,Scooty,Mohan Reddy,OWN0339,approved,Good,652,100,8,93,Rishikesh,4.3,Electric,True,2025-01-06,UK18D4408,Mohan Reddy
+936,Nexon,Car,Suresh Tiwari,OWN0208,approved,Needs Maintenance,2342,173,0,99,Dehradun,4.6,Petrol,True,2024-09-13,UK12D3928,Suresh Tiwari
+937,Hero Splendor Plus,Bike,Tarun Rao,OWN0394,pending,Needs Maintenance,383,72,61,98,Rishikesh,4.3,Petrol,True,2024-09-22,UK14C2140,Tarun Rao
+938,Ola S1,Scooty,Deepa Srivastava,OWN0728,approved,Good,683,94,47,97,Dehradun,4.7,Petrol,True,2025-02-21,UK15C7987,Deepa Srivastava
+939,Baleno,Car,Rajesh Kumar,OWN0005,approved,Good,1713,136,13,65,Haridwar,4.4,Diesel,True,2024-06-04,UK18D3049,Rajesh Kumar
+940,Hero Splendor Plus,Bike,Nikhil Sharma,OWN0468,pending,Good,473,74,1,90,Haridwar,4.5,Petrol,True,2024-08-25,UK17D8686,Nikhil Sharma
+941,Yamaha Fascino,Scooty,Meena Rao,OWN0973,rejected,New,582,84,58,97,Haridwar,4.1,Electric,False,2025-02-12,UK14B6227,Meena Rao
+942,Nexon,Car,Vikram Pandey,OWN0751,approved,Needs Maintenance,2343,166,16,94,Rishikesh,4.5,Diesel,False,2024-09-10,UK10A1141,Vikram Pandey
+943,Bajaj Avenger 220,Bike,Mohan Mishra,OWN0150,rejected,Good,679,84,56,55,Dehradun,4.5,Petrol,False,2024-10-21,UK12B5836,Mohan Mishra
+944,TVS Jupiter,Scooty,Ritika Joshi,OWN0222,approved,New,636,90,37,81,Nainital,4.6,Electric,True,2025-05-04,UK17D8694,Ritika Joshi
+945,Swift,Car,Arjun Gupta,OWN0634,approved,Good,1453,136,12,98,Haridwar,4.1,Diesel,False,2025-05-14,UK19D2774,Arjun Gupta
+946,Yamaha FZ,Bike,Neha Patel,OWN0727,rejected,Good,609,100,48,73,Mussoorie,4.1,Petrol,False,2024-12-22,UK16D7663,Neha Patel
+947,Ola S1,Scooty,Vikram Yadav,OWN0622,approved,Good,677,82,37,52,Mussoorie,4.3,Electric,True,2024-09-29,UK13C5358,Vikram Yadav
+948,Swift,Car,Ritika Gupta,OWN0630,approved,Good,1362,122,2,51,Mussoorie,4.7,Diesel,False,2024-10-23,UK12D6972,Ritika Gupta
+949,Bajaj Pulsar 150,Bike,Karan Shah,OWN0470,approved,Good,502,65,25,99,Mussoorie,4.3,Petrol,False,2024-07-16,UK19A5233,Karan Shah
+950,Suzuki Access,Scooty,Sonal Bose,OWN0721,approved,New,626,76,31,89,Dehradun,4.6,Electric,True,2025-05-21,UK14D4985,Sonal Bose
+951,Swift,Car,Aditi Reddy,OWN0781,pending,Good,1632,137,53,53,Dehradun,4.4,Diesel,True,2025-03-28,UK11A6386,Aditi Reddy
+952,Bajaj Pulsar 150,Bike,Kavya Mehta,OWN0719,approved,New,413,79,4,97,Dehradun,4.0,Petrol,False,2025-05-29,UK12D1146,Kavya Mehta
+953,TVS Ntorq,Scooty,Rohit Sharma,OWN0034,pending,Good,638,96,3,82,Dehradun,4.2,Electric,True,2025-03-20,UK13C8679,Rohit Sharma
+954,Creta,Car,Deepa Bose,OWN0467,approved,Good,2673,229,43,88,Nainital,4.4,Petrol,False,2024-11-11,UK14B6868,Deepa Bose
+955,Yamaha R15,Bike,Meena Nair,OWN0615,pending,Good,690,92,62,55,Dehradun,4.1,Petrol,True,2024-12-24,UK17A5131,Meena Nair
+956,TVS Ntorq,Scooty,Nisha Patel,OWN0994,approved,Needs Maintenance,696,93,49,65,Nainital,4.1,Petrol,True,2025-04-21,UK16C4933,Nisha Patel
+957,Nexon,Car,Aakash Nair,OWN0898,pending,Good,2261,160,19,51,Dehradun,4.8,Diesel,True,2024-08-11,UK20D7935,Aakash Nair
+958,Bajaj Pulsar 150,Bike,Sneha Gupta,OWN0798,approved,Good,413,69,46,59,Rishikesh,4.0,Petrol,True,2025-03-03,UK15C3727,Sneha Gupta
+959,Yamaha Fascino,Scooty,Dev Srivastava,OWN0132,approved,New,591,78,63,92,Dehradun,4.4,Petrol,True,2025-05-19,UK20B1340,Dev Srivastava
+960,Baleno,Car,Amit Tiwari,OWN0681,pending,Good,1629,143,69,75,Dehradun,4.5,Diesel,False,2024-12-11,UK10C2409,Amit Tiwari
+961,Bajaj Avenger 220,Bike,Karan Joshi,OWN0573,approved,Good,572,102,75,51,Haridwar,4.7,Petrol,False,2024-08-13,UK17A7564,Karan Joshi
+962,Honda Activa,Scooty,Rahul Reddy,OWN0059,approved,Good,554,74,25,96,Nainital,4.7,Electric,False,2024-11-11,UK16B7248,Rahul Reddy
+963,Creta,Car,Aditi Reddy,OWN0781,approved,Good,2665,239,76,95,Haridwar,4.8,Petrol,False,2024-07-16,UK10A1617,Aditi Reddy
+964,Yamaha R15,Bike,Ananya Nair,OWN0539,approved,Needs Maintenance,695,92,75,53,Haridwar,4.1,Petrol,False,2024-07-04,UK18D9536,Ananya Nair
+965,Suzuki Access,Scooty,Dev Yadav,OWN0004,approved,Good,585,92,14,96,Haridwar,4.4,Petrol,False,2024-06-23,UK12B6503,Dev Yadav
+966,WagonR,Car,Suresh Das,OWN0344,rejected,Needs Maintenance,1383,110,35,54,Rishikesh,4.6,Petrol,True,2024-09-01,UK19A4770,Suresh Das
+967,Hero Splendor Plus,Bike,Vikram Singh,OWN0724,approved,Good,389,62,6,66,Dehradun,4.9,Petrol,False,2025-01-04,UK11B7840,Vikram Singh
+968,TVS Jupiter,Scooty,Tarun Mehta,OWN0547,approved,New,628,75,50,60,Nainital,4.3,Electric,True,2024-07-13,UK12B8030,Tarun Mehta
+969,i20,Car,Rajesh Verma,OWN0358,approved,Needs Maintenance,1847,140,66,54,Nainital,4.4,Diesel,False,2025-01-21,UK14D1061,Rajesh Verma
+970,Hero Splendor Plus,Bike,Vikram Joshi,OWN0226,approved,New,418,51,44,95,Dehradun,4.2,Petrol,True,2024-11-26,UK20B5006,Vikram Joshi
+971,Ola S1,Scooty,Aditi Srivastava,OWN0444,pending,Good,617,100,1,89,Rishikesh,4.8,Electric,False,2025-01-16,UK19C3285,Aditi Srivastava
+972,i10,Car,Karan Verma,OWN0599,approved,Good,1556,135,12,85,Chakrata,4.0,Diesel,False,2025-05-08,UK16B8772,Karan Verma
+973,TVS Apache RTR 160,Bike,Tarun Sharma,OWN0885,rejected,New,479,81,52,96,Rishikesh,4.4,Petrol,True,2024-07-24,UK16D7998,Tarun Sharma
+974,Ola S1,Scooty,Nikhil Yadav,OWN0888,approved,Good,690,95,61,94,Dehradun,4.1,Petrol,False,2024-12-21,UK12B7703,Nikhil Yadav
+975,i10,Car,Aman Verma,OWN0558,approved,Good,1586,126,30,77,Rishikesh,4.3,Petrol,False,2024-07-15,UK20D3645,Aman Verma
+976,KTM Duke 200,Bike,Meena Kumar,OWN0177,approved,Good,772,112,58,75,Mussoorie,4.6,Petrol,True,2025-01-08,UK16D9433,Meena Kumar
+977,Ather 450X,Scooty,Meena Agarwal,OWN0584,approved,Good,695,101,65,50,Mussoorie,4.4,Petrol,False,2025-04-26,UK16A7474,Meena Agarwal
+978,i10,Car,Sonal Patel,OWN0192,pending,Needs Maintenance,1715,117,41,60,Mussoorie,4.4,Petrol,False,2025-06-01,UK18A8598,Sonal Patel
+979,RE Classic 350,Bike,Ravi Mehta,OWN0598,pending,Good,636,109,37,87,Dehradun,4.5,Petrol,True,2025-03-02,UK11B6299,Ravi Mehta
+980,Honda Activa,Scooty,Neha Patel,OWN0489,approved,Good,638,79,43,89,Rishikesh,4.6,Petrol,False,2024-11-13,UK19D7228,Neha Patel
+981,i20,Car,Tarun Kumar,OWN0563,approved,Needs Maintenance,1717,149,37,51,Haridwar,4.8,Diesel,False,2025-02-28,UK10C1480,Tarun Kumar
+982,Bajaj Avenger 220,Bike,Mohan Verma,OWN0964,rejected,New,595,99,9,95,Auli,4.7,Petrol,True,2025-01-12,UK11D6401,Mohan Verma
+983,Honda Activa,Scooty,Ritika Yadav,OWN0597,approved,New,556,73,61,85,Dehradun,4.4,Electric,False,2025-03-30,UK15D6749,Ritika Yadav
+984,City,Car,Ishaan Mishra,OWN0546,approved,New,2461,203,11,84,Rishikesh,4.4,Diesel,True,2025-02-25,UK16A1918,Ishaan Mishra
+985,KTM Duke 200,Bike,Priya Rao,OWN0045,approved,Needs Maintenance,763,100,46,99,Dehradun,4.6,Petrol,False,2024-10-13,UK14B9566,Priya Rao
+986,Suzuki Access,Scooty,Rohit Nair,OWN0856,pending,Good,629,90,57,85,Nainital,4.6,Petrol,False,2025-01-24,UK10B1272,Rohit Nair
+987,i20,Car,Vikram Mishra,OWN0201,rejected,New,1738,167,18,87,Dehradun,4.2,Diesel,False,2024-08-16,UK15A2045,Vikram Mishra
+988,RE Classic 350,Bike,Rohit Nair,OWN0856,approved,Good,605,87,64,75,Mussoorie,4.1,Petrol,True,2024-08-27,UK19A7578,Rohit Nair
+989,TVS Jupiter,Scooty,Neha Srivastava,OWN0153,approved,Good,635,70,76,72,Chakrata,4.8,Petrol,False,2024-09-05,UK16B2950,Neha Srivastava
+990,Creta,Car,Tarun Rao,OWN0394,approved,New,2721,202,71,51,Dehradun,4.9,Petrol,True,2025-02-11,UK20B1324,Tarun Rao
+991,Bajaj Pulsar 150,Bike,Pooja Srivastava,OWN0805,pending,Good,451,75,17,66,Dehradun,4.0,Petrol,False,2025-05-30,UK16B5252,Pooja Srivastava
+992,Ola S1,Scooty,Sneha Shah,OWN0373,approved,Good,636,92,73,78,Dehradun,4.4,Electric,False,2025-05-24,UK15D2507,Sneha Shah
+993,Swift,Car,Ritika Yadav,OWN0401,approved,Needs Maintenance,1485,123,35,69,Auli,4.3,Petrol,False,2024-12-26,UK20D5189,Ritika Yadav
+994,Bajaj Pulsar 150,Bike,Neha Singh,OWN0390,approved,Good,492,58,6,96,Rishikesh,4.7,Petrol,False,2024-12-03,UK20C5147,Neha Singh
+995,Honda Activa,Scooty,Sonal Mehta,OWN0261,approved,New,640,77,47,64,Rishikesh,4.5,Electric,False,2024-12-12,UK20D9994,Sonal Mehta
+996,Creta,Car,Divya Agarwal,OWN0843,approved,Needs Maintenance,2732,226,68,92,Rishikesh,4.5,Petrol,False,2025-05-08,UK14B5860,Divya Agarwal
+997,Hero Splendor Plus,Bike,Dev Singh,OWN0877,pending,Good,434,71,71,97,Dehradun,4.5,Petrol,True,2025-03-08,UK16B7823,Dev Singh
+998,Yamaha Fascino,Scooty,Ananya Shah,OWN0445,approved,Good,611,77,63,63,Lansdowne,4.1,Electric,False,2024-11-08,UK13B1480,Ananya Shah
+999,Sonet,Car,Ishaan Bose,OWN0374,approved,New,2192,187,58,80,Rishikesh,4.0,Petrol,False,2025-04-08,UK14B3606,Ishaan Bose
+1000,Yamaha FZ,Bike,Vikram Mehta,OWN0824,pending,Good,556,95,52,99,Mussoorie,4.5,Petrol,True,2025-04-29,UK14C4995,Vikram Mehta

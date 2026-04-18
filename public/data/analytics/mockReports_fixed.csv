@@ -1,0 +1,1001 @@
+id,reporterId,reporter,avatar,againstId,against,type,desc,status,priority,date,resolvedDate,city
+RPT0001,U052,Pooja Shah,P,OWN0406,Sneha Tiwari,Cancellation Issue,Refund not received,resolved,High,2024-02-26,2024-04-03,Dehradun
+RPT0002,U016,Ishaan Kumar,I,OWN0737,Vikram Reddy,Rash Driving,Speeding complaint,resolved,Medium,2024-01-09,2024-03-05,Haridwar
+RPT0003,U356,Rahul Gupta,R,OWN0681,Kavya Srivastava,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-01-29,2024-02-09,Nainital
+RPT0004,U015,Nikhil Nair,N,OWN0239,Aman Mehta,Other,General complaint,resolved,Low,2024-02-16,2024-03-31,Chakrata
+RPT0005,U121,Divya Shah,D,OWN0493,Nikhil Singh,Other,General complaint,resolved,Low,2024-01-28,2024-01-28,Dehradun
+RPT0006,U081,Priya Das,P,OWN0632,Aakash Mehta,Vehicle Not as Described,AC not working,open,Low,2024-03-13,,Mussoorie
+RPT0007,U213,Priya Joshi,P,OWN0537,Meena Mishra,Vehicle Not as Described,Wrong model delivered,escalated,Low,2024-01-02,,Mussoorie
+RPT0008,U333,Vikram Gupta,V,OWN1000,Rohit Patel,Harassment,Threatening calls,open,Medium,2024-01-07,,Dehradun
+RPT0009,U425,Amit Sharma,A,OWN0806,Rahul Verma,Vehicle Not as Described,Wrong model delivered,open,High,2024-03-01,,Nainital
+RPT0010,U293,Vikram Shah,V,OWN0991,Ritika Agarwal,Rash Driving,Witnessed rash driving,resolved,Low,2024-01-09,2024-01-28,Rishikesh
+RPT0011,U408,Ritika Nair,R,OWN0497,Ravi Agarwal,Rash Driving,Speeding complaint,resolved,High,2024-03-30,2024-04-04,Dehradun
+RPT0012,U242,Ananya Sharma,A,OWN0858,Rohit Mehta,Cancellation Issue,Cancelled without notice,open,Medium,2024-02-18,,Nainital
+RPT0013,U135,Mohan Reddy,M,OWN0425,Shreya Kumar,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-02-19,2024-03-06,Nainital
+RPT0014,U056,Nikhil Kumar,N,OWN0308,Amit Das,Overcharging,Charged extra ₹500,resolved,Medium,2024-03-04,2024-03-27,Lansdowne
+RPT0015,U344,Nikhil Mishra,N,OWN0363,Ritika Nair,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-01-10,2024-03-01,Rishikesh
+RPT0016,U135,Rohit Verma,R,OWN0094,Ishaan Verma,Harassment,Threatening calls,resolved,Low,2024-02-11,2024-03-21,Lansdowne
+RPT0017,U208,Dev Sharma,D,OWN0543,Amit Singh,Vehicle Not as Described,Mileage not as stated,open,Medium,2024-04-08,,Dehradun
+RPT0018,U343,Nisha Agarwal,N,OWN0790,Ishaan Mehta,Cancellation Issue,Refund not received,open,Medium,2024-01-16,,Nainital
+RPT0019,U131,Priya Agarwal,P,OWN0744,Sonal Reddy,Other,General complaint,open,Medium,2024-01-06,,Nainital
+RPT0020,U338,Amit Gupta,A,OWN0450,Deepa Sharma,Vehicle Damage,Scratches on delivery,escalated,Medium,2024-02-26,,Dehradun
+RPT0021,U296,Dev Yadav,D,OWN0688,Ritika Patel,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-01-29,2024-03-28,Rishikesh
+RPT0022,U129,Neha Srivastava,N,OWN0803,Priya Mishra,Late Return,Returned 3 hours late,open,High,2024-03-28,,Rishikesh
+RPT0023,U446,Rajesh Tiwari,R,OWN0776,Neha Das,Vehicle Damage,Scratches on delivery,resolved,High,2024-01-11,2024-03-08,Nainital
+RPT0024,U499,Ananya Tiwari,A,OWN0468,Suresh Kumar,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-01-23,2024-03-24,Rishikesh
+RPT0025,U068,Kavya Gupta,K,OWN0619,Tarun Mehta,Vehicle Damage,Dent on bumper,resolved,Medium,2024-02-25,2024-03-10,Dehradun
+RPT0026,U487,Deepa Bose,D,OWN0815,Aditi Kumar,Late Return,Vehicle returned next day without notice,open,High,2024-02-03,,Auli
+RPT0027,U114,Karan Agarwal,K,OWN0977,Divya Srivastava,Cancellation Issue,Refund not received,resolved,Low,2024-03-20,2024-03-21,Nainital
+RPT0028,U024,Ananya Bose,A,OWN0599,Nikhil Rao,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-01-22,2024-03-12,Mussoorie
+RPT0029,U397,Arjun Mishra,A,OWN0774,Meena Yadav,Vehicle Damage,Scratches on delivery,open,Medium,2024-01-12,,Rishikesh
+RPT0030,U077,Ananya Nair,A,OWN0844,Mohan Singh,Vehicle Damage,Scratches on delivery,resolved,Low,2024-03-12,2024-04-08,Mussoorie
+RPT0031,U368,Sneha Srivastava,S,OWN0064,Sneha Tiwari,Vehicle Damage,Broken mirror,resolved,Medium,2024-04-04,2024-04-08,Dehradun
+RPT0032,U194,Shreya Gupta,S,OWN0447,Kavya Agarwal,Late Return,Returned 3 hours late,resolved,Low,2024-02-20,2024-03-16,Nainital
+RPT0033,U473,Aakash Joshi,A,OWN0396,Aakash Singh,Cancellation Issue,Cancelled without notice,resolved,Low,2024-03-10,2024-03-25,Chakrata
+RPT0034,U475,Aditi Singh,A,OWN0634,Aditi Mehta,Harassment,Threatening calls,resolved,Low,2024-03-06,2024-03-29,Dehradun
+RPT0035,U010,Ravi Srivastava,R,OWN0573,Nikhil Srivastava,Vehicle Damage,Dent on bumper,resolved,Low,2024-02-19,2024-03-31,Nainital
+RPT0036,U275,Ritika Joshi,R,OWN0652,Ishaan Verma,Other,General complaint,resolved,Low,2024-01-13,2024-01-19,Mussoorie
+RPT0037,U150,Nisha Verma,N,OWN0984,Sneha Bose,Harassment,Inappropriate messages,open,Low,2024-02-19,,Haridwar
+RPT0038,U360,Nikhil Mishra,N,OWN0857,Deepa Agarwal,Vehicle Not as Described,AC not working,open,Low,2024-02-25,,Mussoorie
+RPT0039,U290,Aakash Patel,A,OWN0482,Ananya Shah,Other,General complaint,open,Medium,2024-01-05,,Rishikesh
+RPT0040,U162,Tarun Das,T,OWN0842,Sneha Singh,Vehicle Damage,Broken mirror,resolved,Medium,2024-03-22,2024-03-26,Rishikesh
+RPT0041,U218,Rohit Tiwari,R,OWN0117,Karan Sharma,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-01-21,2024-04-10,Haridwar
+RPT0042,U487,Vikram Nair,V,OWN0337,Pooja Nair,Late Return,Returned 3 hours late,resolved,Low,2024-03-20,2024-04-05,Haridwar
+RPT0043,U013,Meena Mehta,M,OWN0523,Arjun Reddy,Vehicle Not as Described,Wrong model delivered,resolved,Low,2024-01-24,2024-03-20,Dehradun
+RPT0044,U190,Kavya Yadav,K,OWN0986,Amit Tiwari,Cancellation Issue,Cancelled without notice,open,Medium,2024-01-29,,Rishikesh
+RPT0045,U081,Rohit Srivastava,R,OWN0083,Priya Srivastava,Vehicle Damage,Tyre damage on return,open,Medium,2024-01-15,,Chakrata
+RPT0046,U063,Karan Shah,K,OWN0765,Kavya Kumar,Cancellation Issue,Last minute cancellation,resolved,Medium,2024-01-02,2024-01-13,Rishikesh
+RPT0047,U149,Neha Yadav,N,OWN0023,Kavya Sharma,Cancellation Issue,Refund not received,open,Medium,2024-04-05,,Auli
+RPT0048,U035,Vikram Agarwal,V,OWN0595,Ravi Joshi,Vehicle Not as Described,AC not working,escalated,Low,2024-04-04,,Dehradun
+RPT0049,U402,Shreya Pandey,S,OWN0576,Sonal Bose,Harassment,Threatening calls,resolved,Medium,2024-03-30,2024-04-07,Rishikesh
+RPT0050,U078,Mohan Tiwari,M,OWN0183,Aakash Joshi,Rash Driving,Traffic rules violated,resolved,High,2024-01-06,2024-01-12,Rishikesh
+RPT0051,U225,Priya Yadav,P,OWN0309,Divya Kumar,Rash Driving,Witnessed rash driving,resolved,Medium,2024-02-22,2024-04-01,Haridwar
+RPT0052,U275,Divya Gupta,D,OWN0582,Sneha Agarwal,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-01-18,2024-02-11,Rishikesh
+RPT0053,U355,Karan Gupta,K,OWN0674,Pooja Mishra,Rash Driving,Traffic rules violated,open,Low,2024-02-24,,Lansdowne
+RPT0054,U283,Shreya Kumar,S,OWN0377,Rahul Das,Vehicle Not as Described,Mileage not as stated,escalated,Medium,2024-02-17,,Dehradun
+RPT0055,U405,Deepa Kumar,D,OWN0547,Rajesh Shah,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-02-18,2024-03-15,Haridwar
+RPT0056,U066,Karan Sharma,K,OWN0288,Aditi Joshi,Rash Driving,Witnessed rash driving,resolved,Low,2024-03-27,2024-04-07,Rishikesh
+RPT0057,U198,Aman Yadav,A,OWN0333,Aman Shah,Rash Driving,Traffic rules violated,resolved,Low,2024-01-14,2024-02-02,Rishikesh
+RPT0058,U159,Sneha Das,S,OWN0939,Suresh Pandey,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-01-01,,Rishikesh
+RPT0059,U022,Tarun Mehta,T,OWN0476,Vikram Nair,Other,Miscellaneous,open,Medium,2024-03-24,,Rishikesh
+RPT0060,U015,Ananya Joshi,A,OWN0995,Dev Joshi,Harassment,Unprofessional behaviour,resolved,High,2024-01-26,2024-04-06,Haridwar
+RPT0061,U438,Rahul Bose,R,OWN0472,Aman Gupta,Overcharging,Extra cleaning fee not mentioned,open,Low,2024-01-26,,Mussoorie
+RPT0062,U026,Deepa Srivastava,D,OWN0371,Neha Reddy,Overcharging,Extra cleaning fee not mentioned,resolved,Low,2024-02-07,2024-02-24,Dehradun
+RPT0063,U271,Ritika Mehta,R,OWN0518,Deepa Gupta,Harassment,Threatening calls,resolved,Medium,2024-01-25,2024-04-07,Rishikesh
+RPT0064,U461,Meena Reddy,M,OWN0698,Ritika Reddy,Vehicle Damage,Scratches on delivery,resolved,Low,2024-02-18,2024-02-28,Rishikesh
+RPT0065,U084,Ananya Mehta,A,OWN0558,Mohan Rao,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-02-09,2024-04-08,Dehradun
+RPT0066,U069,Arjun Verma,A,OWN0104,Mohan Shah,Late Return,4 hours delay,resolved,Low,2024-03-27,2024-04-05,Rishikesh
+RPT0067,U032,Nisha Joshi,N,OWN0271,Amit Sharma,Rash Driving,Traffic rules violated,open,Medium,2024-01-16,,Nainital
+RPT0068,U234,Amit Bose,A,OWN0046,Divya Rao,Vehicle Not as Described,Mileage not as stated,escalated,High,2024-02-02,,Dehradun
+RPT0069,U355,Rajesh Yadav,R,OWN0397,Rahul Mehta,Cancellation Issue,Cancelled without notice,open,High,2024-03-10,,Mussoorie
+RPT0070,U383,Tarun Agarwal,T,OWN0305,Rahul Mishra,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-02-24,2024-03-14,Dehradun
+RPT0071,U285,Aman Joshi,A,OWN0456,Nisha Mehta,Vehicle Damage,Broken mirror,resolved,Low,2024-03-08,2024-03-23,Rishikesh
+RPT0072,U448,Nisha Reddy,N,OWN0509,Aman Verma,Overcharging,Charged extra ₹500,resolved,Medium,2024-02-23,2024-03-14,Rishikesh
+RPT0073,U226,Karan Gupta,K,OWN0291,Divya Mehta,Late Return,Returned 3 hours late,resolved,Low,2024-01-31,2024-03-14,Rishikesh
+RPT0074,U309,Rohit Rao,R,OWN0253,Karan Kumar,Overcharging,Hidden fuel charges,resolved,Low,2024-02-04,2024-02-24,Rishikesh
+RPT0075,U316,Dev Agarwal,D,OWN0446,Aditi Singh,Vehicle Damage,Broken mirror,resolved,Low,2024-02-15,2024-03-14,Rishikesh
+RPT0076,U392,Neha Mishra,N,OWN0453,Rajesh Verma,Harassment,Threatening calls,resolved,Low,2024-02-02,2024-02-19,Dehradun
+RPT0077,U432,Suresh Mishra,S,OWN0647,Aditi Mishra,Other,Feedback issue,resolved,Medium,2024-03-06,2024-03-25,Dehradun
+RPT0078,U206,Rajesh Mehta,R,OWN0625,Arjun Bose,Cancellation Issue,Last minute cancellation,resolved,High,2024-03-12,2024-03-26,Dehradun
+RPT0079,U023,Suresh Sharma,S,OWN0102,Vikram Rao,Harassment,Inappropriate messages,resolved,High,2024-03-01,2024-03-11,Rishikesh
+RPT0080,U276,Nisha Joshi,N,OWN0243,Ravi Yadav,Rash Driving,Witnessed rash driving,resolved,Low,2024-03-12,2024-04-02,Haridwar
+RPT0081,U332,Ishaan Rao,I,OWN0434,Deepa Reddy,Harassment,Unprofessional behaviour,open,Medium,2024-01-18,,Mussoorie
+RPT0082,U185,Meena Tiwari,M,OWN0510,Rohit Das,Harassment,Inappropriate messages,open,Medium,2024-01-12,,Rishikesh
+RPT0083,U362,Pooja Bose,P,OWN0165,Suresh Yadav,Other,Feedback issue,escalated,High,2024-03-24,,Rishikesh
+RPT0084,U040,Aditi Agarwal,A,OWN0423,Aakash Verma,Harassment,Threatening calls,open,Medium,2024-01-05,,Dehradun
+RPT0085,U401,Rahul Bose,R,OWN0929,Aakash Gupta,Harassment,Inappropriate messages,open,High,2024-01-10,,Dehradun
+RPT0086,U304,Aakash Mishra,A,OWN0317,Vikram Verma,Harassment,Unprofessional behaviour,resolved,High,2024-02-15,2024-02-18,Dehradun
+RPT0087,U377,Aakash Nair,A,OWN0745,Pooja Mehta,Vehicle Not as Described,AC not working,open,Low,2024-02-21,,Rishikesh
+RPT0088,U282,Sonal Reddy,S,OWN0957,Ishaan Srivastava,Overcharging,Extra cleaning fee not mentioned,resolved,Low,2024-02-13,2024-02-25,Dehradun
+RPT0089,U204,Ananya Pandey,A,OWN0584,Ishaan Kumar,Rash Driving,Witnessed rash driving,open,Low,2024-01-21,,Dehradun
+RPT0090,U443,Neha Nair,N,OWN0096,Karan Rao,Harassment,Inappropriate messages,escalated,Medium,2024-04-06,,Rishikesh
+RPT0091,U076,Rajesh Agarwal,R,OWN0930,Nikhil Rao,Vehicle Damage,Dent on bumper,open,Medium,2024-02-22,,Mussoorie
+RPT0092,U174,Aditi Agarwal,A,OWN0690,Mohan Tiwari,Vehicle Not as Described,AC not working,resolved,Low,2024-04-07,2024-04-08,Dehradun
+RPT0093,U041,Priya Agarwal,P,OWN0016,Arjun Reddy,Other,Feedback issue,resolved,Low,2024-03-27,2024-04-10,Rishikesh
+RPT0094,U328,Ishaan Das,I,OWN0506,Ritika Mishra,Other,Miscellaneous,open,Low,2024-02-13,,Dehradun
+RPT0095,U177,Ishaan Mishra,I,OWN0168,Nikhil Reddy,Vehicle Not as Described,Mileage not as stated,open,Low,2024-04-02,,Nainital
+RPT0096,U051,Meena Rao,M,OWN0747,Sneha Sharma,Rash Driving,Traffic rules violated,resolved,High,2024-01-07,2024-01-24,Mussoorie
+RPT0097,U151,Deepa Verma,D,OWN0233,Sneha Yadav,Other,Miscellaneous,resolved,Low,2024-02-28,2024-03-21,Mussoorie
+RPT0098,U375,Pooja Singh,P,OWN0303,Aakash Nair,Harassment,Threatening calls,resolved,High,2024-03-04,2024-03-29,Mussoorie
+RPT0099,U405,Tarun Reddy,T,OWN0217,Mohan Verma,Other,General complaint,resolved,Medium,2024-01-20,2024-01-21,Rishikesh
+RPT0100,U294,Rajesh Das,R,OWN0299,Pooja Mehta,Late Return,4 hours delay,open,Medium,2024-01-03,,Mussoorie
+RPT0101,U133,Aditi Kumar,A,OWN0132,Nisha Yadav,Rash Driving,Speeding complaint,open,Medium,2024-01-09,,Rishikesh
+RPT0102,U471,Aakash Mehta,A,OWN0292,Nisha Bose,Other,General complaint,open,High,2024-04-09,,Mussoorie
+RPT0103,U046,Ananya Reddy,A,OWN0762,Rohit Patel,Other,Feedback issue,resolved,Medium,2024-03-13,2024-03-24,Nainital
+RPT0104,U395,Sneha Verma,S,OWN0210,Ritika Rao,Cancellation Issue,Refund not received,resolved,High,2024-01-15,2024-03-14,Mussoorie
+RPT0105,U111,Priya Patel,P,OWN0606,Vikram Shah,Vehicle Damage,Broken mirror,resolved,High,2024-02-23,2024-03-22,Rishikesh
+RPT0106,U381,Dev Joshi,D,OWN0708,Tarun Kumar,Vehicle Not as Described,AC not working,resolved,Medium,2024-02-11,2024-02-15,Mussoorie
+RPT0107,U327,Aditi Kumar,A,OWN0996,Mohan Reddy,Late Return,Returned 3 hours late,open,Medium,2024-01-24,,Dehradun
+RPT0108,U112,Shreya Srivastava,S,OWN0651,Rajesh Singh,Other,Feedback issue,resolved,High,2024-03-11,2024-04-07,Dehradun
+RPT0109,U331,Tarun Sharma,T,OWN0654,Meena Yadav,Vehicle Damage,Tyre damage on return,open,Medium,2024-03-20,,Dehradun
+RPT0110,U366,Mohan Joshi,M,OWN0134,Suresh Mishra,Harassment,Threatening calls,escalated,High,2024-01-23,,Auli
+RPT0111,U131,Tarun Nair,T,OWN0042,Dev Reddy,Other,Miscellaneous,resolved,Low,2024-03-18,2024-04-10,Haridwar
+RPT0112,U265,Dev Nair,D,OWN0680,Vikram Mehta,Rash Driving,Traffic rules violated,resolved,Low,2024-02-26,2024-03-09,Mussoorie
+RPT0113,U413,Neha Reddy,N,OWN0308,Ananya Rao,Harassment,Threatening calls,open,High,2024-01-25,,Mussoorie
+RPT0114,U232,Kavya Bose,K,OWN0158,Nisha Mehta,Rash Driving,Speeding complaint,escalated,Low,2024-03-05,,Haridwar
+RPT0115,U470,Ananya Kumar,A,OWN0324,Ravi Bose,Vehicle Damage,Broken mirror,resolved,High,2024-01-13,2024-02-18,Rishikesh
+RPT0116,U170,Tarun Patel,T,OWN0198,Karan Gupta,Other,Miscellaneous,open,Medium,2024-01-13,,Auli
+RPT0117,U110,Deepa Verma,D,OWN0837,Dev Mishra,Rash Driving,Speeding complaint,resolved,Low,2024-01-10,2024-03-28,Haridwar
+RPT0118,U323,Rahul Yadav,R,OWN0116,Nikhil Sharma,Late Return,Returned 3 hours late,open,Low,2024-02-29,,Dehradun
+RPT0119,U395,Sonal Tiwari,S,OWN0910,Divya Reddy,Harassment,Unprofessional behaviour,resolved,Low,2024-02-09,2024-04-04,Nainital
+RPT0120,U062,Deepa Yadav,D,OWN0965,Vikram Patel,Vehicle Damage,Scratches on delivery,open,Low,2024-04-08,,Haridwar
+RPT0121,U002,Vikram Joshi,V,OWN0909,Dev Pandey,Rash Driving,Traffic rules violated,resolved,High,2024-01-13,2024-03-24,Rishikesh
+RPT0122,U490,Dev Verma,D,OWN0692,Divya Pandey,Overcharging,Charged extra ₹500,resolved,High,2024-03-31,2024-04-08,Mussoorie
+RPT0123,U040,Tarun Tiwari,T,OWN0168,Mohan Rao,Other,General complaint,open,Medium,2024-02-10,,Dehradun
+RPT0124,U309,Karan Kumar,K,OWN0318,Aakash Verma,Vehicle Damage,Broken mirror,open,Medium,2024-02-26,,Dehradun
+RPT0125,U193,Mohan Rao,M,OWN0324,Mohan Bose,Late Return,4 hours delay,resolved,Medium,2024-03-16,2024-04-05,Dehradun
+RPT0126,U495,Sonal Yadav,S,OWN0786,Dev Srivastava,Rash Driving,Traffic rules violated,open,High,2024-03-11,,Rishikesh
+RPT0127,U271,Vikram Sharma,V,OWN0663,Rajesh Singh,Rash Driving,Speeding complaint,resolved,Medium,2024-03-26,2024-03-30,Rishikesh
+RPT0128,U046,Deepa Das,D,OWN0445,Rajesh Yadav,Late Return,Returned 3 hours late,escalated,Medium,2024-01-04,,Mussoorie
+RPT0129,U192,Suresh Agarwal,S,OWN0975,Ritika Gupta,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-02-05,2024-03-27,Mussoorie
+RPT0130,U369,Vikram Singh,V,OWN0734,Rohit Patel,Harassment,Threatening calls,escalated,Low,2024-01-02,,Haridwar
+RPT0131,U191,Vikram Srivastava,V,OWN0388,Kavya Verma,Vehicle Damage,Tyre damage on return,open,Medium,2024-01-24,,Haridwar
+RPT0132,U452,Karan Yadav,K,OWN0603,Deepa Nair,Harassment,Threatening calls,resolved,Low,2024-02-16,2024-02-21,Haridwar
+RPT0133,U167,Ravi Sharma,R,OWN0812,Shreya Yadav,Cancellation Issue,Cancelled without notice,resolved,High,2024-01-01,2024-03-19,Haridwar
+RPT0134,U061,Pooja Nair,P,OWN0652,Aman Agarwal,Harassment,Inappropriate messages,resolved,Low,2024-04-07,2024-04-09,Dehradun
+RPT0135,U405,Aman Mishra,A,OWN0209,Shreya Verma,Other,General complaint,resolved,Medium,2024-01-29,2024-01-29,Auli
+RPT0136,U214,Aditi Bose,A,OWN0208,Rahul Bose,Late Return,4 hours delay,resolved,Medium,2024-03-22,2024-04-02,Nainital
+RPT0137,U026,Suresh Pandey,S,OWN0125,Meena Shah,Other,General complaint,resolved,High,2024-01-15,2024-03-13,Dehradun
+RPT0138,U236,Mohan Bose,M,OWN0656,Aakash Nair,Vehicle Damage,Tyre damage on return,open,Medium,2024-02-04,,Mussoorie
+RPT0139,U146,Suresh Srivastava,S,OWN0034,Sonal Shah,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-03-17,2024-04-03,Rishikesh
+RPT0140,U077,Ravi Reddy,R,OWN0225,Aman Reddy,Harassment,Unprofessional behaviour,resolved,Low,2024-01-09,2024-03-18,Rishikesh
+RPT0141,U277,Nisha Reddy,N,OWN0157,Rohit Joshi,Other,Feedback issue,resolved,Medium,2024-02-27,2024-03-23,Chakrata
+RPT0142,U091,Rajesh Rao,R,OWN0943,Nisha Mehta,Harassment,Unprofessional behaviour,resolved,High,2024-03-09,2024-03-11,Mussoorie
+RPT0143,U132,Dev Mishra,D,OWN0605,Ananya Sharma,Other,General complaint,resolved,Low,2024-01-09,2024-02-02,Nainital
+RPT0144,U078,Tarun Gupta,T,OWN0068,Divya Mishra,Rash Driving,Speeding complaint,resolved,Medium,2024-02-19,2024-04-05,Rishikesh
+RPT0145,U082,Ritika Das,R,OWN0187,Pooja Pandey,Late Return,Vehicle returned next day without notice,open,Low,2024-02-05,,Mussoorie
+RPT0146,U041,Suresh Mishra,S,OWN0058,Sonal Rao,Late Return,4 hours delay,open,Medium,2024-03-23,,Mussoorie
+RPT0147,U465,Sonal Agarwal,S,OWN0655,Sneha Nair,Rash Driving,Traffic rules violated,open,High,2024-03-25,,Dehradun
+RPT0148,U373,Priya Patel,P,OWN0391,Nikhil Bose,Late Return,Returned 3 hours late,open,High,2024-02-16,,Nainital
+RPT0149,U157,Pooja Shah,P,OWN0269,Rahul Tiwari,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-02-08,2024-03-17,Haridwar
+RPT0150,U290,Ishaan Gupta,I,OWN0887,Kavya Gupta,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-01-20,2024-02-09,Rishikesh
+RPT0151,U433,Suresh Singh,S,OWN0656,Suresh Reddy,Vehicle Damage,Scratches on delivery,resolved,Low,2024-01-03,2024-02-09,Rishikesh
+RPT0152,U219,Aakash Pandey,A,OWN0099,Neha Nair,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-02-24,2024-04-02,Dehradun
+RPT0153,U241,Rahul Das,R,OWN0993,Aman Mishra,Vehicle Damage,Broken mirror,resolved,Medium,2024-02-22,2024-03-10,Chakrata
+RPT0154,U246,Dev Bose,D,OWN0999,Kavya Mishra,Vehicle Damage,Tyre damage on return,resolved,High,2024-02-02,2024-02-02,Dehradun
+RPT0155,U034,Tarun Reddy,T,OWN0886,Suresh Gupta,Vehicle Damage,Tyre damage on return,open,Medium,2024-01-26,,Mussoorie
+RPT0156,U352,Pooja Shah,P,OWN0312,Deepa Srivastava,Harassment,Threatening calls,resolved,Medium,2024-01-23,2024-02-04,Mussoorie
+RPT0157,U093,Ananya Gupta,A,OWN0614,Sonal Singh,Cancellation Issue,Cancelled without notice,escalated,High,2024-03-05,,Nainital
+RPT0158,U478,Ravi Yadav,R,OWN0149,Rajesh Nair,Harassment,Unprofessional behaviour,open,Low,2024-01-30,,Dehradun
+RPT0159,U348,Arjun Agarwal,A,OWN0519,Arjun Patel,Cancellation Issue,Last minute cancellation,open,Medium,2024-03-14,,Rishikesh
+RPT0160,U143,Rohit Das,R,OWN0807,Arjun Gupta,Cancellation Issue,Cancelled without notice,open,Medium,2024-02-03,,Dehradun
+RPT0161,U174,Dev Pandey,D,OWN0617,Rohit Kumar,Late Return,4 hours delay,resolved,Low,2024-02-10,2024-04-05,Lansdowne
+RPT0162,U458,Ananya Tiwari,A,OWN0826,Sneha Mehta,Rash Driving,Witnessed rash driving,resolved,Medium,2024-03-20,2024-03-20,Rishikesh
+RPT0163,U061,Rajesh Mishra,R,OWN0919,Arjun Mishra,Rash Driving,Witnessed rash driving,resolved,Medium,2024-03-19,2024-04-10,Dehradun
+RPT0164,U075,Neha Joshi,N,OWN0583,Ananya Nair,Vehicle Not as Described,Mileage not as stated,open,Low,2024-01-31,,Rishikesh
+RPT0165,U252,Karan Patel,K,OWN0383,Aman Sharma,Harassment,Threatening calls,resolved,Low,2024-01-22,2024-03-03,Haridwar
+RPT0166,U088,Ravi Verma,R,OWN0043,Dev Das,Vehicle Damage,Dent on bumper,resolved,Medium,2024-02-09,2024-02-20,Rishikesh
+RPT0167,U093,Sonal Joshi,S,OWN0889,Tarun Srivastava,Cancellation Issue,Cancelled without notice,resolved,Low,2024-03-07,2024-03-17,Mussoorie
+RPT0168,U371,Karan Pandey,K,OWN0020,Nisha Singh,Cancellation Issue,Refund not received,escalated,Medium,2024-03-05,,Dehradun
+RPT0169,U104,Ritika Gupta,R,OWN0996,Suresh Srivastava,Overcharging,Hidden fuel charges,open,Low,2024-02-23,,Dehradun
+RPT0170,U326,Rajesh Sharma,R,OWN0795,Karan Verma,Cancellation Issue,Cancelled without notice,resolved,Low,2024-01-26,2024-03-02,Auli
+RPT0171,U388,Meena Das,M,OWN0522,Kavya Agarwal,Other,General complaint,escalated,Low,2024-03-02,,Dehradun
+RPT0172,U242,Aman Reddy,A,OWN0032,Aakash Mishra,Other,General complaint,resolved,Medium,2024-03-16,2024-04-02,Auli
+RPT0173,U336,Nikhil Patel,N,OWN0675,Aakash Shah,Late Return,Vehicle returned next day without notice,resolved,Low,2024-01-23,2024-03-05,Rishikesh
+RPT0174,U250,Nikhil Pandey,N,OWN0277,Nikhil Verma,Cancellation Issue,Refund not received,resolved,High,2024-01-25,2024-03-06,Auli
+RPT0175,U278,Ishaan Joshi,I,OWN0804,Rohit Agarwal,Overcharging,Hidden fuel charges,open,Medium,2024-01-22,,Haridwar
+RPT0176,U376,Meena Kumar,M,OWN0215,Nisha Singh,Overcharging,Hidden fuel charges,resolved,High,2024-03-16,2024-04-06,Nainital
+RPT0177,U222,Sonal Bose,S,OWN0817,Deepa Joshi,Harassment,Unprofessional behaviour,escalated,Medium,2024-01-06,,Rishikesh
+RPT0178,U271,Karan Reddy,K,OWN0738,Aditi Shah,Vehicle Damage,Dent on bumper,resolved,High,2024-02-19,2024-02-28,Lansdowne
+RPT0179,U095,Dev Reddy,D,OWN0383,Kavya Nair,Harassment,Inappropriate messages,open,Low,2024-01-02,,Dehradun
+RPT0180,U193,Ravi Mishra,R,OWN0667,Deepa Agarwal,Rash Driving,Witnessed rash driving,open,Medium,2024-03-22,,Dehradun
+RPT0181,U072,Karan Mishra,K,OWN0173,Amit Reddy,Harassment,Unprofessional behaviour,open,Medium,2024-03-19,,Mussoorie
+RPT0182,U281,Ishaan Reddy,I,OWN0778,Shreya Reddy,Vehicle Damage,Tyre damage on return,escalated,Low,2024-03-27,,Rishikesh
+RPT0183,U145,Ravi Mehta,R,OWN0937,Karan Pandey,Late Return,Returned 3 hours late,resolved,High,2024-01-01,2024-02-22,Rishikesh
+RPT0184,U147,Rohit Rao,R,OWN0215,Nikhil Nair,Cancellation Issue,Cancelled without notice,resolved,Low,2024-03-12,2024-04-07,Dehradun
+RPT0185,U254,Aakash Agarwal,A,OWN0218,Aakash Das,Harassment,Inappropriate messages,resolved,Low,2024-04-01,2024-04-02,Mussoorie
+RPT0186,U029,Nikhil Verma,N,OWN0239,Nisha Verma,Late Return,4 hours delay,escalated,High,2024-03-28,,Haridwar
+RPT0187,U169,Shreya Pandey,S,OWN0525,Kavya Rao,Other,General complaint,escalated,High,2024-03-13,,Dehradun
+RPT0188,U435,Tarun Nair,T,OWN0286,Rajesh Mehta,Vehicle Damage,Scratches on delivery,resolved,Low,2024-01-09,2024-04-06,Nainital
+RPT0189,U198,Ananya Shah,A,OWN0709,Rajesh Verma,Late Return,Vehicle returned next day without notice,open,High,2024-01-16,,Dehradun
+RPT0190,U251,Nisha Kumar,N,OWN0459,Nikhil Sharma,Rash Driving,Speeding complaint,open,High,2024-01-14,,Dehradun
+RPT0191,U270,Amit Das,A,OWN0095,Aakash Gupta,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-03-04,2024-03-14,Dehradun
+RPT0192,U060,Meena Tiwari,M,OWN0134,Aakash Srivastava,Rash Driving,Witnessed rash driving,resolved,Low,2024-01-04,2024-01-15,Mussoorie
+RPT0193,U116,Neha Singh,N,OWN0020,Ishaan Gupta,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-01-02,2024-01-25,Haridwar
+RPT0194,U327,Arjun Yadav,A,OWN0200,Amit Sharma,Late Return,Returned 3 hours late,open,High,2024-01-29,,Rishikesh
+RPT0195,U290,Deepa Das,D,OWN0909,Aakash Gupta,Vehicle Damage,Broken mirror,open,High,2024-01-23,,Nainital
+RPT0196,U043,Aakash Patel,A,OWN0836,Meena Singh,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-02-19,2024-03-21,Dehradun
+RPT0197,U366,Sonal Das,S,OWN0008,Suresh Joshi,Vehicle Not as Described,Mileage not as stated,open,Medium,2024-02-16,,Nainital
+RPT0198,U186,Aman Kumar,A,OWN0978,Meena Mehta,Rash Driving,Speeding complaint,escalated,High,2024-01-31,,Lansdowne
+RPT0199,U296,Rohit Pandey,R,OWN0961,Neha Nair,Vehicle Damage,Dent on bumper,resolved,High,2024-02-09,2024-04-06,Rishikesh
+RPT0200,U052,Karan Patel,K,OWN0674,Aditi Sharma,Late Return,4 hours delay,escalated,Medium,2024-04-03,,Dehradun
+RPT0201,U245,Pooja Gupta,P,OWN0654,Divya Joshi,Overcharging,Hidden fuel charges,escalated,Medium,2024-02-07,,Mussoorie
+RPT0202,U289,Rahul Patel,R,OWN0815,Meena Patel,Harassment,Unprofessional behaviour,open,Low,2024-02-13,,Auli
+RPT0203,U114,Ravi Kumar,R,OWN0603,Vikram Reddy,Cancellation Issue,Cancelled without notice,open,Low,2024-03-02,,Dehradun
+RPT0204,U350,Meena Nair,M,OWN0370,Rahul Gupta,Vehicle Not as Described,Mileage not as stated,open,Medium,2024-01-14,,Rishikesh
+RPT0205,U003,Divya Sharma,D,OWN0231,Sonal Rao,Late Return,4 hours delay,open,Low,2024-02-04,,Rishikesh
+RPT0206,U372,Kavya Verma,K,OWN0398,Aakash Verma,Cancellation Issue,Last minute cancellation,resolved,High,2024-03-06,2024-03-12,Rishikesh
+RPT0207,U002,Neha Pandey,N,OWN0357,Neha Shah,Vehicle Damage,Scratches on delivery,open,Medium,2024-01-18,,Dehradun
+RPT0208,U017,Rajesh Mishra,R,OWN0123,Ritika Bose,Late Return,Returned 3 hours late,resolved,Medium,2024-03-03,2024-04-01,Rishikesh
+RPT0209,U049,Ishaan Pandey,I,OWN0664,Arjun Yadav,Cancellation Issue,Last minute cancellation,open,Medium,2024-01-03,,Rishikesh
+RPT0210,U346,Suresh Tiwari,S,OWN0436,Amit Das,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-01-26,2024-02-16,Dehradun
+RPT0211,U485,Amit Nair,A,OWN0083,Ishaan Sharma,Vehicle Damage,Dent on bumper,resolved,Medium,2024-02-02,2024-03-16,Dehradun
+RPT0212,U046,Rohit Verma,R,OWN0805,Aditi Nair,Other,General complaint,resolved,Medium,2024-02-18,2024-03-26,Auli
+RPT0213,U443,Pooja Tiwari,P,OWN0595,Ananya Tiwari,Vehicle Not as Described,AC not working,open,Low,2024-02-13,,Lansdowne
+RPT0214,U460,Aman Agarwal,A,OWN0737,Sonal Tiwari,Vehicle Damage,Broken mirror,resolved,Medium,2024-01-19,2024-02-28,Rishikesh
+RPT0215,U353,Aditi Bose,A,OWN0261,Karan Agarwal,Vehicle Not as Described,Mileage not as stated,resolved,High,2024-01-18,2024-04-05,Dehradun
+RPT0216,U331,Nisha Kumar,N,OWN0271,Kavya Agarwal,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-02-03,,Dehradun
+RPT0217,U152,Neha Nair,N,OWN0061,Nikhil Agarwal,Rash Driving,Witnessed rash driving,open,High,2024-02-23,,Rishikesh
+RPT0218,U104,Mohan Gupta,M,OWN0193,Rohit Gupta,Cancellation Issue,Refund not received,escalated,Medium,2024-02-11,,Chakrata
+RPT0219,U475,Priya Nair,P,OWN0379,Rohit Singh,Vehicle Damage,Scratches on delivery,open,Medium,2024-03-14,,Lansdowne
+RPT0220,U395,Amit Rao,A,OWN0568,Arjun Das,Other,General complaint,open,Medium,2024-03-19,,Mussoorie
+RPT0221,U381,Meena Shah,M,OWN0646,Ishaan Kumar,Rash Driving,Witnessed rash driving,resolved,Low,2024-04-06,2024-04-10,Dehradun
+RPT0222,U182,Suresh Kumar,S,OWN0140,Nikhil Singh,Harassment,Threatening calls,resolved,Medium,2024-03-24,2024-04-01,Mussoorie
+RPT0223,U285,Divya Tiwari,D,OWN0392,Arjun Mishra,Other,General complaint,open,Medium,2024-02-18,,Auli
+RPT0224,U333,Aakash Verma,A,OWN0254,Nikhil Bose,Vehicle Damage,Dent on bumper,resolved,Medium,2024-04-05,2024-04-05,Nainital
+RPT0225,U005,Aditi Reddy,A,OWN0353,Deepa Mishra,Overcharging,Charged extra ₹500,resolved,Medium,2024-03-06,2024-04-08,Mussoorie
+RPT0226,U073,Aman Patel,A,OWN0191,Ritika Das,Overcharging,Hidden fuel charges,resolved,Medium,2024-02-11,2024-03-18,Dehradun
+RPT0227,U271,Rahul Tiwari,R,OWN0191,Nisha Joshi,Late Return,4 hours delay,resolved,Low,2024-03-13,2024-04-10,Dehradun
+RPT0228,U222,Dev Patel,D,OWN0911,Aman Das,Cancellation Issue,Cancelled without notice,open,Low,2024-01-25,,Dehradun
+RPT0229,U221,Deepa Nair,D,OWN0476,Nikhil Pandey,Vehicle Not as Described,Mileage not as stated,open,High,2024-01-03,,Mussoorie
+RPT0230,U063,Tarun Sharma,T,OWN0337,Aman Nair,Late Return,Returned 3 hours late,resolved,Medium,2024-03-15,2024-03-16,Mussoorie
+RPT0231,U389,Pooja Tiwari,P,OWN0959,Kavya Rao,Other,General complaint,escalated,Low,2024-02-07,,Mussoorie
+RPT0232,U233,Nikhil Agarwal,N,OWN0483,Karan Das,Late Return,4 hours delay,open,Medium,2024-02-09,,Dehradun
+RPT0233,U212,Dev Agarwal,D,OWN0623,Vikram Shah,Cancellation Issue,Refund not received,resolved,Medium,2024-04-05,2024-04-09,Rishikesh
+RPT0234,U244,Karan Mehta,K,OWN0987,Rohit Patel,Harassment,Threatening calls,open,Low,2024-01-30,,Dehradun
+RPT0235,U021,Vikram Agarwal,V,OWN0416,Shreya Mishra,Late Return,4 hours delay,resolved,Low,2024-03-14,2024-03-17,Auli
+RPT0236,U158,Karan Sharma,K,OWN0915,Rajesh Pandey,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-01-09,2024-02-07,Dehradun
+RPT0237,U281,Priya Agarwal,P,OWN0035,Ritika Tiwari,Other,Miscellaneous,resolved,Medium,2024-02-19,2024-03-27,Dehradun
+RPT0238,U096,Aakash Patel,A,OWN0439,Tarun Patel,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-01-21,2024-02-17,Rishikesh
+RPT0239,U039,Nisha Rao,N,OWN0198,Pooja Gupta,Vehicle Damage,Dent on bumper,open,Medium,2024-01-09,,Mussoorie
+RPT0240,U074,Suresh Kumar,S,OWN0067,Neha Verma,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-02-25,2024-03-06,Dehradun
+RPT0241,U247,Ishaan Patel,I,OWN0751,Ananya Verma,Rash Driving,Witnessed rash driving,resolved,Medium,2024-02-02,2024-03-14,Auli
+RPT0242,U480,Karan Gupta,K,OWN0668,Neha Pandey,Harassment,Unprofessional behaviour,resolved,Medium,2024-02-09,2024-03-17,Dehradun
+RPT0243,U372,Aman Sharma,A,OWN0559,Aakash Reddy,Harassment,Unprofessional behaviour,resolved,Medium,2024-01-30,2024-04-09,Dehradun
+RPT0244,U188,Dev Reddy,D,OWN0754,Ishaan Kumar,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-02-08,2024-03-06,Dehradun
+RPT0245,U136,Ishaan Gupta,I,OWN0521,Mohan Shah,Vehicle Damage,Scratches on delivery,resolved,Low,2024-03-27,2024-04-06,Dehradun
+RPT0246,U095,Amit Reddy,A,OWN0801,Arjun Agarwal,Vehicle Not as Described,AC not working,resolved,Medium,2024-02-21,2024-03-08,Mussoorie
+RPT0247,U392,Nikhil Agarwal,N,OWN0855,Karan Gupta,Vehicle Damage,Broken mirror,resolved,Medium,2024-03-10,2024-03-15,Rishikesh
+RPT0248,U391,Aditi Bose,A,OWN0756,Karan Reddy,Rash Driving,Traffic rules violated,escalated,Low,2024-02-27,,Rishikesh
+RPT0249,U398,Ishaan Reddy,I,OWN0807,Tarun Patel,Vehicle Damage,Broken mirror,open,Medium,2024-03-24,,Mussoorie
+RPT0250,U131,Sonal Mehta,S,OWN0743,Dev Joshi,Harassment,Unprofessional behaviour,resolved,Medium,2024-02-06,2024-03-29,Mussoorie
+RPT0251,U475,Tarun Nair,T,OWN0665,Aditi Mehta,Late Return,4 hours delay,resolved,Medium,2024-01-27,2024-04-07,Dehradun
+RPT0252,U107,Mohan Bose,M,OWN0190,Ananya Reddy,Late Return,4 hours delay,open,High,2024-02-16,,Auli
+RPT0253,U033,Suresh Singh,S,OWN0668,Sneha Patel,Late Return,4 hours delay,open,Medium,2024-01-26,,Nainital
+RPT0254,U207,Aman Yadav,A,OWN0524,Dev Verma,Other,Miscellaneous,resolved,Low,2024-04-07,2024-04-10,Dehradun
+RPT0255,U002,Vikram Sharma,V,OWN0255,Sonal Gupta,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-03-08,2024-03-12,Dehradun
+RPT0256,U114,Ravi Das,R,OWN0337,Ishaan Bose,Rash Driving,Witnessed rash driving,resolved,Low,2024-02-26,2024-02-29,Haridwar
+RPT0257,U331,Nisha Kumar,N,OWN0281,Suresh Bose,Overcharging,Hidden fuel charges,resolved,High,2024-01-24,2024-03-04,Dehradun
+RPT0258,U077,Sneha Mehta,S,OWN0044,Rajesh Mehta,Harassment,Unprofessional behaviour,resolved,Medium,2024-03-16,2024-04-01,Rishikesh
+RPT0259,U456,Mohan Mehta,M,OWN0237,Rahul Pandey,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-02-13,2024-02-17,Mussoorie
+RPT0260,U044,Rohit Gupta,R,OWN0870,Aditi Das,Vehicle Not as Described,AC not working,resolved,Medium,2024-02-19,2024-03-18,Dehradun
+RPT0261,U104,Shreya Agarwal,S,OWN0132,Pooja Das,Overcharging,Hidden fuel charges,escalated,Medium,2024-01-05,,Rishikesh
+RPT0262,U279,Deepa Das,D,OWN0436,Kavya Gupta,Overcharging,Hidden fuel charges,resolved,Low,2024-01-28,2024-02-13,Haridwar
+RPT0263,U213,Shreya Joshi,S,OWN0626,Ishaan Mishra,Other,Miscellaneous,open,High,2024-02-22,,Dehradun
+RPT0264,U243,Pooja Gupta,P,OWN0715,Suresh Bose,Vehicle Damage,Broken mirror,open,Medium,2024-02-24,,Auli
+RPT0265,U125,Mohan Patel,M,OWN0488,Tarun Tiwari,Harassment,Threatening calls,escalated,Low,2024-02-21,,Nainital
+RPT0266,U247,Rajesh Nair,R,OWN0732,Dev Reddy,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-02-15,,Mussoorie
+RPT0267,U212,Priya Das,P,OWN0997,Mohan Reddy,Vehicle Not as Described,Mileage not as stated,resolved,High,2024-02-13,2024-03-02,Rishikesh
+RPT0268,U454,Meena Singh,M,OWN0289,Aditi Rao,Overcharging,Hidden fuel charges,resolved,Medium,2024-01-25,2024-02-17,Rishikesh
+RPT0269,U080,Neha Nair,N,OWN0832,Nisha Mehta,Harassment,Unprofessional behaviour,resolved,Medium,2024-03-04,2024-04-10,Mussoorie
+RPT0270,U371,Aman Patel,A,OWN0449,Tarun Agarwal,Late Return,Returned 3 hours late,resolved,Low,2024-02-20,2024-03-28,Dehradun
+RPT0271,U372,Aman Verma,A,OWN0220,Dev Rao,Rash Driving,Witnessed rash driving,escalated,Medium,2024-03-06,,Rishikesh
+RPT0272,U164,Vikram Kumar,V,OWN0016,Nisha Agarwal,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-03-06,2024-04-04,Nainital
+RPT0273,U383,Nisha Joshi,N,OWN0640,Nikhil Joshi,Vehicle Damage,Scratches on delivery,resolved,High,2024-03-04,2024-03-23,Dehradun
+RPT0274,U093,Ananya Singh,A,OWN0068,Ishaan Pandey,Other,Feedback issue,resolved,Medium,2024-02-16,2024-03-10,Rishikesh
+RPT0275,U325,Aditi Das,A,OWN0073,Aman Nair,Vehicle Not as Described,Mileage not as stated,open,Low,2024-03-07,,Dehradun
+RPT0276,U456,Vikram Mishra,V,OWN0491,Karan Reddy,Cancellation Issue,Last minute cancellation,open,Medium,2024-02-20,,Auli
+RPT0277,U208,Aman Sharma,A,OWN0765,Suresh Pandey,Vehicle Not as Described,AC not working,open,Medium,2024-01-15,,Lansdowne
+RPT0278,U041,Rajesh Pandey,R,OWN0416,Aman Mehta,Late Return,Vehicle returned next day without notice,open,Medium,2024-03-25,,Rishikesh
+RPT0279,U262,Priya Verma,P,OWN0219,Sneha Pandey,Other,Miscellaneous,resolved,Low,2024-03-30,2024-04-04,Rishikesh
+RPT0280,U009,Meena Das,M,OWN0196,Rohit Mehta,Cancellation Issue,Refund not received,open,High,2024-02-03,,Dehradun
+RPT0281,U361,Sonal Agarwal,S,OWN0603,Meena Pandey,Overcharging,Extra cleaning fee not mentioned,open,High,2024-03-21,,Mussoorie
+RPT0282,U164,Nisha Das,N,OWN0038,Pooja Kumar,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-03-06,2024-03-18,Rishikesh
+RPT0283,U134,Vikram Kumar,V,OWN0142,Nikhil Pandey,Rash Driving,Witnessed rash driving,resolved,Low,2024-02-09,2024-04-05,Dehradun
+RPT0284,U085,Arjun Shah,A,OWN0214,Ishaan Sharma,Other,Miscellaneous,open,Medium,2024-03-19,,Dehradun
+RPT0285,U044,Nikhil Joshi,N,OWN0282,Aakash Mishra,Rash Driving,Speeding complaint,resolved,Low,2024-01-09,2024-03-26,Mussoorie
+RPT0286,U176,Meena Pandey,M,OWN0801,Aakash Das,Vehicle Damage,Tyre damage on return,resolved,High,2024-01-06,2024-02-06,Dehradun
+RPT0287,U443,Nisha Joshi,N,OWN0453,Kavya Gupta,Rash Driving,Traffic rules violated,open,Medium,2024-02-23,,Dehradun
+RPT0288,U205,Dev Srivastava,D,OWN0495,Meena Nair,Vehicle Damage,Broken mirror,open,Low,2024-02-06,,Mussoorie
+RPT0289,U488,Aditi Rao,A,OWN0892,Ravi Pandey,Rash Driving,Speeding complaint,open,High,2024-04-05,,Dehradun
+RPT0290,U400,Rajesh Bose,R,OWN0122,Nikhil Yadav,Harassment,Inappropriate messages,open,Low,2024-03-01,,Rishikesh
+RPT0291,U084,Amit Shah,A,OWN0905,Kavya Rao,Vehicle Not as Described,Wrong model delivered,open,High,2024-03-26,,Auli
+RPT0292,U229,Meena Bose,M,OWN0286,Neha Patel,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-02-18,2024-03-20,Dehradun
+RPT0293,U299,Meena Shah,M,OWN0893,Aman Reddy,Harassment,Threatening calls,resolved,Medium,2024-03-05,2024-03-19,Mussoorie
+RPT0294,U355,Sneha Mishra,S,OWN0599,Rahul Shah,Late Return,Vehicle returned next day without notice,open,Medium,2024-02-08,,Mussoorie
+RPT0295,U096,Rajesh Singh,R,OWN0464,Aditi Tiwari,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-02-03,2024-02-22,Rishikesh
+RPT0296,U172,Rohit Srivastava,R,OWN0848,Deepa Mehta,Harassment,Unprofessional behaviour,open,Medium,2024-01-09,,Nainital
+RPT0297,U447,Ravi Patel,R,OWN0626,Neha Rao,Other,Feedback issue,escalated,Low,2024-02-10,,Dehradun
+RPT0298,U016,Sneha Mishra,S,OWN0424,Nisha Shah,Overcharging,Extra cleaning fee not mentioned,escalated,Medium,2024-03-12,,Mussoorie
+RPT0299,U191,Amit Nair,A,OWN0492,Rajesh Sharma,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-03-12,2024-03-15,Dehradun
+RPT0300,U166,Meena Srivastava,M,OWN0858,Ravi Nair,Rash Driving,Traffic rules violated,resolved,Low,2024-03-17,2024-04-10,Mussoorie
+RPT0301,U246,Shreya Nair,S,OWN0069,Nisha Pandey,Harassment,Inappropriate messages,open,Medium,2024-02-01,,Haridwar
+RPT0302,U120,Nikhil Patel,N,OWN0784,Amit Pandey,Harassment,Inappropriate messages,resolved,Low,2024-01-09,2024-01-24,Dehradun
+RPT0303,U210,Aditi Verma,A,OWN0702,Divya Shah,Rash Driving,Traffic rules violated,resolved,Medium,2024-01-19,2024-01-22,Mussoorie
+RPT0304,U423,Rohit Bose,R,OWN0499,Rajesh Sharma,Harassment,Threatening calls,open,High,2024-02-20,,Dehradun
+RPT0305,U333,Vikram Verma,V,OWN0106,Aditi Kumar,Rash Driving,Traffic rules violated,escalated,Medium,2024-02-02,,Dehradun
+RPT0306,U443,Nisha Shah,N,OWN0256,Ishaan Rao,Vehicle Damage,Dent on bumper,resolved,Medium,2024-01-10,2024-01-13,Haridwar
+RPT0307,U440,Meena Mishra,M,OWN0027,Pooja Tiwari,Overcharging,Hidden fuel charges,open,Medium,2024-01-03,,Mussoorie
+RPT0308,U308,Arjun Joshi,A,OWN0193,Priya Mishra,Vehicle Damage,Dent on bumper,escalated,Low,2024-01-05,,Dehradun
+RPT0309,U327,Rajesh Mishra,R,OWN0527,Kavya Rao,Vehicle Not as Described,Mileage not as stated,escalated,Low,2024-01-16,,Rishikesh
+RPT0310,U090,Dev Srivastava,D,OWN0834,Ritika Bose,Harassment,Unprofessional behaviour,resolved,Low,2024-01-12,2024-02-11,Dehradun
+RPT0311,U316,Pooja Yadav,P,OWN0021,Priya Das,Cancellation Issue,Refund not received,escalated,Medium,2024-02-25,,Rishikesh
+RPT0312,U445,Divya Mehta,D,OWN0906,Sonal Tiwari,Harassment,Inappropriate messages,open,Low,2024-02-18,,Dehradun
+RPT0313,U158,Priya Nair,P,OWN0910,Sneha Mehta,Vehicle Damage,Tyre damage on return,open,Medium,2024-01-28,,Dehradun
+RPT0314,U190,Kavya Tiwari,K,OWN0289,Suresh Gupta,Vehicle Not as Described,AC not working,escalated,Low,2024-03-22,,Haridwar
+RPT0315,U144,Tarun Agarwal,T,OWN0466,Mohan Mehta,Rash Driving,Speeding complaint,resolved,Medium,2024-04-07,2024-04-07,Dehradun
+RPT0316,U460,Ravi Kumar,R,OWN0915,Pooja Joshi,Overcharging,Hidden fuel charges,escalated,Low,2024-03-31,,Rishikesh
+RPT0317,U367,Divya Agarwal,D,OWN0129,Divya Das,Vehicle Not as Described,Mileage not as stated,open,Low,2024-01-24,,Haridwar
+RPT0318,U262,Priya Patel,P,OWN0801,Nisha Verma,Vehicle Damage,Tyre damage on return,resolved,Low,2024-03-04,2024-03-08,Dehradun
+RPT0319,U345,Rohit Shah,R,OWN0091,Nisha Mishra,Vehicle Not as Described,AC not working,open,Medium,2024-04-09,,Nainital
+RPT0320,U389,Ananya Mishra,A,OWN0788,Rohit Agarwal,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-03-26,,Dehradun
+RPT0321,U322,Deepa Agarwal,D,OWN0112,Neha Shah,Harassment,Unprofessional behaviour,open,Medium,2024-03-19,,Mussoorie
+RPT0322,U169,Sneha Sharma,S,OWN0238,Neha Mishra,Rash Driving,Traffic rules violated,resolved,Medium,2024-03-22,2024-03-31,Dehradun
+RPT0323,U389,Aditi Das,A,OWN0017,Kavya Mishra,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-02-04,2024-02-11,Mussoorie
+RPT0324,U387,Karan Kumar,K,OWN0589,Ananya Singh,Overcharging,Hidden fuel charges,escalated,Medium,2024-04-09,,Dehradun
+RPT0325,U014,Aakash Singh,A,OWN0246,Shreya Rao,Cancellation Issue,Last minute cancellation,open,Low,2024-03-28,,Mussoorie
+RPT0326,U451,Meena Yadav,M,OWN0026,Ishaan Mishra,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-04-05,2024-04-10,Rishikesh
+RPT0327,U420,Aditi Reddy,A,OWN0309,Ravi Nair,Cancellation Issue,Refund not received,escalated,Medium,2024-04-02,,Rishikesh
+RPT0328,U428,Nikhil Patel,N,OWN0609,Sneha Shah,Other,Miscellaneous,resolved,Low,2024-03-10,2024-03-23,Dehradun
+RPT0329,U259,Nisha Tiwari,N,OWN0781,Rajesh Das,Cancellation Issue,Refund not received,escalated,Medium,2024-01-11,,Dehradun
+RPT0330,U175,Dev Mehta,D,OWN0744,Aakash Reddy,Vehicle Damage,Dent on bumper,resolved,Medium,2024-03-27,2024-04-04,Dehradun
+RPT0331,U222,Divya Tiwari,D,OWN0647,Deepa Bose,Late Return,4 hours delay,resolved,Medium,2024-03-12,2024-03-24,Haridwar
+RPT0332,U175,Aakash Agarwal,A,OWN0162,Mohan Mishra,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-02-27,2024-02-27,Nainital
+RPT0333,U274,Nikhil Reddy,N,OWN0458,Ananya Reddy,Overcharging,Hidden fuel charges,open,Low,2024-02-27,,Dehradun
+RPT0334,U249,Vikram Yadav,V,OWN0047,Rohit Pandey,Vehicle Damage,Scratches on delivery,open,Low,2024-03-26,,Chakrata
+RPT0335,U205,Divya Rao,D,OWN0942,Amit Rao,Rash Driving,Speeding complaint,open,Low,2024-03-15,,Dehradun
+RPT0336,U323,Nikhil Rao,N,OWN0845,Ishaan Rao,Overcharging,Charged extra ₹500,open,Medium,2024-01-06,,Dehradun
+RPT0337,U466,Amit Shah,A,OWN0767,Mohan Sharma,Late Return,Returned 3 hours late,resolved,High,2024-03-14,2024-03-15,Haridwar
+RPT0338,U313,Mohan Gupta,M,OWN0753,Meena Shah,Harassment,Unprofessional behaviour,escalated,Medium,2024-03-03,,Dehradun
+RPT0339,U398,Meena Agarwal,M,OWN0679,Suresh Rao,Harassment,Threatening calls,escalated,High,2024-01-11,,Dehradun
+RPT0340,U175,Suresh Tiwari,S,OWN0139,Kavya Sharma,Rash Driving,Traffic rules violated,open,High,2024-02-14,,Auli
+RPT0341,U039,Tarun Pandey,T,OWN0082,Deepa Reddy,Rash Driving,Witnessed rash driving,resolved,High,2024-01-02,2024-02-13,Dehradun
+RPT0342,U253,Pooja Gupta,P,OWN0827,Tarun Pandey,Vehicle Damage,Tyre damage on return,resolved,Low,2024-01-08,2024-02-11,Dehradun
+RPT0343,U412,Pooja Yadav,P,OWN0570,Aakash Patel,Vehicle Damage,Scratches on delivery,open,Medium,2024-03-11,,Dehradun
+RPT0344,U379,Rohit Rao,R,OWN0486,Neha Singh,Overcharging,Hidden fuel charges,open,High,2024-02-08,,Rishikesh
+RPT0345,U122,Dev Srivastava,D,OWN0542,Amit Shah,Harassment,Inappropriate messages,escalated,High,2024-02-28,,Dehradun
+RPT0346,U083,Nikhil Shah,N,OWN0027,Nisha Rao,Late Return,Vehicle returned next day without notice,open,Medium,2024-01-06,,Auli
+RPT0347,U049,Rajesh Singh,R,OWN0753,Ananya Pandey,Vehicle Damage,Broken mirror,open,Medium,2024-04-02,,Nainital
+RPT0348,U323,Ananya Srivastava,A,OWN0775,Ananya Srivastava,Harassment,Unprofessional behaviour,open,High,2024-04-04,,Dehradun
+RPT0349,U446,Tarun Mishra,T,OWN0649,Sonal Rao,Rash Driving,Speeding complaint,resolved,Low,2024-02-21,2024-02-26,Haridwar
+RPT0350,U367,Ravi Bose,R,OWN0859,Deepa Joshi,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-03-15,2024-04-01,Mussoorie
+RPT0351,U395,Rahul Das,R,OWN0005,Pooja Mishra,Harassment,Inappropriate messages,open,High,2024-02-10,,Nainital
+RPT0352,U279,Arjun Sharma,A,OWN0807,Rajesh Singh,Vehicle Damage,Scratches on delivery,resolved,High,2024-02-03,2024-03-24,Auli
+RPT0353,U229,Ananya Joshi,A,OWN0832,Kavya Shah,Other,Feedback issue,open,Low,2024-02-14,,Haridwar
+RPT0354,U072,Vikram Gupta,V,OWN0107,Dev Yadav,Late Return,4 hours delay,open,High,2024-02-24,,Dehradun
+RPT0355,U244,Nikhil Mehta,N,OWN0398,Sneha Patel,Cancellation Issue,Cancelled without notice,open,Medium,2024-03-05,,Nainital
+RPT0356,U432,Divya Sharma,D,OWN0549,Ishaan Reddy,Vehicle Not as Described,Mileage not as stated,escalated,Medium,2024-03-11,,Mussoorie
+RPT0357,U258,Aman Verma,A,OWN0312,Kavya Patel,Late Return,Returned 3 hours late,resolved,Medium,2024-01-22,2024-03-02,Mussoorie
+RPT0358,U052,Aditi Srivastava,A,OWN0110,Kavya Pandey,Other,Miscellaneous,open,High,2024-03-02,,Mussoorie
+RPT0359,U213,Ishaan Agarwal,I,OWN0998,Sneha Tiwari,Late Return,Returned 3 hours late,resolved,High,2024-03-25,2024-03-29,Auli
+RPT0360,U232,Neha Gupta,N,OWN0013,Rajesh Sharma,Other,Feedback issue,resolved,Medium,2024-01-26,2024-04-02,Mussoorie
+RPT0361,U426,Pooja Kumar,P,OWN0298,Dev Patel,Vehicle Not as Described,Wrong model delivered,escalated,Low,2024-02-23,,Haridwar
+RPT0362,U099,Deepa Srivastava,D,OWN0299,Arjun Mishra,Harassment,Inappropriate messages,resolved,Medium,2024-03-11,2024-03-25,Auli
+RPT0363,U386,Sneha Bose,S,OWN0383,Priya Pandey,Other,Miscellaneous,resolved,Low,2024-04-01,2024-04-01,Dehradun
+RPT0364,U337,Dev Sharma,D,OWN0103,Rohit Sharma,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-03-26,2024-03-27,Mussoorie
+RPT0365,U394,Neha Shah,N,OWN0625,Meena Patel,Late Return,Returned 3 hours late,resolved,High,2024-02-14,2024-03-26,Rishikesh
+RPT0366,U303,Suresh Gupta,S,OWN0719,Priya Tiwari,Other,Miscellaneous,open,Low,2024-01-20,,Mussoorie
+RPT0367,U440,Sneha Patel,S,OWN0824,Shreya Reddy,Cancellation Issue,Refund not received,resolved,High,2024-03-28,2024-03-30,Auli
+RPT0368,U377,Shreya Reddy,S,OWN0090,Vikram Agarwal,Vehicle Damage,Tyre damage on return,open,High,2024-02-25,,Haridwar
+RPT0369,U295,Amit Singh,A,OWN0360,Priya Reddy,Rash Driving,Witnessed rash driving,escalated,Medium,2024-01-04,,Dehradun
+RPT0370,U223,Nisha Singh,N,OWN0710,Ritika Reddy,Rash Driving,Speeding complaint,open,Medium,2024-02-22,,Mussoorie
+RPT0371,U151,Ishaan Rao,I,OWN0097,Kavya Agarwal,Rash Driving,Speeding complaint,resolved,Medium,2024-02-06,2024-02-18,Haridwar
+RPT0372,U011,Ravi Agarwal,R,OWN0293,Dev Verma,Other,General complaint,open,Medium,2024-04-05,,Dehradun
+RPT0373,U155,Nisha Nair,N,OWN0025,Ravi Mehta,Harassment,Unprofessional behaviour,open,Low,2024-03-08,,Dehradun
+RPT0374,U021,Amit Verma,A,OWN0357,Rohit Reddy,Overcharging,Charged extra ₹500,resolved,Medium,2024-03-12,2024-03-26,Rishikesh
+RPT0375,U474,Arjun Mishra,A,OWN0534,Neha Yadav,Rash Driving,Traffic rules violated,open,Low,2024-01-29,,Haridwar
+RPT0376,U115,Rohit Sharma,R,OWN0263,Nikhil Kumar,Other,Miscellaneous,escalated,Medium,2024-02-20,,Nainital
+RPT0377,U240,Suresh Mishra,S,OWN0733,Arjun Yadav,Vehicle Not as Described,Wrong model delivered,escalated,Medium,2024-02-03,,Mussoorie
+RPT0378,U304,Arjun Gupta,A,OWN0489,Ananya Gupta,Cancellation Issue,Refund not received,open,High,2024-04-07,,Rishikesh
+RPT0379,U168,Rohit Srivastava,R,OWN0030,Kavya Mishra,Overcharging,Charged extra ₹500,resolved,Medium,2024-03-21,2024-04-01,Haridwar
+RPT0380,U364,Nisha Singh,N,OWN0497,Suresh Agarwal,Other,Feedback issue,resolved,Medium,2024-02-03,2024-04-09,Dehradun
+RPT0381,U061,Arjun Srivastava,A,OWN0447,Rahul Nair,Rash Driving,Traffic rules violated,resolved,Low,2024-03-10,2024-03-22,Rishikesh
+RPT0382,U470,Aakash Yadav,A,OWN0943,Rohit Tiwari,Vehicle Not as Described,AC not working,open,Medium,2024-03-10,,Auli
+RPT0383,U340,Karan Tiwari,K,OWN0827,Sneha Verma,Late Return,Returned 3 hours late,resolved,Medium,2024-02-19,2024-04-03,Haridwar
+RPT0384,U135,Neha Kumar,N,OWN0661,Shreya Bose,Vehicle Not as Described,Mileage not as stated,open,High,2024-02-22,,Mussoorie
+RPT0385,U443,Sneha Bose,S,OWN0657,Mohan Gupta,Vehicle Not as Described,Mileage not as stated,resolved,High,2024-03-27,2024-04-05,Rishikesh
+RPT0386,U145,Amit Sharma,A,OWN0691,Neha Yadav,Rash Driving,Speeding complaint,resolved,Medium,2024-02-10,2024-02-18,Nainital
+RPT0387,U165,Meena Reddy,M,OWN0347,Karan Shah,Other,General complaint,open,Low,2024-03-30,,Dehradun
+RPT0388,U292,Ritika Rao,R,OWN0015,Ritika Reddy,Other,General complaint,open,Medium,2024-02-06,,Dehradun
+RPT0389,U023,Aakash Pandey,A,OWN0268,Divya Kumar,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-01-22,2024-03-11,Rishikesh
+RPT0390,U290,Sneha Srivastava,S,OWN0431,Rohit Mishra,Vehicle Not as Described,AC not working,open,Low,2024-01-05,,Mussoorie
+RPT0391,U476,Arjun Patel,A,OWN0564,Ishaan Pandey,Other,Feedback issue,resolved,Medium,2024-01-17,2024-03-09,Dehradun
+RPT0392,U297,Amit Sharma,A,OWN0686,Aakash Kumar,Vehicle Damage,Scratches on delivery,open,High,2024-03-11,,Dehradun
+RPT0393,U234,Amit Yadav,A,OWN0560,Meena Reddy,Vehicle Damage,Tyre damage on return,escalated,Medium,2024-02-12,,Haridwar
+RPT0394,U098,Aman Srivastava,A,OWN0073,Rahul Das,Overcharging,Charged extra ₹500,escalated,Low,2024-01-07,,Rishikesh
+RPT0395,U363,Sonal Srivastava,S,OWN0388,Deepa Pandey,Overcharging,Charged extra ₹500,open,High,2024-01-22,,Dehradun
+RPT0396,U297,Amit Singh,A,OWN0457,Aman Yadav,Cancellation Issue,Refund not received,open,Low,2024-03-30,,Mussoorie
+RPT0397,U435,Divya Yadav,D,OWN0679,Amit Agarwal,Overcharging,Charged extra ₹500,resolved,Medium,2024-03-29,2024-04-10,Nainital
+RPT0398,U452,Meena Joshi,M,OWN0573,Sonal Das,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-03-15,,Dehradun
+RPT0399,U028,Ravi Yadav,R,OWN0790,Shreya Patel,Cancellation Issue,Cancelled without notice,resolved,Medium,2024-02-14,2024-04-08,Rishikesh
+RPT0400,U077,Ishaan Reddy,I,OWN0666,Sneha Rao,Cancellation Issue,Refund not received,resolved,Medium,2024-02-28,2024-04-09,Rishikesh
+RPT0401,U308,Aman Tiwari,A,OWN0329,Ritika Das,Late Return,Vehicle returned next day without notice,open,Medium,2024-02-25,,Dehradun
+RPT0402,U140,Tarun Bose,T,OWN0616,Mohan Singh,Overcharging,Extra cleaning fee not mentioned,resolved,Low,2024-03-16,2024-04-04,Dehradun
+RPT0403,U322,Mohan Mehta,M,OWN0668,Rahul Mehta,Harassment,Threatening calls,resolved,Medium,2024-02-29,2024-04-01,Mussoorie
+RPT0404,U135,Ritika Das,R,OWN0083,Nikhil Gupta,Late Return,4 hours delay,open,Low,2024-02-05,,Auli
+RPT0405,U144,Vikram Reddy,V,OWN0309,Amit Nair,Other,Feedback issue,open,Medium,2024-03-21,,Dehradun
+RPT0406,U216,Arjun Das,A,OWN0934,Shreya Reddy,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-03-14,2024-03-31,Haridwar
+RPT0407,U011,Divya Singh,D,OWN0571,Deepa Sharma,Other,Feedback issue,open,Medium,2024-03-25,,Dehradun
+RPT0408,U494,Shreya Mishra,S,OWN0458,Vikram Yadav,Other,Miscellaneous,resolved,Low,2024-02-06,2024-02-22,Rishikesh
+RPT0409,U013,Kavya Das,K,OWN0275,Suresh Shah,Cancellation Issue,Last minute cancellation,resolved,High,2024-03-22,2024-03-25,Rishikesh
+RPT0410,U195,Aakash Yadav,A,OWN0280,Kavya Mehta,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-01-17,2024-02-22,Haridwar
+RPT0411,U467,Ananya Kumar,A,OWN0586,Kavya Singh,Vehicle Damage,Tyre damage on return,open,Low,2024-01-01,,Rishikesh
+RPT0412,U400,Suresh Singh,S,OWN0637,Ananya Nair,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-02-09,2024-02-19,Haridwar
+RPT0413,U198,Sneha Singh,S,OWN0967,Mohan Das,Other,General complaint,open,Medium,2024-03-03,,Dehradun
+RPT0414,U402,Mohan Singh,M,OWN0038,Kavya Agarwal,Vehicle Damage,Dent on bumper,open,Medium,2024-03-20,,Rishikesh
+RPT0415,U136,Ishaan Yadav,I,OWN0047,Mohan Yadav,Late Return,Returned 3 hours late,open,High,2024-03-05,,Rishikesh
+RPT0416,U110,Shreya Agarwal,S,OWN0569,Shreya Mehta,Other,Miscellaneous,resolved,Low,2024-02-14,2024-03-09,Rishikesh
+RPT0417,U178,Aditi Mishra,A,OWN0522,Suresh Das,Other,Feedback issue,resolved,Low,2024-02-16,2024-03-21,Rishikesh
+RPT0418,U496,Nisha Nair,N,OWN0538,Arjun Pandey,Harassment,Threatening calls,open,Low,2024-04-07,,Rishikesh
+RPT0419,U028,Arjun Mishra,A,OWN0361,Rohit Pandey,Late Return,4 hours delay,open,Medium,2024-01-29,,Haridwar
+RPT0420,U261,Ananya Yadav,A,OWN0600,Rohit Reddy,Rash Driving,Speeding complaint,resolved,Medium,2024-02-06,2024-02-06,Dehradun
+RPT0421,U191,Rahul Mishra,R,OWN0683,Tarun Pandey,Late Return,Returned 3 hours late,resolved,Low,2024-03-29,2024-04-05,Dehradun
+RPT0422,U034,Nisha Kumar,N,OWN0605,Meena Kumar,Cancellation Issue,Cancelled without notice,open,Medium,2024-03-24,,Rishikesh
+RPT0423,U167,Sonal Rao,S,OWN0168,Arjun Bose,Cancellation Issue,Last minute cancellation,resolved,Low,2024-03-24,2024-03-30,Dehradun
+RPT0424,U342,Ravi Srivastava,R,OWN0868,Ishaan Srivastava,Overcharging,Extra cleaning fee not mentioned,open,High,2024-02-06,,Rishikesh
+RPT0425,U227,Kavya Srivastava,K,OWN0302,Divya Joshi,Late Return,Vehicle returned next day without notice,resolved,High,2024-04-01,2024-04-05,Rishikesh
+RPT0426,U310,Aditi Srivastava,A,OWN0102,Rohit Patel,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-03-16,2024-03-24,Rishikesh
+RPT0427,U246,Meena Reddy,M,OWN0547,Sonal Joshi,Rash Driving,Traffic rules violated,open,Medium,2024-03-22,,Dehradun
+RPT0428,U341,Dev Srivastava,D,OWN0393,Pooja Mishra,Late Return,4 hours delay,escalated,Medium,2024-03-30,,Rishikesh
+RPT0429,U213,Deepa Mishra,D,OWN0167,Tarun Gupta,Rash Driving,Traffic rules violated,resolved,Medium,2024-01-11,2024-03-23,Haridwar
+RPT0430,U034,Aditi Agarwal,A,OWN0021,Ananya Mishra,Vehicle Damage,Tyre damage on return,open,Medium,2024-02-11,,Dehradun
+RPT0431,U276,Shreya Srivastava,S,OWN0434,Sonal Mishra,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-02-13,2024-04-06,Dehradun
+RPT0432,U117,Rahul Nair,R,OWN0531,Sneha Srivastava,Overcharging,Charged extra ₹500,resolved,High,2024-02-23,2024-03-27,Mussoorie
+RPT0433,U158,Neha Mehta,N,OWN0755,Sneha Rao,Rash Driving,Speeding complaint,resolved,Medium,2024-02-14,2024-02-25,Dehradun
+RPT0434,U494,Tarun Mehta,T,OWN0296,Ananya Mishra,Cancellation Issue,Refund not received,resolved,High,2024-03-29,2024-03-30,Haridwar
+RPT0435,U395,Karan Mishra,K,OWN0106,Ritika Verma,Overcharging,Extra cleaning fee not mentioned,resolved,High,2024-03-30,2024-04-05,Dehradun
+RPT0436,U106,Neha Srivastava,N,OWN0263,Deepa Singh,Other,General complaint,open,Medium,2024-03-30,,Dehradun
+RPT0437,U437,Dev Pandey,D,OWN0238,Divya Verma,Harassment,Threatening calls,resolved,High,2024-01-01,2024-02-05,Mussoorie
+RPT0438,U495,Ishaan Pandey,I,OWN0994,Karan Patel,Vehicle Damage,Broken mirror,resolved,Medium,2024-01-24,2024-02-02,Mussoorie
+RPT0439,U340,Dev Singh,D,OWN0832,Arjun Mishra,Overcharging,Charged extra ₹500,resolved,High,2024-03-16,2024-04-08,Mussoorie
+RPT0440,U490,Tarun Patel,T,OWN0970,Ananya Kumar,Late Return,Vehicle returned next day without notice,resolved,High,2024-02-04,2024-02-29,Mussoorie
+RPT0441,U382,Nikhil Verma,N,OWN0549,Ananya Mehta,Cancellation Issue,Refund not received,open,High,2024-01-06,,Nainital
+RPT0442,U171,Pooja Nair,P,OWN0158,Ishaan Mehta,Overcharging,Hidden fuel charges,escalated,High,2024-04-02,,Rishikesh
+RPT0443,U208,Ishaan Gupta,I,OWN0985,Neha Patel,Cancellation Issue,Last minute cancellation,open,High,2024-01-31,,Dehradun
+RPT0444,U325,Arjun Joshi,A,OWN0275,Rahul Reddy,Overcharging,Hidden fuel charges,open,High,2024-03-01,,Rishikesh
+RPT0445,U487,Ananya Pandey,A,OWN0246,Nisha Tiwari,Rash Driving,Traffic rules violated,open,Medium,2024-01-29,,Rishikesh
+RPT0446,U108,Ravi Bose,R,OWN0797,Rajesh Verma,Overcharging,Extra cleaning fee not mentioned,open,Low,2024-03-12,,Mussoorie
+RPT0447,U367,Ananya Nair,A,OWN0729,Karan Joshi,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-01-06,2024-04-09,Lansdowne
+RPT0448,U296,Mohan Verma,M,OWN0011,Pooja Rao,Harassment,Threatening calls,open,Low,2024-03-21,,Rishikesh
+RPT0449,U008,Vikram Agarwal,V,OWN0696,Divya Pandey,Late Return,Vehicle returned next day without notice,resolved,Low,2024-02-28,2024-04-01,Mussoorie
+RPT0450,U274,Ritika Pandey,R,OWN0889,Sonal Nair,Vehicle Damage,Dent on bumper,open,High,2024-03-23,,Dehradun
+RPT0451,U010,Rahul Pandey,R,OWN0245,Kavya Gupta,Overcharging,Extra cleaning fee not mentioned,open,High,2024-01-06,,Dehradun
+RPT0452,U434,Neha Patel,N,OWN0391,Shreya Patel,Harassment,Threatening calls,resolved,Medium,2024-03-13,2024-04-06,Mussoorie
+RPT0453,U076,Divya Singh,D,OWN1000,Divya Yadav,Late Return,4 hours delay,escalated,Medium,2024-02-08,,Dehradun
+RPT0454,U211,Mohan Kumar,M,OWN0277,Aman Yadav,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-01-28,,Rishikesh
+RPT0455,U305,Aditi Mehta,A,OWN0295,Sneha Sharma,Overcharging,Charged extra ₹500,open,High,2024-01-19,,Dehradun
+RPT0456,U098,Aditi Srivastava,A,OWN0540,Ravi Mehta,Vehicle Damage,Dent on bumper,open,Medium,2024-01-02,,Dehradun
+RPT0457,U251,Sonal Kumar,S,OWN0732,Ritika Patel,Vehicle Damage,Broken mirror,resolved,High,2024-03-23,2024-03-28,Mussoorie
+RPT0458,U249,Suresh Mehta,S,OWN0603,Rohit Reddy,Harassment,Threatening calls,resolved,Medium,2024-01-15,2024-03-17,Haridwar
+RPT0459,U276,Shreya Shah,S,OWN0890,Rajesh Srivastava,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-01-08,2024-02-04,Rishikesh
+RPT0460,U001,Deepa Srivastava,D,OWN0041,Ravi Singh,Vehicle Not as Described,Wrong model delivered,resolved,High,2024-01-01,2024-01-31,Rishikesh
+RPT0461,U466,Neha Mishra,N,OWN0434,Dev Mehta,Overcharging,Hidden fuel charges,escalated,High,2024-03-03,,Haridwar
+RPT0462,U075,Pooja Mishra,P,OWN0832,Ravi Das,Rash Driving,Traffic rules violated,open,Medium,2024-02-24,,Rishikesh
+RPT0463,U380,Arjun Verma,A,OWN0199,Nisha Yadav,Other,General complaint,resolved,Medium,2024-01-26,2024-02-16,Mussoorie
+RPT0464,U485,Nisha Patel,N,OWN0202,Nisha Gupta,Overcharging,Charged extra ₹500,escalated,Medium,2024-01-24,,Auli
+RPT0465,U173,Ravi Sharma,R,OWN0395,Aditi Nair,Overcharging,Extra cleaning fee not mentioned,open,High,2024-04-02,,Mussoorie
+RPT0466,U352,Neha Rao,N,OWN0307,Priya Mehta,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-01-06,2024-01-26,Dehradun
+RPT0467,U199,Rajesh Sharma,R,OWN0535,Mohan Bose,Overcharging,Charged extra ₹500,resolved,Medium,2024-02-02,2024-03-02,Nainital
+RPT0468,U466,Arjun Shah,A,OWN0709,Karan Joshi,Cancellation Issue,Last minute cancellation,open,Low,2024-01-05,,Dehradun
+RPT0469,U284,Divya Patel,D,OWN0213,Kavya Reddy,Cancellation Issue,Refund not received,resolved,Medium,2024-01-26,2024-04-09,Rishikesh
+RPT0470,U475,Ravi Sharma,R,OWN0349,Sneha Singh,Late Return,4 hours delay,escalated,Medium,2024-04-03,,Dehradun
+RPT0471,U031,Nisha Mehta,N,OWN0354,Nikhil Nair,Other,General complaint,resolved,High,2024-02-16,2024-04-03,Mussoorie
+RPT0472,U003,Amit Agarwal,A,OWN0895,Ishaan Gupta,Rash Driving,Traffic rules violated,open,Medium,2024-01-02,,Haridwar
+RPT0473,U146,Rajesh Tiwari,R,OWN0173,Tarun Shah,Vehicle Not as Described,AC not working,resolved,Medium,2024-02-20,2024-03-06,Haridwar
+RPT0474,U327,Shreya Pandey,S,OWN0586,Aditi Yadav,Harassment,Threatening calls,open,Low,2024-02-16,,Nainital
+RPT0475,U420,Aditi Tiwari,A,OWN0823,Nikhil Rao,Vehicle Damage,Scratches on delivery,open,Low,2024-04-05,,Haridwar
+RPT0476,U182,Tarun Agarwal,T,OWN0183,Deepa Verma,Vehicle Damage,Scratches on delivery,resolved,High,2024-04-06,2024-04-09,Rishikesh
+RPT0477,U292,Divya Rao,D,OWN0973,Rahul Mishra,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-04-10,2024-04-10,Dehradun
+RPT0478,U148,Divya Mishra,D,OWN0778,Karan Yadav,Harassment,Inappropriate messages,open,Medium,2024-02-04,,Dehradun
+RPT0479,U325,Priya Verma,P,OWN0226,Pooja Singh,Rash Driving,Traffic rules violated,escalated,Medium,2024-01-18,,Nainital
+RPT0480,U077,Ishaan Rao,I,OWN0195,Nikhil Kumar,Rash Driving,Witnessed rash driving,open,Medium,2024-03-02,,Rishikesh
+RPT0481,U467,Aman Shah,A,OWN0936,Ishaan Tiwari,Harassment,Inappropriate messages,open,Low,2024-03-09,,Auli
+RPT0482,U084,Tarun Pandey,T,OWN0283,Sonal Srivastava,Overcharging,Hidden fuel charges,escalated,Medium,2024-01-21,,Rishikesh
+RPT0483,U343,Meena Verma,M,OWN0289,Arjun Reddy,Harassment,Threatening calls,resolved,Medium,2024-02-26,2024-03-11,Dehradun
+RPT0484,U377,Rahul Gupta,R,OWN0751,Rahul Kumar,Vehicle Damage,Dent on bumper,resolved,Medium,2024-02-28,2024-03-17,Rishikesh
+RPT0485,U328,Pooja Yadav,P,OWN0108,Neha Reddy,Vehicle Damage,Tyre damage on return,open,Medium,2024-02-17,,Mussoorie
+RPT0486,U300,Priya Singh,P,OWN0674,Shreya Singh,Vehicle Damage,Tyre damage on return,open,High,2024-01-04,,Dehradun
+RPT0487,U151,Ritika Bose,R,OWN0178,Aman Verma,Late Return,4 hours delay,resolved,Medium,2024-04-03,2024-04-03,Mussoorie
+RPT0488,U136,Priya Yadav,P,OWN0076,Rahul Srivastava,Harassment,Inappropriate messages,open,Medium,2024-02-07,,Dehradun
+RPT0489,U179,Ananya Sharma,A,OWN0223,Priya Tiwari,Rash Driving,Traffic rules violated,open,Medium,2024-01-10,,Rishikesh
+RPT0490,U008,Shreya Agarwal,S,OWN0456,Nikhil Tiwari,Cancellation Issue,Last minute cancellation,open,High,2024-01-05,,Dehradun
+RPT0491,U171,Meena Sharma,M,OWN0581,Ananya Kumar,Rash Driving,Speeding complaint,escalated,Low,2024-02-14,,Auli
+RPT0492,U034,Vikram Patel,V,OWN0553,Meena Kumar,Other,General complaint,resolved,Low,2024-01-07,2024-01-22,Dehradun
+RPT0493,U242,Aakash Kumar,A,OWN0263,Karan Tiwari,Harassment,Unprofessional behaviour,resolved,High,2024-01-23,2024-02-06,Dehradun
+RPT0494,U494,Vikram Sharma,V,OWN0647,Rohit Nair,Late Return,Returned 3 hours late,resolved,Low,2024-03-23,2024-04-03,Dehradun
+RPT0495,U460,Priya Mehta,P,OWN0150,Aman Srivastava,Vehicle Damage,Dent on bumper,open,Medium,2024-03-04,,Dehradun
+RPT0496,U383,Arjun Verma,A,OWN0949,Aman Das,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-02-11,2024-04-01,Dehradun
+RPT0497,U163,Shreya Patel,S,OWN0833,Sneha Agarwal,Harassment,Inappropriate messages,resolved,High,2024-03-27,2024-03-27,Auli
+RPT0498,U447,Sonal Kumar,S,OWN0967,Shreya Rao,Rash Driving,Witnessed rash driving,open,High,2024-04-10,,Mussoorie
+RPT0499,U442,Ravi Srivastava,R,OWN0965,Kavya Kumar,Late Return,4 hours delay,resolved,High,2024-01-22,2024-02-14,Rishikesh
+RPT0500,U172,Kavya Bose,K,OWN0885,Ishaan Rao,Other,Miscellaneous,resolved,High,2024-02-09,2024-03-02,Dehradun
+RPT0501,U421,Rahul Yadav,R,OWN0415,Suresh Rao,Rash Driving,Traffic rules violated,resolved,High,2024-02-08,2024-02-23,Rishikesh
+RPT0502,U202,Divya Agarwal,D,OWN0916,Rohit Das,Harassment,Inappropriate messages,resolved,Low,2024-03-21,2024-03-22,Rishikesh
+RPT0503,U070,Kavya Srivastava,K,OWN0152,Divya Rao,Overcharging,Charged extra ₹500,resolved,High,2024-03-13,2024-03-26,Rishikesh
+RPT0504,U340,Meena Srivastava,M,OWN0470,Nisha Gupta,Other,General complaint,resolved,Medium,2024-03-20,2024-04-05,Mussoorie
+RPT0505,U258,Ravi Patel,R,OWN0649,Ananya Gupta,Overcharging,Extra cleaning fee not mentioned,escalated,Medium,2024-02-02,,Nainital
+RPT0506,U182,Rajesh Bose,R,OWN0183,Rahul Das,Rash Driving,Witnessed rash driving,resolved,Medium,2024-04-05,2024-04-08,Rishikesh
+RPT0507,U043,Rajesh Yadav,R,OWN0604,Nikhil Mishra,Harassment,Unprofessional behaviour,open,High,2024-03-23,,Dehradun
+RPT0508,U288,Ritika Agarwal,R,OWN0974,Sonal Agarwal,Harassment,Inappropriate messages,resolved,Low,2024-01-08,2024-01-10,Mussoorie
+RPT0509,U014,Tarun Bose,T,OWN0185,Mohan Nair,Vehicle Damage,Tyre damage on return,open,Low,2024-03-27,,Dehradun
+RPT0510,U214,Sneha Joshi,S,OWN0224,Divya Bose,Harassment,Unprofessional behaviour,resolved,Medium,2024-01-03,2024-02-16,Dehradun
+RPT0511,U253,Suresh Sharma,S,OWN0812,Kavya Mishra,Harassment,Threatening calls,resolved,High,2024-03-30,2024-04-09,Dehradun
+RPT0512,U025,Mohan Shah,M,OWN0055,Amit Joshi,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-02-13,2024-03-23,Dehradun
+RPT0513,U390,Nisha Singh,N,OWN0360,Ananya Agarwal,Vehicle Damage,Broken mirror,resolved,Medium,2024-03-29,2024-03-30,Mussoorie
+RPT0514,U065,Rohit Joshi,R,OWN0428,Priya Pandey,Vehicle Not as Described,AC not working,open,Medium,2024-04-09,,Mussoorie
+RPT0515,U298,Neha Reddy,N,OWN0113,Tarun Verma,Vehicle Damage,Dent on bumper,open,Medium,2024-02-26,,Rishikesh
+RPT0516,U485,Priya Srivastava,P,OWN0454,Rohit Bose,Vehicle Damage,Scratches on delivery,open,Low,2024-01-31,,Haridwar
+RPT0517,U012,Kavya Singh,K,OWN0286,Karan Nair,Harassment,Threatening calls,open,Medium,2024-02-26,,Dehradun
+RPT0518,U182,Deepa Yadav,D,OWN0915,Arjun Shah,Late Return,Vehicle returned next day without notice,resolved,High,2024-02-12,2024-03-17,Dehradun
+RPT0519,U485,Sonal Singh,S,OWN0219,Suresh Nair,Harassment,Threatening calls,escalated,Medium,2024-01-05,,Rishikesh
+RPT0520,U189,Aakash Joshi,A,OWN0791,Nikhil Mishra,Cancellation Issue,Cancelled without notice,resolved,Low,2024-02-20,2024-03-06,Dehradun
+RPT0521,U479,Aditi Nair,A,OWN0002,Nisha Kumar,Other,General complaint,open,High,2024-02-06,,Rishikesh
+RPT0522,U046,Aakash Sharma,A,OWN0119,Aman Patel,Vehicle Damage,Dent on bumper,resolved,Low,2024-01-27,2024-01-27,Rishikesh
+RPT0523,U417,Shreya Pandey,S,OWN0010,Ravi Shah,Rash Driving,Witnessed rash driving,escalated,Medium,2024-02-02,,Rishikesh
+RPT0524,U205,Priya Bose,P,OWN0019,Dev Pandey,Cancellation Issue,Refund not received,resolved,Medium,2024-01-15,2024-03-31,Dehradun
+RPT0525,U382,Mohan Pandey,M,OWN0735,Priya Agarwal,Rash Driving,Traffic rules violated,resolved,High,2024-04-10,2024-04-10,Chakrata
+RPT0526,U010,Vikram Rao,V,OWN0800,Deepa Singh,Other,General complaint,resolved,Low,2024-01-17,2024-01-19,Haridwar
+RPT0527,U436,Nikhil Agarwal,N,OWN0365,Tarun Mishra,Overcharging,Extra cleaning fee not mentioned,resolved,High,2024-03-07,2024-03-12,Mussoorie
+RPT0528,U414,Meena Rao,M,OWN0895,Ravi Bose,Cancellation Issue,Cancelled without notice,resolved,Low,2024-02-19,2024-04-01,Mussoorie
+RPT0529,U311,Priya Das,P,OWN0044,Arjun Patel,Vehicle Not as Described,Mileage not as stated,open,Medium,2024-02-15,,Rishikesh
+RPT0530,U156,Rohit Patel,R,OWN0750,Kavya Patel,Late Return,4 hours delay,resolved,Medium,2024-04-10,2024-04-10,Nainital
+RPT0531,U019,Ravi Singh,R,OWN0525,Vikram Srivastava,Harassment,Threatening calls,resolved,High,2024-04-08,2024-04-10,Rishikesh
+RPT0532,U111,Neha Reddy,N,OWN0733,Karan Rao,Vehicle Not as Described,AC not working,open,Low,2024-02-26,,Dehradun
+RPT0533,U085,Deepa Nair,D,OWN0551,Ritika Mishra,Overcharging,Charged extra ₹500,escalated,Low,2024-02-06,,Dehradun
+RPT0534,U500,Ishaan Mehta,I,OWN0115,Shreya Agarwal,Late Return,Vehicle returned next day without notice,open,Medium,2024-02-10,,Dehradun
+RPT0535,U194,Ishaan Agarwal,I,OWN0895,Vikram Reddy,Harassment,Unprofessional behaviour,open,Medium,2024-01-06,,Mussoorie
+RPT0536,U434,Suresh Tiwari,S,OWN0566,Aditi Bose,Vehicle Not as Described,AC not working,resolved,Medium,2024-01-17,2024-02-28,Dehradun
+RPT0537,U370,Pooja Mishra,P,OWN0019,Kavya Patel,Vehicle Damage,Tyre damage on return,resolved,High,2024-03-21,2024-03-27,Haridwar
+RPT0538,U012,Nisha Kumar,N,OWN0264,Pooja Shah,Harassment,Unprofessional behaviour,resolved,Medium,2024-02-19,2024-02-21,Dehradun
+RPT0539,U094,Mohan Das,M,OWN0727,Ishaan Patel,Harassment,Inappropriate messages,escalated,Medium,2024-02-12,,Auli
+RPT0540,U457,Ravi Kumar,R,OWN0633,Rahul Verma,Vehicle Damage,Tyre damage on return,open,Medium,2024-03-02,,Auli
+RPT0541,U364,Shreya Patel,S,OWN0934,Sneha Rao,Late Return,Vehicle returned next day without notice,open,High,2024-02-15,,Mussoorie
+RPT0542,U381,Rohit Tiwari,R,OWN0280,Shreya Gupta,Overcharging,Extra cleaning fee not mentioned,escalated,High,2024-03-18,,Haridwar
+RPT0543,U386,Ishaan Verma,I,OWN0149,Ishaan Tiwari,Late Return,Returned 3 hours late,resolved,Medium,2024-02-08,2024-04-06,Rishikesh
+RPT0544,U305,Ananya Singh,A,OWN0666,Kavya Singh,Overcharging,Hidden fuel charges,resolved,Medium,2024-01-06,2024-03-03,Rishikesh
+RPT0545,U398,Vikram Joshi,V,OWN0996,Tarun Mishra,Cancellation Issue,Refund not received,open,Low,2024-02-12,,Nainital
+RPT0546,U113,Meena Srivastava,M,OWN0214,Karan Pandey,Harassment,Inappropriate messages,open,Medium,2024-04-01,,Lansdowne
+RPT0547,U183,Shreya Gupta,S,OWN0851,Suresh Patel,Other,General complaint,open,Medium,2024-02-05,,Rishikesh
+RPT0548,U452,Shreya Mehta,S,OWN0984,Kavya Rao,Late Return,4 hours delay,open,High,2024-03-23,,Rishikesh
+RPT0549,U083,Kavya Srivastava,K,OWN0698,Ananya Nair,Cancellation Issue,Refund not received,resolved,High,2024-01-10,2024-02-28,Dehradun
+RPT0550,U343,Rohit Gupta,R,OWN0610,Meena Verma,Harassment,Inappropriate messages,open,Low,2024-01-04,,Dehradun
+RPT0551,U262,Nikhil Joshi,N,OWN0927,Aakash Mishra,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-02-11,2024-03-09,Haridwar
+RPT0552,U414,Amit Nair,A,OWN0490,Dev Pandey,Other,Feedback issue,open,Medium,2024-03-07,,Dehradun
+RPT0553,U145,Ananya Kumar,A,OWN0908,Karan Srivastava,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-03-01,2024-03-01,Haridwar
+RPT0554,U409,Divya Agarwal,D,OWN0988,Vikram Mehta,Overcharging,Extra cleaning fee not mentioned,resolved,High,2024-02-23,2024-04-05,Rishikesh
+RPT0555,U190,Shreya Rao,S,OWN0350,Mohan Rao,Cancellation Issue,Cancelled without notice,open,High,2024-02-19,,Rishikesh
+RPT0556,U318,Ananya Mishra,A,OWN0243,Meena Verma,Rash Driving,Traffic rules violated,resolved,Low,2024-03-18,2024-03-23,Mussoorie
+RPT0557,U132,Ishaan Rao,I,OWN0507,Aakash Pandey,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-02-26,,Mussoorie
+RPT0558,U393,Kavya Sharma,K,OWN0070,Amit Srivastava,Rash Driving,Speeding complaint,resolved,Low,2024-03-19,2024-04-07,Dehradun
+RPT0559,U123,Nisha Das,N,OWN0340,Ishaan Yadav,Other,Miscellaneous,open,Medium,2024-01-08,,Nainital
+RPT0560,U120,Rohit Rao,R,OWN0231,Aman Yadav,Cancellation Issue,Last minute cancellation,resolved,Medium,2024-04-08,2024-04-10,Rishikesh
+RPT0561,U139,Aakash Mehta,A,OWN0823,Rohit Singh,Rash Driving,Witnessed rash driving,open,Medium,2024-03-11,,Chakrata
+RPT0562,U155,Kavya Agarwal,K,OWN0528,Nisha Pandey,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-03-09,2024-03-11,Rishikesh
+RPT0563,U460,Divya Rao,D,OWN0961,Mohan Mehta,Other,Feedback issue,open,High,2024-02-21,,Rishikesh
+RPT0564,U229,Amit Srivastava,A,OWN0199,Dev Das,Other,General complaint,open,Medium,2024-01-14,,Rishikesh
+RPT0565,U251,Karan Pandey,K,OWN0955,Dev Gupta,Harassment,Inappropriate messages,open,Low,2024-01-21,,Mussoorie
+RPT0566,U358,Deepa Joshi,D,OWN0928,Priya Bose,Rash Driving,Traffic rules violated,open,Low,2024-01-09,,Rishikesh
+RPT0567,U218,Arjun Verma,A,OWN0765,Mohan Pandey,Harassment,Unprofessional behaviour,resolved,Low,2024-04-09,2024-04-10,Rishikesh
+RPT0568,U039,Nisha Yadav,N,OWN0185,Pooja Srivastava,Harassment,Unprofessional behaviour,escalated,Low,2024-01-23,,Mussoorie
+RPT0569,U334,Ishaan Das,I,OWN0434,Rajesh Singh,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-02-02,2024-03-23,Haridwar
+RPT0570,U341,Sonal Tiwari,S,OWN0472,Ravi Yadav,Late Return,Vehicle returned next day without notice,open,Medium,2024-03-22,,Rishikesh
+RPT0571,U078,Ravi Reddy,R,OWN0057,Aman Shah,Overcharging,Charged extra ₹500,escalated,Medium,2024-01-25,,Dehradun
+RPT0572,U138,Aditi Verma,A,OWN0490,Divya Kumar,Other,General complaint,open,Medium,2024-01-31,,Rishikesh
+RPT0573,U286,Neha Bose,N,OWN0342,Priya Srivastava,Overcharging,Charged extra ₹500,escalated,Low,2024-01-24,,Lansdowne
+RPT0574,U242,Deepa Agarwal,D,OWN0999,Mohan Shah,Other,General complaint,resolved,Low,2024-01-04,2024-01-18,Dehradun
+RPT0575,U284,Karan Joshi,K,OWN0410,Ishaan Verma,Harassment,Inappropriate messages,open,Medium,2024-02-08,,Chakrata
+RPT0576,U356,Ritika Mehta,R,OWN0835,Tarun Gupta,Rash Driving,Witnessed rash driving,open,High,2024-02-16,,Rishikesh
+RPT0577,U168,Shreya Shah,S,OWN0071,Pooja Bose,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-03-30,2024-04-04,Haridwar
+RPT0578,U049,Kavya Nair,K,OWN0002,Ananya Agarwal,Other,Miscellaneous,open,Medium,2024-03-01,,Dehradun
+RPT0579,U461,Rohit Joshi,R,OWN0338,Pooja Tiwari,Rash Driving,Speeding complaint,open,Low,2024-01-24,,Nainital
+RPT0580,U264,Mohan Patel,M,OWN0448,Nisha Agarwal,Harassment,Inappropriate messages,resolved,Medium,2024-03-01,2024-03-20,Chakrata
+RPT0581,U297,Nisha Kumar,N,OWN0032,Mohan Pandey,Vehicle Not as Described,AC not working,open,Low,2024-04-02,,Haridwar
+RPT0582,U072,Deepa Sharma,D,OWN0387,Divya Sharma,Other,Feedback issue,open,High,2024-04-07,,Chakrata
+RPT0583,U443,Aditi Gupta,A,OWN0092,Ravi Mehta,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-01-19,2024-02-15,Mussoorie
+RPT0584,U340,Dev Das,D,OWN0922,Arjun Singh,Cancellation Issue,Last minute cancellation,resolved,Medium,2024-01-07,2024-02-02,Rishikesh
+RPT0585,U477,Aman Joshi,A,OWN0524,Aditi Bose,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-01-16,,Mussoorie
+RPT0586,U002,Shreya Tiwari,S,OWN0637,Ananya Verma,Vehicle Damage,Tyre damage on return,open,Low,2024-01-14,,Dehradun
+RPT0587,U199,Nisha Singh,N,OWN0973,Sneha Singh,Vehicle Damage,Broken mirror,resolved,Low,2024-04-02,2024-04-02,Dehradun
+RPT0588,U139,Aakash Agarwal,A,OWN0534,Aman Gupta,Cancellation Issue,Last minute cancellation,escalated,Low,2024-03-28,,Dehradun
+RPT0589,U214,Aman Tiwari,A,OWN0506,Rohit Joshi,Vehicle Not as Described,AC not working,escalated,High,2024-01-28,,Nainital
+RPT0590,U171,Ravi Shah,R,OWN0134,Sonal Gupta,Late Return,4 hours delay,open,Medium,2024-02-14,,Haridwar
+RPT0591,U454,Ravi Singh,R,OWN0617,Aakash Gupta,Late Return,Returned 3 hours late,open,Medium,2024-03-17,,Dehradun
+RPT0592,U292,Aditi Sharma,A,OWN0931,Divya Tiwari,Harassment,Unprofessional behaviour,escalated,Medium,2024-02-10,,Mussoorie
+RPT0593,U014,Ishaan Gupta,I,OWN0431,Divya Reddy,Harassment,Inappropriate messages,escalated,High,2024-01-04,,Dehradun
+RPT0594,U320,Meena Verma,M,OWN0216,Ravi Verma,Rash Driving,Speeding complaint,resolved,Medium,2024-04-04,2024-04-05,Mussoorie
+RPT0595,U002,Aakash Bose,A,OWN0424,Rahul Kumar,Other,Feedback issue,open,High,2024-01-27,,Dehradun
+RPT0596,U407,Shreya Tiwari,S,OWN0989,Suresh Mehta,Vehicle Damage,Broken mirror,open,Medium,2024-02-15,,Chakrata
+RPT0597,U254,Rahul Rao,R,OWN0422,Rohit Das,Vehicle Damage,Broken mirror,escalated,Medium,2024-02-08,,Chakrata
+RPT0598,U375,Karan Mehta,K,OWN0735,Pooja Singh,Late Return,Vehicle returned next day without notice,resolved,Low,2024-03-28,2024-04-07,Nainital
+RPT0599,U328,Sonal Joshi,S,OWN0379,Karan Bose,Vehicle Not as Described,AC not working,open,Medium,2024-01-13,,Dehradun
+RPT0600,U394,Meena Nair,M,OWN0452,Mohan Sharma,Late Return,4 hours delay,open,Low,2024-03-29,,Chakrata
+RPT0601,U468,Divya Mishra,D,OWN0693,Nisha Pandey,Overcharging,Extra cleaning fee not mentioned,escalated,Low,2024-01-10,,Dehradun
+RPT0602,U303,Aman Singh,A,OWN0812,Nisha Reddy,Rash Driving,Traffic rules violated,open,Low,2024-03-18,,Rishikesh
+RPT0603,U103,Ravi Das,R,OWN0047,Karan Nair,Cancellation Issue,Cancelled without notice,resolved,High,2024-03-02,2024-04-01,Dehradun
+RPT0604,U496,Amit Das,A,OWN0420,Sonal Verma,Late Return,4 hours delay,open,Medium,2024-01-20,,Mussoorie
+RPT0605,U486,Amit Gupta,A,OWN0824,Karan Rao,Other,General complaint,resolved,Low,2024-02-02,2024-03-17,Mussoorie
+RPT0606,U030,Tarun Gupta,T,OWN0567,Neha Patel,Late Return,4 hours delay,open,Low,2024-02-05,,Rishikesh
+RPT0607,U496,Rohit Reddy,R,OWN0840,Ananya Verma,Other,Miscellaneous,open,Medium,2024-01-05,,Mussoorie
+RPT0608,U129,Nisha Kumar,N,OWN0009,Aakash Bose,Overcharging,Hidden fuel charges,open,Medium,2024-03-28,,Dehradun
+RPT0609,U198,Aditi Mishra,A,OWN0863,Ananya Agarwal,Cancellation Issue,Cancelled without notice,resolved,Medium,2024-02-01,2024-02-13,Auli
+RPT0610,U431,Rahul Shah,R,OWN0196,Mohan Yadav,Other,General complaint,open,Medium,2024-01-08,,Mussoorie
+RPT0611,U057,Neha Kumar,N,OWN0907,Aakash Verma,Late Return,4 hours delay,resolved,Low,2024-03-04,2024-03-14,Dehradun
+RPT0612,U176,Ritika Yadav,R,OWN0954,Mohan Agarwal,Vehicle Damage,Scratches on delivery,resolved,High,2024-03-17,2024-03-29,Haridwar
+RPT0613,U265,Priya Singh,P,OWN0002,Priya Gupta,Harassment,Inappropriate messages,resolved,Low,2024-04-01,2024-04-04,Lansdowne
+RPT0614,U297,Divya Pandey,D,OWN0346,Ananya Pandey,Vehicle Damage,Tyre damage on return,resolved,Low,2024-01-16,2024-02-08,Dehradun
+RPT0615,U051,Pooja Patel,P,OWN0315,Pooja Pandey,Rash Driving,Witnessed rash driving,resolved,High,2024-02-19,2024-03-22,Dehradun
+RPT0616,U330,Rahul Mishra,R,OWN0205,Nisha Bose,Other,Miscellaneous,resolved,High,2024-02-03,2024-03-21,Dehradun
+RPT0617,U036,Suresh Das,S,OWN0237,Meena Yadav,Vehicle Not as Described,Wrong model delivered,resolved,Low,2024-01-21,2024-03-23,Dehradun
+RPT0618,U095,Rajesh Verma,R,OWN0977,Ritika Kumar,Vehicle Damage,Scratches on delivery,resolved,Low,2024-03-30,2024-04-04,Mussoorie
+RPT0619,U446,Sonal Reddy,S,OWN0766,Divya Gupta,Cancellation Issue,Refund not received,resolved,Medium,2024-04-04,2024-04-04,Mussoorie
+RPT0620,U189,Arjun Shah,A,OWN0435,Rohit Patel,Cancellation Issue,Last minute cancellation,escalated,Medium,2024-04-01,,Dehradun
+RPT0621,U157,Aditi Rao,A,OWN0796,Nisha Nair,Other,Miscellaneous,open,Medium,2024-01-26,,Mussoorie
+RPT0622,U457,Aditi Shah,A,OWN0078,Deepa Srivastava,Vehicle Damage,Dent on bumper,open,Medium,2024-03-25,,Haridwar
+RPT0623,U017,Pooja Mishra,P,OWN0862,Dev Reddy,Rash Driving,Witnessed rash driving,open,Low,2024-04-02,,Dehradun
+RPT0624,U443,Meena Yadav,M,OWN0739,Ananya Patel,Vehicle Not as Described,AC not working,escalated,High,2024-02-16,,Nainital
+RPT0625,U008,Neha Kumar,N,OWN0216,Priya Verma,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-01-09,,Rishikesh
+RPT0626,U329,Dev Reddy,D,OWN0695,Aakash Sharma,Late Return,Vehicle returned next day without notice,open,Medium,2024-02-06,,Nainital
+RPT0627,U245,Dev Sharma,D,OWN0966,Mohan Yadav,Overcharging,Hidden fuel charges,open,High,2024-04-04,,Rishikesh
+RPT0628,U334,Dev Shah,D,OWN0598,Tarun Reddy,Other,Feedback issue,resolved,Medium,2024-02-21,2024-03-14,Rishikesh
+RPT0629,U040,Priya Joshi,P,OWN0357,Aman Srivastava,Harassment,Unprofessional behaviour,resolved,Medium,2024-03-23,2024-04-01,Mussoorie
+RPT0630,U229,Kavya Pandey,K,OWN0195,Karan Bose,Harassment,Threatening calls,open,Medium,2024-02-27,,Auli
+RPT0631,U316,Aakash Verma,A,OWN0512,Vikram Singh,Other,Miscellaneous,escalated,Low,2024-01-15,,Rishikesh
+RPT0632,U034,Aditi Nair,A,OWN0835,Nikhil Sharma,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-01-17,,Dehradun
+RPT0633,U121,Deepa Yadav,D,OWN0216,Shreya Das,Cancellation Issue,Cancelled without notice,resolved,Low,2024-03-13,2024-03-20,Dehradun
+RPT0634,U208,Tarun Shah,T,OWN0901,Mohan Nair,Harassment,Threatening calls,resolved,Medium,2024-01-10,2024-03-02,Mussoorie
+RPT0635,U310,Nisha Bose,N,OWN0339,Ishaan Gupta,Vehicle Damage,Scratches on delivery,open,High,2024-03-03,,Rishikesh
+RPT0636,U031,Ritika Joshi,R,OWN0507,Neha Mishra,Other,Miscellaneous,open,Medium,2024-01-17,,Auli
+RPT0637,U155,Aditi Joshi,A,OWN0413,Aakash Mehta,Harassment,Unprofessional behaviour,open,Low,2024-01-02,,Rishikesh
+RPT0638,U298,Aakash Joshi,A,OWN0457,Priya Rao,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-04-01,,Rishikesh
+RPT0639,U183,Deepa Srivastava,D,OWN0643,Priya Gupta,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-03-07,2024-03-26,Dehradun
+RPT0640,U423,Rohit Reddy,R,OWN0617,Rohit Mehta,Vehicle Damage,Broken mirror,resolved,Medium,2024-01-20,2024-02-18,Rishikesh
+RPT0641,U490,Rahul Verma,R,OWN0317,Amit Pandey,Rash Driving,Traffic rules violated,open,Medium,2024-02-21,,Dehradun
+RPT0642,U087,Tarun Nair,T,OWN0735,Rajesh Patel,Late Return,Vehicle returned next day without notice,open,Low,2024-02-22,,Rishikesh
+RPT0643,U380,Pooja Tiwari,P,OWN0718,Aditi Srivastava,Harassment,Inappropriate messages,escalated,Medium,2024-02-26,,Dehradun
+RPT0644,U412,Ishaan Reddy,I,OWN0108,Vikram Agarwal,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-03-22,2024-03-31,Dehradun
+RPT0645,U393,Aakash Tiwari,A,OWN0352,Mohan Srivastava,Rash Driving,Traffic rules violated,open,Medium,2024-02-12,,Haridwar
+RPT0646,U032,Dev Srivastava,D,OWN0658,Rahul Verma,Other,Miscellaneous,resolved,Medium,2024-03-17,2024-03-27,Lansdowne
+RPT0647,U101,Neha Rao,N,OWN0107,Aditi Nair,Vehicle Damage,Dent on bumper,open,Low,2024-01-03,,Mussoorie
+RPT0648,U321,Amit Tiwari,A,OWN0392,Rajesh Yadav,Late Return,Vehicle returned next day without notice,open,High,2024-03-22,,Rishikesh
+RPT0649,U054,Dev Nair,D,OWN0296,Deepa Das,Overcharging,Hidden fuel charges,resolved,Medium,2024-02-11,2024-02-20,Auli
+RPT0650,U389,Ishaan Rao,I,OWN0222,Rajesh Verma,Harassment,Inappropriate messages,escalated,Medium,2024-02-09,,Dehradun
+RPT0651,U027,Rohit Gupta,R,OWN0004,Suresh Verma,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-01-04,,Rishikesh
+RPT0652,U032,Divya Kumar,D,OWN0742,Rohit Reddy,Harassment,Threatening calls,open,Medium,2024-02-13,,Mussoorie
+RPT0653,U192,Rahul Singh,R,OWN0588,Sneha Mehta,Other,General complaint,resolved,Low,2024-01-30,2024-03-13,Rishikesh
+RPT0654,U376,Aman Agarwal,A,OWN0746,Ananya Singh,Rash Driving,Speeding complaint,open,Low,2024-01-23,,Rishikesh
+RPT0655,U172,Ritika Das,R,OWN0533,Rohit Rao,Late Return,4 hours delay,resolved,Medium,2024-03-27,2024-03-30,Rishikesh
+RPT0656,U381,Aman Singh,A,OWN0814,Ishaan Mehta,Vehicle Not as Described,AC not working,open,Medium,2024-01-10,,Rishikesh
+RPT0657,U030,Nikhil Agarwal,N,OWN0148,Sneha Mehta,Harassment,Inappropriate messages,open,Low,2024-04-05,,Dehradun
+RPT0658,U193,Dev Bose,D,OWN0812,Arjun Bose,Other,Feedback issue,open,High,2024-02-10,,Rishikesh
+RPT0659,U139,Mohan Joshi,M,OWN0277,Ishaan Mehta,Cancellation Issue,Cancelled without notice,open,High,2024-01-30,,Haridwar
+RPT0660,U351,Rahul Srivastava,R,OWN0469,Arjun Mehta,Vehicle Not as Described,AC not working,open,Medium,2024-01-28,,Dehradun
+RPT0661,U376,Meena Nair,M,OWN0955,Pooja Mehta,Cancellation Issue,Last minute cancellation,resolved,Low,2024-03-05,2024-03-07,Dehradun
+RPT0662,U342,Aakash Reddy,A,OWN0462,Karan Reddy,Harassment,Unprofessional behaviour,resolved,High,2024-03-29,2024-03-30,Dehradun
+RPT0663,U089,Mohan Bose,M,OWN0155,Karan Reddy,Rash Driving,Witnessed rash driving,resolved,Medium,2024-01-05,2024-01-26,Dehradun
+RPT0664,U139,Pooja Reddy,P,OWN0822,Aman Pandey,Other,Miscellaneous,open,High,2024-03-04,,Dehradun
+RPT0665,U205,Amit Rao,A,OWN0420,Rahul Rao,Vehicle Not as Described,AC not working,resolved,Low,2024-03-11,2024-04-02,Dehradun
+RPT0666,U188,Vikram Verma,V,OWN0133,Rajesh Bose,Late Return,Returned 3 hours late,resolved,High,2024-02-20,2024-03-28,Mussoorie
+RPT0667,U453,Pooja Pandey,P,OWN0080,Tarun Pandey,Vehicle Damage,Scratches on delivery,open,Medium,2024-01-17,,Mussoorie
+RPT0668,U313,Aakash Agarwal,A,OWN0678,Shreya Tiwari,Late Return,Vehicle returned next day without notice,open,Medium,2024-01-07,,Mussoorie
+RPT0669,U102,Dev Srivastava,D,OWN0888,Rahul Mehta,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-04-06,2024-04-06,Rishikesh
+RPT0670,U424,Divya Mehta,D,OWN0244,Rajesh Mehta,Rash Driving,Speeding complaint,resolved,Medium,2024-02-11,2024-02-28,Haridwar
+RPT0671,U390,Ishaan Tiwari,I,OWN0894,Priya Gupta,Harassment,Unprofessional behaviour,open,Medium,2024-01-02,,Nainital
+RPT0672,U121,Arjun Mehta,A,OWN0690,Meena Nair,Cancellation Issue,Last minute cancellation,open,High,2024-04-06,,Dehradun
+RPT0673,U093,Ananya Shah,A,OWN0729,Arjun Srivastava,Other,General complaint,open,Low,2024-03-06,,Mussoorie
+RPT0674,U072,Shreya Yadav,S,OWN0134,Ishaan Shah,Harassment,Inappropriate messages,open,Low,2024-03-17,,Dehradun
+RPT0675,U170,Nikhil Nair,N,OWN0990,Ritika Pandey,Vehicle Not as Described,AC not working,resolved,Medium,2024-01-10,2024-02-26,Mussoorie
+RPT0676,U442,Ritika Tiwari,R,OWN0861,Nisha Reddy,Overcharging,Charged extra ₹500,resolved,Medium,2024-01-21,2024-01-22,Rishikesh
+RPT0677,U145,Rahul Reddy,R,OWN0206,Tarun Joshi,Rash Driving,Speeding complaint,escalated,Medium,2024-01-31,,Rishikesh
+RPT0678,U296,Arjun Pandey,A,OWN0425,Nisha Pandey,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-02-15,2024-02-16,Rishikesh
+RPT0679,U214,Vikram Patel,V,OWN0053,Aman Singh,Vehicle Damage,Dent on bumper,resolved,Low,2024-03-02,2024-04-02,Chakrata
+RPT0680,U210,Mohan Sharma,M,OWN0288,Dev Sharma,Vehicle Damage,Dent on bumper,open,Medium,2024-03-19,,Dehradun
+RPT0681,U136,Aditi Kumar,A,OWN0222,Nikhil Nair,Rash Driving,Speeding complaint,resolved,Medium,2024-02-27,2024-03-09,Rishikesh
+RPT0682,U074,Mohan Agarwal,M,OWN0742,Kavya Reddy,Rash Driving,Traffic rules violated,open,Medium,2024-03-15,,Mussoorie
+RPT0683,U214,Tarun Yadav,T,OWN0626,Sneha Patel,Vehicle Not as Described,Wrong model delivered,resolved,Low,2024-01-21,2024-03-26,Dehradun
+RPT0684,U090,Nikhil Reddy,N,OWN0088,Nikhil Shah,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-01-04,2024-01-17,Mussoorie
+RPT0685,U014,Sonal Reddy,S,OWN0839,Shreya Sharma,Harassment,Unprofessional behaviour,resolved,Medium,2024-01-10,2024-01-17,Dehradun
+RPT0686,U091,Rajesh Yadav,R,OWN0276,Shreya Verma,Rash Driving,Speeding complaint,open,Low,2024-01-30,,Dehradun
+RPT0687,U200,Dev Patel,D,OWN0817,Aditi Nair,Cancellation Issue,Cancelled without notice,open,High,2024-03-18,,Dehradun
+RPT0688,U164,Rahul Kumar,R,OWN0402,Ravi Bose,Cancellation Issue,Cancelled without notice,open,Low,2024-02-14,,Dehradun
+RPT0689,U044,Kavya Pandey,K,OWN0347,Divya Gupta,Other,Feedback issue,open,High,2024-02-02,,Rishikesh
+RPT0690,U450,Neha Patel,N,OWN0205,Sonal Agarwal,Vehicle Not as Described,Wrong model delivered,resolved,Low,2024-03-16,2024-03-16,Auli
+RPT0691,U077,Deepa Bose,D,OWN0416,Meena Verma,Cancellation Issue,Refund not received,open,High,2024-02-29,,Mussoorie
+RPT0692,U069,Mohan Sharma,M,OWN0465,Aditi Joshi,Late Return,4 hours delay,escalated,Medium,2024-01-28,,Mussoorie
+RPT0693,U205,Vikram Tiwari,V,OWN0882,Rahul Agarwal,Late Return,Returned 3 hours late,open,Medium,2024-03-09,,Mussoorie
+RPT0694,U194,Rajesh Agarwal,R,OWN0665,Aakash Tiwari,Cancellation Issue,Refund not received,open,Medium,2024-04-10,,Auli
+RPT0695,U423,Suresh Bose,S,OWN0454,Meena Singh,Late Return,4 hours delay,open,High,2024-03-17,,Dehradun
+RPT0696,U294,Nikhil Tiwari,N,OWN0703,Neha Verma,Vehicle Not as Described,AC not working,resolved,Medium,2024-02-09,2024-02-09,Haridwar
+RPT0697,U080,Pooja Shah,P,OWN0107,Aakash Agarwal,Rash Driving,Witnessed rash driving,open,Medium,2024-03-28,,Dehradun
+RPT0698,U363,Ishaan Rao,I,OWN0152,Arjun Yadav,Other,General complaint,resolved,Low,2024-03-01,2024-03-20,Dehradun
+RPT0699,U431,Dev Joshi,D,OWN0997,Nisha Gupta,Late Return,4 hours delay,resolved,Low,2024-04-01,2024-04-10,Dehradun
+RPT0700,U054,Rajesh Mishra,R,OWN0104,Rahul Mehta,Rash Driving,Traffic rules violated,resolved,Low,2024-02-02,2024-03-03,Mussoorie
+RPT0701,U106,Sneha Mehta,S,OWN0486,Neha Sharma,Cancellation Issue,Refund not received,resolved,Medium,2024-01-02,2024-04-05,Auli
+RPT0702,U219,Tarun Joshi,T,OWN0689,Kavya Verma,Late Return,Returned 3 hours late,open,High,2024-01-28,,Rishikesh
+RPT0703,U324,Priya Pandey,P,OWN0236,Ritika Joshi,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-03-18,2024-04-07,Dehradun
+RPT0704,U109,Sneha Reddy,S,OWN0968,Ishaan Mehta,Cancellation Issue,Refund not received,resolved,Medium,2024-02-03,2024-04-05,Haridwar
+RPT0705,U017,Meena Das,M,OWN0137,Sonal Bose,Overcharging,Extra cleaning fee not mentioned,resolved,Medium,2024-03-29,2024-04-10,Mussoorie
+RPT0706,U477,Pooja Tiwari,P,OWN0472,Neha Das,Vehicle Damage,Tyre damage on return,escalated,Medium,2024-01-23,,Mussoorie
+RPT0707,U330,Nisha Gupta,N,OWN0438,Tarun Mehta,Late Return,Vehicle returned next day without notice,resolved,Low,2024-04-06,2024-04-10,Mussoorie
+RPT0708,U374,Suresh Mishra,S,OWN0103,Karan Joshi,Late Return,4 hours delay,open,Low,2024-02-08,,Dehradun
+RPT0709,U149,Aakash Pandey,A,OWN0084,Suresh Kumar,Rash Driving,Speeding complaint,resolved,Low,2024-02-23,2024-03-14,Dehradun
+RPT0710,U248,Shreya Patel,S,OWN0392,Dev Gupta,Rash Driving,Witnessed rash driving,resolved,Medium,2024-02-27,2024-03-14,Rishikesh
+RPT0711,U438,Ananya Patel,A,OWN0824,Priya Mehta,Harassment,Inappropriate messages,resolved,Medium,2024-03-18,2024-04-03,Haridwar
+RPT0712,U199,Ravi Srivastava,R,OWN0144,Ravi Agarwal,Vehicle Not as Described,Wrong model delivered,resolved,Low,2024-01-01,2024-01-07,Dehradun
+RPT0713,U034,Ravi Kumar,R,OWN0661,Meena Srivastava,Harassment,Unprofessional behaviour,resolved,Low,2024-01-22,2024-03-19,Rishikesh
+RPT0714,U494,Rohit Sharma,R,OWN0910,Shreya Kumar,Harassment,Unprofessional behaviour,open,Low,2024-03-29,,Mussoorie
+RPT0715,U232,Vikram Mishra,V,OWN0819,Aman Rao,Cancellation Issue,Refund not received,resolved,Low,2024-02-01,2024-03-27,Dehradun
+RPT0716,U463,Ritika Rao,R,OWN0051,Sneha Shah,Rash Driving,Speeding complaint,resolved,High,2024-03-10,2024-04-03,Rishikesh
+RPT0717,U420,Sonal Singh,S,OWN0596,Pooja Gupta,Vehicle Not as Described,Wrong model delivered,resolved,High,2024-02-14,2024-03-27,Haridwar
+RPT0718,U347,Tarun Singh,T,OWN0224,Nisha Mishra,Cancellation Issue,Last minute cancellation,open,Medium,2024-02-20,,Rishikesh
+RPT0719,U108,Aditi Shah,A,OWN0635,Suresh Nair,Overcharging,Extra cleaning fee not mentioned,open,High,2024-01-25,,Haridwar
+RPT0720,U275,Kavya Tiwari,K,OWN0633,Sonal Kumar,Vehicle Not as Described,Mileage not as stated,escalated,Medium,2024-01-26,,Haridwar
+RPT0721,U263,Ritika Pandey,R,OWN0721,Nikhil Bose,Harassment,Inappropriate messages,resolved,High,2024-02-01,2024-03-06,Dehradun
+RPT0722,U091,Nisha Nair,N,OWN0100,Priya Srivastava,Harassment,Inappropriate messages,resolved,Low,2024-01-26,2024-03-21,Rishikesh
+RPT0723,U388,Vikram Tiwari,V,OWN0200,Ravi Rao,Rash Driving,Speeding complaint,open,Low,2024-03-22,,Rishikesh
+RPT0724,U066,Ravi Rao,R,OWN0552,Suresh Patel,Cancellation Issue,Cancelled without notice,resolved,Medium,2024-03-05,2024-04-03,Mussoorie
+RPT0725,U142,Neha Srivastava,N,OWN0595,Karan Shah,Cancellation Issue,Refund not received,resolved,Low,2024-02-11,2024-02-16,Rishikesh
+RPT0726,U037,Ananya Rao,A,OWN0318,Tarun Singh,Late Return,4 hours delay,open,Medium,2024-02-03,,Haridwar
+RPT0727,U282,Ananya Nair,A,OWN0268,Rahul Verma,Overcharging,Charged extra ₹500,escalated,Low,2024-02-09,,Rishikesh
+RPT0728,U476,Nikhil Sharma,N,OWN0206,Ananya Rao,Other,Feedback issue,resolved,Medium,2024-03-22,2024-03-29,Dehradun
+RPT0729,U293,Nikhil Shah,N,OWN0501,Vikram Gupta,Other,Miscellaneous,resolved,Medium,2024-03-25,2024-03-25,Rishikesh
+RPT0730,U466,Neha Shah,N,OWN0872,Pooja Sharma,Cancellation Issue,Refund not received,resolved,High,2024-04-08,2024-04-08,Dehradun
+RPT0731,U022,Rohit Kumar,R,OWN0730,Tarun Gupta,Harassment,Threatening calls,open,High,2024-01-14,,Dehradun
+RPT0732,U074,Divya Mishra,D,OWN0091,Shreya Joshi,Overcharging,Extra cleaning fee not mentioned,open,High,2024-01-18,,Dehradun
+RPT0733,U377,Priya Verma,P,OWN0452,Rohit Srivastava,Cancellation Issue,Cancelled without notice,open,Medium,2024-01-06,,Dehradun
+RPT0734,U124,Dev Reddy,D,OWN0193,Kavya Shah,Cancellation Issue,Cancelled without notice,open,Medium,2024-02-17,,Lansdowne
+RPT0735,U395,Pooja Mishra,P,OWN0386,Ritika Das,Other,Feedback issue,resolved,Medium,2024-02-14,2024-04-06,Rishikesh
+RPT0736,U126,Shreya Das,S,OWN0558,Ishaan Verma,Rash Driving,Traffic rules violated,resolved,Low,2024-01-27,2024-03-10,Dehradun
+RPT0737,U288,Karan Singh,K,OWN0573,Aditi Verma,Vehicle Damage,Scratches on delivery,resolved,High,2024-01-27,2024-02-11,Rishikesh
+RPT0738,U405,Rohit Rao,R,OWN0824,Sonal Singh,Vehicle Damage,Dent on bumper,resolved,Medium,2024-02-21,2024-04-08,Mussoorie
+RPT0739,U350,Dev Joshi,D,OWN0209,Pooja Patel,Vehicle Not as Described,Mileage not as stated,escalated,Medium,2024-01-16,,Auli
+RPT0740,U419,Aditi Kumar,A,OWN0641,Aakash Das,Other,General complaint,resolved,High,2024-01-15,2024-03-04,Mussoorie
+RPT0741,U085,Sneha Gupta,S,OWN0541,Ritika Pandey,Harassment,Threatening calls,open,Low,2024-03-26,,Mussoorie
+RPT0742,U413,Divya Sharma,D,OWN0558,Nikhil Singh,Late Return,Returned 3 hours late,open,Low,2024-03-27,,Dehradun
+RPT0743,U349,Dev Sharma,D,OWN0789,Mohan Yadav,Rash Driving,Traffic rules violated,escalated,Low,2024-02-21,,Rishikesh
+RPT0744,U217,Pooja Rao,P,OWN0676,Priya Gupta,Cancellation Issue,Last minute cancellation,resolved,Medium,2024-01-31,2024-02-24,Rishikesh
+RPT0745,U201,Sneha Bose,S,OWN0580,Kavya Pandey,Other,General complaint,open,Medium,2024-03-29,,Dehradun
+RPT0746,U135,Ravi Yadav,R,OWN0059,Sneha Gupta,Overcharging,Hidden fuel charges,resolved,Medium,2024-01-30,2024-02-08,Dehradun
+RPT0747,U330,Aman Joshi,A,OWN0638,Mohan Tiwari,Vehicle Damage,Tyre damage on return,open,High,2024-03-18,,Nainital
+RPT0748,U296,Deepa Gupta,D,OWN0026,Meena Nair,Rash Driving,Witnessed rash driving,open,High,2024-03-19,,Nainital
+RPT0749,U164,Divya Joshi,D,OWN0971,Shreya Verma,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-02-26,,Nainital
+RPT0750,U267,Ravi Bose,R,OWN0722,Arjun Patel,Vehicle Not as Described,Mileage not as stated,open,Medium,2024-03-14,,Rishikesh
+RPT0751,U038,Aman Kumar,A,OWN0650,Kavya Tiwari,Cancellation Issue,Last minute cancellation,open,Medium,2024-04-04,,Haridwar
+RPT0752,U003,Rajesh Rao,R,OWN0059,Ananya Kumar,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-03-03,2024-04-07,Nainital
+RPT0753,U348,Aditi Mehta,A,OWN0106,Tarun Srivastava,Other,Feedback issue,escalated,Medium,2024-01-02,,Mussoorie
+RPT0754,U384,Ishaan Shah,I,OWN0961,Nisha Patel,Overcharging,Extra cleaning fee not mentioned,resolved,High,2024-02-14,2024-02-27,Dehradun
+RPT0755,U118,Deepa Nair,D,OWN0135,Nisha Gupta,Vehicle Not as Described,AC not working,resolved,Low,2024-01-14,2024-03-30,Rishikesh
+RPT0756,U183,Ishaan Kumar,I,OWN0160,Suresh Joshi,Cancellation Issue,Refund not received,open,High,2024-02-27,,Dehradun
+RPT0757,U336,Tarun Joshi,T,OWN0213,Kavya Sharma,Harassment,Inappropriate messages,escalated,High,2024-04-08,,Dehradun
+RPT0758,U273,Ravi Shah,R,OWN0179,Neha Mehta,Harassment,Threatening calls,resolved,Medium,2024-02-24,2024-03-05,Dehradun
+RPT0759,U296,Ishaan Tiwari,I,OWN0576,Arjun Shah,Rash Driving,Speeding complaint,open,Low,2024-01-28,,Auli
+RPT0760,U489,Arjun Shah,A,OWN0958,Tarun Mishra,Harassment,Unprofessional behaviour,open,High,2024-01-21,,Nainital
+RPT0761,U153,Dev Tiwari,D,OWN0941,Karan Srivastava,Vehicle Not as Described,Wrong model delivered,open,Low,2024-02-08,,Haridwar
+RPT0762,U479,Pooja Reddy,P,OWN0363,Amit Agarwal,Overcharging,Hidden fuel charges,escalated,Low,2024-02-14,,Rishikesh
+RPT0763,U255,Dev Sharma,D,OWN0330,Neha Das,Cancellation Issue,Refund not received,open,Low,2024-03-25,,Auli
+RPT0764,U374,Shreya Bose,S,OWN0424,Ritika Rao,Vehicle Damage,Broken mirror,resolved,High,2024-02-20,2024-03-14,Mussoorie
+RPT0765,U448,Divya Mishra,D,OWN0423,Nisha Srivastava,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-02-10,2024-02-20,Rishikesh
+RPT0766,U183,Rahul Das,R,OWN0049,Nikhil Verma,Harassment,Unprofessional behaviour,resolved,Medium,2024-03-19,2024-03-19,Mussoorie
+RPT0767,U401,Divya Mehta,D,OWN0517,Ananya Singh,Harassment,Unprofessional behaviour,resolved,Medium,2024-01-29,2024-03-22,Dehradun
+RPT0768,U409,Deepa Mehta,D,OWN0029,Deepa Shah,Other,General complaint,open,High,2024-02-12,,Dehradun
+RPT0769,U115,Amit Sharma,A,OWN0179,Sonal Verma,Overcharging,Hidden fuel charges,resolved,Medium,2024-04-08,2024-04-09,Lansdowne
+RPT0770,U166,Tarun Kumar,T,OWN0909,Aakash Verma,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-03-04,,Mussoorie
+RPT0771,U344,Neha Yadav,N,OWN0690,Ravi Mishra,Other,Feedback issue,open,Medium,2024-03-21,,Haridwar
+RPT0772,U161,Sneha Patel,S,OWN0340,Nisha Verma,Rash Driving,Traffic rules violated,escalated,Medium,2024-04-03,,Haridwar
+RPT0773,U115,Ananya Shah,A,OWN0730,Vikram Yadav,Late Return,Returned 3 hours late,resolved,Medium,2024-02-25,2024-03-26,Mussoorie
+RPT0774,U004,Sonal Singh,S,OWN0068,Amit Gupta,Cancellation Issue,Refund not received,open,Medium,2024-01-11,,Haridwar
+RPT0775,U063,Priya Verma,P,OWN0916,Ravi Agarwal,Other,General complaint,resolved,High,2024-02-01,2024-02-04,Mussoorie
+RPT0776,U002,Pooja Mishra,P,OWN0620,Shreya Pandey,Late Return,4 hours delay,open,Low,2024-01-07,,Mussoorie
+RPT0777,U032,Aman Tiwari,A,OWN0632,Dev Tiwari,Other,Miscellaneous,escalated,High,2024-03-24,,Nainital
+RPT0778,U140,Arjun Gupta,A,OWN0017,Kavya Verma,Vehicle Not as Described,AC not working,resolved,High,2024-02-15,2024-03-18,Nainital
+RPT0779,U322,Ritika Agarwal,R,OWN0329,Rohit Bose,Late Return,Returned 3 hours late,open,Low,2024-03-06,,Rishikesh
+RPT0780,U362,Ananya Verma,A,OWN0123,Vikram Kumar,Overcharging,Extra cleaning fee not mentioned,open,High,2024-02-11,,Dehradun
+RPT0781,U002,Divya Srivastava,D,OWN0849,Nikhil Bose,Cancellation Issue,Refund not received,resolved,Medium,2024-02-27,2024-02-28,Chakrata
+RPT0782,U217,Sonal Rao,S,OWN0116,Karan Tiwari,Harassment,Inappropriate messages,escalated,High,2024-01-12,,Rishikesh
+RPT0783,U161,Shreya Tiwari,S,OWN0603,Divya Tiwari,Rash Driving,Traffic rules violated,resolved,Low,2024-02-18,2024-03-20,Rishikesh
+RPT0784,U318,Aakash Yadav,A,OWN0908,Aditi Agarwal,Vehicle Damage,Scratches on delivery,resolved,Low,2024-03-29,2024-04-04,Mussoorie
+RPT0785,U454,Aman Reddy,A,OWN0661,Arjun Nair,Vehicle Not as Described,Wrong model delivered,open,High,2024-03-17,,Dehradun
+RPT0786,U337,Aditi Sharma,A,OWN0946,Ravi Rao,Rash Driving,Speeding complaint,resolved,Low,2024-02-15,2024-03-31,Haridwar
+RPT0787,U241,Karan Rao,K,OWN0616,Rohit Joshi,Late Return,4 hours delay,escalated,Medium,2024-02-12,,Mussoorie
+RPT0788,U184,Sonal Reddy,S,OWN0712,Tarun Rao,Harassment,Unprofessional behaviour,open,Medium,2024-01-26,,Dehradun
+RPT0789,U446,Aman Kumar,A,OWN0575,Nisha Gupta,Other,Miscellaneous,resolved,Low,2024-03-31,2024-04-10,Dehradun
+RPT0790,U313,Vikram Mehta,V,OWN0214,Karan Kumar,Rash Driving,Speeding complaint,resolved,High,2024-01-30,2024-03-05,Dehradun
+RPT0791,U450,Shreya Kumar,S,OWN0149,Dev Reddy,Other,Feedback issue,resolved,Low,2024-01-02,2024-02-24,Dehradun
+RPT0792,U331,Rahul Reddy,R,OWN0743,Priya Joshi,Other,Miscellaneous,resolved,Low,2024-04-07,2024-04-08,Haridwar
+RPT0793,U157,Pooja Reddy,P,OWN0301,Mohan Patel,Overcharging,Hidden fuel charges,resolved,High,2024-01-24,2024-03-26,Rishikesh
+RPT0794,U301,Ananya Nair,A,OWN0115,Nikhil Singh,Late Return,Vehicle returned next day without notice,resolved,Low,2024-02-23,2024-04-05,Nainital
+RPT0795,U444,Deepa Mehta,D,OWN0524,Pooja Mehta,Vehicle Damage,Dent on bumper,resolved,Medium,2024-01-02,2024-01-14,Rishikesh
+RPT0796,U335,Divya Patel,D,OWN0873,Deepa Kumar,Late Return,Returned 3 hours late,resolved,Medium,2024-03-10,2024-03-27,Dehradun
+RPT0797,U465,Rahul Mishra,R,OWN0757,Mohan Nair,Vehicle Damage,Dent on bumper,escalated,Medium,2024-01-29,,Haridwar
+RPT0798,U126,Ritika Tiwari,R,OWN0534,Neha Patel,Late Return,Vehicle returned next day without notice,open,Medium,2024-03-04,,Haridwar
+RPT0799,U172,Aakash Yadav,A,OWN0628,Ritika Nair,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-01-11,2024-02-16,Rishikesh
+RPT0800,U232,Aman Singh,A,OWN0428,Arjun Singh,Late Return,4 hours delay,open,High,2024-01-12,,Dehradun
+RPT0801,U430,Shreya Pandey,S,OWN0444,Pooja Mishra,Overcharging,Extra cleaning fee not mentioned,open,Low,2024-02-04,,Rishikesh
+RPT0802,U126,Ishaan Mishra,I,OWN0045,Deepa Kumar,Overcharging,Charged extra ₹500,resolved,High,2024-01-15,2024-02-16,Auli
+RPT0803,U452,Divya Bose,D,OWN0335,Aman Bose,Harassment,Inappropriate messages,escalated,Low,2024-03-10,,Dehradun
+RPT0804,U477,Sonal Rao,S,OWN0365,Rohit Bose,Vehicle Not as Described,Wrong model delivered,escalated,Low,2024-03-06,,Rishikesh
+RPT0805,U076,Mohan Singh,M,OWN0296,Dev Rao,Cancellation Issue,Refund not received,resolved,Low,2024-02-07,2024-02-20,Rishikesh
+RPT0806,U132,Sonal Sharma,S,OWN0964,Rohit Pandey,Cancellation Issue,Refund not received,open,High,2024-02-22,,Dehradun
+RPT0807,U411,Ananya Nair,A,OWN0317,Nisha Gupta,Vehicle Not as Described,Wrong model delivered,resolved,Low,2024-02-09,2024-02-19,Rishikesh
+RPT0808,U443,Aman Das,A,OWN0626,Sneha Sharma,Harassment,Threatening calls,open,High,2024-02-08,,Dehradun
+RPT0809,U481,Ravi Kumar,R,OWN0230,Shreya Agarwal,Vehicle Not as Described,Mileage not as stated,open,Medium,2024-01-20,,Auli
+RPT0810,U316,Karan Nair,K,OWN0497,Dev Yadav,Cancellation Issue,Last minute cancellation,resolved,Low,2024-02-03,2024-03-30,Haridwar
+RPT0811,U084,Rohit Kumar,R,OWN0169,Vikram Sharma,Cancellation Issue,Last minute cancellation,resolved,High,2024-02-02,2024-04-09,Mussoorie
+RPT0812,U148,Dev Yadav,D,OWN0185,Sneha Srivastava,Vehicle Not as Described,AC not working,open,High,2024-04-06,,Dehradun
+RPT0813,U111,Divya Nair,D,OWN0051,Mohan Singh,Late Return,Vehicle returned next day without notice,resolved,High,2024-03-17,2024-03-24,Mussoorie
+RPT0814,U490,Ananya Mehta,A,OWN0100,Aman Reddy,Other,Feedback issue,open,Low,2024-02-28,,Dehradun
+RPT0815,U476,Amit Mehta,A,OWN0993,Suresh Patel,Other,General complaint,open,Low,2024-02-16,,Rishikesh
+RPT0816,U451,Neha Singh,N,OWN0571,Nisha Tiwari,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-04-08,2024-04-10,Mussoorie
+RPT0817,U052,Nikhil Shah,N,OWN0636,Rohit Mehta,Late Return,4 hours delay,open,High,2024-03-08,,Haridwar
+RPT0818,U329,Aman Agarwal,A,OWN0262,Karan Joshi,Rash Driving,Traffic rules violated,open,Low,2024-02-06,,Haridwar
+RPT0819,U159,Karan Joshi,K,OWN0291,Sonal Srivastava,Cancellation Issue,Last minute cancellation,open,High,2024-02-13,,Mussoorie
+RPT0820,U026,Divya Bose,D,OWN0692,Karan Mehta,Overcharging,Hidden fuel charges,open,High,2024-03-21,,Haridwar
+RPT0821,U042,Mohan Srivastava,M,OWN0231,Neha Pandey,Vehicle Damage,Dent on bumper,resolved,High,2024-01-04,2024-02-10,Mussoorie
+RPT0822,U408,Mohan Nair,M,OWN0784,Arjun Verma,Vehicle Damage,Broken mirror,resolved,Medium,2024-03-25,2024-04-01,Haridwar
+RPT0823,U070,Priya Mehta,P,OWN0375,Dev Shah,Vehicle Damage,Tyre damage on return,open,Low,2024-03-03,,Chakrata
+RPT0824,U058,Sonal Reddy,S,OWN0857,Divya Mehta,Vehicle Damage,Tyre damage on return,open,Low,2024-01-19,,Chakrata
+RPT0825,U091,Rahul Srivastava,R,OWN0394,Sonal Bose,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-03-24,2024-04-04,Dehradun
+RPT0826,U397,Sonal Srivastava,S,OWN0505,Nisha Bose,Rash Driving,Speeding complaint,open,High,2024-01-11,,Rishikesh
+RPT0827,U025,Rahul Tiwari,R,OWN0283,Pooja Sharma,Vehicle Damage,Dent on bumper,resolved,Medium,2024-01-14,2024-03-03,Dehradun
+RPT0828,U071,Vikram Nair,V,OWN0377,Priya Sharma,Overcharging,Charged extra ₹500,open,High,2024-01-29,,Rishikesh
+RPT0829,U242,Aakash Verma,A,OWN0245,Sonal Nair,Harassment,Unprofessional behaviour,resolved,High,2024-04-06,2024-04-08,Nainital
+RPT0830,U047,Tarun Das,T,OWN0276,Nikhil Tiwari,Other,Miscellaneous,resolved,High,2024-03-22,2024-04-03,Dehradun
+RPT0831,U304,Nikhil Gupta,N,OWN0549,Arjun Joshi,Vehicle Damage,Tyre damage on return,open,High,2024-01-23,,Nainital
+RPT0832,U048,Aditi Shah,A,OWN0680,Nisha Singh,Overcharging,Extra cleaning fee not mentioned,resolved,Low,2024-02-12,2024-03-31,Mussoorie
+RPT0833,U120,Rajesh Sharma,R,OWN0372,Rahul Pandey,Vehicle Damage,Tyre damage on return,open,Medium,2024-01-20,,Mussoorie
+RPT0834,U443,Aditi Bose,A,OWN0164,Vikram Verma,Overcharging,Hidden fuel charges,open,Medium,2024-03-27,,Haridwar
+RPT0835,U416,Priya Agarwal,P,OWN0617,Priya Verma,Vehicle Not as Described,Wrong model delivered,open,Medium,2024-03-04,,Mussoorie
+RPT0836,U116,Ananya Verma,A,OWN0163,Divya Joshi,Vehicle Damage,Tyre damage on return,open,High,2024-01-27,,Lansdowne
+RPT0837,U197,Tarun Yadav,T,OWN0172,Suresh Nair,Harassment,Threatening calls,resolved,High,2024-02-24,2024-03-14,Mussoorie
+RPT0838,U385,Vikram Mehta,V,OWN0775,Aditi Verma,Vehicle Damage,Dent on bumper,resolved,Medium,2024-02-05,2024-03-22,Mussoorie
+RPT0839,U076,Ananya Verma,A,OWN0619,Rajesh Das,Harassment,Inappropriate messages,escalated,Medium,2024-02-03,,Dehradun
+RPT0840,U492,Deepa Pandey,D,OWN0041,Kavya Joshi,Late Return,Vehicle returned next day without notice,resolved,Low,2024-03-20,2024-04-05,Mussoorie
+RPT0841,U024,Neha Tiwari,N,OWN0390,Aakash Mishra,Rash Driving,Witnessed rash driving,open,Low,2024-01-09,,Mussoorie
+RPT0842,U050,Shreya Mishra,S,OWN0287,Nikhil Mehta,Cancellation Issue,Refund not received,escalated,High,2024-01-24,,Rishikesh
+RPT0843,U239,Ravi Singh,R,OWN0721,Nisha Agarwal,Vehicle Not as Described,Mileage not as stated,resolved,High,2024-01-28,2024-04-02,Dehradun
+RPT0844,U331,Sneha Agarwal,S,OWN0268,Vikram Rao,Cancellation Issue,Last minute cancellation,escalated,Medium,2024-02-15,,Rishikesh
+RPT0845,U390,Kavya Nair,K,OWN0267,Aditi Tiwari,Other,Miscellaneous,resolved,Medium,2024-03-14,2024-03-19,Mussoorie
+RPT0846,U156,Karan Pandey,K,OWN0543,Arjun Nair,Vehicle Damage,Broken mirror,resolved,Medium,2024-04-03,2024-04-07,Mussoorie
+RPT0847,U032,Nikhil Srivastava,N,OWN0536,Aakash Agarwal,Other,Feedback issue,resolved,Low,2024-03-27,2024-04-08,Rishikesh
+RPT0848,U171,Nisha Sharma,N,OWN0557,Aakash Pandey,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-04-07,2024-04-09,Rishikesh
+RPT0849,U348,Ishaan Mehta,I,OWN0823,Pooja Agarwal,Late Return,Vehicle returned next day without notice,escalated,High,2024-03-18,,Mussoorie
+RPT0850,U111,Rajesh Kumar,R,OWN0021,Ishaan Sharma,Overcharging,Extra cleaning fee not mentioned,open,High,2024-02-29,,Haridwar
+RPT0851,U098,Vikram Gupta,V,OWN0821,Shreya Das,Cancellation Issue,Refund not received,resolved,Medium,2024-03-19,2024-03-20,Rishikesh
+RPT0852,U126,Meena Gupta,M,OWN0227,Mohan Sharma,Overcharging,Charged extra ₹500,resolved,Medium,2024-01-06,2024-02-27,Dehradun
+RPT0853,U081,Kavya Bose,K,OWN0852,Mohan Verma,Late Return,Returned 3 hours late,escalated,Medium,2024-03-20,,Dehradun
+RPT0854,U008,Meena Bose,M,OWN0800,Tarun Patel,Other,General complaint,resolved,Low,2024-02-11,2024-03-31,Haridwar
+RPT0855,U047,Rajesh Gupta,R,OWN0853,Karan Singh,Vehicle Not as Described,AC not working,open,Low,2024-01-06,,Rishikesh
+RPT0856,U211,Divya Srivastava,D,OWN0606,Rahul Das,Other,Feedback issue,resolved,Medium,2024-01-13,2024-02-11,Rishikesh
+RPT0857,U407,Aditi Srivastava,A,OWN0354,Ravi Mehta,Late Return,Vehicle returned next day without notice,resolved,Medium,2024-02-23,2024-02-26,Dehradun
+RPT0858,U467,Deepa Srivastava,D,OWN0482,Pooja Singh,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-02-21,2024-03-21,Dehradun
+RPT0859,U346,Kavya Pandey,K,OWN0391,Tarun Gupta,Rash Driving,Traffic rules violated,open,High,2024-01-17,,Dehradun
+RPT0860,U233,Rahul Sharma,R,OWN0512,Rahul Sharma,Cancellation Issue,Cancelled without notice,open,High,2024-04-10,,Dehradun
+RPT0861,U087,Kavya Pandey,K,OWN0574,Divya Joshi,Overcharging,Extra cleaning fee not mentioned,resolved,High,2024-01-17,2024-01-29,Haridwar
+RPT0862,U427,Priya Das,P,OWN0931,Priya Pandey,Vehicle Damage,Dent on bumper,escalated,Low,2024-01-16,,Mussoorie
+RPT0863,U469,Rajesh Agarwal,R,OWN0631,Nisha Nair,Late Return,Returned 3 hours late,resolved,High,2024-01-01,2024-01-15,Dehradun
+RPT0864,U412,Shreya Agarwal,S,OWN0235,Divya Mehta,Vehicle Not as Described,Mileage not as stated,open,High,2024-01-11,,Dehradun
+RPT0865,U396,Aditi Bose,A,OWN0960,Vikram Reddy,Late Return,4 hours delay,open,Medium,2024-03-13,,Rishikesh
+RPT0866,U448,Dev Sharma,D,OWN0889,Nikhil Yadav,Overcharging,Hidden fuel charges,open,Medium,2024-01-14,,Rishikesh
+RPT0867,U498,Arjun Rao,A,OWN0946,Tarun Mehta,Harassment,Unprofessional behaviour,open,High,2024-02-10,,Rishikesh
+RPT0868,U135,Deepa Reddy,D,OWN0052,Vikram Srivastava,Overcharging,Hidden fuel charges,resolved,Medium,2024-02-11,2024-03-03,Dehradun
+RPT0869,U129,Deepa Yadav,D,OWN0429,Karan Patel,Overcharging,Hidden fuel charges,open,High,2024-02-07,,Dehradun
+RPT0870,U258,Rajesh Nair,R,OWN0966,Neha Joshi,Other,General complaint,open,High,2024-03-21,,Dehradun
+RPT0871,U411,Deepa Yadav,D,OWN0015,Sneha Kumar,Late Return,4 hours delay,open,Medium,2024-03-29,,Rishikesh
+RPT0872,U453,Arjun Mehta,A,OWN0523,Tarun Nair,Other,Miscellaneous,open,High,2024-02-05,,Nainital
+RPT0873,U461,Pooja Shah,P,OWN0443,Sneha Singh,Vehicle Damage,Tyre damage on return,escalated,Medium,2024-01-06,,Nainital
+RPT0874,U017,Deepa Mehta,D,OWN0971,Nikhil Shah,Harassment,Threatening calls,resolved,Low,2024-01-23,2024-03-02,Haridwar
+RPT0875,U406,Kavya Nair,K,OWN0126,Suresh Verma,Late Return,4 hours delay,open,Medium,2024-03-22,,Dehradun
+RPT0876,U136,Tarun Verma,T,OWN0932,Suresh Tiwari,Cancellation Issue,Refund not received,resolved,Medium,2024-03-22,2024-03-25,Dehradun
+RPT0877,U131,Arjun Srivastava,A,OWN0515,Tarun Bose,Other,General complaint,open,Medium,2024-01-15,,Dehradun
+RPT0878,U480,Nikhil Mehta,N,OWN0826,Rajesh Pandey,Other,Feedback issue,open,Low,2024-04-08,,Dehradun
+RPT0879,U157,Shreya Shah,S,OWN0789,Nikhil Verma,Vehicle Not as Described,Wrong model delivered,resolved,Medium,2024-01-17,2024-02-29,Mussoorie
+RPT0880,U016,Tarun Sharma,T,OWN0160,Deepa Kumar,Vehicle Damage,Broken mirror,resolved,High,2024-01-25,2024-03-18,Rishikesh
+RPT0881,U104,Amit Das,A,OWN0177,Karan Yadav,Vehicle Not as Described,AC not working,resolved,Medium,2024-02-15,2024-03-07,Mussoorie
+RPT0882,U264,Nikhil Mehta,N,OWN0136,Shreya Reddy,Rash Driving,Traffic rules violated,open,Low,2024-02-14,,Haridwar
+RPT0883,U189,Pooja Shah,P,OWN0924,Deepa Yadav,Cancellation Issue,Last minute cancellation,resolved,High,2024-04-08,2024-04-08,Haridwar
+RPT0884,U415,Deepa Srivastava,D,OWN0655,Meena Gupta,Vehicle Damage,Scratches on delivery,open,Low,2024-01-15,,Mussoorie
+RPT0885,U160,Ishaan Gupta,I,OWN0118,Ritika Gupta,Other,Feedback issue,open,Low,2024-01-02,,Rishikesh
+RPT0886,U182,Sneha Shah,S,OWN0280,Arjun Das,Harassment,Inappropriate messages,open,High,2024-01-20,,Rishikesh
+RPT0887,U398,Priya Pandey,P,OWN0207,Ishaan Shah,Harassment,Threatening calls,open,Low,2024-02-13,,Rishikesh
+RPT0888,U311,Shreya Yadav,S,OWN0124,Aakash Tiwari,Cancellation Issue,Cancelled without notice,resolved,High,2024-02-26,2024-04-04,Mussoorie
+RPT0889,U297,Aakash Rao,A,OWN0302,Sneha Sharma,Late Return,Returned 3 hours late,open,High,2024-01-08,,Rishikesh
+RPT0890,U193,Vikram Pandey,V,OWN0580,Pooja Yadav,Overcharging,Hidden fuel charges,open,Medium,2024-04-06,,Mussoorie
+RPT0891,U196,Aakash Joshi,A,OWN0957,Arjun Pandey,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-03-22,2024-03-29,Mussoorie
+RPT0892,U041,Tarun Singh,T,OWN0470,Vikram Patel,Late Return,4 hours delay,open,Medium,2024-01-12,,Nainital
+RPT0893,U137,Aakash Mehta,A,OWN0443,Tarun Verma,Other,General complaint,open,Medium,2024-01-11,,Dehradun
+RPT0894,U132,Tarun Pandey,T,OWN0910,Neha Verma,Harassment,Inappropriate messages,escalated,Medium,2024-03-26,,Dehradun
+RPT0895,U363,Tarun Yadav,T,OWN0708,Amit Shah,Late Return,Vehicle returned next day without notice,resolved,Low,2024-02-22,2024-02-25,Rishikesh
+RPT0896,U127,Amit Bose,A,OWN0300,Dev Mishra,Vehicle Not as Described,AC not working,resolved,Low,2024-03-25,2024-04-09,Haridwar
+RPT0897,U419,Ravi Srivastava,R,OWN0935,Sonal Das,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-03-24,,Dehradun
+RPT0898,U152,Aman Rao,A,OWN0156,Neha Sharma,Vehicle Not as Described,AC not working,open,High,2024-02-13,,Mussoorie
+RPT0899,U425,Divya Nair,D,OWN0457,Nisha Mishra,Harassment,Threatening calls,open,Medium,2024-01-16,,Mussoorie
+RPT0900,U361,Ravi Das,R,OWN0390,Meena Yadav,Vehicle Damage,Tyre damage on return,open,Medium,2024-04-02,,Haridwar
+RPT0901,U411,Sneha Sharma,S,OWN0034,Tarun Yadav,Rash Driving,Traffic rules violated,resolved,Medium,2024-01-31,2024-03-15,Auli
+RPT0902,U328,Ananya Pandey,A,OWN0710,Karan Srivastava,Cancellation Issue,Refund not received,open,Medium,2024-03-25,,Dehradun
+RPT0903,U186,Nisha Nair,N,OWN0827,Rahul Kumar,Overcharging,Charged extra ₹500,open,Low,2024-02-15,,Haridwar
+RPT0904,U063,Dev Patel,D,OWN0684,Karan Tiwari,Late Return,4 hours delay,resolved,High,2024-01-09,2024-01-27,Nainital
+RPT0905,U174,Suresh Bose,S,OWN0317,Pooja Patel,Overcharging,Extra cleaning fee not mentioned,open,Medium,2024-01-16,,Rishikesh
+RPT0906,U119,Vikram Shah,V,OWN0221,Ananya Reddy,Late Return,4 hours delay,escalated,Medium,2024-02-28,,Nainital
+RPT0907,U276,Ishaan Mehta,I,OWN0339,Suresh Mehta,Cancellation Issue,Last minute cancellation,resolved,Low,2024-04-10,2024-04-10,Mussoorie
+RPT0908,U104,Aakash Kumar,A,OWN0441,Priya Yadav,Vehicle Not as Described,AC not working,resolved,Medium,2024-01-26,2024-02-13,Auli
+RPT0909,U370,Kavya Nair,K,OWN0572,Pooja Yadav,Harassment,Unprofessional behaviour,resolved,Medium,2024-03-25,2024-04-09,Rishikesh
+RPT0910,U226,Nikhil Yadav,N,OWN0049,Kavya Bose,Cancellation Issue,Refund not received,open,Low,2024-01-29,,Haridwar
+RPT0911,U193,Ravi Bose,R,OWN0107,Mohan Yadav,Cancellation Issue,Last minute cancellation,resolved,Medium,2024-01-05,2024-04-08,Rishikesh
+RPT0912,U150,Priya Agarwal,P,OWN0293,Divya Bose,Cancellation Issue,Cancelled without notice,resolved,High,2024-03-13,2024-04-06,Nainital
+RPT0913,U327,Kavya Das,K,OWN0326,Pooja Sharma,Late Return,Returned 3 hours late,open,Medium,2024-02-10,,Haridwar
+RPT0914,U367,Kavya Sharma,K,OWN0733,Sneha Agarwal,Late Return,Returned 3 hours late,open,High,2024-03-07,,Mussoorie
+RPT0915,U088,Aditi Shah,A,OWN0675,Priya Agarwal,Late Return,Vehicle returned next day without notice,open,Medium,2024-03-11,,Dehradun
+RPT0916,U124,Nikhil Shah,N,OWN0528,Rajesh Gupta,Vehicle Damage,Broken mirror,resolved,Medium,2024-02-26,2024-04-09,Rishikesh
+RPT0917,U102,Aman Sharma,A,OWN0476,Deepa Verma,Vehicle Not as Described,Wrong model delivered,escalated,Low,2024-02-09,,Haridwar
+RPT0918,U472,Pooja Kumar,P,OWN0664,Ishaan Verma,Other,Feedback issue,resolved,Low,2024-04-04,2024-04-09,Haridwar
+RPT0919,U050,Meena Patel,M,OWN0206,Shreya Mehta,Cancellation Issue,Refund not received,resolved,High,2024-01-13,2024-02-13,Mussoorie
+RPT0920,U377,Ananya Srivastava,A,OWN0705,Nisha Pandey,Rash Driving,Speeding complaint,open,Low,2024-01-06,,Rishikesh
+RPT0921,U444,Vikram Sharma,V,OWN0468,Tarun Pandey,Vehicle Damage,Tyre damage on return,resolved,Medium,2024-01-24,2024-03-13,Mussoorie
+RPT0922,U185,Kavya Yadav,K,OWN0437,Priya Singh,Cancellation Issue,Refund not received,resolved,Medium,2024-01-03,2024-02-24,Rishikesh
+RPT0923,U131,Dev Rao,D,OWN0887,Neha Rao,Rash Driving,Witnessed rash driving,open,High,2024-01-18,,Dehradun
+RPT0924,U267,Pooja Reddy,P,OWN0865,Karan Mishra,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-01-26,2024-03-15,Dehradun
+RPT0925,U352,Aditi Sharma,A,OWN0924,Nisha Nair,Vehicle Damage,Scratches on delivery,resolved,Medium,2024-01-09,2024-02-05,Rishikesh
+RPT0926,U347,Sonal Yadav,S,OWN0489,Priya Bose,Late Return,Returned 3 hours late,open,Medium,2024-03-16,,Mussoorie
+RPT0927,U055,Ravi Das,R,OWN0490,Ishaan Shah,Rash Driving,Witnessed rash driving,resolved,High,2024-03-12,2024-03-22,Dehradun
+RPT0928,U234,Suresh Sharma,S,OWN0106,Nisha Singh,Late Return,4 hours delay,resolved,Medium,2024-02-29,2024-03-28,Mussoorie
+RPT0929,U211,Aditi Verma,A,OWN0612,Nikhil Gupta,Cancellation Issue,Refund not received,open,High,2024-04-05,,Rishikesh
+RPT0930,U465,Nikhil Pandey,N,OWN0894,Suresh Mishra,Rash Driving,Traffic rules violated,resolved,High,2024-01-22,2024-03-24,Dehradun
+RPT0931,U394,Nikhil Srivastava,N,OWN0923,Pooja Bose,Rash Driving,Witnessed rash driving,resolved,High,2024-01-11,2024-02-21,Dehradun
+RPT0932,U410,Arjun Tiwari,A,OWN0351,Ravi Patel,Other,Feedback issue,escalated,Medium,2024-03-27,,Rishikesh
+RPT0933,U165,Suresh Agarwal,S,OWN0642,Shreya Mishra,Late Return,Returned 3 hours late,resolved,Medium,2024-03-07,2024-03-14,Rishikesh
+RPT0934,U129,Amit Joshi,A,OWN0424,Arjun Das,Other,General complaint,resolved,Low,2024-01-13,2024-02-06,Dehradun
+RPT0935,U097,Karan Verma,K,OWN0412,Aman Nair,Rash Driving,Speeding complaint,open,Low,2024-04-10,,Rishikesh
+RPT0936,U331,Tarun Verma,T,OWN0439,Kavya Mishra,Other,Feedback issue,resolved,Low,2024-02-11,2024-03-16,Dehradun
+RPT0937,U286,Mohan Mehta,M,OWN0109,Shreya Yadav,Other,Feedback issue,resolved,Low,2024-01-28,2024-04-02,Rishikesh
+RPT0938,U021,Ishaan Tiwari,I,OWN0060,Karan Gupta,Other,Feedback issue,open,High,2024-03-01,,Rishikesh
+RPT0939,U361,Mohan Agarwal,M,OWN0331,Kavya Agarwal,Harassment,Unprofessional behaviour,open,Medium,2024-02-17,,Rishikesh
+RPT0940,U137,Pooja Nair,P,OWN0906,Dev Gupta,Rash Driving,Witnessed rash driving,resolved,Medium,2024-03-10,2024-03-20,Rishikesh
+RPT0941,U428,Kavya Patel,K,OWN0270,Aakash Gupta,Rash Driving,Witnessed rash driving,resolved,Medium,2024-03-23,2024-04-06,Haridwar
+RPT0942,U499,Ravi Srivastava,R,OWN0432,Divya Pandey,Overcharging,Hidden fuel charges,resolved,Medium,2024-03-19,2024-03-24,Auli
+RPT0943,U324,Rahul Patel,R,OWN0914,Ravi Patel,Vehicle Damage,Dent on bumper,resolved,Low,2024-02-23,2024-03-22,Nainital
+RPT0944,U434,Neha Singh,N,OWN0884,Tarun Das,Other,Feedback issue,open,High,2024-02-28,,Rishikesh
+RPT0945,U058,Nisha Mehta,N,OWN0722,Rahul Sharma,Late Return,Returned 3 hours late,resolved,Medium,2024-04-05,2024-04-07,Dehradun
+RPT0946,U262,Arjun Nair,A,OWN0754,Mohan Kumar,Rash Driving,Speeding complaint,resolved,High,2024-02-12,2024-03-29,Auli
+RPT0947,U006,Suresh Pandey,S,OWN0405,Pooja Agarwal,Vehicle Damage,Broken mirror,open,High,2024-01-28,,Auli
+RPT0948,U261,Dev Shah,D,OWN0479,Nisha Das,Vehicle Not as Described,Mileage not as stated,resolved,Low,2024-03-01,2024-03-23,Nainital
+RPT0949,U183,Rajesh Bose,R,OWN0489,Priya Kumar,Other,Feedback issue,resolved,Low,2024-03-20,2024-03-22,Rishikesh
+RPT0950,U445,Ravi Singh,R,OWN0954,Meena Bose,Vehicle Not as Described,Mileage not as stated,open,Low,2024-02-23,,Dehradun
+RPT0951,U412,Ananya Kumar,A,OWN0022,Amit Joshi,Rash Driving,Witnessed rash driving,resolved,Low,2024-03-22,2024-04-07,Lansdowne
+RPT0952,U278,Mohan Shah,M,OWN0586,Nisha Verma,Harassment,Inappropriate messages,resolved,High,2024-03-07,2024-03-21,Dehradun
+RPT0953,U117,Rahul Mishra,R,OWN0938,Aditi Rao,Harassment,Inappropriate messages,open,High,2024-02-12,,Haridwar
+RPT0954,U209,Ananya Kumar,A,OWN0826,Sneha Joshi,Vehicle Damage,Broken mirror,resolved,High,2024-04-03,2024-04-07,Mussoorie
+RPT0955,U365,Deepa Bose,D,OWN0428,Aakash Gupta,Other,General complaint,open,Medium,2024-02-25,,Haridwar
+RPT0956,U245,Rahul Verma,R,OWN0792,Vikram Joshi,Overcharging,Extra cleaning fee not mentioned,resolved,Low,2024-04-06,2024-04-10,Rishikesh
+RPT0957,U291,Rajesh Agarwal,R,OWN0503,Meena Yadav,Late Return,Returned 3 hours late,resolved,Low,2024-01-19,2024-02-13,Rishikesh
+RPT0958,U144,Tarun Patel,T,OWN0872,Neha Tiwari,Cancellation Issue,Last minute cancellation,resolved,High,2024-02-21,2024-04-03,Nainital
+RPT0959,U286,Divya Bose,D,OWN0889,Sonal Tiwari,Rash Driving,Witnessed rash driving,resolved,Low,2024-03-28,2024-03-29,Dehradun
+RPT0960,U170,Sonal Singh,S,OWN0320,Rahul Sharma,Vehicle Damage,Dent on bumper,resolved,Medium,2024-01-05,2024-03-31,Rishikesh
+RPT0961,U094,Ishaan Patel,I,OWN0818,Dev Patel,Rash Driving,Witnessed rash driving,resolved,High,2024-02-21,2024-03-11,Haridwar
+RPT0962,U453,Deepa Srivastava,D,OWN0127,Nikhil Reddy,Overcharging,Extra cleaning fee not mentioned,open,Low,2024-02-09,,Nainital
+RPT0963,U389,Dev Nair,D,OWN0621,Aakash Verma,Harassment,Unprofessional behaviour,resolved,High,2024-01-21,2024-04-08,Dehradun
+RPT0964,U254,Ishaan Rao,I,OWN0555,Shreya Yadav,Vehicle Damage,Scratches on delivery,resolved,Low,2024-01-14,2024-01-25,Nainital
+RPT0965,U252,Mohan Bose,M,OWN0432,Sneha Gupta,Cancellation Issue,Cancelled without notice,resolved,High,2024-01-03,2024-03-30,Dehradun
+RPT0966,U042,Ravi Agarwal,R,OWN0716,Deepa Mishra,Vehicle Not as Described,AC not working,open,Medium,2024-03-16,,Rishikesh
+RPT0967,U248,Rahul Agarwal,R,OWN0325,Ritika Das,Other,Miscellaneous,open,Medium,2024-01-12,,Rishikesh
+RPT0968,U110,Rajesh Reddy,R,OWN0381,Kavya Srivastava,Overcharging,Hidden fuel charges,escalated,High,2024-04-08,,Nainital
+RPT0969,U295,Sonal Bose,S,OWN0991,Karan Shah,Other,General complaint,open,Medium,2024-01-16,,Mussoorie
+RPT0970,U386,Dev Sharma,D,OWN0002,Aditi Mehta,Other,Miscellaneous,resolved,Medium,2024-01-01,2024-02-24,Haridwar
+RPT0971,U227,Nisha Verma,N,OWN0972,Karan Sharma,Vehicle Not as Described,Mileage not as stated,open,Low,2024-02-09,,Dehradun
+RPT0972,U021,Suresh Verma,S,OWN0434,Ishaan Mishra,Other,Miscellaneous,resolved,Medium,2024-03-05,2024-03-10,Mussoorie
+RPT0973,U422,Divya Verma,D,OWN0616,Deepa Reddy,Harassment,Threatening calls,resolved,Medium,2024-03-10,2024-03-22,Mussoorie
+RPT0974,U073,Arjun Pandey,A,OWN0567,Aakash Pandey,Vehicle Damage,Tyre damage on return,resolved,High,2024-01-27,2024-02-22,Rishikesh
+RPT0975,U273,Ananya Verma,A,OWN0336,Dev Pandey,Cancellation Issue,Refund not received,resolved,High,2024-04-04,2024-04-08,Dehradun
+RPT0976,U467,Nisha Kumar,N,OWN0228,Aditi Yadav,Harassment,Inappropriate messages,open,Medium,2024-02-06,,Rishikesh
+RPT0977,U084,Suresh Pandey,S,OWN0314,Shreya Patel,Vehicle Damage,Broken mirror,open,Low,2024-02-03,,Dehradun
+RPT0978,U379,Deepa Srivastava,D,OWN0238,Neha Verma,Vehicle Not as Described,Mileage not as stated,open,High,2024-02-10,,Auli
+RPT0979,U337,Rohit Nair,R,OWN0449,Suresh Sharma,Harassment,Inappropriate messages,open,Low,2024-01-23,,Dehradun
+RPT0980,U032,Rahul Yadav,R,OWN0262,Vikram Reddy,Vehicle Damage,Tyre damage on return,escalated,Medium,2024-03-02,,Mussoorie
+RPT0981,U200,Ravi Nair,R,OWN0618,Sneha Patel,Rash Driving,Traffic rules violated,resolved,Low,2024-03-17,2024-03-24,Rishikesh
+RPT0982,U220,Amit Reddy,A,OWN0216,Amit Pandey,Rash Driving,Traffic rules violated,resolved,Medium,2024-03-08,2024-04-10,Dehradun
+RPT0983,U446,Tarun Agarwal,T,OWN0990,Amit Kumar,Late Return,Vehicle returned next day without notice,open,Medium,2024-02-27,,Haridwar
+RPT0984,U414,Divya Shah,D,OWN0854,Kavya Shah,Rash Driving,Witnessed rash driving,open,Medium,2024-02-12,,Lansdowne
+RPT0985,U069,Neha Bose,N,OWN0619,Nisha Sharma,Rash Driving,Speeding complaint,resolved,Low,2024-04-03,2024-04-07,Auli
+RPT0986,U476,Karan Verma,K,OWN0181,Ravi Shah,Harassment,Unprofessional behaviour,resolved,Medium,2024-01-04,2024-03-13,Rishikesh
+RPT0987,U340,Deepa Agarwal,D,OWN0190,Amit Gupta,Overcharging,Charged extra ₹500,open,Medium,2024-04-02,,Rishikesh
+RPT0988,U212,Rajesh Patel,R,OWN0719,Ravi Nair,Other,General complaint,resolved,Medium,2024-04-09,2024-04-09,Chakrata
+RPT0989,U225,Rohit Agarwal,R,OWN0514,Nikhil Bose,Vehicle Damage,Dent on bumper,resolved,High,2024-02-15,2024-03-09,Dehradun
+RPT0990,U218,Arjun Rao,A,OWN0144,Meena Kumar,Other,General complaint,open,Low,2024-02-05,,Dehradun
+RPT0991,U256,Karan Pandey,K,OWN0359,Neha Reddy,Vehicle Not as Described,Mileage not as stated,resolved,Medium,2024-03-12,2024-03-31,Dehradun
+RPT0992,U109,Aditi Bose,A,OWN0309,Aman Pandey,Harassment,Inappropriate messages,open,Low,2024-04-06,,Lansdowne
+RPT0993,U435,Karan Shah,K,OWN0564,Ananya Nair,Overcharging,Charged extra ₹500,resolved,Low,2024-02-03,2024-04-09,Rishikesh
+RPT0994,U476,Mohan Verma,M,OWN0864,Sneha Reddy,Vehicle Damage,Broken mirror,open,Medium,2024-02-29,,Nainital
+RPT0995,U416,Sonal Reddy,S,OWN0440,Suresh Bose,Vehicle Damage,Dent on bumper,resolved,Low,2024-01-04,2024-02-07,Mussoorie
+RPT0996,U168,Priya Rao,P,OWN0632,Aman Verma,Cancellation Issue,Last minute cancellation,open,Low,2024-03-29,,Haridwar
+RPT0997,U192,Rohit Patel,R,OWN0857,Pooja Mishra,Cancellation Issue,Cancelled without notice,resolved,Low,2024-04-02,2024-04-06,Mussoorie
+RPT0998,U250,Dev Bose,D,OWN0620,Deepa Srivastava,Harassment,Threatening calls,resolved,High,2024-01-13,2024-02-02,Dehradun
+RPT0999,U194,Tarun Gupta,T,OWN0775,Vikram Patel,Harassment,Inappropriate messages,resolved,Low,2024-02-09,2024-02-09,Dehradun
+RPT1000,U187,Tarun Singh,T,OWN0877,Aakash Nair,Vehicle Damage,Tyre damage on return,resolved,Low,2024-01-18,2024-04-05,Rishikesh

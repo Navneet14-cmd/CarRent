@@ -1,0 +1,1001 @@
+id,booking,userId,user,vehicleId,city,type,amount,tax,platformFee,net,date,status,fraud,paymentMode,vehicleName,userName
+TXN0001,BK0001,U447,Neha,999,Rishikesh,Car,13152,2367,1973,8812,2024-02-25,pending,False,Net Banking,Sonet,Neha
+TXN0002,BK0002,U275,Priya,33,Nainital,Car,5148,927,772,3449,2024-01-04,refunded,False,UPI,Baleno,Priya
+TXN0003,BK0003,U164,Pooja,819,Rishikesh,Car,2046,368,307,1371,2024-02-16,received,False,UPI,Sonet,Pooja
+TXN0004,BK0004,U273,Sneha,276,Rishikesh,Car,5260,947,789,3524,2024-02-29,received,False,UPI,WagonR,Sneha
+TXN0005,BK0005,U027,Priya,469,Dehradun,Bike,858,154,129,575,2024-02-05,received,True,Card,Hero Splendor Plus,Priya
+TXN0006,BK0006,U291,Karan,47,Haridwar,Scooty,3420,616,513,2291,2024-02-29,pending,False,UPI,Honda Activa,Karan
+TXN0007,BK0007,U251,Aditi,929,Dehradun,Scooty,1432,258,215,959,2024-03-16,received,False,Cash,Ather 450X,Aditi
+TXN0008,BK0008,U342,Sneha,644,Rishikesh,Scooty,3360,605,504,2251,2024-01-01,received,False,Net Banking,TVS Jupiter,Sneha
+TXN0009,BK0009,U033,Arjun,432,Auli,Car,3154,568,473,2113,2024-02-12,pending,False,Card,i10,Arjun
+TXN0010,BK0010,U182,Karan,40,Rishikesh,Bike,4320,778,648,2894,2024-01-17,refunded,False,Card,Yamaha R15,Karan
+TXN0011,BK0011,U154,Aditi,352,Dehradun,Bike,770,139,116,515,2024-03-25,received,False,Net Banking,KTM Duke 200,Aditi
+TXN0012,BK0012,U160,Rahul,215,Mussoorie,Scooty,1803,325,270,1208,2024-01-30,received,False,Cash,TVS Ntorq,Rahul
+TXN0013,BK0013,U306,Pooja,272,Rishikesh,Scooty,4508,811,676,3021,2024-03-28,received,False,Net Banking,Suzuki Access,Pooja
+TXN0014,BK0014,U423,Sneha,230,Dehradun,Scooty,4067,732,610,2725,2024-03-03,received,False,UPI,Suzuki Access,Sneha
+TXN0015,BK0015,U170,Aman,193,Dehradun,Bike,383,69,57,257,2024-04-02,refunded,False,Net Banking,Hero Splendor Plus,Aman
+TXN0016,BK0016,U073,Aman,245,Dehradun,Scooty,3864,696,580,2588,2024-02-15,received,False,Net Banking,Honda Activa,Aman
+TXN0017,BK0017,U206,Priya,367,Haridwar,Bike,1236,222,185,829,2024-02-28,received,False,UPI,Yamaha R15,Priya
+TXN0018,BK0018,U431,Neha,692,Auli,Scooty,2540,457,381,1702,2024-01-24,refunded,False,Net Banking,TVS Ntorq,Neha
+TXN0019,BK0019,U027,Priya,537,Rishikesh,Car,4458,802,669,2987,2024-03-04,received,False,Card,i10,Priya
+TXN0020,BK0020,U179,Rohit,300,Rishikesh,Car,3513,632,527,2354,2024-01-11,received,False,Cash,Maruti Alto,Rohit
+TXN0021,BK0021,U021,Pooja,818,Mussoorie,Scooty,3195,575,479,2141,2024-03-21,received,False,Net Banking,Ola S1,Pooja
+TXN0022,BK0022,U049,Arjun,81,Dehradun,Car,4508,811,676,3021,2024-03-26,received,False,Net Banking,Maruti Alto,Arjun
+TXN0023,BK0023,U161,Karan,774,Mussoorie,Car,10296,1853,1544,6899,2024-01-29,refunded,False,UPI,Baleno,Karan
+TXN0024,BK0024,U473,Pooja,784,Rishikesh,Bike,2912,524,437,1951,2024-01-18,pending,False,Card,RE Classic 350,Pooja
+TXN0025,BK0025,U213,Aditi,467,Rishikesh,Scooty,1338,241,201,896,2024-02-01,pending,False,Cash,TVS Ntorq,Aditi
+TXN0026,BK0026,U432,Priya,144,Rishikesh,Car,10423,1876,1563,6984,2024-01-12,received,False,Card,i10,Priya
+TXN0027,BK0027,U192,Rohit,987,Dehradun,Car,6952,1251,1043,4658,2024-04-02,received,False,UPI,i20,Rohit
+TXN0028,BK0028,U390,Aman,436,Mussoorie,Bike,1995,359,299,1337,2024-01-13,received,False,UPI,Bajaj Avenger 220,Aman
+TXN0029,BK0029,U264,Sneha,264,Haridwar,Car,5255,946,788,3521,2024-01-16,pending,False,UPI,Maruti Alto,Sneha
+TXN0030,BK0030,U201,Priya,164,Haridwar,Scooty,725,130,109,486,2024-03-16,received,False,Net Banking,Ather 450X,Priya
+TXN0031,BK0031,U293,Neha,240,Mussoorie,Car,1793,323,269,1201,2024-03-18,pending,False,Cash,i20,Neha
+TXN0032,BK0032,U473,Pooja,634,Mussoorie,Bike,3875,698,581,2596,2024-02-13,received,False,Cash,KTM Duke 200,Pooja
+TXN0033,BK0033,U482,Karan,61,Rishikesh,Bike,2091,376,314,1401,2024-02-12,received,False,Card,RE Classic 350,Karan
+TXN0034,BK0034,U421,Karan,605,Dehradun,Scooty,3580,644,537,2399,2024-01-19,received,False,Net Banking,Ather 450X,Karan
+TXN0035,BK0035,U226,Neha,234,Haridwar,Car,9474,1705,1421,6348,2024-01-13,received,False,Cash,Baleno,Neha
+TXN0036,BK0036,U144,Rohit,801,Rishikesh,Car,2482,447,372,1663,2024-03-08,pending,False,Card,WagonR,Rohit
+TXN0037,BK0037,U158,Rohit,515,Rishikesh,Scooty,1704,307,256,1141,2024-01-12,pending,False,Cash,Yamaha Fascino,Rohit
+TXN0038,BK0038,U030,Sneha,149,Dehradun,Scooty,1983,357,297,1329,2024-03-18,received,False,UPI,TVS Ntorq,Sneha
+TXN0039,BK0039,U024,Rahul,880,Dehradun,Bike,3636,654,545,2437,2024-01-19,pending,False,Card,Yamaha FZ,Rahul
+TXN0040,BK0040,U055,Priya,253,Rishikesh,Bike,2046,368,307,1371,2024-01-17,pending,False,UPI,Yamaha R15,Priya
+TXN0041,BK0041,U227,Sneha,388,Dehradun,Bike,2332,420,350,1562,2024-01-24,received,False,Cash,TVS Apache RTR 160,Sneha
+TXN0042,BK0042,U368,Karan,340,Dehradun,Bike,2118,381,318,1419,2024-03-16,received,False,UPI,RE Classic 350,Karan
+TXN0043,BK0043,U100,Rahul,917,Auli,Scooty,628,113,94,421,2024-03-07,refunded,False,Net Banking,Ola S1,Rahul
+TXN0044,BK0044,U128,Rohit,447,Dehradun,Car,9210,1658,1382,6170,2024-02-17,received,False,Net Banking,Baleno,Rohit
+TXN0045,BK0045,U454,Sneha,40,Rishikesh,Bike,4320,778,648,2894,2024-03-24,received,False,Cash,Yamaha R15,Sneha
+TXN0046,BK0046,U248,Karan,496,Nainital,Bike,585,105,88,392,2024-03-27,pending,False,Net Banking,Yamaha FZ,Karan
+TXN0047,BK0047,U209,Karan,151,Nainital,Bike,2058,370,309,1379,2024-03-15,received,False,Card,Hero Splendor Plus,Karan
+TXN0048,BK0048,U310,Aman,130,Mussoorie,Bike,1992,359,299,1334,2024-02-13,received,False,UPI,TVS Apache RTR 160,Aman
+TXN0049,BK0049,U439,Aman,166,Dehradun,Bike,3620,652,543,2425,2024-01-15,pending,False,Net Banking,RE Classic 350,Aman
+TXN0050,BK0050,U043,Rohit,762,Dehradun,Car,2574,463,386,1725,2024-04-03,received,False,Card,Creta,Rohit
+TXN0051,BK0051,U080,Arjun,161,Dehradun,Scooty,627,113,94,420,2024-03-16,received,False,UPI,Ola S1,Arjun
+TXN0052,BK0052,U461,Rohit,78,Rishikesh,Car,15316,2757,2297,10262,2024-02-11,pending,False,Cash,Sonet,Rohit
+TXN0053,BK0053,U223,Pooja,797,Rishikesh,Scooty,2324,418,349,1557,2024-01-15,received,True,Net Banking,Honda Activa,Pooja
+TXN0054,BK0054,U290,Sneha,527,Dehradun,Scooty,3426,617,514,2295,2024-02-27,pending,False,UPI,TVS Jupiter,Sneha
+TXN0055,BK0055,U150,Aman,355,Chakrata,Bike,4137,745,621,2771,2024-03-17,refunded,False,UPI,Yamaha FZ,Aman
+TXN0056,BK0056,U192,Rohit,885,Mussoorie,Car,2800,504,420,1876,2024-01-08,received,False,Card,WagonR,Rohit
+TXN0057,BK0057,U006,Aditi,829,Dehradun,Bike,1450,261,218,971,2024-01-01,received,False,Cash,RE Classic 350,Aditi
+TXN0058,BK0058,U381,Priya,827,Mussoorie,Scooty,2780,500,417,1863,2024-02-01,pending,False,Cash,Honda Activa,Priya
+TXN0059,BK0059,U455,Priya,219,Dehradun,Car,12300,2214,1845,8241,2024-02-09,received,False,Card,Nexon,Priya
+TXN0060,BK0060,U088,Aman,609,Dehradun,Car,6432,1158,965,4309,2024-03-05,pending,False,Cash,Nexon,Aman
+TXN0061,BK0061,U025,Rohit,244,Dehradun,Bike,2760,497,414,1849,2024-01-07,received,False,Net Banking,TVS Apache RTR 160,Rohit
+TXN0062,BK0062,U369,Karan,808,Mussoorie,Bike,1280,230,192,858,2024-02-04,pending,False,Cash,Bajaj Avenger 220,Karan
+TXN0063,BK0063,U348,Karan,357,Dehradun,Car,4998,900,750,3348,2024-03-21,received,False,Card,i10,Karan
+TXN0064,BK0064,U123,Arjun,808,Mussoorie,Bike,2560,461,384,1715,2024-03-10,pending,False,Card,Bajaj Avenger 220,Arjun
+TXN0065,BK0065,U455,Priya,250,Rishikesh,Bike,3094,557,464,2073,2024-03-11,refunded,False,UPI,Bajaj Pulsar 150,Priya
+TXN0066,BK0066,U037,Rohit,50,Mussoorie,Scooty,4893,881,734,3278,2024-02-10,received,False,UPI,Ather 450X,Rohit
+TXN0067,BK0067,U193,Neha,62,Mussoorie,Scooty,638,115,96,427,2024-03-10,received,False,UPI,TVS Jupiter,Neha
+TXN0068,BK0068,U051,Sneha,241,Rishikesh,Bike,3610,650,542,2418,2024-03-25,pending,False,Cash,RE Classic 350,Sneha
+TXN0069,BK0069,U089,Arjun,33,Nainital,Car,12012,2162,1802,8048,2024-03-11,refunded,False,Cash,Baleno,Arjun
+TXN0070,BK0070,U452,Priya,771,Rishikesh,Car,8334,1500,1250,5584,2024-02-19,pending,False,Cash,Swift,Priya
+TXN0071,BK0071,U327,Aditi,421,Dehradun,Bike,1418,255,213,950,2024-02-23,received,False,UPI,RE Classic 350,Aditi
+TXN0072,BK0072,U347,Sneha,684,Rishikesh,Car,7878,1418,1182,5278,2024-01-12,pending,False,Cash,Maruti Alto,Sneha
+TXN0073,BK0073,U126,Neha,756,Rishikesh,Car,8104,1459,1216,5429,2024-03-17,received,False,UPI,Sonet,Neha
+TXN0074,BK0074,U304,Arjun,724,Rishikesh,Bike,2067,372,310,1385,2024-03-23,received,False,UPI,KTM Duke 200,Arjun
+TXN0075,BK0075,U024,Rahul,44,Mussoorie,Scooty,626,113,94,419,2024-02-15,received,False,Net Banking,Ola S1,Rahul
+TXN0076,BK0076,U368,Karan,103,Haridwar,Bike,4284,771,643,2870,2024-01-07,pending,False,Card,RE Classic 350,Karan
+TXN0077,BK0077,U059,Pooja,445,Mussoorie,Bike,1326,239,199,888,2024-02-04,pending,False,Cash,Bajaj Avenger 220,Pooja
+TXN0078,BK0078,U407,Rohit,670,Dehradun,Bike,2226,401,334,1491,2024-03-09,pending,False,UPI,Bajaj Pulsar 150,Rohit
+TXN0079,BK0079,U111,Karan,470,Dehradun,Scooty,650,117,98,435,2024-03-08,received,False,UPI,Suzuki Access,Karan
+TXN0080,BK0080,U452,Priya,800,Dehradun,Scooty,3380,608,507,2265,2024-01-11,received,False,UPI,TVS Ntorq,Priya
+TXN0081,BK0081,U156,Sneha,371,Auli,Scooty,1842,332,276,1234,2024-02-16,pending,False,Card,TVS Jupiter,Sneha
+TXN0082,BK0082,U316,Priya,405,Haridwar,Car,4845,872,727,3246,2024-02-13,received,False,Cash,Baleno,Priya
+TXN0083,BK0083,U096,Aman,465,Haridwar,Car,6668,1200,1000,4468,2024-03-04,received,False,Cash,Baleno,Aman
+TXN0084,BK0084,U376,Karan,701,Dehradun,Scooty,4186,753,628,2805,2024-01-15,refunded,False,UPI,Suzuki Access,Karan
+TXN0085,BK0085,U257,Neha,426,Haridwar,Car,10850,1953,1628,7269,2024-01-19,pending,False,Net Banking,Swift,Neha
+TXN0086,BK0086,U206,Priya,110,Dehradun,Scooty,1296,233,194,869,2024-04-04,pending,False,Cash,Ola S1,Priya
+TXN0087,BK0087,U473,Pooja,795,Rishikesh,Car,6172,1111,926,4135,2024-03-10,received,False,Cash,Swift,Pooja
+TXN0088,BK0088,U187,Pooja,507,Dehradun,Car,4002,720,600,2682,2024-02-28,received,False,Net Banking,Sonet,Pooja
+TXN0089,BK0089,U437,Rahul,538,Lansdowne,Bike,2288,412,343,1533,2024-04-05,received,False,UPI,Bajaj Avenger 220,Rahul
+TXN0090,BK0090,U085,Priya,747,Mussoorie,Car,3598,648,540,2410,2024-01-28,refunded,False,Net Banking,Baleno,Priya
+TXN0091,BK0091,U390,Aman,979,Dehradun,Bike,1908,343,286,1279,2024-03-26,received,False,Cash,RE Classic 350,Aman
+TXN0092,BK0092,U153,Arjun,807,Mussoorie,Car,10832,1950,1625,7257,2024-02-18,received,False,Card,Creta,Arjun
+TXN0093,BK0093,U373,Aditi,224,Nainital,Scooty,620,112,93,415,2024-02-07,refunded,False,Card,Honda Activa,Aditi
+TXN0094,BK0094,U214,Priya,798,Rishikesh,Car,2606,469,391,1746,2024-03-28,received,False,UPI,Creta,Priya
+TXN0095,BK0095,U053,Aman,384,Chakrata,Car,3226,581,484,2161,2024-02-07,pending,False,UPI,Baleno,Aman
+TXN0096,BK0096,U273,Sneha,755,Haridwar,Scooty,2788,502,418,1868,2024-01-27,pending,False,Card,Ola S1,Sneha
+TXN0097,BK0097,U431,Neha,257,Dehradun,Scooty,2484,447,373,1664,2024-02-10,received,False,UPI,Suzuki Access,Neha
+TXN0098,BK0098,U199,Rohit,608,Mussoorie,Scooty,3210,578,482,2150,2024-03-02,received,False,Cash,Honda Activa,Rohit
+TXN0099,BK0099,U287,Karan,799,Mussoorie,Bike,1298,234,195,869,2024-01-01,received,False,Net Banking,Yamaha R15,Karan
+TXN0100,BK0100,U250,Priya,700,Dehradun,Bike,2590,466,388,1736,2024-03-23,received,False,Card,TVS Apache RTR 160,Priya
+TXN0101,BK0101,U354,Pooja,864,Mussoorie,Car,2059,371,309,1379,2024-04-07,received,False,Net Banking,Sonet,Pooja
+TXN0102,BK0102,U383,Neha,975,Rishikesh,Car,3172,571,476,2125,2024-03-31,pending,False,Net Banking,i10,Neha
+TXN0103,BK0103,U086,Neha,495,Mussoorie,Car,2484,447,373,1664,2024-02-19,received,False,UPI,City,Neha
+TXN0104,BK0104,U033,Arjun,45,Dehradun,Car,7755,1396,1163,5196,2024-01-07,received,True,UPI,City,Arjun
+TXN0105,BK0105,U075,Aman,593,Haridwar,Scooty,620,112,93,415,2024-01-11,pending,False,Net Banking,Honda Activa,Aman
+TXN0106,BK0106,U263,Pooja,161,Dehradun,Scooty,1881,339,282,1260,2024-03-02,received,False,Net Banking,Ola S1,Pooja
+TXN0107,BK0107,U045,Aditi,550,Rishikesh,Bike,354,64,53,237,2024-02-27,received,False,Net Banking,Hero Splendor Plus,Aditi
+TXN0108,BK0108,U334,Aman,55,Haridwar,Bike,4368,786,655,2927,2024-03-02,received,False,Cash,RE Classic 350,Aman
+TXN0109,BK0109,U314,Arjun,747,Mussoorie,Car,12593,2267,1889,8437,2024-04-03,received,False,UPI,Baleno,Arjun
+TXN0110,BK0110,U245,Sneha,916,Haridwar,Bike,1833,330,275,1228,2024-03-15,received,False,UPI,Yamaha R15,Sneha
+TXN0111,BK0111,U162,Pooja,166,Dehradun,Bike,5068,912,760,3396,2024-01-18,received,False,Card,RE Classic 350,Pooja
+TXN0112,BK0112,U143,Neha,560,Nainital,Scooty,4641,835,696,3110,2024-02-22,received,False,UPI,TVS Ntorq,Neha
+TXN0113,BK0113,U265,Aman,756,Rishikesh,Car,2026,365,304,1357,2024-03-11,pending,False,Net Banking,Sonet,Aman
+TXN0114,BK0114,U482,Karan,913,Mussoorie,Bike,529,95,79,355,2024-02-25,received,False,Net Banking,Bajaj Pulsar 150,Karan
+TXN0115,BK0115,U411,Arjun,702,Dehradun,Car,16884,3039,2533,11312,2024-03-31,received,False,Net Banking,City,Arjun
+TXN0116,BK0116,U049,Arjun,418,Mussoorie,Bike,1410,254,212,944,2024-01-13,received,False,Net Banking,KTM Duke 200,Arjun
+TXN0117,BK0117,U427,Pooja,361,Mussoorie,Bike,2680,482,402,1796,2024-01-23,received,False,UPI,RE Classic 350,Pooja
+TXN0118,BK0118,U053,Aman,429,Dehradun,Car,8700,1566,1305,5829,2024-02-09,received,False,UPI,i10,Aman
+TXN0119,BK0119,U468,Rahul,575,Dehradun,Scooty,2880,518,432,1930,2024-01-10,received,True,Card,Suzuki Access,Rahul
+TXN0120,BK0120,U270,Rohit,874,Dehradun,Bike,3732,672,560,2500,2024-03-31,pending,False,Cash,Yamaha FZ,Rohit
+TXN0121,BK0121,U028,Aditi,402,Mussoorie,Car,13975,2516,2096,9363,2024-01-22,refunded,False,UPI,Creta,Aditi
+TXN0122,BK0122,U330,Rohit,844,Mussoorie,Bike,733,132,110,491,2024-03-04,received,False,Card,KTM Duke 200,Rohit
+TXN0123,BK0123,U179,Rohit,194,Haridwar,Scooty,4417,795,663,2959,2024-03-28,received,False,Card,Ola S1,Rohit
+TXN0124,BK0124,U114,Aman,822,Haridwar,Car,14496,2609,2174,9713,2024-01-25,pending,False,UPI,City,Aman
+TXN0125,BK0125,U040,Rohit,482,Nainital,Scooty,3325,598,499,2228,2024-03-08,received,False,UPI,Ather 450X,Rohit
+TXN0126,BK0126,U387,Aditi,869,Haridwar,Scooty,625,112,94,419,2024-02-09,refunded,False,Card,Ola S1,Aditi
+TXN0127,BK0127,U125,Sneha,488,Rishikesh,Scooty,3882,699,582,2601,2024-01-21,pending,False,Cash,Honda Activa,Sneha
+TXN0128,BK0128,U191,Rohit,529,Haridwar,Bike,4900,882,735,3283,2024-02-12,received,False,Card,Yamaha R15,Rohit
+TXN0129,BK0129,U463,Sneha,991,Dehradun,Bike,3157,568,474,2115,2024-01-31,received,False,Card,Bajaj Pulsar 150,Sneha
+TXN0130,BK0130,U281,Sneha,777,Rishikesh,Car,15372,2767,2306,10299,2024-01-16,received,False,UPI,Sonet,Sneha
+TXN0131,BK0131,U376,Karan,224,Nainital,Scooty,3100,558,465,2077,2024-03-21,received,False,Net Banking,Honda Activa,Karan
+TXN0132,BK0132,U398,Rohit,985,Dehradun,Bike,2289,412,343,1534,2024-01-14,pending,False,Cash,KTM Duke 200,Rohit
+TXN0133,BK0133,U427,Pooja,615,Dehradun,Car,9624,1732,1444,6448,2024-04-04,received,False,Card,Baleno,Pooja
+TXN0134,BK0134,U323,Aditi,757,Rishikesh,Bike,2835,510,425,1900,2024-02-02,received,False,UPI,Hero Splendor Plus,Aditi
+TXN0135,BK0135,U464,Aditi,958,Rishikesh,Bike,413,74,62,277,2024-03-31,received,False,UPI,Bajaj Pulsar 150,Aditi
+TXN0136,BK0136,U416,Sneha,39,Lansdowne,Car,1341,241,201,899,2024-03-30,pending,False,Cash,Maruti Alto,Sneha
+TXN0137,BK0137,U307,Aditi,268,Dehradun,Bike,1644,296,247,1101,2024-02-03,received,False,Card,Yamaha FZ,Aditi
+TXN0138,BK0138,U163,Arjun,240,Mussoorie,Car,1793,323,269,1201,2024-02-10,received,False,Card,i20,Arjun
+TXN0139,BK0139,U309,Priya,249,Dehradun,Car,1918,345,288,1285,2024-04-08,pending,False,UPI,i20,Priya
+TXN0140,BK0140,U339,Rahul,755,Haridwar,Scooty,2091,376,314,1401,2024-03-20,received,False,Net Banking,Ola S1,Rahul
+TXN0141,BK0141,U357,Neha,678,Haridwar,Car,5331,960,800,3571,2024-02-16,received,False,Net Banking,i20,Neha
+TXN0142,BK0142,U323,Aditi,285,Haridwar,Car,12888,2320,1933,8635,2024-01-05,pending,False,Net Banking,Sonet,Aditi
+TXN0143,BK0143,U310,Aman,888,Haridwar,Car,3372,607,506,2259,2024-03-30,received,False,Net Banking,Baleno,Aman
+TXN0144,BK0144,U398,Rohit,914,Rishikesh,Scooty,1272,229,191,852,2024-02-12,received,True,Net Banking,Ola S1,Rohit
+TXN0145,BK0145,U215,Aman,411,Nainital,Car,12565,2262,1885,8418,2024-01-09,received,False,Net Banking,City,Aman
+TXN0146,BK0146,U494,Arjun,637,Rishikesh,Bike,1984,357,298,1329,2024-01-25,pending,False,UPI,Bajaj Pulsar 150,Arjun
+TXN0147,BK0147,U355,Aman,140,Nainital,Scooty,644,116,97,431,2024-03-02,received,False,Net Banking,Honda Activa,Aman
+TXN0148,BK0148,U500,Aditi,12,Rishikesh,Car,6510,1172,976,4362,2024-01-24,received,False,Cash,Maruti Alto,Aditi
+TXN0149,BK0149,U331,Karan,175,Haridwar,Bike,2658,478,399,1781,2024-02-04,received,True,Card,TVS Apache RTR 160,Karan
+TXN0150,BK0150,U451,Neha,811,Rishikesh,Bike,3164,570,475,2119,2024-04-02,received,False,UPI,Bajaj Pulsar 150,Neha
+TXN0151,BK0151,U211,Rahul,690,Dehradun,Car,4172,751,626,2795,2024-01-24,received,False,Net Banking,Nexon,Rahul
+TXN0152,BK0152,U158,Rohit,924,Dehradun,Car,1321,238,198,885,2024-01-13,pending,False,Net Banking,Maruti Alto,Rohit
+TXN0153,BK0153,U159,Arjun,298,Rishikesh,Bike,2220,400,333,1487,2024-01-22,received,False,Cash,Yamaha R15,Arjun
+TXN0154,BK0154,U447,Neha,874,Dehradun,Bike,1866,336,280,1250,2024-01-20,received,False,Card,Yamaha FZ,Neha
+TXN0155,BK0155,U081,Neha,710,Rishikesh,Scooty,1590,286,238,1066,2024-02-01,received,False,Cash,Yamaha Fascino,Neha
+TXN0156,BK0156,U225,Aditi,422,Dehradun,Scooty,2247,404,337,1506,2024-03-30,received,False,Card,Ather 450X,Aditi
+TXN0157,BK0157,U219,Pooja,674,Dehradun,Scooty,690,124,104,462,2024-02-13,pending,False,Net Banking,TVS Ntorq,Pooja
+TXN0158,BK0158,U314,Arjun,822,Haridwar,Car,12080,2174,1812,8094,2024-02-06,received,False,UPI,City,Arjun
+TXN0159,BK0159,U099,Aman,636,Mussoorie,Car,9675,1742,1451,6482,2024-03-20,refunded,False,Net Banking,i20,Aman
+TXN0160,BK0160,U240,Aditi,40,Rishikesh,Bike,2160,389,324,1447,2024-02-09,pending,False,Card,Yamaha R15,Aditi
+TXN0161,BK0161,U048,Pooja,701,Dehradun,Scooty,3588,646,538,2404,2024-03-20,received,False,Card,Suzuki Access,Pooja
+TXN0162,BK0162,U198,Neha,881,Rishikesh,Scooty,610,110,92,408,2024-03-26,refunded,False,Net Banking,TVS Ntorq,Neha
+TXN0163,BK0163,U103,Karan,326,Rishikesh,Scooty,2736,492,410,1834,2024-02-10,received,False,Card,Ola S1,Karan
+TXN0164,BK0164,U304,Arjun,180,Mussoorie,Car,2317,417,348,1552,2024-03-22,received,False,Card,Nexon,Arjun
+TXN0165,BK0165,U365,Sneha,391,Rishikesh,Bike,2716,489,407,1820,2024-03-15,pending,False,UPI,KTM Duke 200,Sneha
+TXN0166,BK0166,U308,Neha,178,Chakrata,Bike,3759,677,564,2518,2024-01-22,pending,False,UPI,Yamaha FZ,Neha
+TXN0167,BK0167,U276,Sneha,393,Dehradun,Car,2171,391,326,1454,2024-03-13,received,False,Card,Sonet,Sneha
+TXN0168,BK0168,U321,Priya,843,Mussoorie,Car,11725,2110,1759,7856,2024-01-25,pending,False,Cash,Nexon,Priya
+TXN0169,BK0169,U407,Rohit,237,Mussoorie,Car,9723,1750,1458,6515,2024-02-09,received,False,UPI,Swift,Rohit
+TXN0170,BK0170,U151,Rahul,3,Rishikesh,Car,7260,1307,1089,4864,2024-02-24,received,False,UPI,Baleno,Rahul
+TXN0171,BK0171,U097,Rohit,277,Rishikesh,Bike,2384,429,358,1597,2024-01-25,received,False,Card,RE Classic 350,Rohit
+TXN0172,BK0172,U265,Aman,552,Haridwar,Car,7795,1403,1169,5223,2024-01-30,received,False,Cash,Swift,Aman
+TXN0173,BK0173,U190,Rohit,105,Rishikesh,Car,10542,1898,1581,7063,2024-03-08,received,False,Card,i20,Rohit
+TXN0174,BK0174,U375,Pooja,39,Lansdowne,Car,6705,1207,1006,4492,2024-02-25,refunded,False,Card,Maruti Alto,Pooja
+TXN0175,BK0175,U148,Aman,180,Mussoorie,Car,6951,1251,1043,4657,2024-02-01,received,False,Net Banking,Nexon,Aman
+TXN0176,BK0176,U484,Priya,636,Mussoorie,Car,3870,697,580,2593,2024-03-11,received,False,Cash,i20,Priya
+TXN0177,BK0177,U138,Sneha,210,Haridwar,Car,8109,1460,1216,5433,2024-01-03,received,False,Cash,Creta,Sneha
+TXN0178,BK0178,U499,Priya,778,Dehradun,Bike,3451,621,518,2312,2024-03-12,received,False,Card,Bajaj Pulsar 150,Priya
+TXN0179,BK0179,U414,Karan,637,Rishikesh,Bike,1488,268,223,997,2024-03-18,received,False,Cash,Bajaj Pulsar 150,Karan
+TXN0180,BK0180,U432,Priya,647,Rishikesh,Scooty,4312,776,647,2889,2024-01-02,received,False,Card,Ola S1,Priya
+TXN0181,BK0181,U146,Aditi,335,Auli,Scooty,1444,260,217,967,2024-02-11,pending,False,Cash,Ather 450X,Aditi
+TXN0182,BK0182,U208,Rahul,337,Mussoorie,Bike,578,104,87,387,2024-02-03,pending,False,Net Banking,Yamaha FZ,Rahul
+TXN0183,BK0183,U104,Arjun,5,Lansdowne,Scooty,579,104,87,388,2024-04-07,received,False,Card,TVS Jupiter,Arjun
+TXN0184,BK0184,U141,Rahul,140,Nainital,Scooty,3220,580,483,2157,2024-03-06,pending,False,Net Banking,Honda Activa,Rahul
+TXN0185,BK0185,U146,Aditi,758,Dehradun,Scooty,3684,663,553,2468,2024-03-19,pending,False,Card,Yamaha Fascino,Aditi
+TXN0186,BK0186,U265,Aman,986,Nainital,Scooty,2516,453,377,1686,2024-02-25,pending,False,Card,Suzuki Access,Aman
+TXN0187,BK0187,U297,Arjun,265,Mussoorie,Bike,1980,356,297,1327,2024-01-03,pending,False,UPI,TVS Apache RTR 160,Arjun
+TXN0188,BK0188,U359,Arjun,874,Dehradun,Bike,4354,784,653,2917,2024-03-23,received,False,Net Banking,Yamaha FZ,Arjun
+TXN0189,BK0189,U300,Aditi,53,Dehradun,Scooty,559,101,84,374,2024-02-03,pending,False,Card,Yamaha Fascino,Aditi
+TXN0190,BK0190,U042,Sneha,27,Dehradun,Car,8358,1504,1254,5600,2024-01-28,pending,False,UPI,Maruti Alto,Sneha
+TXN0191,BK0191,U478,Karan,969,Nainital,Car,7388,1330,1108,4950,2024-01-14,received,False,Cash,i20,Karan
+TXN0192,BK0192,U184,Rohit,429,Dehradun,Car,6960,1253,1044,4663,2024-04-03,received,False,Net Banking,i10,Rohit
+TXN0193,BK0193,U040,Rohit,556,Nainital,Bike,2652,477,398,1777,2024-03-05,pending,False,Cash,TVS Apache RTR 160,Rohit
+TXN0194,BK0194,U197,Neha,504,Auli,Car,15774,2839,2366,10569,2024-02-07,received,False,Cash,City,Neha
+TXN0195,BK0195,U105,Aditi,291,Mussoorie,Car,12078,2174,1812,8092,2024-01-27,received,False,Card,Sonet,Aditi
+TXN0196,BK0196,U223,Pooja,590,Nainital,Scooty,3670,661,550,2459,2024-02-11,received,False,Net Banking,Ather 450X,Pooja
+TXN0197,BK0197,U166,Aditi,778,Dehradun,Bike,493,89,74,330,2024-03-23,received,False,UPI,Bajaj Pulsar 150,Aditi
+TXN0198,BK0198,U439,Aman,725,Mussoorie,Scooty,2995,539,449,2007,2024-01-30,received,False,Cash,Suzuki Access,Aman
+TXN0199,BK0199,U070,Pooja,845,Dehradun,Scooty,3336,600,500,2236,2024-02-03,received,False,Cash,TVS Jupiter,Pooja
+TXN0200,BK0200,U037,Rohit,483,Nainital,Car,19936,3588,2990,13358,2024-03-30,received,False,UPI,Creta,Rohit
+TXN0201,BK0201,U411,Arjun,457,Haridwar,Bike,687,124,103,460,2024-02-08,received,False,UPI,Yamaha R15,Arjun
+TXN0202,BK0202,U029,Rahul,883,Dehradun,Bike,3174,571,476,2127,2024-01-31,pending,False,Cash,Bajaj Pulsar 150,Rahul
+TXN0203,BK0203,U252,Priya,439,Dehradun,Bike,2562,461,384,1717,2024-01-23,refunded,False,Net Banking,Hero Splendor Plus,Priya
+TXN0204,BK0204,U264,Sneha,809,Haridwar,Scooty,612,110,92,410,2024-03-21,pending,False,Net Banking,Ola S1,Sneha
+TXN0205,BK0205,U265,Aman,663,Rishikesh,Car,5688,1024,853,3811,2024-03-14,received,False,Cash,i20,Aman
+TXN0206,BK0206,U441,Priya,573,Auli,Car,12929,2327,1939,8663,2024-01-07,received,False,Cash,Baleno,Priya
+TXN0207,BK0207,U263,Pooja,360,Rishikesh,Car,3446,620,517,2309,2024-01-03,refunded,False,UPI,Baleno,Pooja
+TXN0208,BK0208,U395,Arjun,82,Haridwar,Bike,4697,845,705,3147,2024-01-19,pending,False,UPI,Bajaj Avenger 220,Arjun
+TXN0209,BK0209,U308,Neha,342,Mussoorie,Car,1273,229,191,853,2024-03-19,pending,False,UPI,Maruti Alto,Neha
+TXN0210,BK0210,U330,Rohit,943,Dehradun,Bike,3395,611,509,2275,2024-02-17,received,False,UPI,Bajaj Avenger 220,Rohit
+TXN0211,BK0211,U251,Aditi,471,Rishikesh,Car,6231,1122,935,4174,2024-03-08,received,False,Card,Nexon,Aditi
+TXN0212,BK0212,U457,Karan,222,Dehradun,Car,10176,1832,1526,6818,2024-02-11,pending,False,UPI,City,Karan
+TXN0213,BK0213,U383,Neha,433,Rishikesh,Bike,952,171,143,638,2024-02-02,received,False,Card,TVS Apache RTR 160,Neha
+TXN0214,BK0214,U322,Aditi,610,Haridwar,Bike,1107,199,166,742,2024-02-21,received,False,Card,Hero Splendor Plus,Aditi
+TXN0215,BK0215,U383,Neha,757,Rishikesh,Bike,2430,437,364,1629,2024-02-01,received,False,Net Banking,Hero Splendor Plus,Neha
+TXN0216,BK0216,U346,Arjun,987,Dehradun,Car,3476,626,521,2329,2024-01-26,received,False,Card,i20,Arjun
+TXN0217,BK0217,U216,Aditi,91,Haridwar,Bike,2280,410,342,1528,2024-04-01,received,False,UPI,Bajaj Avenger 220,Aditi
+TXN0218,BK0218,U452,Priya,226,Haridwar,Bike,4074,733,611,2730,2024-01-16,pending,False,Card,Yamaha FZ,Priya
+TXN0219,BK0219,U237,Karan,473,Dehradun,Scooty,2476,446,371,1659,2024-01-23,refunded,False,UPI,Honda Activa,Karan
+TXN0220,BK0220,U199,Rohit,251,Dehradun,Scooty,2208,397,331,1480,2024-02-26,received,False,Cash,TVS Jupiter,Rohit
+TXN0221,BK0221,U261,Arjun,629,Mussoorie,Scooty,3055,550,458,2047,2024-03-18,received,False,UPI,Ola S1,Arjun
+TXN0222,BK0222,U402,Aditi,508,Rishikesh,Bike,3913,704,587,2622,2024-02-17,received,False,Card,TVS Apache RTR 160,Aditi
+TXN0223,BK0223,U333,Priya,246,Rishikesh,Car,8523,1534,1278,5711,2024-03-05,received,False,UPI,Creta,Priya
+TXN0224,BK0224,U435,Sneha,195,Mussoorie,Car,6488,1168,973,4347,2024-04-05,pending,False,UPI,Swift,Sneha
+TXN0225,BK0225,U493,Priya,772,Dehradun,Bike,3269,588,490,2191,2024-01-31,pending,False,Net Banking,TVS Apache RTR 160,Priya
+TXN0226,BK0226,U286,Aman,487,Dehradun,Bike,1704,307,256,1141,2024-01-04,received,False,Net Banking,Bajaj Avenger 220,Aman
+TXN0227,BK0227,U491,Aditi,888,Haridwar,Car,6744,1214,1012,4518,2024-02-23,pending,True,Cash,Baleno,Aditi
+TXN0228,BK0228,U306,Pooja,456,Dehradun,Car,7824,1408,1174,5242,2024-01-26,received,False,UPI,Creta,Pooja
+TXN0229,BK0229,U387,Aditi,483,Nainital,Car,19936,3588,2990,13358,2024-01-27,pending,False,Cash,Creta,Aditi
+TXN0230,BK0230,U319,Sneha,603,Nainital,Car,1183,213,177,793,2024-01-05,pending,False,Net Banking,WagonR,Sneha
+TXN0231,BK0231,U436,Priya,285,Haridwar,Car,12888,2320,1933,8635,2024-01-05,pending,False,Cash,Sonet,Priya
+TXN0232,BK0232,U372,Sneha,519,Haridwar,Car,5326,959,799,3568,2024-01-31,received,False,Net Banking,Creta,Sneha
+TXN0233,BK0233,U176,Rohit,251,Dehradun,Scooty,2760,497,414,1849,2024-02-12,pending,False,UPI,TVS Jupiter,Rohit
+TXN0234,BK0234,U126,Neha,351,Nainital,Car,3502,630,525,2347,2024-01-26,refunded,False,Cash,i20,Neha
+TXN0235,BK0235,U221,Rahul,33,Nainital,Car,10296,1853,1544,6899,2024-03-28,received,False,Net Banking,Baleno,Rahul
+TXN0236,BK0236,U134,Aman,478,Mussoorie,Bike,603,109,90,404,2024-03-14,received,True,Card,RE Classic 350,Aman
+TXN0237,BK0237,U377,Karan,252,Rishikesh,Car,15575,2804,2336,10435,2024-02-09,pending,False,Net Banking,Sonet,Karan
+TXN0238,BK0238,U423,Sneha,432,Auli,Car,1577,284,237,1056,2024-01-11,received,False,Net Banking,i10,Sneha
+TXN0239,BK0239,U257,Neha,582,Rishikesh,Car,8290,1492,1244,5554,2024-04-04,pending,False,Card,i10,Neha
+TXN0240,BK0240,U045,Aditi,561,Dehradun,Car,1421,256,213,952,2024-03-28,received,False,Cash,Swift,Aditi
+TXN0241,BK0241,U404,Pooja,952,Dehradun,Bike,1239,223,186,830,2024-02-21,pending,False,Card,Bajaj Pulsar 150,Pooja
+TXN0242,BK0242,U157,Rohit,482,Nainital,Scooty,2660,479,399,1782,2024-02-24,received,False,Cash,Ather 450X,Rohit
+TXN0243,BK0243,U332,Karan,419,Rishikesh,Scooty,3025,544,454,2027,2024-03-03,refunded,False,Net Banking,Yamaha Fascino,Karan
+TXN0244,BK0244,U237,Karan,751,Haridwar,Bike,3675,662,551,2462,2024-02-22,pending,False,Card,Yamaha R15,Karan
+TXN0245,BK0245,U427,Pooja,393,Dehradun,Car,10855,1954,1628,7273,2024-01-19,refunded,False,Cash,Sonet,Pooja
+TXN0246,BK0246,U365,Sneha,137,Mussoorie,Scooty,1986,357,298,1331,2024-02-21,received,False,Net Banking,Ather 450X,Sneha
+TXN0247,BK0247,U192,Rohit,18,Dehradun,Car,13325,2398,1999,8928,2024-03-23,received,False,Net Banking,Creta,Rohit
+TXN0248,BK0248,U360,Priya,239,Rishikesh,Scooty,3510,632,526,2352,2024-01-30,received,False,Cash,TVS Jupiter,Priya
+TXN0249,BK0249,U361,Sneha,191,Rishikesh,Scooty,2420,436,363,1621,2024-02-24,received,False,Net Banking,Yamaha Fascino,Sneha
+TXN0250,BK0250,U143,Neha,859,Mussoorie,Bike,1672,301,251,1120,2024-03-28,received,False,Card,Bajaj Pulsar 150,Neha
+TXN0251,BK0251,U090,Arjun,937,Rishikesh,Bike,766,138,115,513,2024-01-09,received,False,Card,Hero Splendor Plus,Arjun
+TXN0252,BK0252,U111,Karan,897,Dehradun,Car,1180,212,177,791,2024-03-09,received,False,Cash,WagonR,Karan
+TXN0253,BK0253,U249,Rohit,315,Dehradun,Car,8932,1608,1340,5984,2024-02-01,received,False,Net Banking,Sonet,Rohit
+TXN0254,BK0254,U130,Sneha,465,Haridwar,Car,10002,1800,1500,6702,2024-04-04,received,False,Net Banking,Baleno,Sneha
+TXN0255,BK0255,U234,Karan,307,Rishikesh,Bike,5208,937,781,3490,2024-02-08,received,False,Card,Yamaha R15,Karan
+TXN0256,BK0256,U311,Priya,269,Rishikesh,Scooty,2160,389,324,1447,2024-01-14,received,False,Card,Ather 450X,Priya
+TXN0257,BK0257,U448,Rohit,689,Mussoorie,Scooty,1288,232,193,863,2024-04-02,received,False,UPI,Honda Activa,Rohit
+TXN0258,BK0258,U331,Karan,232,Rishikesh,Bike,4186,753,628,2805,2024-02-15,received,False,Card,Bajaj Avenger 220,Karan
+TXN0259,BK0259,U359,Arjun,773,Mussoorie,Scooty,4508,811,676,3021,2024-02-22,pending,False,Cash,TVS Jupiter,Arjun
+TXN0260,BK0260,U246,Aman,310,Haridwar,Bike,686,123,103,460,2024-01-27,received,False,UPI,KTM Duke 200,Aman
+TXN0261,BK0261,U040,Rohit,518,Dehradun,Scooty,4068,732,610,2726,2024-01-25,received,False,Cash,Ola S1,Rohit
+TXN0262,BK0262,U192,Rohit,201,Dehradun,Car,4827,869,724,3234,2024-02-23,refunded,False,UPI,Swift,Rohit
+TXN0263,BK0263,U041,Rohit,358,Dehradun,Bike,1324,238,199,887,2024-03-20,received,False,UPI,Yamaha R15,Rohit
+TXN0264,BK0264,U327,Aditi,172,Rishikesh,Bike,2364,426,355,1583,2024-01-16,pending,False,UPI,Bajaj Pulsar 150,Aditi
+TXN0265,BK0265,U176,Rohit,898,Lansdowne,Bike,2445,440,367,1638,2024-03-20,received,False,UPI,Bajaj Pulsar 150,Rohit
+TXN0266,BK0266,U156,Sneha,723,Rishikesh,Car,8934,1608,1340,5986,2024-01-10,received,False,Net Banking,Swift,Sneha
+TXN0267,BK0267,U193,Neha,339,Haridwar,Car,5280,950,792,3538,2024-03-07,received,False,Card,i20,Neha
+TXN0268,BK0268,U389,Priya,636,Mussoorie,Car,3870,697,580,2593,2024-01-28,received,False,Card,i20,Priya
+TXN0269,BK0269,U050,Priya,602,Haridwar,Scooty,1306,235,196,875,2024-02-09,pending,False,Cash,Ather 450X,Priya
+TXN0270,BK0270,U047,Pooja,561,Dehradun,Car,8526,1535,1279,5712,2024-01-06,refunded,False,Cash,Swift,Pooja
+TXN0271,BK0271,U492,Priya,546,Dehradun,Car,1486,267,223,996,2024-02-03,received,False,UPI,Swift,Priya
+TXN0272,BK0272,U361,Sneha,622,Dehradun,Bike,4970,895,746,3329,2024-01-23,received,False,UPI,RE Classic 350,Sneha
+TXN0273,BK0273,U353,Sneha,623,Dehradun,Scooty,1890,340,284,1266,2024-03-14,pending,False,Card,TVS Jupiter,Sneha
+TXN0274,BK0274,U391,Rahul,868,Mussoorie,Bike,610,110,92,408,2024-03-16,refunded,False,UPI,Yamaha R15,Rahul
+TXN0275,BK0275,U033,Arjun,528,Dehradun,Car,5139,925,771,3443,2024-01-20,pending,False,UPI,Baleno,Arjun
+TXN0276,BK0276,U047,Pooja,90,Rishikesh,Car,4431,798,665,2968,2024-04-02,pending,False,Cash,Swift,Pooja
+TXN0277,BK0277,U043,Rohit,341,Mussoorie,Scooty,4404,793,661,2950,2024-02-15,received,False,Cash,Ather 450X,Rohit
+TXN0278,BK0278,U488,Karan,65,Haridwar,Scooty,1917,345,288,1284,2024-01-29,received,False,Card,Suzuki Access,Karan
+TXN0279,BK0279,U158,Rohit,304,Nainital,Bike,484,87,73,324,2024-02-27,pending,False,Net Banking,TVS Apache RTR 160,Rohit
+TXN0280,BK0280,U365,Sneha,103,Haridwar,Bike,612,110,92,410,2024-03-19,refunded,False,Card,RE Classic 350,Sneha
+TXN0281,BK0281,U282,Priya,311,Rishikesh,Scooty,4014,723,602,2689,2024-02-10,received,False,Card,Ola S1,Priya
+TXN0282,BK0282,U122,Rahul,768,Chakrata,Car,16926,3047,2539,11340,2024-02-09,received,False,Card,City,Rahul
+TXN0283,BK0283,U062,Sneha,802,Dehradun,Bike,2820,508,423,1889,2024-04-04,received,False,Net Banking,TVS Apache RTR 160,Sneha
+TXN0284,BK0284,U073,Aman,417,Rishikesh,Car,7930,1427,1190,5313,2024-03-17,received,False,UPI,i10,Aman
+TXN0285,BK0285,U214,Priya,315,Dehradun,Car,13398,2412,2010,8976,2024-01-11,received,False,Net Banking,Sonet,Priya
+TXN0286,BK0286,U012,Sneha,430,Lansdowne,Bike,435,78,65,292,2024-03-29,refunded,False,Net Banking,Hero Splendor Plus,Sneha
+TXN0287,BK0287,U195,Rahul,707,Rishikesh,Scooty,3155,568,473,2114,2024-01-12,received,False,Net Banking,TVS Jupiter,Rahul
+TXN0288,BK0288,U373,Aditi,540,Nainital,Car,10362,1865,1554,6943,2024-01-17,received,False,Cash,i10,Aditi
+TXN0289,BK0289,U410,Aditi,758,Dehradun,Scooty,614,111,92,411,2024-02-21,received,False,Cash,Yamaha Fascino,Aditi
+TXN0290,BK0290,U474,Sneha,129,Chakrata,Car,2482,447,372,1663,2024-03-28,received,False,Net Banking,Maruti Alto,Sneha
+TXN0291,BK0291,U183,Sneha,951,Dehradun,Car,9792,1763,1469,6560,2024-02-21,received,True,Card,Swift,Sneha
+TXN0292,BK0292,U428,Aditi,634,Mussoorie,Bike,3875,698,581,2596,2024-02-18,received,False,UPI,KTM Duke 200,Aditi
+TXN0293,BK0293,U324,Sneha,278,Haridwar,Scooty,2448,441,367,1640,2024-03-14,received,False,Net Banking,Yamaha Fascino,Sneha
+TXN0294,BK0294,U006,Aditi,354,Haridwar,Car,12215,2199,1832,8184,2024-01-30,received,False,Card,City,Aditi
+TXN0295,BK0295,U325,Pooja,945,Haridwar,Car,8718,1569,1308,5841,2024-02-15,received,False,Net Banking,Swift,Pooja
+TXN0296,BK0296,U283,Aditi,643,Haridwar,Bike,1784,321,268,1195,2024-01-07,refunded,False,Cash,Bajaj Pulsar 150,Aditi
+TXN0297,BK0297,U016,Karan,48,Haridwar,Car,7188,1294,1078,4816,2024-03-25,pending,False,Cash,Maruti Alto,Karan
+TXN0298,BK0298,U287,Karan,348,Dehradun,Car,13225,2380,1984,8861,2024-03-04,refunded,False,UPI,Creta,Karan
+TXN0299,BK0299,U285,Priya,475,Mussoorie,Bike,624,112,94,418,2024-01-19,pending,False,Cash,Yamaha FZ,Priya
+TXN0300,BK0300,U172,Karan,191,Rishikesh,Scooty,3630,653,544,2433,2024-01-06,received,False,Cash,Yamaha Fascino,Karan
+TXN0301,BK0301,U453,Priya,948,Mussoorie,Car,9534,1716,1430,6388,2024-03-23,received,False,UPI,Swift,Priya
+TXN0302,BK0302,U468,Rahul,647,Rishikesh,Scooty,3080,554,462,2064,2024-02-21,received,False,Net Banking,Ola S1,Rahul
+TXN0303,BK0303,U148,Aman,566,Rishikesh,Scooty,613,110,92,411,2024-01-23,received,False,UPI,Suzuki Access,Aman
+TXN0304,BK0304,U401,Aditi,368,Mussoorie,Scooty,4291,772,644,2875,2024-02-08,pending,False,UPI,Suzuki Access,Aditi
+TXN0305,BK0305,U355,Aman,622,Dehradun,Bike,2130,383,320,1427,2024-01-06,refunded,False,Cash,RE Classic 350,Aman
+TXN0306,BK0306,U446,Aditi,86,Dehradun,Scooty,3372,607,506,2259,2024-03-05,refunded,False,Cash,TVS Jupiter,Aditi
+TXN0307,BK0307,U224,Priya,402,Mussoorie,Car,16770,3019,2516,11235,2024-02-03,received,False,UPI,Creta,Priya
+TXN0308,BK0308,U169,Aditi,643,Haridwar,Bike,3122,562,468,2092,2024-02-15,pending,False,Card,Bajaj Pulsar 150,Aditi
+TXN0309,BK0309,U264,Sneha,573,Auli,Car,7388,1330,1108,4950,2024-03-08,pending,False,Cash,Baleno,Sneha
+TXN0310,BK0310,U373,Aditi,902,Rishikesh,Scooty,2592,467,389,1736,2024-02-14,pending,False,Card,TVS Jupiter,Aditi
+TXN0311,BK0311,U320,Neha,850,Mussoorie,Bike,806,145,121,540,2024-01-10,received,False,Net Banking,Hero Splendor Plus,Neha
+TXN0312,BK0312,U214,Priya,663,Rishikesh,Car,3792,683,569,2540,2024-01-18,received,False,UPI,i20,Priya
+TXN0313,BK0313,U051,Sneha,819,Rishikesh,Car,12276,2210,1841,8225,2024-01-25,received,False,UPI,Sonet,Sneha
+TXN0314,BK0314,U247,Aditi,851,Rishikesh,Scooty,3030,545,454,2031,2024-02-05,refunded,False,Card,Ola S1,Aditi
+TXN0315,BK0315,U386,Sneha,592,Rishikesh,Bike,2745,494,412,1839,2024-01-02,received,False,Net Banking,TVS Apache RTR 160,Sneha
+TXN0316,BK0316,U169,Aditi,125,Rishikesh,Scooty,4298,774,645,2879,2024-04-02,refunded,False,Cash,Suzuki Access,Aditi
+TXN0317,BK0317,U301,Karan,817,Haridwar,Bike,4095,737,614,2744,2024-02-11,refunded,False,Card,Bajaj Avenger 220,Karan
+TXN0318,BK0318,U487,Aman,736,Rishikesh,Bike,2745,494,412,1839,2024-02-07,received,False,Card,Yamaha FZ,Aman
+TXN0319,BK0319,U133,Pooja,471,Rishikesh,Car,14539,2617,2181,9741,2024-03-13,refunded,False,Cash,Nexon,Pooja
+TXN0320,BK0320,U120,Aman,316,Nainital,Bike,2780,500,417,1863,2024-01-17,received,False,Net Banking,RE Classic 350,Aman
+TXN0321,BK0321,U452,Priya,96,Mussoorie,Car,10932,1968,1640,7324,2024-02-22,pending,False,Net Banking,Baleno,Priya
+TXN0322,BK0322,U420,Aman,578,Mussoorie,Scooty,2010,362,302,1346,2024-04-03,received,False,Cash,Suzuki Access,Aman
+TXN0323,BK0323,U202,Neha,506,Rishikesh,Scooty,610,110,92,408,2024-03-12,received,False,Cash,TVS Ntorq,Neha
+TXN0324,BK0324,U207,Rahul,835,Rishikesh,Bike,3180,572,477,2131,2024-03-08,refunded,False,Cash,Bajaj Avenger 220,Rahul
+TXN0325,BK0325,U195,Rahul,706,Dehradun,Bike,4146,746,622,2778,2024-01-20,pending,False,Card,RE Classic 350,Rahul
+TXN0326,BK0326,U397,Priya,680,Haridwar,Scooty,4314,777,647,2890,2024-03-09,pending,False,Cash,Ather 450X,Priya
+TXN0327,BK0327,U270,Rohit,928,Rishikesh,Bike,1302,234,195,873,2024-04-01,received,False,UPI,RE Classic 350,Rohit
+TXN0328,BK0328,U270,Rohit,224,Nainital,Scooty,1240,223,186,831,2024-02-01,received,False,Cash,Honda Activa,Rohit
+TXN0329,BK0329,U460,Priya,523,Dehradun,Bike,3090,556,464,2070,2024-02-13,pending,False,Cash,Yamaha FZ,Priya
+TXN0330,BK0330,U349,Karan,965,Haridwar,Scooty,4095,737,614,2744,2024-02-24,received,False,Card,Suzuki Access,Karan
+TXN0331,BK0331,U254,Neha,515,Rishikesh,Scooty,568,102,85,381,2024-03-19,pending,False,UPI,Yamaha Fascino,Neha
+TXN0332,BK0332,U113,Aditi,492,Dehradun,Car,6369,1146,955,4268,2024-04-03,received,False,Net Banking,Sonet,Aditi
+TXN0333,BK0333,U244,Neha,343,Haridwar,Bike,1152,207,173,772,2024-01-11,received,False,Cash,TVS Apache RTR 160,Neha
+TXN0334,BK0334,U042,Sneha,961,Haridwar,Bike,2288,412,343,1533,2024-02-11,received,False,Cash,Bajaj Avenger 220,Sneha
+TXN0335,BK0335,U308,Neha,644,Rishikesh,Scooty,1120,202,168,750,2024-03-05,refunded,True,Card,TVS Jupiter,Neha
+TXN0336,BK0336,U276,Sneha,726,Dehradun,Car,5056,910,758,3388,2024-02-05,received,False,Net Banking,Maruti Alto,Sneha
+TXN0337,BK0337,U362,Pooja,652,Dehradun,Bike,2016,363,302,1351,2024-03-08,received,False,Cash,RE Classic 350,Pooja
+TXN0338,BK0338,U220,Priya,455,Rishikesh,Scooty,1674,301,251,1122,2024-04-07,received,False,Net Banking,Honda Activa,Priya
+TXN0339,BK0339,U061,Sneha,809,Haridwar,Scooty,3060,551,459,2050,2024-03-20,received,False,Cash,Ola S1,Sneha
+TXN0340,BK0340,U115,Neha,275,Nainital,Scooty,2960,533,444,1983,2024-02-22,received,False,Cash,Honda Activa,Neha
+TXN0341,BK0341,U393,Aditi,367,Haridwar,Bike,4326,779,649,2898,2024-03-23,pending,False,UPI,Yamaha R15,Aditi
+TXN0342,BK0342,U314,Arjun,413,Dehradun,Scooty,2368,426,355,1587,2024-03-08,pending,False,Net Banking,Honda Activa,Arjun
+TXN0343,BK0343,U468,Rahul,829,Dehradun,Bike,725,130,109,486,2024-03-13,received,False,UPI,RE Classic 350,Rahul
+TXN0344,BK0344,U419,Sneha,189,Nainital,Car,2127,383,319,1425,2024-01-15,pending,False,UPI,Sonet,Sneha
+TXN0345,BK0345,U020,Arjun,88,Dehradun,Bike,4060,731,609,2720,2024-02-11,received,False,UPI,TVS Apache RTR 160,Arjun
+TXN0346,BK0346,U080,Arjun,177,Mussoorie,Car,6354,1144,953,4257,2024-01-19,received,False,Net Banking,Nexon,Arjun
+TXN0347,BK0347,U406,Aditi,763,Chakrata,Bike,978,176,147,655,2024-02-09,refunded,False,UPI,Bajaj Pulsar 150,Aditi
+TXN0348,BK0348,U246,Aman,391,Rishikesh,Bike,2716,489,407,1820,2024-03-11,received,False,Net Banking,KTM Duke 200,Aman
+TXN0349,BK0349,U393,Aditi,261,Rishikesh,Car,11004,1981,1651,7372,2024-03-24,refunded,False,Cash,Creta,Aditi
+TXN0350,BK0350,U412,Aditi,649,Dehradun,Bike,4480,806,672,3002,2024-03-05,received,False,Card,RE Classic 350,Aditi
+TXN0351,BK0351,U101,Aman,932,Dehradun,Scooty,2007,361,301,1345,2024-03-11,received,False,UPI,Suzuki Access,Aman
+TXN0352,BK0352,U446,Aditi,225,Dehradun,Car,4920,886,738,3296,2024-04-05,received,False,Cash,WagonR,Aditi
+TXN0353,BK0353,U205,Aditi,410,Dehradun,Scooty,3678,662,552,2464,2024-03-03,received,False,Card,Ola S1,Aditi
+TXN0354,BK0354,U134,Aman,280,Nainital,Bike,1600,288,240,1072,2024-01-03,received,False,Card,Hero Splendor Plus,Aman
+TXN0355,BK0355,U457,Karan,403,Auli,Bike,363,65,54,244,2024-03-19,pending,False,Net Banking,Hero Splendor Plus,Karan
+TXN0356,BK0356,U477,Pooja,766,Auli,Bike,4627,833,694,3100,2024-02-21,received,False,Cash,Yamaha R15,Pooja
+TXN0357,BK0357,U070,Pooja,50,Mussoorie,Scooty,4194,755,629,2810,2024-02-12,received,False,Card,Ather 450X,Pooja
+TXN0358,BK0358,U320,Neha,588,Haridwar,Car,2089,376,313,1400,2024-01-14,received,False,Net Banking,Nexon,Neha
+TXN0359,BK0359,U272,Aditi,841,Dehradun,Bike,1236,222,185,829,2024-02-22,pending,False,Cash,Bajaj Pulsar 150,Aditi
+TXN0360,BK0360,U079,Karan,823,Haridwar,Bike,3240,583,486,2171,2024-02-16,refunded,False,Net Banking,Yamaha R15,Karan
+TXN0361,BK0361,U451,Neha,903,Lansdowne,Car,5124,922,769,3433,2024-02-11,refunded,False,Cash,i10,Neha
+TXN0362,BK0362,U430,Rahul,673,Dehradun,Bike,734,132,110,492,2024-03-12,received,False,Cash,Hero Splendor Plus,Rahul
+TXN0363,BK0363,U233,Rohit,349,Nainital,Bike,4942,890,741,3311,2024-02-10,received,False,Net Banking,RE Classic 350,Rohit
+TXN0364,BK0364,U198,Neha,187,Mussoorie,Bike,2712,488,407,1817,2024-02-03,received,True,Cash,KTM Duke 200,Neha
+TXN0365,BK0365,U204,Arjun,490,Auli,Bike,3336,600,500,2236,2024-03-06,received,False,UPI,TVS Apache RTR 160,Arjun
+TXN0366,BK0366,U002,Rahul,457,Haridwar,Bike,3435,618,515,2302,2024-03-19,received,False,Net Banking,Yamaha R15,Rahul
+TXN0367,BK0367,U426,Rahul,352,Dehradun,Bike,770,139,116,515,2024-03-26,pending,False,Net Banking,KTM Duke 200,Rahul
+TXN0368,BK0368,U311,Priya,517,Dehradun,Bike,629,113,94,422,2024-02-28,pending,False,Net Banking,Yamaha R15,Priya
+TXN0369,BK0369,U079,Karan,587,Rishikesh,Scooty,4086,735,613,2738,2024-03-29,received,False,Card,Ather 450X,Karan
+TXN0370,BK0370,U310,Aman,800,Dehradun,Scooty,1352,243,203,906,2024-02-13,received,False,UPI,TVS Ntorq,Aman
+TXN0371,BK0371,U470,Aman,283,Rishikesh,Bike,2535,456,380,1699,2024-03-10,received,False,Cash,TVS Apache RTR 160,Aman
+TXN0372,BK0372,U265,Aman,800,Dehradun,Scooty,4056,730,608,2718,2024-02-13,pending,True,Card,TVS Ntorq,Aman
+TXN0373,BK0373,U226,Neha,456,Dehradun,Car,10432,1878,1565,6989,2024-02-14,received,False,Net Banking,Creta,Neha
+TXN0374,BK0374,U460,Priya,38,Haridwar,Scooty,2336,420,350,1566,2024-01-03,received,False,Cash,Suzuki Access,Priya
+TXN0375,BK0375,U314,Arjun,270,Dehradun,Car,14562,2621,2184,9757,2024-03-31,received,False,Card,City,Arjun
+TXN0376,BK0376,U114,Aman,785,Dehradun,Scooty,2748,495,412,1841,2024-03-09,received,False,Net Banking,Ola S1,Aman
+TXN0377,BK0377,U173,Neha,881,Rishikesh,Scooty,2440,439,366,1635,2024-03-13,received,False,Net Banking,TVS Ntorq,Neha
+TXN0378,BK0378,U425,Rohit,597,Rishikesh,Car,7191,1294,1079,4818,2024-03-19,received,False,Net Banking,City,Rohit
+TXN0379,BK0379,U153,Arjun,886,Lansdowne,Bike,504,91,76,337,2024-02-14,received,False,Cash,Yamaha FZ,Arjun
+TXN0380,BK0380,U239,Pooja,128,Nainital,Scooty,631,114,95,422,2024-03-25,received,False,Net Banking,Suzuki Access,Pooja
+TXN0381,BK0381,U330,Rohit,259,Dehradun,Bike,1740,313,261,1166,2024-02-28,received,False,Net Banking,Bajaj Pulsar 150,Rohit
+TXN0382,BK0382,U493,Priya,270,Dehradun,Car,4854,874,728,3252,2024-03-25,received,False,Cash,City,Priya
+TXN0383,BK0383,U135,Priya,711,Haridwar,Car,13730,2471,2060,9199,2024-03-02,received,False,Card,Creta,Priya
+TXN0384,BK0384,U188,Aman,480,Nainital,Car,6050,1089,908,4053,2024-02-13,pending,False,Card,Maruti Alto,Aman
+TXN0385,BK0385,U176,Rohit,277,Rishikesh,Bike,3576,644,536,2396,2024-04-03,received,False,Cash,RE Classic 350,Rohit
+TXN0386,BK0386,U202,Neha,547,Dehradun,Bike,1635,294,245,1096,2024-03-24,received,False,Net Banking,Yamaha FZ,Neha
+TXN0387,BK0387,U341,Aman,322,Nainital,Bike,1304,235,196,873,2024-01-31,received,False,Cash,KTM Duke 200,Aman
+TXN0388,BK0388,U191,Rohit,358,Dehradun,Bike,3310,596,496,2218,2024-01-03,refunded,True,Cash,Yamaha R15,Rohit
+TXN0389,BK0389,U403,Neha,992,Dehradun,Scooty,4452,801,668,2983,2024-02-14,received,False,Net Banking,Ola S1,Neha
+TXN0390,BK0390,U427,Pooja,500,Rishikesh,Scooty,1710,308,256,1146,2024-03-05,received,False,Net Banking,Yamaha Fascino,Pooja
+TXN0391,BK0391,U023,Aditi,160,Rishikesh,Bike,4039,727,606,2706,2024-03-08,refunded,False,UPI,Yamaha FZ,Aditi
+TXN0392,BK0392,U398,Rohit,199,Haridwar,Bike,2712,488,407,1817,2024-01-22,received,False,Net Banking,KTM Duke 200,Rohit
+TXN0393,BK0393,U403,Neha,986,Nainital,Scooty,3774,679,566,2529,2024-02-08,pending,False,Card,Suzuki Access,Neha
+TXN0394,BK0394,U239,Pooja,105,Rishikesh,Car,5271,949,791,3531,2024-02-21,received,False,Cash,i20,Pooja
+TXN0395,BK0395,U325,Pooja,734,Mussoorie,Scooty,581,105,87,389,2024-02-02,refunded,False,Cash,Suzuki Access,Pooja
+TXN0396,BK0396,U369,Karan,829,Dehradun,Bike,5075,914,761,3400,2024-03-29,received,False,UPI,RE Classic 350,Karan
+TXN0397,BK0397,U285,Priya,358,Dehradun,Bike,3972,715,596,2661,2024-02-10,pending,False,Cash,Yamaha R15,Priya
+TXN0398,BK0398,U266,Priya,730,Rishikesh,Bike,1010,182,152,676,2024-03-04,received,False,Card,Yamaha FZ,Priya
+TXN0399,BK0399,U019,Neha,126,Dehradun,Car,6240,1123,936,4181,2024-01-04,received,False,Card,Swift,Neha
+TXN0400,BK0400,U052,Sneha,20,Nainital,Scooty,584,105,88,391,2024-02-28,received,False,Net Banking,TVS Jupiter,Sneha
+TXN0401,BK0401,U338,Rohit,867,Dehradun,Car,2739,493,411,1835,2024-04-07,received,False,Cash,Creta,Rohit
+TXN0402,BK0402,U482,Karan,393,Dehradun,Car,8684,1563,1303,5818,2024-03-14,received,False,Cash,Sonet,Karan
+TXN0403,BK0403,U251,Aditi,557,Haridwar,Scooty,2600,468,390,1742,2024-03-30,received,False,Cash,Suzuki Access,Aditi
+TXN0404,BK0404,U161,Karan,322,Nainital,Bike,3912,704,587,2621,2024-01-13,pending,False,Net Banking,KTM Duke 200,Karan
+TXN0405,BK0405,U057,Rohit,768,Chakrata,Car,16926,3047,2539,11340,2024-02-16,pending,True,Cash,City,Rohit
+TXN0406,BK0406,U341,Aman,563,Mussoorie,Scooty,4053,730,608,2715,2024-03-15,pending,False,Card,Suzuki Access,Aman
+TXN0407,BK0407,U181,Arjun,203,Mussoorie,Scooty,4669,840,700,3129,2024-02-24,pending,False,Net Banking,Ather 450X,Arjun
+TXN0408,BK0408,U451,Neha,690,Dehradun,Car,14602,2628,2190,9784,2024-02-15,received,False,Net Banking,Nexon,Neha
+TXN0409,BK0409,U024,Rahul,501,Mussoorie,Car,1534,276,230,1028,2024-02-28,received,False,Net Banking,Swift,Rahul
+TXN0410,BK0410,U110,Karan,277,Rishikesh,Bike,4172,751,626,2795,2024-01-11,received,False,UPI,RE Classic 350,Karan
+TXN0411,BK0411,U420,Aman,110,Dehradun,Scooty,4536,816,680,3040,2024-01-25,received,False,UPI,Ola S1,Aman
+TXN0412,BK0412,U098,Rohit,49,Rishikesh,Bike,3655,658,548,2449,2024-02-29,received,False,UPI,Yamaha R15,Rohit
+TXN0413,BK0413,U159,Arjun,999,Rishikesh,Car,10960,1973,1644,7343,2024-01-30,pending,False,Net Banking,Sonet,Arjun
+TXN0414,BK0414,U473,Pooja,231,Haridwar,Car,6321,1138,948,4235,2024-03-02,refunded,False,Card,Sonet,Pooja
+TXN0415,BK0415,U212,Rahul,453,Mussoorie,Car,18578,3344,2787,12447,2024-01-09,received,False,Card,Creta,Rahul
+TXN0416,BK0416,U101,Aman,721,Dehradun,Bike,4627,833,694,3100,2024-03-26,received,False,Card,KTM Duke 200,Aman
+TXN0417,BK0417,U345,Aditi,739,Dehradun,Bike,648,117,97,434,2024-02-16,refunded,False,UPI,Hero Splendor Plus,Aditi
+TXN0418,BK0418,U288,Rohit,834,Rishikesh,Car,3128,563,469,2096,2024-02-19,received,False,Card,i10,Rohit
+TXN0419,BK0419,U093,Pooja,972,Chakrata,Car,9336,1680,1400,6256,2024-02-23,received,False,Net Banking,i10,Pooja
+TXN0420,BK0420,U415,Neha,606,Dehradun,Car,6495,1169,974,4352,2024-03-31,refunded,False,UPI,Nexon,Neha
+TXN0421,BK0421,U454,Sneha,519,Haridwar,Car,18641,3355,2796,12490,2024-03-07,received,False,Net Banking,Creta,Sneha
+TXN0422,BK0422,U046,Rahul,830,Mussoorie,Scooty,1272,229,191,852,2024-03-27,received,False,Card,Honda Activa,Rahul
+TXN0423,BK0423,U039,Neha,271,Rishikesh,Bike,3618,651,543,2424,2024-03-25,received,False,UPI,RE Classic 350,Neha
+TXN0424,BK0424,U413,Priya,387,Dehradun,Car,2007,361,301,1345,2024-01-14,pending,False,Cash,Sonet,Priya
+TXN0425,BK0425,U280,Karan,582,Rishikesh,Car,11606,2089,1741,7776,2024-01-19,received,False,UPI,i10,Karan
+TXN0426,BK0426,U202,Neha,777,Rishikesh,Car,15372,2767,2306,10299,2024-02-10,pending,False,Net Banking,Sonet,Neha
+TXN0427,BK0427,U323,Aditi,280,Nainital,Bike,1600,288,240,1072,2024-02-17,refunded,False,Card,Hero Splendor Plus,Aditi
+TXN0428,BK0428,U352,Aman,839,Rishikesh,Scooty,1776,320,266,1190,2024-02-05,received,False,UPI,Suzuki Access,Aman
+TXN0429,BK0429,U267,Rohit,100,Rishikesh,Bike,4459,803,669,2987,2024-03-29,received,False,Net Banking,Bajaj Avenger 220,Rohit
+TXN0430,BK0430,U044,Sneha,219,Dehradun,Car,8200,1476,1230,5494,2024-02-27,received,False,UPI,Nexon,Sneha
+TXN0431,BK0431,U352,Aman,347,Haridwar,Scooty,1160,209,174,777,2024-01-08,received,False,Cash,Honda Activa,Aman
+TXN0432,BK0432,U354,Pooja,608,Mussoorie,Scooty,1284,231,193,860,2024-02-26,refunded,False,UPI,Honda Activa,Pooja
+TXN0433,BK0433,U400,Aman,103,Haridwar,Bike,3060,551,459,2050,2024-02-05,received,False,UPI,RE Classic 350,Aman
+TXN0434,BK0434,U196,Aman,687,Mussoorie,Car,5698,1026,855,3817,2024-01-22,received,False,Net Banking,Creta,Aman
+TXN0435,BK0435,U339,Rahul,535,Dehradun,Bike,1176,212,176,788,2024-01-26,received,False,UPI,Bajaj Avenger 220,Rahul
+TXN0436,BK0436,U461,Rohit,100,Rishikesh,Bike,637,115,96,426,2024-01-24,pending,False,Net Banking,Bajaj Avenger 220,Rohit
+TXN0437,BK0437,U467,Arjun,399,Dehradun,Car,1549,279,232,1038,2024-01-26,received,False,Net Banking,Swift,Arjun
+TXN0438,BK0438,U203,Neha,943,Dehradun,Bike,2037,367,306,1364,2024-02-29,received,False,UPI,Bajaj Avenger 220,Neha
+TXN0439,BK0439,U006,Aditi,432,Auli,Car,9462,1703,1419,6340,2024-03-26,pending,False,Card,i10,Aditi
+TXN0440,BK0440,U122,Rahul,795,Rishikesh,Car,6172,1111,926,4135,2024-02-18,received,False,Card,Swift,Rahul
+TXN0441,BK0441,U002,Rahul,495,Mussoorie,Car,9936,1788,1490,6658,2024-03-24,received,False,Cash,City,Rahul
+TXN0442,BK0442,U326,Karan,427,Haridwar,Bike,1446,260,217,969,2024-01-13,pending,False,Cash,KTM Duke 200,Karan
+TXN0443,BK0443,U280,Karan,537,Rishikesh,Car,10402,1872,1560,6970,2024-03-07,pending,False,Net Banking,i10,Karan
+TXN0444,BK0444,U053,Aman,514,Dehradun,Bike,1960,353,294,1313,2024-03-14,received,False,Card,TVS Apache RTR 160,Aman
+TXN0445,BK0445,U199,Rohit,866,Dehradun,Scooty,1779,320,267,1192,2024-03-24,received,False,Cash,TVS Jupiter,Rohit
+TXN0446,BK0446,U315,Rahul,440,Auli,Scooty,2700,486,405,1809,2024-02-08,received,False,UPI,Ather 450X,Rahul
+TXN0447,BK0447,U206,Priya,38,Haridwar,Scooty,1752,315,263,1174,2024-04-01,refunded,False,Net Banking,Suzuki Access,Priya
+TXN0448,BK0448,U350,Arjun,21,Rishikesh,Car,9816,1767,1472,6577,2024-02-02,received,False,Net Banking,City,Arjun
+TXN0449,BK0449,U331,Karan,16,Nainital,Bike,1342,242,201,899,2024-02-08,received,False,Cash,Yamaha R15,Karan
+TXN0450,BK0450,U362,Pooja,985,Dehradun,Bike,3815,687,572,2556,2024-02-27,received,False,Cash,KTM Duke 200,Pooja
+TXN0451,BK0451,U036,Aditi,756,Rishikesh,Car,14182,2553,2127,9502,2024-02-17,received,False,Net Banking,Sonet,Aditi
+TXN0452,BK0452,U204,Arjun,558,Mussoorie,Car,3564,642,535,2387,2024-03-15,pending,False,Net Banking,Baleno,Arjun
+TXN0453,BK0453,U237,Karan,284,Rishikesh,Scooty,1396,251,209,936,2024-01-16,received,False,Card,Ather 450X,Karan
+TXN0454,BK0454,U307,Aditi,255,Dehradun,Car,6306,1135,946,4225,2024-02-20,refunded,False,UPI,Maruti Alto,Aditi
+TXN0455,BK0455,U488,Karan,176,Rishikesh,Scooty,2500,450,375,1675,2024-01-01,received,False,Net Banking,Suzuki Access,Karan
+TXN0456,BK0456,U293,Neha,753,Nainital,Car,10612,1910,1592,7110,2024-01-04,pending,False,Card,Swift,Neha
+TXN0457,BK0457,U188,Aman,812,Dehradun,Scooty,2037,367,306,1364,2024-03-06,received,False,UPI,TVS Ntorq,Aman
+TXN0458,BK0458,U102,Pooja,792,Dehradun,Car,4644,836,697,3111,2024-03-10,received,False,Net Banking,i10,Pooja
+TXN0459,BK0459,U099,Aman,699,Mussoorie,Car,10122,1822,1518,6782,2024-03-20,pending,True,Net Banking,WagonR,Aman
+TXN0460,BK0460,U186,Sneha,460,Dehradun,Bike,1446,260,217,969,2024-02-11,received,False,Net Banking,Yamaha R15,Sneha
+TXN0461,BK0461,U471,Sneha,260,Rishikesh,Scooty,2504,451,376,1677,2024-03-14,received,True,Card,TVS Ntorq,Sneha
+TXN0462,BK0462,U063,Rahul,27,Dehradun,Car,2388,430,358,1600,2024-04-04,received,False,Cash,Maruti Alto,Rahul
+TXN0463,BK0463,U078,Neha,933,Rishikesh,Car,9440,1699,1416,6325,2024-02-01,received,False,UPI,i20,Neha
+TXN0464,BK0464,U189,Aman,526,Mussoorie,Bike,3834,690,575,2569,2024-03-15,refunded,False,Cash,Bajaj Avenger 220,Aman
+TXN0465,BK0465,U007,Rahul,955,Dehradun,Bike,1380,248,207,925,2024-02-13,refunded,False,Net Banking,Yamaha R15,Rahul
+TXN0466,BK0466,U052,Sneha,505,Lansdowne,Bike,2644,476,397,1771,2024-01-11,pending,False,UPI,KTM Duke 200,Sneha
+TXN0467,BK0467,U017,Karan,354,Haridwar,Car,9772,1759,1466,6547,2024-03-05,pending,False,Card,City,Karan
+TXN0468,BK0468,U038,Aman,133,Mussoorie,Bike,1737,313,261,1163,2024-03-30,received,False,UPI,Bajaj Avenger 220,Aman
+TXN0469,BK0469,U494,Arjun,402,Mussoorie,Car,8385,1509,1258,5618,2024-03-10,received,False,Net Banking,Creta,Arjun
+TXN0470,BK0470,U107,Rahul,245,Dehradun,Scooty,2576,464,386,1726,2024-02-19,pending,False,Cash,Honda Activa,Rahul
+TXN0471,BK0471,U286,Aman,465,Haridwar,Car,11669,2100,1750,7819,2024-02-21,pending,False,Card,Baleno,Aman
+TXN0472,BK0472,U224,Priya,879,Dehradun,Car,2356,424,353,1579,2024-01-02,received,False,UPI,City,Priya
+TXN0473,BK0473,U167,Karan,965,Haridwar,Scooty,3510,632,526,2352,2024-04-01,pending,False,Cash,Suzuki Access,Karan
+TXN0474,BK0474,U347,Sneha,651,Nainital,Car,10266,1848,1540,6878,2024-01-30,received,False,Net Banking,Baleno,Sneha
+TXN0475,BK0475,U390,Aman,243,Lansdowne,Car,1297,233,195,869,2024-01-30,received,False,Cash,Maruti Alto,Aman
+TXN0476,BK0476,U406,Aditi,431,Rishikesh,Scooty,3798,684,570,2544,2024-04-02,refunded,False,Card,TVS Ntorq,Aditi
+TXN0477,BK0477,U459,Aman,271,Rishikesh,Bike,4221,760,633,2828,2024-02-13,received,False,Card,RE Classic 350,Aman
+TXN0478,BK0478,U278,Priya,288,Rishikesh,Car,6780,1220,1017,4543,2024-01-06,received,False,Net Banking,WagonR,Priya
+TXN0479,BK0479,U372,Sneha,822,Haridwar,Car,4832,870,725,3237,2024-01-15,pending,False,Cash,City,Sneha
+TXN0480,BK0480,U199,Rohit,21,Rishikesh,Car,17178,3092,2577,11509,2024-02-13,received,False,Cash,City,Rohit
+TXN0481,BK0481,U233,Rohit,609,Dehradun,Car,15008,2701,2251,10056,2024-03-15,received,False,Card,Nexon,Rohit
+TXN0482,BK0482,U412,Aditi,489,Haridwar,Car,8992,1619,1349,6024,2024-01-16,received,False,Net Banking,Nexon,Aditi
+TXN0483,BK0483,U489,Pooja,590,Nainital,Scooty,2936,528,440,1968,2024-02-20,received,False,UPI,Ather 450X,Pooja
+TXN0484,BK0484,U149,Aditi,690,Dehradun,Car,12516,2253,1877,8386,2024-02-14,pending,False,Cash,Nexon,Aditi
+TXN0485,BK0485,U263,Pooja,579,Haridwar,Car,10990,1978,1648,7364,2024-02-28,received,False,Net Banking,Swift,Pooja
+TXN0486,BK0486,U296,Sneha,216,Haridwar,Car,5502,990,825,3687,2024-03-05,received,False,Cash,i20,Sneha
+TXN0487,BK0487,U389,Priya,209,Rishikesh,Scooty,2725,490,409,1826,2024-01-02,pending,False,UPI,Yamaha Fascino,Priya
+TXN0488,BK0488,U271,Rahul,879,Dehradun,Car,7068,1272,1060,4736,2024-04-04,pending,False,Net Banking,City,Rahul
+TXN0489,BK0489,U195,Rahul,741,Dehradun,Car,6595,1187,989,4419,2024-04-03,received,False,Cash,Maruti Alto,Rahul
+TXN0490,BK0490,U368,Karan,884,Rishikesh,Scooty,2328,419,349,1560,2024-01-09,received,False,Net Banking,Suzuki Access,Karan
+TXN0491,BK0491,U401,Aditi,562,Haridwar,Bike,2416,435,362,1619,2024-01-05,received,False,Card,Bajaj Avenger 220,Aditi
+TXN0492,BK0492,U453,Priya,452,Dehradun,Scooty,2544,458,382,1704,2024-02-26,pending,False,UPI,TVS Ntorq,Priya
+TXN0493,BK0493,U388,Neha,670,Dehradun,Bike,742,134,111,497,2024-03-13,pending,False,Net Banking,Bajaj Pulsar 150,Neha
+TXN0494,BK0494,U074,Rohit,386,Haridwar,Scooty,1180,212,177,791,2024-03-04,pending,False,Card,Yamaha Fascino,Rohit
+TXN0495,BK0495,U036,Aditi,687,Mussoorie,Car,19943,3590,2991,13362,2024-01-11,received,False,UPI,Creta,Aditi
+TXN0496,BK0496,U184,Rohit,127,Mussoorie,Bike,1404,253,211,940,2024-03-11,pending,False,Net Banking,KTM Duke 200,Rohit
+TXN0497,BK0497,U339,Rahul,813,Haridwar,Car,1253,226,188,839,2024-02-22,received,False,Card,Maruti Alto,Rahul
+TXN0498,BK0498,U470,Aman,172,Rishikesh,Bike,1182,213,177,792,2024-01-26,received,False,Card,Bajaj Pulsar 150,Aman
+TXN0499,BK0499,U483,Pooja,795,Rishikesh,Car,3086,555,463,2068,2024-01-07,received,False,Card,Swift,Pooja
+TXN0500,BK0500,U476,Aditi,236,Mussoorie,Scooty,2088,376,313,1399,2024-02-05,received,False,UPI,TVS Ntorq,Aditi
+TXN0501,BK0501,U417,Pooja,726,Dehradun,Car,1264,228,190,846,2024-02-18,received,False,Cash,Maruti Alto,Pooja
+TXN0502,BK0502,U363,Neha,233,Dehradun,Scooty,3690,664,554,2472,2024-01-01,pending,False,Cash,Honda Activa,Neha
+TXN0503,BK0503,U098,Rohit,350,Rishikesh,Scooty,2680,482,402,1796,2024-03-09,pending,False,Net Banking,TVS Ntorq,Rohit
+TXN0504,BK0504,U307,Aditi,313,Haridwar,Bike,615,111,92,412,2024-01-18,received,False,Card,Yamaha FZ,Aditi
+TXN0505,BK0505,U367,Aman,855,Mussoorie,Car,1235,222,185,828,2024-01-05,received,False,Cash,WagonR,Aman
+TXN0506,BK0506,U130,Sneha,544,Dehradun,Bike,3766,678,565,2523,2024-03-12,received,False,Net Banking,Yamaha FZ,Sneha
+TXN0507,BK0507,U400,Aman,970,Dehradun,Bike,1254,226,188,840,2024-02-01,received,False,UPI,Hero Splendor Plus,Aman
+TXN0508,BK0508,U132,Neha,171,Rishikesh,Car,8382,1509,1257,5616,2024-02-14,received,False,UPI,Creta,Neha
+TXN0509,BK0509,U411,Arjun,7,Mussoorie,Bike,1689,304,253,1132,2024-02-01,pending,False,Cash,TVS Apache RTR 160,Arjun
+TXN0510,BK0510,U497,Rohit,136,Rishikesh,Bike,1953,352,293,1308,2024-02-12,received,True,Net Banking,Yamaha R15,Rohit
+TXN0511,BK0511,U282,Priya,543,Rishikesh,Car,7728,1391,1159,5178,2024-02-27,pending,False,UPI,Maruti Alto,Priya
+TXN0512,BK0512,U093,Pooja,44,Mussoorie,Scooty,1252,225,188,839,2024-04-02,received,False,Cash,Ola S1,Pooja
+TXN0513,BK0513,U063,Rahul,256,Mussoorie,Bike,714,129,107,478,2024-03-02,received,False,UPI,Yamaha R15,Rahul
+TXN0514,BK0514,U319,Sneha,993,Auli,Car,8910,1604,1336,5970,2024-02-11,received,False,Card,Swift,Sneha
+TXN0515,BK0515,U473,Pooja,214,Haridwar,Bike,3260,587,489,2184,2024-03-14,pending,False,Card,Yamaha R15,Pooja
+TXN0516,BK0516,U290,Sneha,538,Lansdowne,Bike,4004,721,601,2682,2024-03-02,received,False,Cash,Bajaj Avenger 220,Sneha
+TXN0517,BK0517,U255,Rohit,208,Haridwar,Bike,3465,624,520,2321,2024-03-30,received,False,Net Banking,Yamaha FZ,Rohit
+TXN0518,BK0518,U413,Priya,318,Nainital,Car,6470,1165,970,4335,2024-02-16,pending,False,UPI,WagonR,Priya
+TXN0519,BK0519,U243,Arjun,938,Dehradun,Scooty,4098,738,615,2745,2024-03-14,pending,False,Card,Ola S1,Arjun
+TXN0520,BK0520,U219,Pooja,9,Rishikesh,Car,3964,714,595,2655,2024-01-25,received,True,Cash,Sonet,Pooja
+TXN0521,BK0521,U260,Neha,7,Mussoorie,Bike,2252,405,338,1509,2024-01-01,received,False,Card,TVS Apache RTR 160,Neha
+TXN0522,BK0522,U092,Rohit,540,Nainital,Car,6908,1243,1036,4629,2024-02-09,received,False,Net Banking,i10,Rohit
+TXN0523,BK0523,U481,Pooja,22,Haridwar,Bike,1288,232,193,863,2024-03-28,received,False,Net Banking,Yamaha R15,Pooja
+TXN0524,BK0524,U386,Sneha,4,Dehradun,Bike,778,140,117,521,2024-04-02,pending,False,Net Banking,KTM Duke 200,Sneha
+TXN0525,BK0525,U485,Rohit,279,Dehradun,Car,2513,452,377,1684,2024-02-20,received,False,UPI,City,Rohit
+TXN0526,BK0526,U071,Aman,675,Dehradun,Car,11991,2158,1799,8034,2024-03-30,received,False,Cash,i10,Aman
+TXN0527,BK0527,U208,Rahul,426,Haridwar,Car,3100,558,465,2077,2024-02-29,received,False,Card,Swift,Rahul
+TXN0528,BK0528,U400,Aman,101,Mussoorie,Scooty,2136,384,320,1432,2024-01-22,pending,False,Card,Ather 450X,Aman
+TXN0529,BK0529,U230,Rohit,259,Dehradun,Bike,1305,235,196,874,2024-01-22,received,False,Net Banking,Bajaj Pulsar 150,Rohit
+TXN0530,BK0530,U029,Rahul,493,Mussoorie,Bike,2340,421,351,1568,2024-02-13,received,False,Cash,TVS Apache RTR 160,Rahul
+TXN0531,BK0531,U104,Arjun,14,Rishikesh,Scooty,3100,558,465,2077,2024-02-17,received,False,UPI,TVS Jupiter,Arjun
+TXN0532,BK0532,U462,Arjun,244,Dehradun,Bike,2760,497,414,1849,2024-03-12,received,False,Cash,TVS Apache RTR 160,Arjun
+TXN0533,BK0533,U219,Pooja,51,Nainital,Car,16576,2984,2486,11106,2024-01-12,received,False,Net Banking,City,Pooja
+TXN0534,BK0534,U079,Karan,235,Rishikesh,Bike,1520,274,228,1018,2024-02-21,received,False,UPI,Yamaha R15,Karan
+TXN0535,BK0535,U340,Arjun,545,Mussoorie,Scooty,2079,374,312,1393,2024-03-05,refunded,False,Net Banking,TVS Ntorq,Arjun
+TXN0536,BK0536,U004,Neha,98,Rishikesh,Scooty,1788,322,268,1198,2024-01-06,refunded,True,Card,TVS Jupiter,Neha
+TXN0537,BK0537,U255,Rohit,624,Lansdowne,Car,8463,1523,1269,5671,2024-03-02,received,False,Card,WagonR,Rohit
+TXN0538,BK0538,U067,Aditi,359,Rishikesh,Scooty,572,103,86,383,2024-03-14,received,False,Card,TVS Jupiter,Aditi
+TXN0539,BK0539,U080,Arjun,563,Mussoorie,Scooty,3474,625,521,2328,2024-04-02,received,False,Net Banking,Suzuki Access,Arjun
+TXN0540,BK0540,U361,Sneha,153,Dehradun,Car,11020,1984,1653,7383,2024-02-27,received,False,UPI,Sonet,Sneha
+TXN0541,BK0541,U332,Karan,872,Rishikesh,Scooty,1382,249,207,926,2024-04-06,received,False,UPI,TVS Ntorq,Karan
+TXN0542,BK0542,U083,Aman,608,Mussoorie,Scooty,642,116,96,430,2024-02-13,received,False,Card,Honda Activa,Aman
+TXN0543,BK0543,U466,Rahul,381,Dehradun,Car,6351,1143,953,4255,2024-01-16,received,False,Card,Sonet,Rahul
+TXN0544,BK0544,U411,Arjun,619,Dehradun,Bike,3654,658,548,2448,2024-02-26,received,False,Card,Yamaha FZ,Arjun
+TXN0545,BK0545,U499,Priya,20,Nainital,Scooty,4088,736,613,2739,2024-02-29,received,False,UPI,TVS Jupiter,Priya
+TXN0546,BK0546,U155,Karan,713,Dehradun,Scooty,4074,733,611,2730,2024-01-15,received,False,Card,TVS Jupiter,Karan
+TXN0547,BK0547,U288,Rohit,831,Rishikesh,Car,10532,1896,1580,7056,2024-01-31,received,False,Cash,Creta,Rohit
+TXN0548,BK0548,U067,Aditi,355,Chakrata,Bike,2955,532,443,1980,2024-01-11,pending,False,Cash,Yamaha FZ,Aditi
+TXN0549,BK0549,U355,Aman,72,Dehradun,Car,3060,551,459,2050,2024-02-08,pending,False,Cash,Swift,Aman
+TXN0550,BK0550,U373,Aditi,461,Dehradun,Scooty,1166,210,175,781,2024-04-07,pending,False,Cash,TVS Jupiter,Aditi
+TXN0551,BK0551,U246,Aman,176,Rishikesh,Scooty,4375,788,656,2931,2024-02-03,received,False,Cash,Suzuki Access,Aman
+TXN0552,BK0552,U102,Pooja,645,Rishikesh,Car,3567,642,535,2390,2024-02-08,received,False,Card,WagonR,Pooja
+TXN0553,BK0553,U254,Neha,169,Mussoorie,Bike,1845,332,277,1236,2024-02-18,received,False,UPI,Hero Splendor Plus,Neha
+TXN0554,BK0554,U463,Sneha,416,Dehradun,Scooty,4102,738,615,2749,2024-04-01,received,False,Net Banking,Yamaha Fascino,Sneha
+TXN0555,BK0555,U444,Rohit,693,Mussoorie,Car,6948,1251,1042,4655,2024-01-06,received,False,UPI,WagonR,Rohit
+TXN0556,BK0556,U025,Rohit,782,Rishikesh,Scooty,4830,869,724,3237,2024-01-29,received,False,UPI,Ather 450X,Rohit
+TXN0557,BK0557,U010,Pooja,657,Rishikesh,Car,7110,1280,1066,4764,2024-01-17,received,False,Card,City,Pooja
+TXN0558,BK0558,U493,Priya,52,Rishikesh,Bike,4506,811,676,3019,2024-01-04,received,False,Card,Yamaha R15,Priya
+TXN0559,BK0559,U005,Aditi,616,Dehradun,Bike,579,104,87,388,2024-02-23,refunded,False,Card,RE Classic 350,Aditi
+TXN0560,BK0560,U245,Sneha,426,Haridwar,Car,3100,558,465,2077,2024-02-06,received,False,Net Banking,Swift,Sneha
+TXN0561,BK0561,U065,Priya,375,Rishikesh,Car,7659,1379,1149,5131,2024-03-17,received,False,Cash,Creta,Priya
+TXN0562,BK0562,U212,Rahul,801,Rishikesh,Car,6205,1117,931,4157,2024-01-30,received,False,Net Banking,WagonR,Rahul
+TXN0563,BK0563,U368,Karan,981,Haridwar,Car,5151,927,773,3451,2024-03-21,received,False,UPI,i20,Karan
+TXN0564,BK0564,U076,Pooja,478,Mussoorie,Bike,1206,217,181,808,2024-01-14,refunded,False,UPI,RE Classic 350,Pooja
+TXN0565,BK0565,U095,Karan,840,Dehradun,Car,5290,952,794,3544,2024-02-20,received,False,Net Banking,Creta,Karan
+TXN0566,BK0566,U252,Priya,984,Rishikesh,Car,17227,3101,2584,11542,2024-02-12,pending,False,Card,City,Priya
+TXN0567,BK0567,U450,Rahul,12,Rishikesh,Car,6510,1172,976,4362,2024-01-09,received,True,Cash,Maruti Alto,Rahul
+TXN0568,BK0568,U112,Aman,338,Mussoorie,Scooty,3650,657,548,2445,2024-03-08,refunded,False,Cash,Ather 450X,Aman
+TXN0569,BK0569,U084,Rohit,162,Auli,Car,9800,1764,1470,6566,2024-03-09,pending,False,UPI,Sonet,Rohit
+TXN0570,BK0570,U316,Priya,428,Auli,Scooty,3876,698,581,2597,2024-02-23,refunded,True,Card,TVS Jupiter,Priya
+TXN0571,BK0571,U409,Sneha,957,Dehradun,Car,2261,407,339,1515,2024-02-15,received,False,Cash,Nexon,Sneha
+TXN0572,BK0572,U405,Aditi,173,Nainital,Scooty,1180,212,177,791,2024-02-25,refunded,False,Net Banking,Yamaha Fascino,Aditi
+TXN0573,BK0573,U155,Karan,477,Mussoorie,Car,15510,2792,2326,10392,2024-01-31,pending,False,Card,City,Karan
+TXN0574,BK0574,U369,Karan,208,Haridwar,Bike,990,178,148,664,2024-03-18,received,False,Cash,Yamaha FZ,Karan
+TXN0575,BK0575,U361,Sneha,995,Rishikesh,Scooty,3840,691,576,2573,2024-01-08,pending,False,Cash,Honda Activa,Sneha
+TXN0576,BK0576,U209,Karan,70,Mussoorie,Bike,4879,878,732,3269,2024-03-23,received,False,UPI,Yamaha R15,Karan
+TXN0577,BK0577,U258,Aditi,501,Mussoorie,Car,3068,552,460,2056,2024-04-04,refunded,False,Card,Swift,Aditi
+TXN0578,BK0578,U338,Rohit,961,Haridwar,Bike,572,103,86,383,2024-04-01,received,False,UPI,Bajaj Avenger 220,Rohit
+TXN0579,BK0579,U064,Neha,411,Nainital,Car,12565,2262,1885,8418,2024-03-04,pending,False,Cash,City,Neha
+TXN0580,BK0580,U377,Karan,444,Haridwar,Car,8600,1548,1290,5762,2024-02-16,received,False,UPI,Nexon,Karan
+TXN0581,BK0581,U319,Sneha,202,Lansdowne,Bike,2130,383,320,1427,2024-01-30,refunded,False,UPI,RE Classic 350,Sneha
+TXN0582,BK0582,U010,Pooja,284,Rishikesh,Scooty,2094,377,314,1403,2024-01-28,refunded,False,Cash,Ather 450X,Pooja
+TXN0583,BK0583,U443,Sneha,188,Haridwar,Scooty,5075,914,761,3400,2024-03-29,received,False,Net Banking,Ather 450X,Sneha
+TXN0584,BK0584,U286,Aman,711,Haridwar,Car,5492,989,824,3679,2024-02-12,pending,False,Net Banking,Creta,Aman
+TXN0585,BK0585,U051,Sneha,914,Rishikesh,Scooty,1272,229,191,852,2024-02-01,received,False,Net Banking,Ola S1,Sneha
+TXN0586,BK0586,U142,Karan,349,Nainital,Bike,1412,254,212,946,2024-03-21,received,False,UPI,RE Classic 350,Karan
+TXN0587,BK0587,U118,Neha,434,Haridwar,Scooty,1998,360,300,1338,2024-01-13,received,False,Net Banking,Ola S1,Neha
+TXN0588,BK0588,U244,Neha,956,Nainital,Scooty,2088,376,313,1399,2024-01-03,pending,False,Net Banking,TVS Ntorq,Neha
+TXN0589,BK0589,U098,Rohit,732,Dehradun,Car,19922,3586,2988,13348,2024-02-28,received,False,Card,Creta,Rohit
+TXN0590,BK0590,U178,Aditi,46,Rishikesh,Bike,1413,254,212,947,2024-01-10,pending,False,Cash,TVS Apache RTR 160,Aditi
+TXN0591,BK0591,U421,Karan,136,Rishikesh,Bike,1953,352,293,1308,2024-01-13,received,False,Cash,Yamaha R15,Karan
+TXN0592,BK0592,U188,Aman,970,Dehradun,Bike,1254,226,188,840,2024-02-11,received,False,UPI,Hero Splendor Plus,Aman
+TXN0593,BK0593,U412,Aditi,602,Haridwar,Scooty,1959,353,294,1312,2024-03-22,received,False,UPI,Ather 450X,Aditi
+TXN0594,BK0594,U078,Neha,917,Auli,Scooty,3768,678,565,2525,2024-03-28,refunded,False,Card,Ola S1,Neha
+TXN0595,BK0595,U202,Neha,313,Haridwar,Bike,615,111,92,412,2024-01-11,pending,False,Net Banking,Yamaha FZ,Neha
+TXN0596,BK0596,U417,Pooja,382,Dehradun,Bike,3969,714,595,2660,2024-01-12,received,False,Cash,Yamaha FZ,Pooja
+TXN0597,BK0597,U411,Arjun,833,Dehradun,Scooty,620,112,93,415,2024-03-03,received,False,Card,Yamaha Fascino,Arjun
+TXN0598,BK0598,U047,Pooja,865,Rishikesh,Bike,1526,275,229,1022,2024-04-03,received,False,UPI,KTM Duke 200,Pooja
+TXN0599,BK0599,U367,Aman,761,Mussoorie,Scooty,1222,220,183,819,2024-04-03,refunded,False,UPI,Honda Activa,Aman
+TXN0600,BK0600,U477,Pooja,781,Dehradun,Bike,383,69,57,257,2024-03-19,refunded,False,Cash,Bajaj Pulsar 150,Pooja
+TXN0601,BK0601,U171,Pooja,709,Dehradun,Bike,2640,475,396,1769,2024-04-06,received,False,Cash,Yamaha R15,Pooja
+TXN0602,BK0602,U458,Priya,955,Dehradun,Bike,2760,497,414,1849,2024-02-25,received,False,Card,Yamaha R15,Priya
+TXN0603,BK0603,U324,Sneha,666,Dehradun,Car,5284,951,793,3540,2024-02-05,pending,False,Cash,Creta,Sneha
+TXN0604,BK0604,U062,Sneha,763,Chakrata,Bike,1956,352,293,1311,2024-01-18,received,False,Net Banking,Bajaj Pulsar 150,Sneha
+TXN0605,BK0605,U337,Arjun,374,Mussoorie,Scooty,3732,672,560,2500,2024-02-25,received,False,Cash,Honda Activa,Arjun
+TXN0606,BK0606,U448,Rohit,798,Rishikesh,Car,2606,469,391,1746,2024-02-28,pending,False,Card,Creta,Rohit
+TXN0607,BK0607,U022,Arjun,297,Mussoorie,Car,3122,562,468,2092,2024-01-08,received,False,Net Banking,i10,Arjun
+TXN0608,BK0608,U257,Neha,829,Dehradun,Bike,2175,392,326,1457,2024-03-26,pending,False,Net Banking,RE Classic 350,Neha
+TXN0609,BK0609,U236,Sneha,899,Mussoorie,Scooty,610,110,92,408,2024-02-09,received,False,Cash,Suzuki Access,Sneha
+TXN0610,BK0610,U013,Aman,935,Rishikesh,Scooty,3260,587,489,2184,2024-01-06,refunded,False,Cash,TVS Ntorq,Aman
+TXN0611,BK0611,U056,Neha,46,Rishikesh,Bike,471,85,71,315,2024-02-06,received,False,Net Banking,TVS Apache RTR 160,Neha
+TXN0612,BK0612,U435,Sneha,52,Rishikesh,Bike,4506,811,676,3019,2024-01-28,pending,False,UPI,Yamaha R15,Sneha
+TXN0613,BK0613,U263,Pooja,538,Lansdowne,Bike,2860,515,429,1916,2024-03-12,received,False,Cash,Bajaj Avenger 220,Pooja
+TXN0614,BK0614,U020,Arjun,288,Rishikesh,Car,9492,1709,1424,6359,2024-02-20,received,False,Card,WagonR,Arjun
+TXN0615,BK0615,U285,Priya,536,Dehradun,Scooty,629,113,94,422,2024-02-22,pending,False,Cash,Ola S1,Priya
+TXN0616,BK0616,U376,Karan,361,Mussoorie,Bike,670,121,100,449,2024-03-08,refunded,True,Net Banking,RE Classic 350,Karan
+TXN0617,BK0617,U477,Pooja,611,Rishikesh,Scooty,630,113,94,423,2024-02-14,received,False,UPI,Suzuki Access,Pooja
+TXN0618,BK0618,U196,Aman,343,Haridwar,Bike,2304,415,346,1543,2024-03-12,received,False,Net Banking,TVS Apache RTR 160,Aman
+TXN0619,BK0619,U246,Aman,181,Rishikesh,Bike,3095,557,464,2074,2024-01-05,received,False,UPI,Yamaha FZ,Aman
+TXN0620,BK0620,U366,Arjun,500,Rishikesh,Scooty,1140,205,171,764,2024-01-01,refunded,False,Cash,Yamaha Fascino,Arjun
+TXN0621,BK0621,U345,Aditi,685,Rishikesh,Bike,2604,469,391,1744,2024-02-07,pending,False,Net Banking,Hero Splendor Plus,Aditi
+TXN0622,BK0622,U235,Pooja,216,Haridwar,Car,5502,990,825,3687,2024-02-23,received,False,UPI,i20,Pooja
+TXN0623,BK0623,U115,Neha,745,Mussoorie,Bike,2244,404,337,1503,2024-04-01,refunded,True,Cash,Bajaj Pulsar 150,Neha
+TXN0624,BK0624,U114,Aman,51,Nainital,Car,16576,2984,2486,11106,2024-02-21,pending,False,Net Banking,City,Aman
+TXN0625,BK0625,U390,Aman,613,Nainital,Bike,2595,467,389,1739,2024-03-21,pending,False,Net Banking,Yamaha FZ,Aman
+TXN0626,BK0626,U178,Aditi,291,Mussoorie,Car,10065,1812,1510,6743,2024-03-11,received,False,Cash,Sonet,Aditi
+TXN0627,BK0627,U134,Aman,397,Rishikesh,Bike,1652,297,248,1107,2024-02-03,pending,False,UPI,Hero Splendor Plus,Aman
+TXN0628,BK0628,U195,Rahul,540,Nainital,Car,8635,1554,1295,5786,2024-04-02,pending,False,Cash,i10,Rahul
+TXN0629,BK0629,U445,Karan,575,Dehradun,Scooty,1728,311,259,1158,2024-04-07,received,False,Net Banking,Suzuki Access,Karan
+TXN0630,BK0630,U218,Rahul,312,Mussoorie,Car,3891,700,584,2607,2024-02-25,received,False,UPI,WagonR,Rahul
+TXN0631,BK0631,U408,Rahul,375,Rishikesh,Car,17871,3217,2681,11973,2024-02-21,received,False,Net Banking,Creta,Rahul
+TXN0632,BK0632,U475,Neha,769,Dehradun,Bike,683,123,102,458,2024-03-05,received,False,Card,KTM Duke 200,Neha
+TXN0633,BK0633,U108,Aman,603,Nainital,Car,2366,426,355,1585,2024-01-03,received,False,Card,WagonR,Aman
+TXN0634,BK0634,U271,Rahul,855,Mussoorie,Car,3705,667,556,2482,2024-02-24,received,False,Card,WagonR,Rahul
+TXN0635,BK0635,U123,Arjun,790,Rishikesh,Bike,1352,243,203,906,2024-03-31,pending,False,Card,Hero Splendor Plus,Arjun
+TXN0636,BK0636,U010,Pooja,694,Nainital,Bike,886,159,133,594,2024-01-13,received,False,Cash,Bajaj Pulsar 150,Pooja
+TXN0637,BK0637,U247,Aditi,111,Haridwar,Car,13225,2380,1984,8861,2024-01-21,pending,True,Net Banking,City,Aditi
+TXN0638,BK0638,U281,Sneha,493,Mussoorie,Bike,2808,505,421,1882,2024-01-20,received,False,Card,TVS Apache RTR 160,Sneha
+TXN0639,BK0639,U135,Priya,681,Mussoorie,Car,1607,289,241,1077,2024-01-18,received,False,UPI,Baleno,Priya
+TXN0640,BK0640,U173,Neha,329,Mussoorie,Scooty,690,124,104,462,2024-03-25,received,False,Cash,Ola S1,Neha
+TXN0641,BK0641,U303,Karan,33,Nainital,Car,8580,1544,1287,5749,2024-04-05,received,False,Cash,Baleno,Karan
+TXN0642,BK0642,U301,Karan,941,Haridwar,Scooty,2910,524,436,1950,2024-01-27,received,False,UPI,Yamaha Fascino,Karan
+TXN0643,BK0643,U324,Sneha,470,Dehradun,Scooty,1300,234,195,871,2024-03-07,pending,False,UPI,Suzuki Access,Sneha
+TXN0644,BK0644,U194,Priya,100,Rishikesh,Bike,2548,459,382,1707,2024-01-28,received,False,Net Banking,Bajaj Avenger 220,Priya
+TXN0645,BK0645,U396,Rohit,289,Rishikesh,Bike,1108,199,166,743,2024-03-08,received,False,Card,Bajaj Avenger 220,Rohit
+TXN0646,BK0646,U015,Priya,31,Dehradun,Bike,2340,421,351,1568,2024-01-11,received,False,Card,TVS Apache RTR 160,Priya
+TXN0647,BK0647,U315,Rahul,315,Dehradun,Car,11165,2010,1675,7480,2024-01-29,received,False,UPI,Sonet,Rahul
+TXN0648,BK0648,U143,Neha,109,Nainital,Bike,2008,361,301,1346,2024-03-13,received,False,Net Banking,TVS Apache RTR 160,Neha
+TXN0649,BK0649,U161,Karan,278,Haridwar,Scooty,2448,441,367,1640,2024-04-06,received,False,Net Banking,Yamaha Fascino,Karan
+TXN0650,BK0650,U255,Rohit,710,Rishikesh,Scooty,1060,191,159,710,2024-02-15,received,False,Card,Yamaha Fascino,Rohit
+TXN0651,BK0651,U081,Neha,149,Dehradun,Scooty,1983,357,297,1329,2024-01-20,pending,False,Net Banking,TVS Ntorq,Neha
+TXN0652,BK0652,U029,Rahul,5,Lansdowne,Scooty,1158,208,174,776,2024-01-17,received,False,Net Banking,TVS Jupiter,Rahul
+TXN0653,BK0653,U460,Priya,977,Mussoorie,Scooty,2085,375,313,1397,2024-01-05,received,False,Net Banking,Ather 450X,Priya
+TXN0654,BK0654,U232,Aman,874,Dehradun,Bike,4354,784,653,2917,2024-01-14,received,False,Net Banking,Yamaha FZ,Aman
+TXN0655,BK0655,U189,Aman,532,Mussoorie,Bike,2540,457,381,1702,2024-04-04,received,False,UPI,TVS Apache RTR 160,Aman
+TXN0656,BK0656,U473,Pooja,529,Haridwar,Bike,4900,882,735,3283,2024-03-21,received,False,Card,Yamaha R15,Pooja
+TXN0657,BK0657,U452,Priya,931,Rishikesh,Bike,572,103,86,383,2024-02-13,received,False,Card,Yamaha FZ,Priya
+TXN0658,BK0658,U023,Aditi,727,Haridwar,Bike,3410,614,512,2284,2024-01-15,received,False,Net Banking,RE Classic 350,Aditi
+TXN0659,BK0659,U250,Priya,540,Nainital,Car,8635,1554,1295,5786,2024-02-07,refunded,False,UPI,i10,Priya
+TXN0660,BK0660,U299,Aditi,571,Haridwar,Bike,3080,554,462,2064,2024-01-25,pending,False,Net Banking,KTM Duke 200,Aditi
+TXN0661,BK0661,U243,Arjun,401,Haridwar,Scooty,3250,585,488,2177,2024-02-11,received,False,Cash,Suzuki Access,Arjun
+TXN0662,BK0662,U156,Sneha,311,Rishikesh,Scooty,1338,241,201,896,2024-01-02,received,False,UPI,Ola S1,Sneha
+TXN0663,BK0663,U356,Sneha,569,Mussoorie,Scooty,1126,203,169,754,2024-02-02,received,False,Net Banking,Honda Activa,Sneha
+TXN0664,BK0664,U098,Rohit,742,Nainital,Bike,473,85,71,317,2024-02-01,pending,False,Net Banking,Hero Splendor Plus,Rohit
+TXN0665,BK0665,U154,Aditi,376,Rishikesh,Bike,558,100,84,374,2024-01-29,received,False,Cash,Bajaj Avenger 220,Aditi
+TXN0666,BK0666,U057,Rohit,936,Dehradun,Car,11710,2108,1756,7846,2024-01-05,refunded,False,UPI,Nexon,Rohit
+TXN0667,BK0667,U324,Sneha,602,Haridwar,Scooty,4571,823,686,3062,2024-01-16,received,False,Cash,Ather 450X,Sneha
+TXN0668,BK0668,U343,Karan,588,Haridwar,Car,8356,1504,1253,5599,2024-01-01,received,False,Card,Nexon,Karan
+TXN0669,BK0669,U233,Rohit,954,Nainital,Car,18711,3368,2807,12536,2024-01-12,pending,False,Net Banking,Creta,Rohit
+TXN0670,BK0670,U064,Neha,851,Rishikesh,Scooty,606,109,91,406,2024-03-15,received,False,Cash,Ola S1,Neha
+TXN0671,BK0671,U434,Arjun,971,Rishikesh,Scooty,2468,444,370,1654,2024-03-25,refunded,False,UPI,Ola S1,Arjun
+TXN0672,BK0672,U372,Sneha,498,Dehradun,Car,8812,1586,1322,5904,2024-03-12,pending,False,Net Banking,Sonet,Sneha
+TXN0673,BK0673,U149,Aditi,65,Haridwar,Scooty,639,115,96,428,2024-01-29,received,False,Card,Suzuki Access,Aditi
+TXN0674,BK0674,U102,Pooja,774,Mussoorie,Car,1716,309,257,1150,2024-03-07,received,False,Net Banking,Baleno,Pooja
+TXN0675,BK0675,U160,Rahul,10,Lansdowne,Bike,2013,362,302,1349,2024-01-11,received,False,Cash,Yamaha R15,Rahul
+TXN0676,BK0676,U162,Pooja,652,Dehradun,Bike,672,121,101,450,2024-02-26,received,False,Card,RE Classic 350,Pooja
+TXN0677,BK0677,U160,Rahul,462,Haridwar,Car,2609,470,391,1748,2024-03-05,received,False,Net Banking,Creta,Rahul
+TXN0678,BK0678,U406,Aditi,49,Rishikesh,Bike,5117,921,768,3428,2024-02-19,pending,False,Card,Yamaha R15,Aditi
+TXN0679,BK0679,U419,Sneha,516,Rishikesh,Car,5556,1000,833,3723,2024-03-08,received,False,Cash,WagonR,Sneha
+TXN0680,BK0680,U054,Rohit,269,Rishikesh,Scooty,5040,907,756,3377,2024-02-15,refunded,False,UPI,Ather 450X,Rohit
+TXN0681,BK0681,U162,Pooja,486,Dehradun,Car,5242,944,786,3512,2024-04-07,received,False,Cash,Creta,Pooja
+TXN0682,BK0682,U242,Priya,615,Dehradun,Car,4812,866,722,3224,2024-01-07,pending,False,Card,Baleno,Priya
+TXN0683,BK0683,U114,Aman,220,Rishikesh,Bike,3990,718,598,2674,2024-02-27,received,False,Net Banking,Bajaj Avenger 220,Aman
+TXN0684,BK0684,U298,Aditi,629,Mussoorie,Scooty,3055,550,458,2047,2024-02-27,received,False,Net Banking,Ola S1,Aditi
+TXN0685,BK0685,U127,Aman,624,Lansdowne,Car,1209,218,181,810,2024-03-31,received,False,Cash,WagonR,Aman
+TXN0686,BK0686,U148,Aman,92,Auli,Scooty,1324,238,199,887,2024-03-21,pending,False,UPI,Ather 450X,Aman
+TXN0687,BK0687,U003,Priya,854,Rishikesh,Scooty,2688,484,403,1801,2024-01-03,received,False,Cash,Ola S1,Priya
+TXN0688,BK0688,U180,Rohit,240,Mussoorie,Car,1793,323,269,1201,2024-03-30,pending,False,Net Banking,i20,Rohit
+TXN0689,BK0689,U251,Aditi,948,Mussoorie,Car,5448,981,817,3650,2024-01-31,received,False,Net Banking,Swift,Aditi
+TXN0690,BK0690,U042,Sneha,28,Nainital,Bike,2925,526,439,1960,2024-03-18,pending,False,UPI,TVS Apache RTR 160,Sneha
+TXN0691,BK0691,U209,Karan,806,Chakrata,Scooty,613,110,92,411,2024-01-22,received,False,Card,Honda Activa,Karan
+TXN0692,BK0692,U199,Rohit,954,Nainital,Car,8019,1443,1203,5373,2024-01-03,received,False,Net Banking,Creta,Rohit
+TXN0693,BK0693,U487,Aman,534,Haridwar,Car,9388,1690,1408,6290,2024-02-29,received,False,Net Banking,Nexon,Aman
+TXN0694,BK0694,U194,Priya,794,Dehradun,Scooty,3474,625,521,2328,2024-03-22,received,False,UPI,Yamaha Fascino,Priya
+TXN0695,BK0695,U140,Arjun,521,Mussoorie,Scooty,1965,354,295,1316,2024-03-07,received,False,UPI,Ola S1,Arjun
+TXN0696,BK0696,U208,Rahul,828,Dehradun,Car,1685,303,253,1129,2024-01-04,received,False,Net Banking,i20,Rahul
+TXN0697,BK0697,U409,Sneha,480,Nainital,Car,1210,218,182,810,2024-04-06,received,False,Net Banking,Maruti Alto,Sneha
+TXN0698,BK0698,U335,Arjun,493,Mussoorie,Bike,1404,253,211,940,2024-03-14,received,False,Card,TVS Apache RTR 160,Arjun
+TXN0699,BK0699,U418,Aman,957,Dehradun,Car,2261,407,339,1515,2024-02-26,pending,False,UPI,Nexon,Aman
+TXN0700,BK0700,U038,Aman,453,Mussoorie,Car,2654,478,398,1778,2024-03-14,refunded,False,Net Banking,Creta,Aman
+TXN0701,BK0701,U019,Neha,285,Haridwar,Car,10740,1933,1611,7196,2024-01-04,received,False,Cash,Sonet,Neha
+TXN0702,BK0702,U147,Arjun,301,Mussoorie,Bike,649,117,97,435,2024-02-15,received,False,Card,Yamaha R15,Arjun
+TXN0703,BK0703,U230,Rohit,287,Rishikesh,Scooty,1118,201,168,749,2024-01-30,received,False,Net Banking,Honda Activa,Rohit
+TXN0704,BK0704,U156,Sneha,680,Haridwar,Scooty,3595,647,539,2409,2024-04-03,pending,False,Net Banking,Ather 450X,Sneha
+TXN0705,BK0705,U192,Rohit,963,Haridwar,Car,5330,959,800,3571,2024-01-30,received,False,Cash,Creta,Rohit
+TXN0706,BK0706,U398,Rohit,697,Mussoorie,Bike,546,98,82,366,2024-01-28,refunded,False,UPI,Yamaha FZ,Rohit
+TXN0707,BK0707,U465,Aman,2,Mussoorie,Scooty,5061,911,759,3391,2024-01-08,received,False,UPI,Ather 450X,Aman
+TXN0708,BK0708,U197,Neha,642,Nainital,Car,7228,1301,1084,4843,2024-02-14,received,False,Net Banking,Baleno,Neha
+TXN0709,BK0709,U491,Aditi,758,Dehradun,Scooty,3070,553,460,2057,2024-03-02,received,False,UPI,Yamaha Fascino,Aditi
+TXN0710,BK0710,U054,Rohit,466,Dehradun,Bike,1080,194,162,724,2024-03-13,received,False,Net Banking,TVS Apache RTR 160,Rohit
+TXN0711,BK0711,U140,Arjun,519,Haridwar,Car,10652,1917,1598,7137,2024-04-01,received,False,Card,Creta,Arjun
+TXN0712,BK0712,U406,Aditi,765,Nainital,Car,19439,3499,2916,13024,2024-03-12,received,False,Cash,Creta,Aditi
+TXN0713,BK0713,U440,Karan,338,Mussoorie,Scooty,4380,788,657,2935,2024-02-01,received,False,Cash,Ather 450X,Karan
+TXN0714,BK0714,U338,Rohit,832,Mussoorie,Bike,1328,239,199,890,2024-03-11,pending,False,Card,Hero Splendor Plus,Rohit
+TXN0715,BK0715,U360,Priya,81,Dehradun,Car,2254,406,338,1510,2024-02-05,received,True,UPI,Maruti Alto,Priya
+TXN0716,BK0716,U459,Aman,784,Rishikesh,Bike,2912,524,437,1951,2024-03-18,received,False,Cash,RE Classic 350,Aman
+TXN0717,BK0717,U221,Rahul,7,Mussoorie,Bike,1689,304,253,1132,2024-02-16,pending,False,Card,TVS Apache RTR 160,Rahul
+TXN0718,BK0718,U447,Neha,235,Rishikesh,Bike,5320,958,798,3564,2024-02-10,pending,False,Cash,Yamaha R15,Neha
+TXN0719,BK0719,U451,Neha,735,Rishikesh,Car,2670,481,400,1789,2024-02-19,received,False,UPI,Creta,Neha
+TXN0720,BK0720,U358,Rahul,831,Rishikesh,Car,13165,2370,1975,8820,2024-03-12,received,False,Net Banking,Creta,Rahul
+TXN0721,BK0721,U385,Aditi,270,Dehradun,Car,9708,1747,1456,6505,2024-02-08,pending,False,Cash,City,Aditi
+TXN0722,BK0722,U274,Rahul,711,Haridwar,Car,13730,2471,2060,9199,2024-02-27,received,False,Net Banking,Creta,Rahul
+TXN0723,BK0723,U340,Arjun,644,Rishikesh,Scooty,3360,605,504,2251,2024-02-11,received,False,Cash,TVS Jupiter,Arjun
+TXN0724,BK0724,U307,Aditi,735,Rishikesh,Car,5340,961,801,3578,2024-02-02,pending,False,Net Banking,Creta,Aditi
+TXN0725,BK0725,U371,Rahul,554,Rishikesh,Scooty,2776,500,416,1860,2024-02-20,received,False,Net Banking,Ola S1,Rahul
+TXN0726,BK0726,U186,Sneha,330,Rishikesh,Car,3630,653,544,2433,2024-03-18,pending,False,Card,i20,Sneha
+TXN0727,BK0727,U319,Sneha,947,Mussoorie,Scooty,1354,244,203,907,2024-02-19,received,False,Net Banking,Ola S1,Sneha
+TXN0728,BK0728,U042,Sneha,803,Rishikesh,Scooty,5131,924,770,3437,2024-01-15,received,False,Net Banking,Ather 450X,Sneha
+TXN0729,BK0729,U043,Rohit,838,Rishikesh,Bike,2064,372,310,1382,2024-02-24,received,False,Card,KTM Duke 200,Rohit
+TXN0730,BK0730,U300,Aditi,471,Rishikesh,Car,4154,748,623,2783,2024-03-12,received,False,Cash,Nexon,Aditi
+TXN0731,BK0731,U042,Sneha,143,Dehradun,Scooty,656,118,98,440,2024-01-30,received,False,Net Banking,Ola S1,Sneha
+TXN0732,BK0732,U285,Priya,525,Rishikesh,Car,3462,623,519,2320,2024-03-24,received,False,Net Banking,i10,Priya
+TXN0733,BK0733,U341,Aman,995,Rishikesh,Scooty,2560,461,384,1715,2024-03-14,received,False,Cash,Honda Activa,Aman
+TXN0734,BK0734,U437,Rahul,415,Lansdowne,Bike,2488,448,373,1667,2024-01-17,received,False,Cash,Yamaha R15,Rahul
+TXN0735,BK0735,U038,Aman,63,Rishikesh,Car,3711,668,557,2486,2024-03-26,received,False,Card,Maruti Alto,Aman
+TXN0736,BK0736,U347,Sneha,911,Rishikesh,Scooty,2284,411,343,1530,2024-03-21,received,False,Net Banking,Honda Activa,Sneha
+TXN0737,BK0737,U439,Aman,923,Dehradun,Scooty,1926,347,289,1290,2024-02-10,refunded,False,Cash,Suzuki Access,Aman
+TXN0738,BK0738,U071,Aman,130,Mussoorie,Bike,498,90,75,333,2024-04-08,received,False,Card,TVS Apache RTR 160,Aman
+TXN0739,BK0739,U011,Priya,421,Dehradun,Bike,1418,255,213,950,2024-04-06,received,False,Net Banking,RE Classic 350,Priya
+TXN0740,BK0740,U421,Karan,295,Dehradun,Bike,702,126,105,471,2024-03-02,received,False,Net Banking,RE Classic 350,Karan
+TXN0741,BK0741,U322,Aditi,999,Rishikesh,Car,13152,2367,1973,8812,2024-01-29,received,False,Card,Sonet,Aditi
+TXN0742,BK0742,U135,Priya,783,Rishikesh,Car,1773,319,266,1188,2024-03-29,received,False,Card,i20,Priya
+TXN0743,BK0743,U217,Rahul,519,Haridwar,Car,5326,959,799,3568,2024-02-10,pending,False,Cash,Creta,Rahul
+TXN0744,BK0744,U212,Rahul,868,Mussoorie,Bike,2440,439,366,1635,2024-02-25,received,False,Cash,Yamaha R15,Rahul
+TXN0745,BK0745,U076,Pooja,231,Haridwar,Car,14749,2655,2212,9882,2024-03-14,received,False,UPI,Sonet,Pooja
+TXN0746,BK0746,U376,Karan,234,Haridwar,Car,9474,1705,1421,6348,2024-01-23,received,False,Card,Baleno,Karan
+TXN0747,BK0747,U077,Aditi,907,Rishikesh,Bike,2232,402,335,1495,2024-02-21,pending,False,Cash,Hero Splendor Plus,Aditi
+TXN0748,BK0748,U195,Rahul,910,Nainital,Bike,2395,431,359,1605,2024-01-31,pending,False,Card,Bajaj Pulsar 150,Rahul
+TXN0749,BK0749,U434,Arjun,640,Dehradun,Bike,2300,414,345,1541,2024-02-11,received,False,Net Banking,Bajaj Pulsar 150,Arjun
+TXN0750,BK0750,U095,Karan,929,Dehradun,Scooty,3580,644,537,2399,2024-02-23,received,False,UPI,Ather 450X,Karan
+TXN0751,BK0751,U351,Aman,533,Dehradun,Scooty,1974,355,296,1323,2024-04-07,received,False,Card,TVS Ntorq,Aman
+TXN0752,BK0752,U323,Aditi,440,Auli,Scooty,4725,850,709,3166,2024-03-31,received,False,UPI,Ather 450X,Aditi
+TXN0753,BK0753,U058,Aman,894,Haridwar,Car,1676,302,251,1123,2024-01-10,received,False,Card,i20,Aman
+TXN0754,BK0754,U114,Aman,48,Haridwar,Car,4792,863,719,3210,2024-02-02,received,False,Card,Maruti Alto,Aman
+TXN0755,BK0755,U165,Karan,576,Rishikesh,Car,10508,1891,1576,7041,2024-03-02,received,False,UPI,Creta,Karan
+TXN0756,BK0756,U360,Priya,357,Dehradun,Car,8330,1499,1250,5581,2024-03-27,pending,False,Cash,i10,Priya
+TXN0757,BK0757,U395,Arjun,656,Rishikesh,Scooty,2560,461,384,1715,2024-03-30,received,False,Net Banking,TVS Jupiter,Arjun
+TXN0758,BK0758,U246,Aman,952,Dehradun,Bike,2065,372,310,1383,2024-01-07,received,False,UPI,Bajaj Pulsar 150,Aman
+TXN0759,BK0759,U051,Sneha,705,Rishikesh,Car,4656,838,698,3120,2024-01-03,received,False,Net Banking,Nexon,Sneha
+TXN0760,BK0760,U489,Pooja,242,Dehradun,Scooty,2464,444,370,1650,2024-01-22,received,False,Cash,Yamaha Fascino,Pooja
+TXN0761,BK0761,U203,Neha,743,Haridwar,Scooty,693,125,104,464,2024-01-28,received,False,Card,TVS Ntorq,Neha
+TXN0762,BK0762,U153,Arjun,75,Haridwar,Car,8270,1489,1240,5541,2024-01-01,received,False,Cash,i10,Arjun
+TXN0763,BK0763,U337,Arjun,635,Mussoorie,Scooty,2750,495,412,1843,2024-03-13,received,False,Net Banking,Yamaha Fascino,Arjun
+TXN0764,BK0764,U370,Priya,467,Rishikesh,Scooty,4683,843,702,3138,2024-03-14,received,False,Cash,TVS Ntorq,Priya
+TXN0765,BK0765,U251,Aditi,874,Dehradun,Bike,3110,560,466,2084,2024-02-10,received,False,UPI,Yamaha FZ,Aditi
+TXN0766,BK0766,U493,Priya,659,Dehradun,Scooty,4515,813,677,3025,2024-01-19,received,False,Net Banking,Suzuki Access,Priya
+TXN0767,BK0767,U350,Arjun,88,Dehradun,Bike,580,104,87,389,2024-01-09,received,False,Card,TVS Apache RTR 160,Arjun
+TXN0768,BK0768,U494,Arjun,945,Haridwar,Car,5812,1046,872,3894,2024-01-02,received,False,Cash,Swift,Arjun
+TXN0769,BK0769,U076,Pooja,985,Dehradun,Bike,2289,412,343,1534,2024-02-20,received,False,UPI,KTM Duke 200,Pooja
+TXN0770,BK0770,U054,Rohit,106,Rishikesh,Bike,1076,194,161,721,2024-02-16,pending,False,Card,Bajaj Avenger 220,Rohit
+TXN0771,BK0771,U106,Neha,213,Rishikesh,Car,2263,407,339,1517,2024-01-02,received,False,UPI,Nexon,Neha
+TXN0772,BK0772,U490,Rahul,256,Mussoorie,Bike,714,129,107,478,2024-04-05,pending,False,Net Banking,Yamaha R15,Rahul
+TXN0773,BK0773,U494,Arjun,171,Rishikesh,Car,16764,3018,2515,11231,2024-02-02,pending,False,UPI,Creta,Arjun
+TXN0774,BK0774,U239,Pooja,229,Dehradun,Bike,3976,716,596,2664,2024-01-22,received,False,Net Banking,TVS Apache RTR 160,Pooja
+TXN0775,BK0775,U350,Arjun,734,Mussoorie,Scooty,2905,523,436,1946,2024-03-08,received,False,UPI,Suzuki Access,Arjun
+TXN0776,BK0776,U118,Neha,734,Mussoorie,Scooty,2324,418,349,1557,2024-02-15,refunded,False,Card,Suzuki Access,Neha
+TXN0777,BK0777,U179,Rohit,153,Dehradun,Car,4408,793,661,2954,2024-01-01,received,False,Net Banking,Sonet,Rohit
+TXN0778,BK0778,U316,Priya,460,Dehradun,Bike,5061,911,759,3391,2024-01-03,received,False,Net Banking,Yamaha R15,Priya
+TXN0779,BK0779,U241,Arjun,260,Rishikesh,Scooty,4382,789,657,2936,2024-03-27,received,False,Card,TVS Ntorq,Arjun
+TXN0780,BK0780,U251,Aditi,628,Rishikesh,Bike,4134,744,620,2770,2024-02-25,refunded,False,Card,RE Classic 350,Aditi
+TXN0781,BK0781,U203,Neha,335,Auli,Scooty,722,130,108,484,2024-01-21,received,False,Net Banking,Ather 450X,Neha
+TXN0782,BK0782,U181,Arjun,340,Dehradun,Bike,706,127,106,473,2024-03-28,refunded,False,Cash,RE Classic 350,Arjun
+TXN0783,BK0783,U454,Sneha,83,Dehradun,Scooty,559,101,84,374,2024-03-06,received,False,Card,Yamaha Fascino,Sneha
+TXN0784,BK0784,U364,Priya,132,Dehradun,Car,5210,938,782,3490,2024-02-24,received,False,UPI,Creta,Priya
+TXN0785,BK0785,U007,Rahul,215,Mussoorie,Scooty,2404,433,361,1610,2024-01-02,pending,False,Net Banking,TVS Ntorq,Rahul
+TXN0786,BK0786,U165,Karan,40,Rishikesh,Bike,1440,259,216,965,2024-04-05,received,False,UPI,Yamaha R15,Karan
+TXN0787,BK0787,U362,Pooja,927,Haridwar,Car,3406,613,511,2282,2024-03-26,received,False,Card,Baleno,Pooja
+TXN0788,BK0788,U141,Rahul,203,Mussoorie,Scooty,2668,480,400,1788,2024-02-12,received,False,Card,Ather 450X,Rahul
+TXN0789,BK0789,U393,Aditi,587,Rishikesh,Scooty,1362,245,204,913,2024-03-12,received,False,Cash,Ather 450X,Aditi
+TXN0790,BK0790,U447,Neha,426,Haridwar,Car,9300,1674,1395,6231,2024-02-20,received,False,Card,Swift,Neha
+TXN0791,BK0791,U219,Pooja,627,Haridwar,Car,7172,1291,1076,4805,2024-03-12,pending,False,Cash,i20,Pooja
+TXN0792,BK0792,U005,Aditi,255,Dehradun,Car,2102,378,315,1409,2024-01-01,received,False,Cash,Maruti Alto,Aditi
+TXN0793,BK0793,U033,Arjun,966,Rishikesh,Car,1383,249,207,927,2024-02-19,received,False,Cash,WagonR,Arjun
+TXN0794,BK0794,U298,Aditi,476,Mussoorie,Scooty,612,110,92,410,2024-01-04,refunded,False,Cash,Yamaha Fascino,Aditi
+TXN0795,BK0795,U404,Pooja,753,Nainital,Car,4548,819,682,3047,2024-03-11,received,False,Net Banking,Swift,Pooja
+TXN0796,BK0796,U251,Aditi,417,Rishikesh,Car,4758,856,714,3188,2024-01-19,pending,False,UPI,i10,Aditi
+TXN0797,BK0797,U265,Aman,4,Dehradun,Bike,3890,700,584,2606,2024-01-17,received,False,UPI,KTM Duke 200,Aman
+TXN0798,BK0798,U004,Neha,326,Rishikesh,Scooty,4788,862,718,3208,2024-01-03,pending,False,UPI,Ola S1,Neha
+TXN0799,BK0799,U316,Priya,587,Rishikesh,Scooty,4086,735,613,2738,2024-02-23,received,False,UPI,Ather 450X,Priya
+TXN0800,BK0800,U100,Rahul,126,Dehradun,Car,4680,842,702,3136,2024-01-21,refunded,False,Cash,Swift,Rahul
+TXN0801,BK0801,U358,Rahul,251,Dehradun,Scooty,3312,596,497,2219,2024-01-21,received,True,Cash,TVS Jupiter,Rahul
+TXN0802,BK0802,U479,Rohit,50,Mussoorie,Scooty,2097,377,315,1405,2024-03-05,pending,False,Cash,Ather 450X,Rohit
+TXN0803,BK0803,U332,Karan,456,Dehradun,Car,15648,2817,2347,10484,2024-02-08,received,False,Cash,Creta,Karan
+TXN0804,BK0804,U379,Priya,59,Mussoorie,Scooty,4344,782,652,2910,2024-04-01,received,False,Cash,Ather 450X,Priya
+TXN0805,BK0805,U090,Arjun,961,Haridwar,Bike,1716,309,257,1150,2024-04-05,received,False,Card,Bajaj Avenger 220,Arjun
+TXN0806,BK0806,U024,Rahul,791,Dehradun,Scooty,621,112,93,416,2024-01-12,received,False,Net Banking,Honda Activa,Rahul
+TXN0807,BK0807,U419,Sneha,333,Dehradun,Car,4818,867,723,3228,2024-03-05,received,False,Cash,Swift,Sneha
+TXN0808,BK0808,U238,Rohit,457,Haridwar,Bike,4122,742,618,2762,2024-03-10,received,False,Card,Yamaha R15,Rohit
+TXN0809,BK0809,U021,Pooja,227,Rishikesh,Scooty,661,119,99,443,2024-02-26,received,False,UPI,Suzuki Access,Pooja
+TXN0810,BK0810,U497,Rohit,244,Dehradun,Bike,460,83,69,308,2024-02-02,received,False,Cash,TVS Apache RTR 160,Rohit
+TXN0811,BK0811,U004,Neha,724,Rishikesh,Bike,4823,868,723,3232,2024-03-16,received,False,Cash,KTM Duke 200,Neha
+TXN0812,BK0812,U222,Sneha,70,Mussoorie,Bike,4879,878,732,3269,2024-02-09,received,False,Card,Yamaha R15,Sneha
+TXN0813,BK0813,U189,Aman,981,Haridwar,Car,10302,1854,1545,6903,2024-02-12,refunded,False,Card,i20,Aman
+TXN0814,BK0814,U375,Pooja,374,Mussoorie,Scooty,3110,560,466,2084,2024-01-24,received,False,UPI,Honda Activa,Pooja
+TXN0815,BK0815,U289,Rahul,417,Rishikesh,Car,6344,1142,952,4250,2024-02-11,pending,True,Cash,i10,Rahul
+TXN0816,BK0816,U437,Rahul,91,Haridwar,Bike,570,103,86,381,2024-03-28,received,False,UPI,Bajaj Avenger 220,Rahul
+TXN0817,BK0817,U409,Sneha,562,Haridwar,Bike,1208,217,181,810,2024-01-03,refunded,False,UPI,Bajaj Avenger 220,Sneha
+TXN0818,BK0818,U240,Aditi,422,Dehradun,Scooty,1498,270,225,1003,2024-02-26,received,False,UPI,Ather 450X,Aditi
+TXN0819,BK0819,U350,Arjun,107,Dehradun,Scooty,673,121,101,451,2024-02-19,received,False,UPI,Ather 450X,Arjun
+TXN0820,BK0820,U496,Karan,544,Dehradun,Bike,2690,484,404,1802,2024-02-29,received,False,Card,Yamaha FZ,Karan
+TXN0821,BK0821,U450,Rahul,357,Dehradun,Car,9996,1799,1499,6698,2024-01-22,received,False,UPI,i10,Rahul
+TXN0822,BK0822,U104,Arjun,389,Rishikesh,Scooty,4080,734,612,2734,2024-03-07,received,False,Card,Ola S1,Arjun
+TXN0823,BK0823,U004,Neha,938,Dehradun,Scooty,3415,615,512,2288,2024-01-26,received,False,Net Banking,Ola S1,Neha
+TXN0824,BK0824,U384,Sneha,73,Dehradun,Bike,1172,211,176,785,2024-03-26,received,False,Net Banking,RE Classic 350,Sneha
+TXN0825,BK0825,U301,Karan,633,Dehradun,Car,9228,1661,1384,6183,2024-01-30,received,False,Card,Swift,Karan
+TXN0826,BK0826,U254,Neha,288,Rishikesh,Car,5424,976,814,3634,2024-01-14,refunded,False,Cash,WagonR,Neha
+TXN0827,BK0827,U375,Pooja,858,Rishikesh,Car,6015,1083,902,4030,2024-03-18,refunded,False,Card,Maruti Alto,Pooja
+TXN0828,BK0828,U453,Priya,881,Rishikesh,Scooty,4270,769,640,2861,2024-03-17,received,False,Cash,TVS Ntorq,Priya
+TXN0829,BK0829,U357,Neha,404,Dehradun,Scooty,554,100,83,371,2024-01-29,received,False,UPI,Honda Activa,Neha
+TXN0830,BK0830,U384,Sneha,554,Rishikesh,Scooty,3470,625,520,2325,2024-03-27,received,False,Cash,Ola S1,Sneha
+TXN0831,BK0831,U263,Pooja,375,Rishikesh,Car,15318,2757,2298,10263,2024-03-23,pending,False,Cash,Creta,Pooja
+TXN0832,BK0832,U204,Arjun,525,Rishikesh,Car,10386,1869,1558,6959,2024-01-14,pending,False,Card,i10,Arjun
+TXN0833,BK0833,U398,Rohit,241,Rishikesh,Bike,3610,650,542,2418,2024-02-29,pending,False,Cash,RE Classic 350,Rohit
+TXN0834,BK0834,U365,Sneha,932,Dehradun,Scooty,3345,602,502,2241,2024-01-02,pending,False,Card,Suzuki Access,Sneha
+TXN0835,BK0835,U255,Rohit,602,Haridwar,Scooty,1959,353,294,1312,2024-03-19,received,False,Cash,Ather 450X,Rohit
+TXN0836,BK0836,U401,Aditi,284,Rishikesh,Scooty,2094,377,314,1403,2024-02-29,refunded,False,Card,Ather 450X,Aditi
+TXN0837,BK0837,U130,Sneha,891,Mussoorie,Car,18305,3295,2746,12264,2024-02-09,received,False,Net Banking,City,Sneha
+TXN0838,BK0838,U232,Aman,413,Dehradun,Scooty,2960,533,444,1983,2024-01-22,received,False,Cash,Honda Activa,Aman
+TXN0839,BK0839,U328,Priya,790,Rishikesh,Bike,1014,183,152,679,2024-02-06,pending,False,Card,Hero Splendor Plus,Priya
+TXN0840,BK0840,U426,Rahul,364,Rishikesh,Bike,3310,596,496,2218,2024-01-14,refunded,False,UPI,KTM Duke 200,Rahul
+TXN0841,BK0841,U376,Karan,266,Dehradun,Scooty,1236,222,185,829,2024-02-13,pending,False,Card,Ola S1,Karan
+TXN0842,BK0842,U108,Aman,944,Nainital,Scooty,3180,572,477,2131,2024-03-07,received,False,Net Banking,TVS Jupiter,Aman
+TXN0843,BK0843,U237,Karan,832,Mussoorie,Bike,1660,299,249,1112,2024-03-31,received,False,Card,Hero Splendor Plus,Karan
+TXN0844,BK0844,U260,Neha,876,Haridwar,Car,3471,625,521,2325,2024-02-27,received,False,UPI,Maruti Alto,Neha
+TXN0845,BK0845,U255,Rohit,338,Mussoorie,Scooty,2920,526,438,1956,2024-03-26,received,False,Card,Ather 450X,Rohit
+TXN0846,BK0846,U270,Rohit,317,Rishikesh,Scooty,4158,748,624,2786,2024-01-28,received,False,Card,TVS Jupiter,Rohit
+TXN0847,BK0847,U431,Neha,979,Dehradun,Bike,3816,687,572,2557,2024-01-27,received,False,Card,RE Classic 350,Neha
+TXN0848,BK0848,U344,Priya,101,Mussoorie,Scooty,4984,897,748,3339,2024-03-28,pending,False,Net Banking,Ather 450X,Priya
+TXN0849,BK0849,U049,Arjun,902,Rishikesh,Scooty,3888,700,583,2605,2024-03-22,received,False,Net Banking,TVS Jupiter,Arjun
+TXN0850,BK0850,U329,Neha,642,Nainital,Car,1807,325,271,1211,2024-03-03,pending,False,Cash,Baleno,Neha
+TXN0851,BK0851,U299,Aditi,161,Dehradun,Scooty,1254,226,188,840,2024-01-25,received,False,Cash,Ola S1,Aditi
+TXN0852,BK0852,U165,Karan,290,Rishikesh,Scooty,545,98,82,365,2024-01-31,received,False,Net Banking,Yamaha Fascino,Karan
+TXN0853,BK0853,U310,Aman,349,Nainital,Bike,1412,254,212,946,2024-03-11,received,False,Net Banking,RE Classic 350,Aman
+TXN0854,BK0854,U373,Aditi,192,Nainital,Car,4222,760,633,2829,2024-01-12,refunded,False,Card,Nexon,Aditi
+TXN0855,BK0855,U477,Pooja,842,Chakrata,Scooty,3768,678,565,2525,2024-02-20,received,False,UPI,Yamaha Fascino,Pooja
+TXN0856,BK0856,U122,Rahul,322,Nainital,Bike,3912,704,587,2621,2024-03-26,received,False,Cash,KTM Duke 200,Rahul
+TXN0857,BK0857,U146,Aditi,639,Mussoorie,Car,4488,808,673,3007,2024-01-20,received,False,Card,Maruti Alto,Aditi
+TXN0858,BK0858,U097,Rohit,144,Rishikesh,Car,2978,536,447,1995,2024-02-01,received,False,Cash,i10,Rohit
+TXN0859,BK0859,U150,Aman,435,Rishikesh,Car,13678,2462,2052,9164,2024-03-19,received,False,Card,Sonet,Aman
+TXN0860,BK0860,U125,Sneha,728,Dehradun,Scooty,1695,305,254,1136,2024-02-10,received,False,Net Banking,Yamaha Fascino,Sneha
+TXN0861,BK0861,U022,Arjun,936,Dehradun,Car,4684,843,703,3138,2024-01-05,received,False,Cash,Nexon,Arjun
+TXN0862,BK0862,U129,Aditi,76,Dehradun,Bike,1300,234,195,871,2024-02-23,received,False,Cash,Bajaj Avenger 220,Aditi
+TXN0863,BK0863,U185,Arjun,578,Mussoorie,Scooty,2010,362,302,1346,2024-03-01,pending,False,Net Banking,Suzuki Access,Arjun
+TXN0864,BK0864,U056,Neha,565,Mussoorie,Bike,3450,621,518,2311,2024-02-01,received,False,Cash,RE Classic 350,Neha
+TXN0865,BK0865,U245,Sneha,694,Nainital,Bike,2658,478,399,1781,2024-01-02,pending,False,UPI,Bajaj Pulsar 150,Sneha
+TXN0866,BK0866,U377,Karan,415,Lansdowne,Bike,622,112,93,417,2024-01-20,received,False,UPI,Yamaha R15,Karan
+TXN0867,BK0867,U333,Priya,243,Lansdowne,Car,7782,1401,1167,5214,2024-03-31,received,False,UPI,Maruti Alto,Priya
+TXN0868,BK0868,U152,Priya,291,Mussoorie,Car,8052,1449,1208,5395,2024-03-12,received,False,Card,Sonet,Priya
+TXN0869,BK0869,U480,Karan,263,Auli,Scooty,1752,315,263,1174,2024-02-17,received,False,Card,Suzuki Access,Karan
+TXN0870,BK0870,U298,Aditi,341,Mussoorie,Scooty,734,132,110,492,2024-01-17,pending,True,Cash,Ather 450X,Aditi
+TXN0871,BK0871,U220,Priya,7,Mussoorie,Bike,2252,405,338,1509,2024-03-04,received,False,Cash,TVS Apache RTR 160,Priya
+TXN0872,BK0872,U473,Pooja,813,Haridwar,Car,2506,451,376,1679,2024-01-30,pending,False,Cash,Maruti Alto,Pooja
+TXN0873,BK0873,U440,Karan,197,Rishikesh,Scooty,3555,640,533,2382,2024-04-02,received,True,Net Banking,Ather 450X,Karan
+TXN0874,BK0874,U422,Rohit,421,Dehradun,Bike,709,128,106,475,2024-01-04,pending,False,Cash,RE Classic 350,Rohit
+TXN0875,BK0875,U205,Aditi,580,Dehradun,Bike,2400,432,360,1608,2024-04-02,received,False,UPI,RE Classic 350,Aditi
+TXN0876,BK0876,U486,Rohit,983,Dehradun,Scooty,2224,400,334,1490,2024-03-13,received,False,Card,Honda Activa,Rohit
+TXN0877,BK0877,U077,Aditi,64,Mussoorie,Bike,1640,295,246,1099,2024-02-26,received,False,Net Banking,Hero Splendor Plus,Aditi
+TXN0878,BK0878,U012,Sneha,411,Nainital,Car,2513,452,377,1684,2024-02-28,refunded,False,Cash,City,Sneha
+TXN0879,BK0879,U330,Rohit,962,Nainital,Scooty,2216,399,332,1485,2024-01-04,received,False,Cash,Honda Activa,Rohit
+TXN0880,BK0880,U348,Karan,111,Haridwar,Car,5290,952,794,3544,2024-01-05,received,False,Card,City,Karan
+TXN0881,BK0881,U130,Sneha,317,Rishikesh,Scooty,2970,535,446,1989,2024-01-05,pending,False,UPI,TVS Jupiter,Sneha
+TXN0882,BK0882,U458,Priya,168,Rishikesh,Car,1632,294,245,1093,2024-02-18,received,False,UPI,i10,Priya
+TXN0883,BK0883,U333,Priya,199,Haridwar,Bike,4068,732,610,2726,2024-01-31,refunded,False,Cash,KTM Duke 200,Priya
+TXN0884,BK0884,U302,Rohit,753,Nainital,Car,9096,1637,1364,6095,2024-01-10,refunded,False,Card,Swift,Rohit
+TXN0885,BK0885,U471,Sneha,387,Dehradun,Car,14049,2529,2107,9413,2024-03-24,received,False,Net Banking,Sonet,Sneha
+TXN0886,BK0886,U436,Priya,346,Dehradun,Bike,1076,194,161,721,2024-01-04,received,False,UPI,TVS Apache RTR 160,Priya
+TXN0887,BK0887,U471,Sneha,428,Auli,Scooty,646,116,97,433,2024-01-08,received,False,Card,TVS Jupiter,Sneha
+TXN0888,BK0888,U262,Pooja,239,Rishikesh,Scooty,3510,632,526,2352,2024-02-29,pending,False,Cash,TVS Jupiter,Pooja
+TXN0889,BK0889,U233,Rohit,799,Mussoorie,Bike,649,117,97,435,2024-02-10,received,False,UPI,Yamaha R15,Rohit
+TXN0890,BK0890,U252,Priya,753,Nainital,Car,7580,1364,1137,5079,2024-03-09,pending,False,Net Banking,Swift,Priya
+TXN0891,BK0891,U032,Priya,410,Dehradun,Scooty,1226,221,184,821,2024-01-20,received,False,UPI,Ola S1,Priya
+TXN0892,BK0892,U426,Rahul,711,Haridwar,Car,16476,2966,2471,11039,2024-01-04,received,False,Net Banking,Creta,Rahul
+TXN0893,BK0893,U216,Aditi,1000,Mussoorie,Bike,2780,500,417,1863,2024-03-11,received,True,Card,Yamaha FZ,Aditi
+TXN0894,BK0894,U213,Aditi,721,Dehradun,Bike,2644,476,397,1771,2024-02-16,received,False,Cash,KTM Duke 200,Aditi
+TXN0895,BK0895,U380,Aman,903,Lansdowne,Car,5124,922,769,3433,2024-03-03,pending,False,Net Banking,i10,Aman
+TXN0896,BK0896,U214,Priya,839,Rishikesh,Scooty,3552,639,533,2380,2024-01-03,pending,False,Cash,Suzuki Access,Priya
+TXN0897,BK0897,U226,Neha,160,Rishikesh,Bike,3462,623,519,2320,2024-03-21,received,False,Net Banking,Yamaha FZ,Neha
+TXN0898,BK0898,U091,Aman,371,Auli,Scooty,2456,442,368,1646,2024-01-28,pending,False,Card,TVS Jupiter,Aman
+TXN0899,BK0899,U129,Aditi,481,Haridwar,Bike,2880,518,432,1930,2024-03-11,received,False,UPI,RE Classic 350,Aditi
+TXN0900,BK0900,U002,Rahul,830,Mussoorie,Scooty,3816,687,572,2557,2024-03-30,received,False,UPI,Honda Activa,Rahul
+TXN0901,BK0901,U246,Aman,480,Nainital,Car,4840,871,726,3243,2024-01-07,pending,False,Card,Maruti Alto,Aman
+TXN0902,BK0902,U264,Sneha,513,Dehradun,Car,9645,1736,1447,6462,2024-02-28,received,False,Net Banking,i20,Sneha
+TXN0903,BK0903,U205,Aditi,535,Dehradun,Bike,588,106,88,394,2024-03-17,received,False,Cash,Bajaj Avenger 220,Aditi
+TXN0904,BK0904,U458,Priya,411,Nainital,Car,15078,2714,2262,10102,2024-04-02,received,False,Net Banking,City,Priya
+TXN0905,BK0905,U132,Neha,123,Dehradun,Car,6468,1164,970,4334,2024-01-04,received,True,Net Banking,Swift,Neha
+TXN0906,BK0906,U039,Neha,661,Rishikesh,Bike,2870,517,430,1923,2024-02-24,received,False,Cash,TVS Apache RTR 160,Neha
+TXN0907,BK0907,U368,Karan,408,Mussoorie,Car,5760,1037,864,3859,2024-03-06,received,False,Net Banking,Maruti Alto,Karan
+TXN0908,BK0908,U354,Pooja,860,Mussoorie,Scooty,3996,719,599,2678,2024-02-21,received,False,Cash,Suzuki Access,Pooja
+TXN0909,BK0909,U497,Rohit,891,Mussoorie,Car,13075,2354,1961,8760,2024-02-17,received,False,Cash,City,Rohit
+TXN0910,BK0910,U299,Aditi,537,Rishikesh,Car,2972,535,446,1991,2024-01-16,received,False,Net Banking,i10,Aditi
+TXN0911,BK0911,U069,Sneha,571,Haridwar,Bike,4620,832,693,3095,2024-02-16,received,False,UPI,KTM Duke 200,Sneha
+TXN0912,BK0912,U352,Aman,277,Rishikesh,Bike,596,107,89,400,2024-02-21,received,False,Card,RE Classic 350,Aman
+TXN0913,BK0913,U044,Sneha,632,Mussoorie,Scooty,3295,593,494,2208,2024-03-28,received,False,Card,TVS Ntorq,Sneha
+TXN0914,BK0914,U226,Neha,3,Rishikesh,Car,10890,1960,1634,7296,2024-01-16,pending,False,UPI,Baleno,Neha
+TXN0915,BK0915,U249,Rohit,894,Haridwar,Car,1676,302,251,1123,2024-02-16,received,False,Net Banking,i20,Rohit
+TXN0916,BK0916,U333,Priya,106,Rishikesh,Bike,3228,581,484,2163,2024-01-08,received,False,UPI,Bajaj Avenger 220,Priya
+TXN0917,BK0917,U146,Aditi,232,Rishikesh,Bike,1196,215,179,802,2024-02-24,pending,False,Cash,Bajaj Avenger 220,Aditi
+TXN0918,BK0918,U227,Sneha,612,Auli,Car,7112,1280,1067,4765,2024-02-27,refunded,False,UPI,i20,Sneha
+TXN0919,BK0919,U212,Rahul,86,Dehradun,Scooty,3372,607,506,2259,2024-01-07,received,True,Net Banking,TVS Jupiter,Rahul
+TXN0920,BK0920,U018,Rahul,949,Mussoorie,Bike,3514,633,527,2354,2024-03-14,received,False,Net Banking,Bajaj Pulsar 150,Rahul
+TXN0921,BK0921,U027,Priya,835,Rishikesh,Bike,530,95,80,355,2024-03-04,pending,False,Cash,Bajaj Avenger 220,Priya
+TXN0922,BK0922,U372,Sneha,181,Rishikesh,Bike,619,111,93,415,2024-02-17,received,False,UPI,Yamaha FZ,Sneha
+TXN0923,BK0923,U148,Aman,579,Haridwar,Car,6280,1130,942,4208,2024-01-21,refunded,False,Card,Swift,Aman
+TXN0924,BK0924,U118,Neha,721,Dehradun,Bike,3966,714,595,2657,2024-03-20,received,False,Card,KTM Duke 200,Neha
+TXN0925,BK0925,U346,Arjun,177,Mussoorie,Car,10590,1906,1588,7096,2024-03-01,received,False,Card,Nexon,Arjun
+TXN0926,BK0926,U309,Priya,485,Lansdowne,Scooty,1977,356,297,1324,2024-03-23,pending,False,Net Banking,TVS Ntorq,Priya
+TXN0927,BK0927,U328,Priya,236,Mussoorie,Scooty,4872,877,731,3264,2024-03-17,pending,False,Card,TVS Ntorq,Priya
+TXN0928,BK0928,U384,Sneha,317,Rishikesh,Scooty,1782,321,267,1194,2024-04-07,received,False,Cash,TVS Jupiter,Sneha
+TXN0929,BK0929,U340,Arjun,695,Rishikesh,Scooty,3648,657,547,2444,2024-03-19,refunded,False,UPI,TVS Ntorq,Arjun
+TXN0930,BK0930,U029,Rahul,289,Rishikesh,Bike,554,100,83,371,2024-02-21,received,False,Card,Bajaj Avenger 220,Rahul
+TXN0931,BK0931,U369,Karan,217,Rishikesh,Bike,2420,436,363,1621,2024-02-07,received,False,Cash,RE Classic 350,Karan
+TXN0932,BK0932,U048,Pooja,923,Dehradun,Scooty,1284,231,193,860,2024-01-31,pending,False,Card,Suzuki Access,Pooja
+TXN0933,BK0933,U393,Aditi,236,Mussoorie,Scooty,4872,877,731,3264,2024-02-26,pending,False,Card,TVS Ntorq,Aditi
+TXN0934,BK0934,U380,Aman,588,Haridwar,Car,14623,2632,2193,9798,2024-03-28,received,False,Net Banking,Nexon,Aman
+TXN0935,BK0935,U059,Pooja,762,Dehradun,Car,15444,2780,2317,10347,2024-02-18,refunded,False,Net Banking,Creta,Pooja
+TXN0936,BK0936,U164,Pooja,352,Dehradun,Bike,3080,554,462,2064,2024-01-12,pending,False,Cash,KTM Duke 200,Pooja
+TXN0937,BK0937,U024,Rahul,820,Nainital,Bike,1320,238,198,884,2024-03-07,received,False,Card,Bajaj Pulsar 150,Rahul
+TXN0938,BK0938,U265,Aman,522,Rishikesh,Car,1599,288,240,1071,2024-02-05,received,False,Card,i10,Aman
+TXN0939,BK0939,U264,Sneha,60,Rishikesh,Car,3466,624,520,2322,2024-02-13,pending,False,Cash,i20,Sneha
+TXN0940,BK0940,U377,Karan,47,Haridwar,Scooty,3420,616,513,2291,2024-02-15,pending,False,Net Banking,Honda Activa,Karan
+TXN0941,BK0941,U014,Arjun,579,Haridwar,Car,7850,1413,1178,5259,2024-03-14,received,False,Card,Swift,Arjun
+TXN0942,BK0942,U133,Pooja,383,Dehradun,Scooty,4214,759,632,2823,2024-02-01,received,False,Net Banking,Suzuki Access,Pooja
+TXN0943,BK0943,U378,Pooja,606,Dehradun,Car,2165,390,325,1450,2024-01-13,received,False,Cash,Nexon,Pooja
+TXN0944,BK0944,U467,Arjun,718,Dehradun,Bike,2880,518,432,1930,2024-02-17,received,False,Card,RE Classic 350,Arjun
+TXN0945,BK0945,U129,Aditi,421,Dehradun,Bike,4254,766,638,2850,2024-02-24,received,False,UPI,RE Classic 350,Aditi
+TXN0946,BK0946,U373,Aditi,330,Rishikesh,Car,9075,1634,1361,6080,2024-01-29,received,False,Cash,i20,Aditi
+TXN0947,BK0947,U424,Priya,591,Dehradun,Car,5716,1029,857,3830,2024-01-16,pending,False,Net Banking,Swift,Priya
+TXN0948,BK0948,U420,Aman,675,Dehradun,Car,6852,1233,1028,4591,2024-04-02,refunded,False,Cash,i10,Aman
+TXN0949,BK0949,U355,Aman,960,Dehradun,Car,11403,2053,1710,7640,2024-03-09,received,False,Card,Baleno,Aman
+TXN0950,BK0950,U453,Priya,160,Rishikesh,Bike,1154,208,173,773,2024-03-25,pending,False,Card,Yamaha FZ,Priya
+TXN0951,BK0951,U316,Priya,992,Dehradun,Scooty,2544,458,382,1704,2024-03-25,received,False,Card,Ola S1,Priya
+TXN0952,BK0952,U152,Priya,560,Nainital,Scooty,4641,835,696,3110,2024-01-21,received,False,UPI,TVS Ntorq,Priya
+TXN0953,BK0953,U472,Pooja,811,Rishikesh,Bike,2260,407,339,1514,2024-01-14,refunded,False,Cash,Bajaj Pulsar 150,Pooja
+TXN0954,BK0954,U438,Sneha,777,Rishikesh,Car,15372,2767,2306,10299,2024-02-06,received,False,Cash,Sonet,Sneha
+TXN0955,BK0955,U312,Pooja,747,Mussoorie,Car,8995,1619,1349,6027,2024-02-05,pending,False,Net Banking,Baleno,Pooja
+TXN0956,BK0956,U151,Rahul,179,Rishikesh,Scooty,3100,558,465,2077,2024-02-01,pending,False,UPI,Suzuki Access,Rahul
+TXN0957,BK0957,U370,Priya,561,Dehradun,Car,4263,767,639,2857,2024-03-28,pending,False,Net Banking,Swift,Priya
+TXN0958,BK0958,U042,Sneha,269,Rishikesh,Scooty,2880,518,432,1930,2024-01-11,pending,False,UPI,Ather 450X,Sneha
+TXN0959,BK0959,U275,Priya,49,Rishikesh,Bike,5117,921,768,3428,2024-02-04,received,False,Cash,Yamaha R15,Priya
+TXN0960,BK0960,U217,Rahul,457,Haridwar,Bike,4809,866,721,3222,2024-02-24,pending,False,Cash,Yamaha R15,Rahul
+TXN0961,BK0961,U333,Priya,634,Mussoorie,Bike,3100,558,465,2077,2024-03-16,pending,False,Card,KTM Duke 200,Priya
+TXN0962,BK0962,U170,Aman,301,Mussoorie,Bike,1947,350,292,1305,2024-02-12,received,False,Card,Yamaha R15,Aman
+TXN0963,BK0963,U389,Priya,302,Haridwar,Scooty,686,123,103,460,2024-01-31,received,False,Cash,TVS Ntorq,Priya
+TXN0964,BK0964,U313,Priya,949,Mussoorie,Bike,1004,181,151,672,2024-04-02,received,False,Card,Bajaj Pulsar 150,Priya
+TXN0965,BK0965,U213,Aditi,912,Rishikesh,Car,1864,336,280,1248,2024-03-29,received,False,UPI,i20,Aditi
+TXN0966,BK0966,U094,Sneha,713,Dehradun,Scooty,2328,419,349,1560,2024-02-12,pending,False,UPI,TVS Jupiter,Sneha
+TXN0967,BK0967,U107,Rahul,258,Dehradun,Car,6884,1239,1033,4612,2024-02-01,received,False,Card,i20,Rahul
+TXN0968,BK0968,U079,Karan,861,Mussoorie,Car,4647,836,697,3114,2024-03-08,received,False,Net Banking,Swift,Karan
+TXN0969,BK0969,U310,Aman,249,Dehradun,Car,7672,1381,1151,5140,2024-04-02,refunded,False,Cash,i20,Aman
+TXN0970,BK0970,U472,Pooja,909,Nainital,Car,1379,248,207,924,2024-02-16,pending,False,UPI,WagonR,Pooja
+TXN0971,BK0971,U070,Pooja,723,Rishikesh,Car,2978,536,447,1995,2024-03-30,received,False,Cash,Swift,Pooja
+TXN0972,BK0972,U495,Rohit,965,Haridwar,Scooty,4095,737,614,2744,2024-02-29,received,False,Net Banking,Suzuki Access,Rohit
+TXN0973,BK0973,U315,Rahul,259,Dehradun,Bike,2175,392,326,1457,2024-01-04,received,False,UPI,Bajaj Pulsar 150,Rahul
+TXN0974,BK0974,U194,Priya,36,Rishikesh,Car,3274,589,491,2194,2024-03-31,received,True,Net Banking,Swift,Priya
+TXN0975,BK0975,U124,Rahul,255,Dehradun,Car,1051,189,158,704,2024-01-28,pending,False,Card,Maruti Alto,Rahul
+TXN0976,BK0976,U414,Karan,907,Rishikesh,Bike,2232,402,335,1495,2024-04-01,received,False,Card,Hero Splendor Plus,Karan
+TXN0977,BK0977,U275,Priya,424,Rishikesh,Bike,3786,681,568,2537,2024-03-24,received,False,Net Banking,KTM Duke 200,Priya
+TXN0978,BK0978,U447,Neha,896,Rishikesh,Scooty,1965,354,295,1316,2024-02-23,received,False,Cash,Ather 450X,Neha
+TXN0979,BK0979,U413,Priya,108,Nainital,Car,2396,431,359,1606,2024-03-21,received,False,Cash,WagonR,Priya
+TXN0980,BK0980,U252,Priya,558,Mussoorie,Car,12474,2245,1871,8358,2024-01-24,pending,False,Cash,Baleno,Priya
+TXN0981,BK0981,U389,Priya,818,Mussoorie,Scooty,639,115,96,428,2024-02-20,pending,False,Card,Ola S1,Priya
+TXN0982,BK0982,U452,Priya,306,Haridwar,Car,3504,631,526,2347,2024-03-20,pending,False,UPI,Maruti Alto,Priya
+TXN0983,BK0983,U193,Neha,238,Auli,Bike,1554,280,233,1041,2024-02-25,received,False,Card,TVS Apache RTR 160,Neha
+TXN0984,BK0984,U041,Rohit,536,Dehradun,Scooty,629,113,94,422,2024-01-22,received,False,UPI,Ola S1,Rohit
+TXN0985,BK0985,U268,Pooja,181,Rishikesh,Bike,1857,334,279,1244,2024-01-18,received,False,Card,Yamaha FZ,Pooja
+TXN0986,BK0986,U361,Sneha,554,Rishikesh,Scooty,2776,500,416,1860,2024-02-25,pending,False,UPI,Ola S1,Sneha
+TXN0987,BK0987,U428,Aditi,976,Mussoorie,Bike,3860,695,579,2586,2024-02-04,received,False,Cash,KTM Duke 200,Aditi
+TXN0988,BK0988,U390,Aman,318,Nainital,Car,2588,466,388,1734,2024-03-09,received,False,Cash,WagonR,Aman
+TXN0989,BK0989,U147,Arjun,460,Dehradun,Bike,723,130,108,485,2024-02-12,received,False,UPI,Yamaha R15,Arjun
+TXN0990,BK0990,U343,Karan,226,Haridwar,Bike,4074,733,611,2730,2024-03-27,received,False,Cash,Yamaha FZ,Karan
+TXN0991,BK0991,U285,Priya,888,Haridwar,Car,6744,1214,1012,4518,2024-01-12,received,False,Net Banking,Baleno,Priya
+TXN0992,BK0992,U108,Aman,764,Auli,Scooty,1150,207,172,771,2024-01-03,received,False,UPI,Honda Activa,Aman
+TXN0993,BK0993,U268,Pooja,447,Dehradun,Car,5526,995,829,3702,2024-01-17,pending,False,Net Banking,Baleno,Pooja
+TXN0994,BK0994,U280,Karan,399,Dehradun,Car,3098,558,465,2075,2024-02-24,pending,False,Card,Swift,Karan
+TXN0995,BK0995,U174,Neha,191,Rishikesh,Scooty,2420,436,363,1621,2024-01-19,pending,False,Cash,Yamaha Fascino,Neha
+TXN0996,BK0996,U015,Priya,740,Rishikesh,Scooty,1234,222,185,827,2024-01-20,received,False,Card,Suzuki Access,Priya
+TXN0997,BK0997,U230,Rohit,575,Dehradun,Scooty,1152,207,173,772,2024-02-04,pending,False,Cash,Suzuki Access,Rohit
+TXN0998,BK0998,U209,Karan,187,Mussoorie,Bike,4068,732,610,2726,2024-03-09,received,False,Card,KTM Duke 200,Karan
+TXN0999,BK0999,U327,Aditi,649,Dehradun,Bike,1920,346,288,1286,2024-04-06,refunded,False,Card,RE Classic 350,Aditi
+TXN1000,BK1000,U361,Sneha,378,Dehradun,Car,8268,1488,1240,5540,2024-02-01,received,False,Cash,Nexon,Sneha
