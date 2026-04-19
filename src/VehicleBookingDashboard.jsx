@@ -1458,74 +1458,97 @@ export default function VehicleBookingDashboard({ onLogout, currentUser = { name
   );
 
   return (
-    <div className="min-h-screen bg-white font-sans flex">
-      <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;900&display=swap');
-        * { box-sizing: border-box; }
-        ::-webkit-scrollbar { width: 4px; } ::-webkit-scrollbar-track { background: transparent; } ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
-      `}</style>
+  <div className="min-h-screen bg-white font-sans flex flex-col">
 
-      {sidebarOpen && <div className="fixed inset-0 z-30 bg-black/60 backdrop-blur-sm lg:hidden" onClick={() => setSidebarOpen(false)} />}
+    <style>{`
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;900&display=swap');
+      * { box-sizing: border-box; }
+      ::-webkit-scrollbar { width: 4px; }
+      ::-webkit-scrollbar-track { background: transparent; }
+      ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+    `}</style>
 
-      <aside className={`fixed top-0 left-0 h-full w-64 bg-white border-r border-slate-200 z-40 flex flex-col backdrop-blur-xl transition-transform duration-300
-        ${sidebarOpen ? "translate-x-0" : "-translate-x-full"} lg:translate-x-0`}>
-        <div className="p-5 border-b border-slate-200">
-          <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-sky-500 to-cyan-400 flex items-center justify-center text-white font-black text-sm">R</div>
-            <div>
-              <p className="text-slate-900 font-black text-base leading-none">RideHive</p>
-              <p className="text-slate-500 text-xs">Vehicle Rentals</p>
-            </div>
-          </div>
-        </div>
-        <nav className="flex-1 p-4 space-y-1 overflow-y-auto">
-          {navItems.map(item => (
-            <button key={item.id} onClick={() => navigate(item.id)}
-              className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-medium transition-all relative
-                ${page === item.id ? "bg-orange-500/15 text-orange-400 border border-orange-500/20" : "text-slate-400 hover:text-white hover:bg-white/5"}`}>
-              <span className={page === item.id ? "text-orange-400" : "text-slate-500"}>{item.icon}</span>
-              {item.label}
-              {item.badge > 0 && <span className="ml-auto bg-orange-500 text-white text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold">{item.badge}</span>}
-            </button>
-          ))}
-        </nav>
-        <div className="p-4 border-t border-white/10 space-y-2">
-          <div className="flex items-center gap-3 px-3 py-2">
-            <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-sky-500 to-cyan-400 flex items-center justify-center text-white font-black text-xs">{currentUser.name?.[0]?.toUpperCase() || "U"}</div>
-            <div className="flex-1 min-w-0">
-              <p className="text-white text-sm font-semibold truncate">{currentUser.name}</p>
-              <p className="text-slate-500 text-xs">Premium Member</p>
-            </div>
-          </div>
-          <button onClick={onLogout} className="w-full flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-medium text-red-400 hover:bg-red-500/10 transition-all">
-            <LogoutIcon /> Logout
+    {/* MAIN CONTAINER */}
+    <div className="min-h-screen flex flex-col w-full">
+
+      {/* HEADER */}
+      <header className="sticky top-0 z-20 bg-slate-950/80 backdrop-blur-xl border-b border-white/10 px-4 py-3 flex items-center gap-4">
+
+        {/* BACK BUTTON (unchanged) */}
+        {(page === "details" || page === "booking") && (
+          <button
+            onClick={() => setPage(page === "booking" ? "details" : "search")}
+            className="text-slate-400 hover:text-white transition-colors p-1"
+          >
+            <svg width={22} height={22} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}>
+              <path d="M19 12H5M12 5l-7 7 7 7"/>
+            </svg>
           </button>
-        </div>
-      </aside>
+        )}
 
-      <div className="lg:pl-64 min-h-screen flex flex-col w-full">
-        <header className="sticky top-0 z-20 bg-slate-950/80 backdrop-blur-xl border-b border-white/10 px-4 py-3 flex items-center gap-4">
-          <button onClick={() => setSidebarOpen(!sidebarOpen)} className="lg:hidden text-slate-400 hover:text-white transition-colors p-1">
-            <svg width={22} height={22} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-          </button>
-          {(page === "details" || page === "booking") && (
-            <button onClick={() => setPage(page === "booking" ? "details" : "search")} className="text-slate-400 hover:text-white transition-colors p-1">
-              <svg width={22} height={22} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
-            </button>
-          )}
-          <h1 className="text-white font-black text-lg flex-1">{pageTitle}</h1>
-          <div className="flex items-center gap-2">
-            <button onClick={() => navigate("notifications")} className="relative p-2 text-slate-400 hover:text-white transition-colors">
-              <BellIcon />
-              {unreadNotifs > 0 && <span className="absolute top-1 right-1 w-2 h-2 bg-orange-500 rounded-full" />}
-            </button>
-            <button onClick={() => navigate("profile")} className="w-8 h-8 rounded-xl bg-gradient-to-br from-sky-500 to-cyan-400 flex items-center justify-center text-white font-black text-xs">{currentUser.name?.[0]?.toUpperCase() || "U"}</button>
-          </div>
-        </header>
-        <main className="flex-1 p-4 max-w-2xl mx-auto w-full pb-8">
-          {renderPage()}
-        </main>
-      </div>
+        {/* PAGE TITLE */}
+        <h1 className="text-white font-black text-lg flex-1">
+          {pageTitle}
+        </h1>
+
+        {/* RIGHT SIDE */}
+        {/* RIGHT SIDE */}
+<div className="flex items-center gap-3">
+  
+  {/* COMPLETE STAGGERED MENU */}
+  <div className="relative z-">
+    <StaggeredMenu 
+      position="right"
+      accentColor="#3b82f6"
+      menuButtonColor="#94a3b8"
+      openMenuButtonColor="#ffffff"
+      items={[
+        { label: 'Home', onClick: () => navigate('home') },
+        { label: 'Search', onClick: () => navigate('search') },
+        { label: 'Active Ride', onClick: () => navigate('tracker') },
+        { label: 'My Bookings', onClick: () => navigate('bookings') },
+        { label: 'Receipts', onClick: () => navigate('receipts') },
+        { label: 'Rate & Review', onClick: () => navigate('ratings') },
+        { label: 'Wishlist', onClick: () => navigate('wishlist') },
+        { label: 'Wallet', onClick: () => navigate('wallet') },
+        { label: 'Loyalty & Rewards', onClick: () => navigate('loyalty') },
+        { label: 'Notifications', onClick: () => navigate('notifications') },
+        { label: 'Document Vault', onClick: () => navigate('documents') },
+        { label: 'Profile', onClick: () => navigate('profile') },
+        { label: 'Settings', onClick: () => navigate('settings') },
+        { label: 'Logout', onClick: () => onLogout() },
+      ]}
+    />
+  </div>
+
+  {/* NOTIFICATIONS */}
+  <button
+    onClick={() => navigate("notifications")}
+    className="relative p-2 text-slate-400 hover:text-white transition-colors"
+  >
+    <BellIcon />
+    {unreadNotifs > 0 && (
+      <span className="absolute top-2 right-2 w-2 h-2 bg-orange-500 rounded-full border-2 border-slate-950" />
+    )}
+  </button>
+
+  {/* PROFILE */}
+  <button
+    onClick={() => navigate("profile")}
+    className="w-8 h-8 rounded-xl bg-gradient-to-br from-sky-500 to-cyan-400 flex items-center justify-center text-white font-black text-xs shadow-lg shadow-sky-500/20"
+  >
+    {localUser.name?.charAt(0)?.toUpperCase() || "U"}
+  </button>
+
+</div>
+      </header>
+
+      {/* MAIN CONTENT */}
+      <main className="flex-1 p-4 max-w-2xl mx-auto w-full pb-8">
+        {renderPage()}
+      </main>
+
     </div>
-  );
+  </div>
+);
 }
